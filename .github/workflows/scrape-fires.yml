@@ -4,7 +4,9 @@ on:
   push:
   workflow_dispatch:
   schedule:
-  - cron: "4,24,44 * * * *"
+  # - cron: "4,24,44 * * * *"
+
+  - cron: "4,14,24,34,44,54 * * * *"
 
 jobs:
   scheduled:
@@ -23,4 +25,3 @@ jobs:
           timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || exit 0
           git push
-          
