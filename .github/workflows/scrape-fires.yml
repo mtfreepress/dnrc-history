@@ -24,4 +24,4 @@ jobs:
           git add -A
           timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || exit 0
-          git push https://${secrets.ACCESS_TOKEN}@github.com/jolness1/dnrc-history.git
+          git push
