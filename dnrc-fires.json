@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 85,
+        "OBJECTID": 84,
         "IncidentName": "Kona",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000088",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 150,
+        "OBJECTID": 149,
         "IncidentName": "Father's Day",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG17-000093",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 234,
+        "OBJECTID": 227,
         "IncidentName": "Lone Coulee",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG55-000096",
@@ -448,7 +448,7 @@
         "IrwinID": "5597106e-5a2c-4f28-8e72-e3e639af7f98",
         "GlobalID": "85eab981-c5ff-48e1-bed2-f6088d625492",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 1
+        "FireDiscoveryAge": 2
       },
       "geometry": {
         "x": -108.11888999999996,
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 314,
+        "OBJECTID": 306,
         "IncidentName": "Petty",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-240271",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 206,
+        "OBJECTID": 199,
         "IncidentName": "9th AVE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000045",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 209,
+        "OBJECTID": 202,
         "IncidentName": "LAGOON CLEAN UP",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000046",
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 210,
+        "OBJECTID": 203,
         "IncidentName": "FARMERS",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000047",
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 212,
+        "OBJECTID": 205,
         "IncidentName": "BURNS",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000048",
@@ -667,7 +667,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "4316cc3c-aba3-47ff-a7db-1809154298ea",
         "GlobalID": "b991c09f-27cb-4bcc-893b-f273eaa42383",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 5
       },
       "geometry": {
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 215,
+        "OBJECTID": 208,
         "IncidentName": "TITANIUM",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000049",
@@ -717,6 +717,50 @@
       "geometry": {
         "x": -113.24638889999994,
         "y": 48.476388900000074
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 352,
+        "IncidentName": "COMPOS",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBFA-MT-BFA50",
+        "DailyAcres": null,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1718922600000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Glacier",
+        "POOState": "US-MT",
+        "FireCause": null,
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1719085127000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "ae4bdb71-0699-4474-9b12-f290c0c5a6c7",
+        "GlobalID": "53cf5baa-955d-4d7c-a676-86551d499853",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -113.01666669999997,
+        "y": 48.55916670000005
       }
     }
   ]
