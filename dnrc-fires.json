@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 142,
+        "OBJECTID": 141,
         "IncidentName": "Father's Day",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG17-000093",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 182,
+        "OBJECTID": 179,
         "IncidentName": "Lone Coulee",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG55-000096",
@@ -404,7 +404,7 @@
         "IrwinID": "5597106e-5a2c-4f28-8e72-e3e639af7f98",
         "GlobalID": "85eab981-c5ff-48e1-bed2-f6088d625492",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 2
+        "FireDiscoveryAge": 3
       },
       "geometry": {
         "x": -108.11888999999996,
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 253,
+        "OBJECTID": 250,
         "IncidentName": "Petty",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-240271",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 385,
+        "OBJECTID": 379,
         "IncidentName": "River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG04-240276",
@@ -487,7 +487,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1719169826000,
+        "ModifiedOnDateTime": 1719170087000,
         "IncidentTypeKind": "FI",
         "IrwinID": "498be6be-3436-47d9-a6ad-fe39a511d0ba",
         "GlobalID": "aa05edc8-c590-4f3d-a5b2-10d8aef9235d",
@@ -502,50 +502,6 @@
     {
       "attributes": {
         "OBJECTID": 160,
-        "IncidentName": "BURNS",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBFA-000048",
-        "DailyAcres": null,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1718641800000,
-        "DiscoveryAcres": null,
-        "POOCounty": "Glacier",
-        "POOState": "US-MT",
-        "FireCause": null,
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1718912358000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "4316cc3c-aba3-47ff-a7db-1809154298ea",
-        "GlobalID": "b991c09f-27cb-4bcc-893b-f273eaa42383",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 6
-      },
-      "geometry": {
-        "x": -112.3655556,
-        "y": 48.633055600000034
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 163,
         "IncidentName": "TITANIUM",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000049",
@@ -589,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 292,
+        "OBJECTID": 289,
         "IncidentName": "COMPOS",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-MT-BFA50",
@@ -633,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 294,
+        "OBJECTID": 291,
         "IncidentName": "HOT DOG",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000051",
@@ -677,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 296,
+        "OBJECTID": 293,
         "IncidentName": "HOMES",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000052",
