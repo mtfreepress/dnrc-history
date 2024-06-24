@@ -325,6 +325,50 @@
   "features": [
     {
       "attributes": {
+        "OBJECTID": 391,
+        "IncidentName": "Wood Gulch",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTNCA-000170",
+        "DailyAcres": 5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1719170880000,
+        "DiscoveryAcres": 5,
+        "POOCounty": "Big Horn",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1719239111000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "c92e85e5-93c7-4814-9a25-09dfc4903203",
+        "GlobalID": "482f3553-3846-4c39-9e51-6d4086cf4a13",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -106.89933299999996,
+        "y": 45.62500000000006
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 143,
         "IncidentName": "Father's Day",
         "IncidentTypeCategory": "WF",
@@ -365,6 +409,50 @@
       "geometry": {
         "x": -104.45322699999997,
         "y": 48.11604200000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 390,
+        "IncidentName": "CFS2406-2749",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG13-024149",
+        "DailyAcres": 0.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1719171360000,
+        "DiscoveryAcres": 0.5,
+        "POOCounty": "Ravalli",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1719239214000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "e08decd4-9ace-4cd3-8e5f-c34dcbb7800e",
+        "GlobalID": "929fe193-e91a-4bc3-907e-32d386aeb3fb",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -114.19281899999999,
+        "y": 46.16301000000004
       }
     },
     {
