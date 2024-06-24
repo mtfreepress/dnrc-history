@@ -325,11 +325,11 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 391,
+        "OBJECTID": 389,
         "IncidentName": "Wood Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000170",
-        "DailyAcres": 5,
+        "DailyAcres": 12,
         "CalculatedAcres": null,
         "PercentContained": null,
         "ICS209ReportDateTime": null,
@@ -355,7 +355,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1719239111000,
+        "ModifiedOnDateTime": 1719239651000,
         "IncidentTypeKind": "FI",
         "IrwinID": "c92e85e5-93c7-4814-9a25-09dfc4903203",
         "GlobalID": "482f3553-3846-4c39-9e51-6d4086cf4a13",
@@ -414,16 +414,16 @@
     {
       "attributes": {
         "OBJECTID": 390,
-        "IncidentName": "CFS2406-2749",
+        "IncidentName": "Horse Mountain",
         "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG13-024149",
-        "DailyAcres": 0.5,
+        "UniqueFireIdentifier": "2024-MTLG12-000097",
+        "DailyAcres": 0.25,
         "CalculatedAcres": null,
         "PercentContained": null,
         "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1719171360000,
-        "DiscoveryAcres": 0.5,
-        "POOCounty": "Ravalli",
+        "FireDiscoveryDateTime": 1719107400000,
+        "DiscoveryAcres": 0.25,
+        "POOCounty": "Hill",
         "POOState": "US-MT",
         "FireCause": "Undetermined",
         "FireCauseGeneral": null,
@@ -443,16 +443,16 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1719239214000,
+        "ModifiedOnDateTime": 1719239548000,
         "IncidentTypeKind": "FI",
-        "IrwinID": "e08decd4-9ace-4cd3-8e5f-c34dcbb7800e",
-        "GlobalID": "929fe193-e91a-4bc3-907e-32d386aeb3fb",
+        "IrwinID": "4017b5d9-47ff-4299-96cb-06b7217507e8",
+        "GlobalID": "6aee4506-6ca8-47e8-bbcd-8ec641a3f534",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
+        "FireDiscoveryAge": 1
       },
       "geometry": {
-        "x": -114.19281899999999,
-        "y": 46.16301000000004
+        "x": -109.57118099999997,
+        "y": 48.318035000000066
       }
     },
     {
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 321,
+        "OBJECTID": 320,
         "IncidentName": "River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG04-240276",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 366,
+        "OBJECTID": 365,
         "IncidentName": "GLACIER FOODS",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000055",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 367,
+        "OBJECTID": 366,
         "IncidentName": "KIPLING",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000056",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 368,
+        "OBJECTID": 367,
         "IncidentName": "OIL FIELD ROAD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000057",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 372,
+        "OBJECTID": 371,
         "IncidentName": "COLLEGE ROW",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000053",
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 374,
+        "OBJECTID": 373,
         "IncidentName": "5904",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000054",
