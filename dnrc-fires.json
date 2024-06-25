@@ -325,7 +325,51 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 366,
+        "OBJECTID": 398,
+        "IncidentName": "Running Wolf",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTHLF-005065",
+        "DailyAcres": 82,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1719261926000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Judith Basin",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1719277702000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "4727a447-4fe8-4d47-8b09-793072dadfcc",
+        "GlobalID": "a87e0a4b-2817-4d06-b161-1f802881b2bc",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -110.41299999999995,
+        "y": 46.99466700000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 360,
         "IncidentName": "Tatanka",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCMR-000098",
@@ -369,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 341,
+        "OBJECTID": 335,
         "IncidentName": "Wood Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000170",
@@ -413,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 342,
+        "OBJECTID": 336,
         "IncidentName": "Horse Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG12-000097",
@@ -448,7 +492,7 @@
         "IrwinID": "4017b5d9-47ff-4299-96cb-06b7217507e8",
         "GlobalID": "6aee4506-6ca8-47e8-bbcd-8ec641a3f534",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 1
+        "FireDiscoveryAge": 2
       },
       "geometry": {
         "x": -109.57118099999997,
@@ -457,51 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 167,
-        "IncidentName": "Petty",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTSWS-240271",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1718929020000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Missoula",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1719018050000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "a76638a4-607b-45f6-b07d-a7773bc7ce1c",
-        "GlobalID": "932de1f0-51d3-413c-bda6-d21e4d62d5f3",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 4
-      },
-      "geometry": {
-        "x": -114.44191699999999,
-        "y": 46.967783000000054
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 277,
+        "OBJECTID": 273,
         "IncidentName": "River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG04-240276",
@@ -545,51 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 404,
-        "IncidentName": "Running Wolf",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTHLF-005065",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1719261926000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Judith Basin",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1719273814000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "4727a447-4fe8-4d47-8b09-793072dadfcc",
-        "GlobalID": "a87e0a4b-2817-4d06-b161-1f802881b2bc",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -110.41299999999995,
-        "y": 46.99466700000005
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 205,
+        "OBJECTID": 201,
         "IncidentName": "COMPOS",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000050",
@@ -633,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 206,
+        "OBJECTID": 202,
         "IncidentName": "HOT DOG",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000051",
@@ -677,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 208,
+        "OBJECTID": 204,
         "IncidentName": "HOMES",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000052",
@@ -721,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 320,
+        "OBJECTID": 315,
         "IncidentName": "GLACIER FOODS",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000055",
@@ -756,7 +712,7 @@
         "IrwinID": "26880e6f-17a2-4119-b838-95cb07a30322",
         "GlobalID": "16be45df-e75e-4fc7-ae28-1b60a22a1b23",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 1
+        "FireDiscoveryAge": 2
       },
       "geometry": {
         "x": -113.01277779999998,
@@ -765,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 321,
+        "OBJECTID": 316,
         "IncidentName": "KIPLING",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000056",
@@ -809,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 322,
+        "OBJECTID": 317,
         "IncidentName": "OIL FIELD ROAD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000057",
@@ -853,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 326,
+        "OBJECTID": 321,
         "IncidentName": "COLLEGE ROW",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000053",
@@ -897,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 328,
+        "OBJECTID": 323,
         "IncidentName": "5904",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000054",
