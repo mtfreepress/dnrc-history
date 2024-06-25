@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 398,
+        "OBJECTID": 393,
         "IncidentName": "Running Wolf",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-005065",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 360,
+        "OBJECTID": 356,
         "IncidentName": "Tatanka",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCMR-000098",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 335,
+        "OBJECTID": 332,
         "IncidentName": "Wood Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000170",
@@ -457,7 +457,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 336,
+        "OBJECTID": 437,
+        "IncidentName": "Hwy 91 Inc 273",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG22-240273",
+        "DailyAcres": 1.04,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1719278114000,
+        "DiscoveryAcres": 0.5,
+        "POOCounty": "Big Horn",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1719282151000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "7f622aba-1b04-47dc-b10c-ea8472e4b6c3",
+        "GlobalID": "a808192e-2c63-403b-8617-a50eb7a81234",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -107.98866699999996,
+        "y": 45.45933300000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 333,
         "IncidentName": "Horse Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG12-000097",
@@ -501,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 273,
+        "OBJECTID": 270,
         "IncidentName": "River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG04-240276",
@@ -545,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 201,
+        "OBJECTID": 198,
         "IncidentName": "COMPOS",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000050",
@@ -589,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 202,
+        "OBJECTID": 199,
         "IncidentName": "HOT DOG",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000051",
@@ -633,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 204,
+        "OBJECTID": 201,
         "IncidentName": "HOMES",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000052",
@@ -677,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 315,
+        "OBJECTID": 312,
         "IncidentName": "GLACIER FOODS",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000055",
@@ -721,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 316,
+        "OBJECTID": 313,
         "IncidentName": "KIPLING",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000056",
@@ -765,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 317,
+        "OBJECTID": 314,
         "IncidentName": "OIL FIELD ROAD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000057",
@@ -800,7 +844,7 @@
         "IrwinID": "5a289466-efbd-4d6d-a4c3-8cd32d066069",
         "GlobalID": "caaf617e-91f1-4ae0-844f-51434ea97961",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
+        "FireDiscoveryAge": 1
       },
       "geometry": {
         "x": -112.36583329999996,
@@ -809,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 321,
+        "OBJECTID": 318,
         "IncidentName": "COLLEGE ROW",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000053",
@@ -853,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 323,
+        "OBJECTID": 320,
         "IncidentName": "5904",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000054",
