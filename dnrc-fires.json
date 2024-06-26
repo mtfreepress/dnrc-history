@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 512,
+        "OBJECTID": 510,
         "IncidentName": "Tatanka",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCMR-000098",
@@ -355,7 +355,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1719426372000,
+        "ModifiedOnDateTime": 1719432636000,
         "IncidentTypeKind": "FI",
         "IrwinID": "586fea6b-c547-4d12-9192-0fcff5ae9400",
         "GlobalID": "e10073d8-cda0-408b-94a0-2b80ed74258f",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 544,
+        "OBJECTID": 542,
         "IncidentName": "Running Wolf",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-005065",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 597,
+        "OBJECTID": 595,
         "IncidentName": "East Charlie - Richland",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG27-000171",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 693,
+        "OBJECTID": 691,
         "IncidentName": "Shelter Belt - Fallon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG39-000178",
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 491,
+        "OBJECTID": 489,
         "IncidentName": "Wood Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000170",
@@ -712,7 +712,7 @@
         "IrwinID": "fb362912-6116-4cd0-b23e-70e929e57520",
         "GlobalID": "8574177b-2005-483c-b9e7-8936da49bc9c",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 95
+        "FireDiscoveryAge": 96
       },
       "geometry": {
         "x": -114.13054999999997,
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 614,
+        "OBJECTID": 612,
         "IncidentName": "Turkey",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000177",
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 603,
+        "OBJECTID": 601,
         "IncidentName": "LePoint",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000101",
@@ -897,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 579,
+        "OBJECTID": 577,
         "IncidentName": "Lions Park",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG07-000161",
@@ -937,6 +937,50 @@
       "geometry": {
         "x": -114.26212799999996,
         "y": 48.225857000000076
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 752,
+        "IncidentName": "Baler 1 - Custer",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG14-000181",
+        "DailyAcres": 1.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1719374400000,
+        "DiscoveryAcres": 1.5,
+        "POOCounty": "Custer",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1719432349000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "ffa2d97e-383e-4a34-9375-a5d934beb7a7",
+        "GlobalID": "89e9f1d8-c6cd-46a1-aab3-bb88db018e86",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -106.05879999999996,
+        "y": 46.155567000000076
       }
     },
     {
@@ -985,7 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 571,
+        "OBJECTID": 569,
         "IncidentName": "Hwy 91 Inc 273",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-240273",
@@ -1161,7 +1205,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 598,
+        "OBJECTID": 596,
         "IncidentName": "Central - Richland",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG27-000172",
@@ -1205,7 +1249,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 602,
+        "OBJECTID": 600,
         "IncidentName": "Park - Richland",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG27-000175",
@@ -1249,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 691,
+        "OBJECTID": 689,
         "IncidentName": "202406616_HayEquipment",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG10-202406616",
@@ -1293,7 +1337,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 710,
+        "OBJECTID": 708,
         "IncidentName": "Round Pole",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG06-240284",
@@ -1337,7 +1381,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 600,
+        "OBJECTID": 598,
         "IncidentName": "East Canal - Richland",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG27-000174",
@@ -1513,7 +1557,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 492,
+        "OBJECTID": 490,
         "IncidentName": "Horse Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG12-000097",
@@ -1557,7 +1601,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 701,
+        "OBJECTID": 699,
         "IncidentName": "CFS2406-3078",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024154",
@@ -1601,7 +1645,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 707,
+        "OBJECTID": 705,
         "IncidentName": "Shipping Pen - Carter",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG42-000179",
@@ -1733,7 +1777,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 667,
+        "OBJECTID": 665,
         "IncidentName": "Mondell",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-240283",
@@ -1777,7 +1821,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 690,
+        "OBJECTID": 688,
         "IncidentName": "202406672_Lightning",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG10-202406672",
@@ -1821,7 +1865,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 708,
+        "OBJECTID": 706,
         "IncidentName": "Frye - Carter",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG42-000180",
@@ -2041,7 +2085,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 472,
+        "OBJECTID": 470,
         "IncidentName": "GLACIER FOODS",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000055",
@@ -2085,7 +2129,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 473,
+        "OBJECTID": 471,
         "IncidentName": "KIPLING",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000056",
@@ -2129,7 +2173,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 474,
+        "OBJECTID": 472,
         "IncidentName": "OIL FIELD ROAD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000057",
@@ -2173,7 +2217,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 477,
+        "OBJECTID": 475,
         "IncidentName": "COLLEGE ROW",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000053",
@@ -2217,7 +2261,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 479,
+        "OBJECTID": 477,
         "IncidentName": "5904",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000054",
