@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 278,
+        "OBJECTID": 277,
         "IncidentName": "Tatanka",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCMR-000098",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 311,
+        "OBJECTID": 309,
         "IncidentName": "Running Wolf",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-005065",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 367,
+        "OBJECTID": 365,
         "IncidentName": "East Charlie - Richland",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG27-000171",
@@ -453,6 +453,50 @@
       "geometry": {
         "x": -104.67700499999995,
         "y": 47.867102000000045
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 458,
+        "IncidentName": "South Fork",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTCES-246193",
+        "DailyAcres": 43,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1719361273000,
+        "DiscoveryAcres": 10,
+        "POOCounty": "Beaverhead",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1719372213000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "caa463d4-03ac-4941-a78d-bf7d882a8bdd",
+        "GlobalID": "4fe36520-8bc8-4368-b5b0-5a12a336a26f",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -113.18603299999995,
+        "y": 45.08208300000007
       }
     },
     {
@@ -501,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 257,
+        "OBJECTID": 256,
         "IncidentName": "Wood Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000170",
@@ -545,51 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 462,
-        "IncidentName": "South Fork",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTCES-246193",
-        "DailyAcres": 10,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1719361273000,
-        "DiscoveryAcres": 10,
-        "POOCounty": "Beaverhead",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1719370078000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "caa463d4-03ac-4941-a78d-bf7d882a8bdd",
-        "GlobalID": "4fe36520-8bc8-4368-b5b0-5a12a336a26f",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -113.18603299999995,
-        "y": 45.08208300000007
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 387,
+        "OBJECTID": 385,
         "IncidentName": "Turkey",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000177",
@@ -624,7 +624,7 @@
         "IrwinID": "43b5a148-950f-4263-b670-d108c36a798d",
         "GlobalID": "60e1cdea-8529-44c6-b5e0-ff0d556cf985",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 1
+        "FireDiscoveryAge": 2
       },
       "geometry": {
         "x": -107.54999999999995,
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 373,
+        "OBJECTID": 371,
         "IncidentName": "LePoint",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000101",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 348,
+        "OBJECTID": 346,
         "IncidentName": "Lions Park",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG07-000161",
@@ -712,7 +712,7 @@
         "IrwinID": "816cac00-bcbc-446f-9cd0-3d45be2790c7",
         "GlobalID": "3de301fc-ef17-48bb-ab7c-8efbf680dfc5",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
+        "FireDiscoveryAge": 1
       },
       "geometry": {
         "x": -114.26212799999996,
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 340,
+        "OBJECTID": 338,
         "IncidentName": "Hwy 91 Inc 273",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-240273",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 368,
+        "OBJECTID": 366,
         "IncidentName": "Central - Richland",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG27-000172",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 372,
+        "OBJECTID": 370,
         "IncidentName": "Park - Richland",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG27-000175",
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 370,
+        "OBJECTID": 368,
         "IncidentName": "East Canal - Richland",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG27-000174",
@@ -897,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 258,
+        "OBJECTID": 257,
         "IncidentName": "Horse Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG12-000097",
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 198,
+        "OBJECTID": 197,
         "IncidentName": "River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG04-240276",
@@ -985,7 +985,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 451,
+        "OBJECTID": 448,
         "IncidentName": "Mondell",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-240283",
@@ -1073,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 238,
+        "OBJECTID": 237,
         "IncidentName": "GLACIER FOODS",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000055",
@@ -1117,7 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 239,
+        "OBJECTID": 238,
         "IncidentName": "KIPLING",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000056",
@@ -1161,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 240,
+        "OBJECTID": 239,
         "IncidentName": "OIL FIELD ROAD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000057",
@@ -1205,7 +1205,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 243,
+        "OBJECTID": 242,
         "IncidentName": "COLLEGE ROW",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000053",
@@ -1249,7 +1249,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 245,
+        "OBJECTID": 244,
         "IncidentName": "5904",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000054",
