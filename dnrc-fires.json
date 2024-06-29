@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 199,
+        "OBJECTID": 198,
         "IncidentName": "East Charlie - Richland",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG27-000171",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 312,
+        "OBJECTID": 311,
         "IncidentName": "Ridgetop",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240295",
@@ -545,10 +545,10 @@
     },
     {
       "attributes": {
-        "OBJECTID": 433,
+        "OBJECTID": 429,
         "IncidentName": "BO",
         "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBDC-240309",
+        "UniqueFireIdentifier": "2024-MTLG03-240309",
         "DailyAcres": 45,
         "CalculatedAcres": null,
         "PercentContained": null,
@@ -575,7 +575,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1719693373000,
+        "ModifiedOnDateTime": 1719702072000,
         "IncidentTypeKind": "FI",
         "IrwinID": "ac78fb99-88ad-40cb-b52a-c788581b4dca",
         "GlobalID": "b2ed61c1-0258-4ad2-bd7b-8c8d22a18b9b",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 191,
+        "OBJECTID": 190,
         "IncidentName": "Lions Park",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG07-000161",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 350,
+        "OBJECTID": 349,
         "IncidentName": "Corral Creek - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000182",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 377,
+        "OBJECTID": 375,
         "IncidentName": "MM 148 - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000184",
@@ -853,7 +853,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 271,
+        "OBJECTID": 209,
+        "IncidentName": "Mondell",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG22-240283",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1719361861000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Big Horn",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1719700997000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "c3b8aa48-d3db-4196-adc3-8221c5a75de2",
+        "GlobalID": "3e5f75a7-778f-4389-8230-46d3e35b63fd",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 3
+      },
+      "geometry": {
+        "x": -107.39591699999994,
+        "y": 45.129710000000046
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 270,
         "IncidentName": "RED FOX",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000058",
@@ -897,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 273,
+        "OBJECTID": 272,
         "IncidentName": "BASEBALL II",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000059",
@@ -941,7 +985,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 274,
+        "OBJECTID": 273,
         "IncidentName": "II BAR",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000060",
@@ -985,7 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 275,
+        "OBJECTID": 274,
         "IncidentName": "MTN CHIEF ROAD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000061",
@@ -1029,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 276,
+        "OBJECTID": 275,
         "IncidentName": "CHAIR",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000062",
@@ -1073,7 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 277,
+        "OBJECTID": 276,
         "IncidentName": "CLAW",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000063",
