@@ -325,6 +325,50 @@
   "features": [
     {
       "attributes": {
+        "OBJECTID": 417,
+        "IncidentName": "BO",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG03-240309",
+        "DailyAcres": 350,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1719687180000,
+        "DiscoveryAcres": 45,
+        "POOCounty": "Yellowstone",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1719711067000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "ac78fb99-88ad-40cb-b52a-c788581b4dca",
+        "GlobalID": "b2ed61c1-0258-4ad2-bd7b-8c8d22a18b9b",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -108.56804999999997,
+        "y": 45.84310000000005
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 171,
         "IncidentName": "Tatanka",
         "IncidentTypeCategory": "WF",
@@ -457,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 305,
+        "OBJECTID": 301,
         "IncidentName": "Ridgetop",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240295",
@@ -541,50 +585,6 @@
       "geometry": {
         "x": -104.33876999999995,
         "y": 46.083470000000034
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 421,
-        "IncidentName": "BO",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG03-240309",
-        "DailyAcres": 45,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1719687180000,
-        "DiscoveryAcres": 45,
-        "POOCounty": "Yellowstone",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1719708207000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "ac78fb99-88ad-40cb-b52a-c788581b4dca",
-        "GlobalID": "b2ed61c1-0258-4ad2-bd7b-8c8d22a18b9b",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -108.56804999999997,
-        "y": 45.84310000000005
       }
     },
     {
@@ -756,7 +756,7 @@
         "IrwinID": "816cac00-bcbc-446f-9cd0-3d45be2790c7",
         "GlobalID": "3de301fc-ef17-48bb-ab7c-8efbf680dfc5",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 4
+        "FireDiscoveryAge": 5
       },
       "geometry": {
         "x": -114.26212799999996,
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 342,
+        "OBJECTID": 338,
         "IncidentName": "Corral Creek - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000182",
@@ -800,7 +800,7 @@
         "IrwinID": "e4a9b0ee-971d-408e-93ae-3dab9cdda2ec",
         "GlobalID": "6da1542f-1f4b-4953-be6c-37267b731dda",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 1
+        "FireDiscoveryAge": 2
       },
       "geometry": {
         "x": -105.33194999999995,
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 368,
+        "OBJECTID": 364,
         "IncidentName": "MM 148 - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000184",
@@ -897,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 264,
+        "OBJECTID": 260,
         "IncidentName": "RED FOX",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000058",
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 266,
+        "OBJECTID": 262,
         "IncidentName": "BASEBALL II",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000059",
@@ -976,7 +976,7 @@
         "IrwinID": "2b595c86-fbd6-46be-9939-99b47d7a175b",
         "GlobalID": "20134ce2-e0d5-4bcc-8ce8-f8118286aeb8",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 4
+        "FireDiscoveryAge": 5
       },
       "geometry": {
         "x": -113.01944439999994,
@@ -985,7 +985,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 267,
+        "OBJECTID": 263,
         "IncidentName": "II BAR",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000060",
@@ -1020,7 +1020,7 @@
         "IrwinID": "a348986e-2039-4e5a-becb-deb0a50b1201",
         "GlobalID": "48196d4b-a032-4907-a760-06dd45b9f6ca",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 3
+        "FireDiscoveryAge": 4
       },
       "geometry": {
         "x": -113.01527779999998,
@@ -1029,7 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 268,
+        "OBJECTID": 264,
         "IncidentName": "MTN CHIEF ROAD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000061",
@@ -1073,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 269,
+        "OBJECTID": 265,
         "IncidentName": "CHAIR",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000062",
@@ -1117,7 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 270,
+        "OBJECTID": 266,
         "IncidentName": "CLAW",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000063",
