@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 401,
+        "OBJECTID": 396,
         "IncidentName": "BO",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240309",
@@ -373,7 +373,7 @@
         "IncidentName": "Tatanka",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCMR-000098",
-        "DailyAcres": 120,
+        "DailyAcres": 185,
         "CalculatedAcres": null,
         "PercentContained": 20,
         "ICS209ReportDateTime": 1719610114000,
@@ -399,11 +399,11 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1719610114000,
+        "ModifiedOnDateTime": 1719760546000,
         "IncidentTypeKind": "FI",
         "IrwinID": "586fea6b-c547-4d12-9192-0fcff5ae9400",
         "GlobalID": "e10073d8-cda0-408b-94a0-2b80ed74258f",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 0,
         "FireDiscoveryAge": 5
       },
       "geometry": {
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 286,
+        "OBJECTID": 281,
         "IncidentName": "Ridgetop",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240295",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 214,
+        "OBJECTID": 213,
         "IncidentName": "Shelter Belt - Fallon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG39-000178",
@@ -667,7 +667,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "98808ef8-32e7-4578-ac89-4287d592c1c6",
         "GlobalID": "3fd9bfee-92f2-4e74-ba7d-706365f29c9b",
-        "ModifiedOnAge": 4,
+        "ModifiedOnAge": 5,
         "FireDiscoveryAge": 106
       },
       "geometry": {
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 322,
+        "OBJECTID": 317,
         "IncidentName": "Corral Creek - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000182",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 348,
+        "OBJECTID": 343,
         "IncidentName": "MM 148 - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000184",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 208,
+        "OBJECTID": 207,
         "IncidentName": "Mondell",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-240283",
@@ -853,139 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 245,
-        "IncidentName": "RED FOX",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBFA-000058",
-        "DailyAcres": null,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1719271800000,
-        "DiscoveryAcres": null,
-        "POOCounty": "Glacier",
-        "POOState": "US-MT",
-        "FireCause": null,
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1719502857000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "26b2b2a7-3bac-4271-be5c-cb4495ca376b",
-        "GlobalID": "c083b81e-8182-44b0-93d9-b41946c5073c",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 5
-      },
-      "geometry": {
-        "x": -113.02138889999998,
-        "y": 48.558055600000046
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 247,
-        "IncidentName": "BASEBALL II",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBFA-000059",
-        "DailyAcres": null,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1719280800000,
-        "DiscoveryAcres": null,
-        "POOCounty": "Glacier",
-        "POOState": "US-MT",
-        "FireCause": null,
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1719502873000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "2b595c86-fbd6-46be-9939-99b47d7a175b",
-        "GlobalID": "20134ce2-e0d5-4bcc-8ce8-f8118286aeb8",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 5
-      },
-      "geometry": {
-        "x": -113.01944439999994,
-        "y": 48.561666700000046
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 248,
-        "IncidentName": "II BAR",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBFA-000060",
-        "DailyAcres": null,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1719363600000,
-        "DiscoveryAcres": null,
-        "POOCounty": "Glacier",
-        "POOState": "US-MT",
-        "FireCause": null,
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1719502881000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "a348986e-2039-4e5a-becb-deb0a50b1201",
-        "GlobalID": "48196d4b-a032-4907-a760-06dd45b9f6ca",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 4
-      },
-      "geometry": {
-        "x": -113.01527779999998,
-        "y": 48.570555600000034
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 249,
+        "OBJECTID": 244,
         "IncidentName": "MTN CHIEF ROAD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000061",
@@ -1029,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 250,
+        "OBJECTID": 245,
         "IncidentName": "CHAIR",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000062",
@@ -1073,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 251,
+        "OBJECTID": 246,
         "IncidentName": "CLAW",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000063",
