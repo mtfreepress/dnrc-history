@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 295,
+        "OBJECTID": 289,
         "IncidentName": "BO",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240309",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 166,
+        "OBJECTID": 165,
         "IncidentName": "Running Wolf",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-005065",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 184,
+        "OBJECTID": 179,
         "IncidentName": "East Charlie - Richland",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG27-000171",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 200,
+        "OBJECTID": 195,
         "IncidentName": "Shelter Belt - Fallon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG39-000178",
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 445,
+        "OBJECTID": 437,
         "IncidentName": "21 Road",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240320",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 202,
+        "OBJECTID": 197,
         "IncidentName": "CFS2406-3078",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024154",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 194,
+        "OBJECTID": 189,
         "IncidentName": "Mondell",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-240283",
@@ -755,7 +755,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "c3b8aa48-d3db-4196-adc3-8221c5a75de2",
         "GlobalID": "3e5f75a7-778f-4389-8230-46d3e35b63fd",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 5
       },
       "geometry": {
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 348,
+        "OBJECTID": 341,
         "IncidentName": "Massy - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000186",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 349,
+        "OBJECTID": 342,
         "IncidentName": "Fireworks 1 - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000187",
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 431,
+        "OBJECTID": 423,
         "IncidentName": "MM7 - Wibaux",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG52-000188",
@@ -897,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 440,
+        "OBJECTID": 432,
         "IncidentName": "West Muddy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000189",
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 492,
+        "OBJECTID": 484,
         "IncidentName": "Fales",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024179",
@@ -952,6 +952,50 @@
         "FireDiscoveryDateTime": 1719865982000,
         "DiscoveryAcres": 0.1,
         "POOCounty": "Ravalli",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1719875317000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "30167edb-179e-40c5-ba0c-bb99cf21bb0f",
+        "GlobalID": "b7d40a9a-4d0b-4102-bea2-f5656101ff65",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -114.44766699999997,
+        "y": 45.750117000000046
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 492,
+        "IncidentName": "CZ LOC Kings Road",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG04-240319",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1719872539000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Missoula",
         "POOState": "US-MT",
         "FireCause": "Undetermined",
         "FireCauseGeneral": null,
@@ -971,21 +1015,21 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1719873468000,
+        "ModifiedOnDateTime": 1719875494000,
         "IncidentTypeKind": "FI",
-        "IrwinID": "30167edb-179e-40c5-ba0c-bb99cf21bb0f",
-        "GlobalID": "b7d40a9a-4d0b-4102-bea2-f5656101ff65",
+        "IrwinID": "84bd2468-accf-43e5-9718-9acf7ba5dde3",
+        "GlobalID": "b46c5dbd-b6ba-42cf-b34e-b24cf109068a",
         "ModifiedOnAge": 0,
         "FireDiscoveryAge": 0
       },
       "geometry": {
-        "x": -114.44766699999997,
-        "y": 45.750117000000046
+        "x": -114.09076199999998,
+        "y": 46.67930000000007
       }
     },
     {
       "attributes": {
-        "OBJECTID": 475,
+        "OBJECTID": 467,
         "IncidentName": "EAST BUS GARAGE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000064",
@@ -1029,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 476,
+        "OBJECTID": 468,
         "IncidentName": "PILE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000065",
@@ -1073,7 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 478,
+        "OBJECTID": 470,
         "IncidentName": "DYNAMITE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000066",
@@ -1117,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 479,
+        "OBJECTID": 471,
         "IncidentName": "LORING",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000067",
