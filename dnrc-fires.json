@@ -325,14 +325,14 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 304,
+        "OBJECTID": 301,
         "IncidentName": "BO",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240309",
         "DailyAcres": 250.68,
         "CalculatedAcres": null,
-        "PercentContained": 21,
-        "ICS209ReportDateTime": 1719788956000,
+        "PercentContained": 72,
+        "ICS209ReportDateTime": 1719870395000,
         "FireDiscoveryDateTime": 1719687180000,
         "DiscoveryAcres": 45,
         "POOCounty": "Yellowstone",
@@ -340,7 +340,7 @@
         "FireCause": "Undetermined",
         "FireCauseGeneral": null,
         "GACC": "NRCC",
-        "TotalIncidentPersonnel": 48,
+        "TotalIncidentPersonnel": 31,
         "IncidentManagementOrganization": "Type 4 IC",
         "FireMgmtComplexity": null,
         "ResidencesDestroyed": null,
@@ -355,7 +355,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1719788956000,
+        "ModifiedOnDateTime": 1719870395000,
         "IncidentTypeKind": "FI",
         "IrwinID": "ac78fb99-88ad-40cb-b52a-c788581b4dca",
         "GlobalID": "b2ed61c1-0258-4ad2-bd7b-8c8d22a18b9b",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 456,
+        "OBJECTID": 452,
         "IncidentName": "21 Road",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240320",
@@ -712,7 +712,7 @@
         "IrwinID": "783d77fd-c056-4d52-b8d2-7984d83d045e",
         "GlobalID": "7d1c5d8e-cb6f-4ab0-ac16-73cf7c6cc0cc",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 18
+        "FireDiscoveryAge": 19
       },
       "geometry": {
         "x": -108.10094799999996,
@@ -765,50 +765,6 @@
     },
     {
       "attributes": {
-        "OBJECTID": 255,
-        "IncidentName": "MM 148 - Custer",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG14-000184",
-        "DailyAcres": 0.25,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1719605044000,
-        "DiscoveryAcres": 0.25,
-        "POOCounty": "Custer",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1719612589000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "ab7e8fba-4b2b-4c83-9639-95d9a26f8fdf",
-        "GlobalID": "9b2e2772-45c5-4e99-b4d3-521a44bf84b9",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 3
-      },
-      "geometry": {
-        "x": -105.70901699999996,
-        "y": 46.49973300000005
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 198,
         "IncidentName": "Mondell",
         "IncidentTypeCategory": "WF",
@@ -853,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 357,
+        "OBJECTID": 354,
         "IncidentName": "Massy - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000186",
@@ -897,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 358,
+        "OBJECTID": 355,
         "IncidentName": "Fireworks 1 - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000187",
@@ -941,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 414,
+        "OBJECTID": 410,
         "IncidentName": "Perista Ave",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240317",
@@ -985,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 442,
+        "OBJECTID": 438,
         "IncidentName": "MM7 - Wibaux",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG52-000188",
@@ -1029,7 +985,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 451,
+        "OBJECTID": 447,
         "IncidentName": "West Muddy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000189",
@@ -1073,7 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 489,
+        "OBJECTID": 483,
         "IncidentName": "EAST BUS GARAGE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000064",
@@ -1117,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 490,
+        "OBJECTID": 484,
         "IncidentName": "PILE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000065",
@@ -1161,7 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 493,
+        "OBJECTID": 486,
         "IncidentName": "DYNAMITE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000066",
@@ -1205,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 494,
+        "OBJECTID": 487,
         "IncidentName": "LORING",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000067",
