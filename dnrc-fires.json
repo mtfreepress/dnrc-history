@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 341,
+        "OBJECTID": 340,
         "IncidentName": "BO",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240309",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 459,
+        "OBJECTID": 456,
         "IncidentName": "Wyola Exit",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-240316",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 267,
+        "OBJECTID": 266,
         "IncidentName": "Corral Creek - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000182",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 291,
+        "OBJECTID": 290,
         "IncidentName": "MM 148 - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000184",
@@ -897,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 395,
+        "OBJECTID": 394,
         "IncidentName": "Massy - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000186",
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 396,
+        "OBJECTID": 395,
         "IncidentName": "Fireworks 1 - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000187",
@@ -981,6 +981,50 @@
       "geometry": {
         "x": -105.77611699999994,
         "y": 46.42870000000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 461,
+        "IncidentName": "Perista Ave",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTCRA-240317",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1719803440000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Big Horn",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1719805064000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "48388ecd-8d52-4e19-ab9a-11fe80b6d519",
+        "GlobalID": "8108120f-4c32-4b29-a9df-af791c373f68",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -108.52583299999998,
+        "y": 45.42450000000008
       }
     }
   ]
