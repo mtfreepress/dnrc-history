@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 329,
+        "OBJECTID": 327,
         "IncidentName": "BO",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240309",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 168,
+        "OBJECTID": 166,
         "IncidentName": "Running Wolf",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-005065",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 187,
+        "OBJECTID": 185,
         "IncidentName": "East Charlie - Richland",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG27-000171",
@@ -447,8 +447,8 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "1e8f24d9-bb1e-4497-a75c-6a07d8c8d3d5",
         "GlobalID": "eb18244a-f685-4a24-a45b-b46f1af36d64",
-        "ModifiedOnAge": 5,
-        "FireDiscoveryAge": 90
+        "ModifiedOnAge": 6,
+        "FireDiscoveryAge": 91
       },
       "geometry": {
         "x": -104.67700499999995,
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 239,
+        "OBJECTID": 237,
         "IncidentName": "Ridgetop",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240295",
@@ -491,7 +491,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "1748280e-8ddd-45c0-b689-a23573b3354e",
         "GlobalID": "c889349a-20f9-4702-9b43-3dc43667a9f7",
-        "ModifiedOnAge": 2,
+        "ModifiedOnAge": 3,
         "FireDiscoveryAge": 3
       },
       "geometry": {
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 203,
+        "OBJECTID": 201,
         "IncidentName": "Shelter Belt - Fallon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG39-000178",
@@ -579,7 +579,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "349e1294-f26a-4f99-bed1-901c5e181858",
         "GlobalID": "b7f1061d-2c12-44e2-9684-88fb011f4d1b",
-        "ModifiedOnAge": 4,
+        "ModifiedOnAge": 5,
         "FireDiscoveryAge": 107
       },
       "geometry": {
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 158,
+        "OBJECTID": 156,
         "IncidentName": "Wood Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000170",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 205,
+        "OBJECTID": 203,
         "IncidentName": "CFS2406-3078",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024154",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 255,
+        "OBJECTID": 253,
         "IncidentName": "Corral Creek - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000182",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 279,
+        "OBJECTID": 277,
         "IncidentName": "MM 148 - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000184",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 197,
+        "OBJECTID": 195,
         "IncidentName": "Mondell",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-240283",
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 383,
+        "OBJECTID": 381,
         "IncidentName": "Massy - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000186",
@@ -897,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 384,
+        "OBJECTID": 382,
         "IncidentName": "Fireworks 1 - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000187",
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 446,
+        "OBJECTID": 444,
         "IncidentName": "Perista Ave",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240317",
@@ -981,6 +981,50 @@
       "geometry": {
         "x": -108.52583299999998,
         "y": 45.42450000000008
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 474,
+        "IncidentName": "MM7 - Wibaux",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG52-000188",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1719811800000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Wibaux",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1719841982000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "df587543-6c7b-4383-816f-45011cd34ee4",
+        "GlobalID": "25789f53-7bac-4a96-b290-7a9f730ce7cb",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -104.19877999999994,
+        "y": 47.08596000000006
       }
     }
   ]
