@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 350,
+        "OBJECTID": 348,
         "IncidentName": "BO",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240309",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 175,
+        "OBJECTID": 174,
         "IncidentName": "Running Wolf",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-005065",
@@ -403,7 +403,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "4727a447-4fe8-4d47-8b09-793072dadfcc",
         "GlobalID": "a87e0a4b-2817-4d06-b161-1f802881b2bc",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 6
       },
       "geometry": {
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 194,
+        "OBJECTID": 193,
         "IncidentName": "East Charlie - Richland",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG27-000171",
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 165,
+        "OBJECTID": 164,
         "IncidentName": "Wood Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000170",
@@ -677,7 +677,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 276,
+        "OBJECTID": 211,
+        "IncidentName": "CFS2406-3078",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG13-024154",
+        "DailyAcres": 0.25,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1719368520000,
+        "DiscoveryAcres": 0.25,
+        "POOCounty": "Ravalli",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1719794988000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "e3135088-8536-4b09-9282-2dcb0d7f4547",
+        "GlobalID": "6d3694f4-0334-4477-9b45-40b28e0a017e",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 4
+      },
+      "geometry": {
+        "x": -114.167915,
+        "y": 46.24335400000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 274,
         "IncidentName": "Corral Creek - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000182",
@@ -721,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 300,
+        "OBJECTID": 298,
         "IncidentName": "MM 148 - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000184",
@@ -800,7 +844,7 @@
         "IrwinID": "c3b8aa48-d3db-4196-adc3-8221c5a75de2",
         "GlobalID": "3e5f75a7-778f-4389-8230-46d3e35b63fd",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 4
+        "FireDiscoveryAge": 5
       },
       "geometry": {
         "x": -107.39591699999994,
@@ -809,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 405,
+        "OBJECTID": 402,
         "IncidentName": "Massy - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000186",
@@ -853,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 406,
+        "OBJECTID": 403,
         "IncidentName": "Fireworks 1 - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000187",
