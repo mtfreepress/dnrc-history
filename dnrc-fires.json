@@ -755,7 +755,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "9c7660d0-a38c-4b78-8d87-44295bc35f25",
         "GlobalID": "190b915b-3dfe-4bfb-ace2-146cc444f464",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 3
       },
       "geometry": {
@@ -893,6 +893,50 @@
       "geometry": {
         "x": -114.09076199999998,
         "y": 46.67930000000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 479,
+        "IncidentName": "Row Lake",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTNWS-000178",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1719893040000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Lake",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1719937550000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "d2a6feaa-f276-47e9-9855-72bad3ab359c",
+        "GlobalID": "7036cdd3-b12c-4c2c-b872-2a26f9013d7d",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -114.25386199999997,
+        "y": 47.89945700000004
       }
     },
     {
