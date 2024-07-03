@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 482,
+        "OBJECTID": 481,
         "IncidentName": "Haywood",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000191",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 488,
+        "OBJECTID": 487,
         "IncidentName": "Little Wolf",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000194",
@@ -585,6 +585,50 @@
       "geometry": {
         "x": -105.44046999999995,
         "y": 45.242540000000076
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 497,
+        "IncidentName": "South",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTNCD-000108",
+        "DailyAcres": 3,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1719961980000,
+        "DiscoveryAcres": 3,
+        "POOCounty": "Petroleum",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1719974298000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "aa2dee36-71e2-472e-8be0-f67351cd50ff",
+        "GlobalID": "b18ad1c5-9af4-48e2-8b67-bf5a69dc7462",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -108.10579999999999,
+        "y": 47.144333000000074
       }
     },
     {
@@ -893,6 +937,50 @@
       "geometry": {
         "x": -114.09076199999998,
         "y": 46.67930000000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 498,
+        "IncidentName": "North",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG55-000109",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1719969794000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Petroleum",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1719973706000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "0579637b-61ff-4489-9c6e-9863477c6a37",
+        "GlobalID": "05014225-8f86-4b5b-aa36-459d45799e13",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -108.10519999999997,
+        "y": 47.16125000000005
       }
     },
     {
