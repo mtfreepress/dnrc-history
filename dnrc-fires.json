@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 184,
+        "OBJECTID": 185,
         "IncidentName": "Shelter Belt - Fallon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG39-000178",
@@ -545,7 +545,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 187,
+        "OBJECTID": 492,
+        "IncidentName": "Rocky Butte - Wibaux",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG52-000195",
+        "DailyAcres": 0.6,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1720025148000,
+        "DiscoveryAcres": 0.6,
+        "POOCounty": "Wibaux",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1720025421000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "d3023744-2937-4e67-840f-05ddb6ef8649",
+        "GlobalID": "1350a064-c6a5-4bfb-97af-6d0dd45d5efd",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -104.17508299999997,
+        "y": 46.907278000000076
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 188,
         "IncidentName": "CFS2406-3078",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024154",
