@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 448,
+        "OBJECTID": 447,
         "IncidentName": "South",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCD-000108",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 485,
+        "OBJECTID": 484,
         "IncidentName": "Aiken's Coulee",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG55-000110",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 477,
+        "OBJECTID": 476,
         "IncidentName": "Rocky Butte - Wibaux",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG52-000195",
@@ -761,6 +761,50 @@
       "geometry": {
         "x": -114.09076199999998,
         "y": 46.67930000000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 489,
+        "IncidentName": "Danvers",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG08-000111",
+        "DailyAcres": 0.01,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1719880440000,
+        "DiscoveryAcres": 1,
+        "POOCounty": "Fergus",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1720032569000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "e1784c52-fc4f-4189-918c-6d28ede7ff2b",
+        "GlobalID": "2ef714cd-9e3d-4a05-96c7-7e77bce0fa03",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -109.71638399999995,
+        "y": 47.22448300000008
       }
     },
     {
