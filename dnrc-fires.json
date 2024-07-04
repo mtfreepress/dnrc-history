@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 169,
+        "OBJECTID": 167,
         "IncidentName": "Shelter Belt - Fallon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG39-000178",
@@ -413,7 +413,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 423,
+        "OBJECTID": 524,
+        "IncidentName": "Goose Lake",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTMLR-000112",
+        "DailyAcres": 8,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1720049400000,
+        "DiscoveryAcres": 8,
+        "POOCounty": "Sheridan",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1720098948000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "61f93fe7-f809-4125-ba4a-6a25b9ff0c7b",
+        "GlobalID": "c16787a4-f268-4bb1-a55f-29dab74d0720",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -104.06059499999998,
+        "y": 48.80097800000004
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 421,
         "IncidentName": "O Fallon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG45-000196",
@@ -457,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 253,
+        "OBJECTID": 251,
         "IncidentName": "21 Road",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240320",
@@ -501,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 406,
+        "OBJECTID": 404,
         "IncidentName": "Aiken's Coulee",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG55-000110",
@@ -545,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 401,
+        "OBJECTID": 399,
         "IncidentName": "Rocky Butte - Wibaux",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG52-000195",
@@ -589,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 240,
+        "OBJECTID": 238,
         "IncidentName": "MM7 - Wibaux",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG52-000188",
@@ -633,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 249,
+        "OBJECTID": 247,
         "IncidentName": "West Muddy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000189",
@@ -677,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 290,
+        "OBJECTID": 288,
         "IncidentName": "Kings Road",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG04-240319",
@@ -721,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 410,
+        "OBJECTID": 408,
         "IncidentName": "Danvers",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG08-000111",
@@ -765,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 275,
+        "OBJECTID": 273,
         "IncidentName": "EAST BUS GARAGE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000064",
@@ -809,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 276,
+        "OBJECTID": 274,
         "IncidentName": "PILE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000065",
@@ -853,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 278,
+        "OBJECTID": 276,
         "IncidentName": "DYNAMITE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000066",
@@ -897,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 279,
+        "OBJECTID": 277,
         "IncidentName": "LORING",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000067",
