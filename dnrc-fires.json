@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 500,
+        "OBJECTID": 496,
         "IncidentName": "Fireweed Loop",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-000352",
@@ -355,7 +355,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1720144522000,
+        "ModifiedOnDateTime": 1720144647000,
         "IncidentTypeKind": "FI",
         "IrwinID": "22b8f355-050e-43f1-beaf-9052aced38e9",
         "GlobalID": "6776245d-e78d-48a1-beb7-6dd343903881",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 471,
+        "OBJECTID": 468,
         "IncidentName": "Lexington",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMLR-000113",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 494,
+        "OBJECTID": 490,
         "IncidentName": "Fishtrap",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLNF-240335",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 345,
+        "OBJECTID": 343,
         "IncidentName": "O Fallon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG45-000196",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 327,
+        "OBJECTID": 325,
         "IncidentName": "Rocky Butte - Wibaux",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG52-000195",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 498,
+        "OBJECTID": 494,
         "IncidentName": "School Acres Rd",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNWS-000181",
@@ -589,7 +589,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 482,
+        "OBJECTID": 505,
+        "IncidentName": "LG01 6223",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG01-246223",
+        "DailyAcres": 0.25,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1720145677000,
+        "DiscoveryAcres": 0.25,
+        "POOCounty": "Silver Bow",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1720146415000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "c4b4feb4-342f-4c88-96a0-df050d208ac7",
+        "GlobalID": "c89fe86e-a1d6-498a-8388-e51775c52a42",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.71199999999999,
+        "y": 45.94330000000008
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 478,
         "IncidentName": "MONROE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000068",
@@ -633,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 484,
+        "OBJECTID": 480,
         "IncidentName": "WHITE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000069",
@@ -677,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 485,
+        "OBJECTID": 481,
         "IncidentName": "RED TOMAHAWK",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000070",
@@ -721,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 487,
+        "OBJECTID": 483,
         "IncidentName": "POST",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000071",
@@ -765,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 489,
+        "OBJECTID": 485,
         "IncidentName": "ADAMS",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000072",
