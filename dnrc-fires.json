@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 676,
+        "OBJECTID": 672,
         "IncidentName": "Bell Rock 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240346",
@@ -536,7 +536,7 @@
         "IrwinID": "8dce91e6-374c-44c0-b370-bbf8ce8910cf",
         "GlobalID": "98c59c9e-47cd-4708-8df1-f3bcd4352513",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
+        "FireDiscoveryAge": 1
       },
       "geometry": {
         "x": -108.52891699999998,
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 688,
+        "OBJECTID": 684,
         "IncidentName": "Fireworks",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000198",
@@ -585,50 +585,6 @@
       "geometry": {
         "x": -106.65883299999996,
         "y": 45.61736100000007
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 715,
-        "IncidentName": "Mill Creek",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTSWS-246227",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1720221453000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Deer Lodge",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1720225238000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "f7b3d34b-79fd-429a-807b-8d60a5673500",
-        "GlobalID": "82a87428-d084-4f9f-b139-8c172cf52a5b",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -112.93593999999996,
-        "y": 46.07546000000008
       }
     },
     {
@@ -853,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 620,
+        "OBJECTID": 616,
         "IncidentName": "CHILDS",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000073",
@@ -897,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 621,
+        "OBJECTID": 617,
         "IncidentName": "RUNNING WOLF ROAD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000075",
@@ -941,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 735,
+        "OBJECTID": 730,
         "IncidentName": "ALL CHIEFS",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000074",
@@ -985,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 739,
+        "OBJECTID": 734,
         "IncidentName": "1ST AVE SE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000076",
@@ -1025,6 +981,50 @@
       "geometry": {
         "x": -113.01083329999994,
         "y": 48.555277800000056
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 803,
+        "IncidentName": "JOE JOE",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBFA-000077",
+        "DailyAcres": null,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1720288800000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Glacier",
+        "POOState": "US-MT",
+        "FireCause": null,
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1720293759000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "26e4ec6e-8f85-4497-a9d3-a775dc564a80",
+        "GlobalID": "685edd2d-ce4a-4a2e-8fdb-02e40aa3c775",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -113.01805559999997,
+        "y": 48.55305560000005
       }
     }
   ]
