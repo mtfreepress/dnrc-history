@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 805,
+        "OBJECTID": 802,
         "IncidentName": "141",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-240357",
@@ -545,6 +545,94 @@
     },
     {
       "attributes": {
+        "OBJECTID": 805,
+        "IncidentName": "Bucket",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG17-000114",
+        "DailyAcres": 1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1720216620000,
+        "DiscoveryAcres": 1,
+        "POOCounty": "Roosevelt",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1720298903000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "06dde3f0-90e6-40a5-bac7-31f0ec726abb",
+        "GlobalID": "4ea610ee-0972-4033-8856-39ef065f1fb0",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -105.64583599999997,
+        "y": 48.09791700000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 806,
+        "IncidentName": "Swamp",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG20-000115",
+        "DailyAcres": 0.25,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1720212300000,
+        "DiscoveryAcres": 0.25,
+        "POOCounty": "Valley",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1720299312000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "9ba2a640-7ee3-403e-a661-15a2cd28823c",
+        "GlobalID": "75967c6b-398d-4ee7-a3a5-139520c0dee8",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -106.64795499999997,
+        "y": 48.204176000000075
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 662,
         "IncidentName": "Bell Rock 2",
         "IncidentTypeCategory": "WF",
@@ -623,7 +711,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "5ed0eba0-d5f1-45a2-a600-974b430f9a15",
         "GlobalID": "863c4d79-6183-4a5a-9e64-2ecc67df8eae",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 1
       },
       "geometry": {
@@ -941,7 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 718,
+        "OBJECTID": 717,
         "IncidentName": "ALL CHIEFS",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000074",
@@ -985,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 722,
+        "OBJECTID": 721,
         "IncidentName": "1ST AVE SE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000076",
@@ -1029,7 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 789,
+        "OBJECTID": 787,
         "IncidentName": "JOE JOE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000077",
