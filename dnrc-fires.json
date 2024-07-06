@@ -1032,7 +1032,7 @@
         "OBJECTID": 668,
         "IncidentName": "RUNNING WOLF ROAD",
         "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBFA-000074",
+        "UniqueFireIdentifier": "2024-MTBFA-000075",
         "DailyAcres": null,
         "CalculatedAcres": null,
         "PercentContained": null,
@@ -1059,7 +1059,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1720170367000,
+        "ModifiedOnDateTime": 1720232988000,
         "IncidentTypeKind": "FI",
         "IrwinID": "2c17c7d5-f0af-45db-a016-8f88292821e2",
         "GlobalID": "b8d8f53d-c641-43de-b72b-9eb6ae968eb8",
@@ -1069,6 +1069,50 @@
       "geometry": {
         "x": -112.83222219999999,
         "y": 48.285277800000074
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 799,
+        "IncidentName": "ALL CHIEFS",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBFA-000074",
+        "DailyAcres": null,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1720158000000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Glacier",
+        "POOState": "US-MT",
+        "FireCause": null,
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1720233198000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "e0277dc0-9373-4aff-ad2b-2b3e1b13e2cb",
+        "GlobalID": "c74eff02-ef8f-4b0b-9d6a-230716c00614",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -113.01638889999998,
+        "y": 48.56444440000007
       }
     }
   ]
