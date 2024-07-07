@@ -501,6 +501,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 759,
+        "IncidentName": "Plant",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLNF-240361",
+        "DailyAcres": 1.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1720366050000,
+        "DiscoveryAcres": 1,
+        "POOCounty": "Missoula",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1720376742000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "95b05cb8-673c-47a8-9e32-a02d981d8097",
+        "GlobalID": "6a172d3e-1a6b-47a8-8ffb-fd2ccef473c8",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -113.90293299999996,
+        "y": 46.73221700000005
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 145,
         "IncidentName": "Round Pole",
         "IncidentTypeCategory": "WF",
@@ -629,50 +673,6 @@
       "geometry": {
         "x": -106.11828299999996,
         "y": 45.273450000000025
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 759,
-        "IncidentName": "Plant",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLNF-240361",
-        "DailyAcres": 1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1720366050000,
-        "DiscoveryAcres": 1,
-        "POOCounty": "Missoula",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1720373383000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "95b05cb8-673c-47a8-9e32-a02d981d8097",
-        "GlobalID": "6a172d3e-1a6b-47a8-8ffb-fd2ccef473c8",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -113.90293299999996,
-        "y": 46.73221700000005
       }
     },
     {
