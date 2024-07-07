@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 802,
+        "OBJECTID": 788,
         "IncidentName": "Taylor Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-246233",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 337,
+        "OBJECTID": 331,
         "IncidentName": "Fireweed Loop",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-000352",
@@ -404,7 +404,7 @@
         "IrwinID": "22b8f355-050e-43f1-beaf-9052aced38e9",
         "GlobalID": "6776245d-e78d-48a1-beb7-6dd343903881",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 1
+        "FireDiscoveryAge": 2
       },
       "geometry": {
         "x": -111.801583,
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 319,
+        "OBJECTID": 313,
         "IncidentName": "Lexington",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMLR-000113",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 229,
+        "OBJECTID": 225,
         "IncidentName": "O Fallon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG45-000196",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 756,
+        "OBJECTID": 747,
         "IncidentName": "Bucket",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG17-000114",
@@ -589,7 +589,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 757,
+        "OBJECTID": 790,
+        "IncidentName": "Bridge",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG09-000200",
+        "DailyAcres": 1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1720311844000,
+        "DiscoveryAcres": 1,
+        "POOCounty": "Powder River",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1720315199000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "5bbf5725-60e1-4ee3-bfb9-85695c85d5dd",
+        "GlobalID": "f51372d9-091c-4dfc-b05e-790058972bcd",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -106.11828299999996,
+        "y": 45.273450000000025
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 748,
         "IncidentName": "Swamp",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG20-000115",
@@ -633,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 622,
+        "OBJECTID": 616,
         "IncidentName": "Bell Rock 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240346",
@@ -677,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 634,
+        "OBJECTID": 628,
         "IncidentName": "Fireworks",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000198",
@@ -721,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 765,
+        "OBJECTID": 756,
         "IncidentName": "MM 141",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-246229",
@@ -751,7 +795,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1720309385000,
+        "ModifiedOnDateTime": 1720315343000,
         "IncidentTypeKind": "FI",
         "IrwinID": "045a5ea6-cdec-4968-8898-805a2873b357",
         "GlobalID": "16592448-9627-4c96-acd0-9e84d3084689",
@@ -765,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 323,
+        "OBJECTID": 317,
         "IncidentName": "MONROE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000068",
@@ -799,7 +843,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "9b66d763-5035-4050-ac40-e2df26277fb4",
         "GlobalID": "9ef6f135-c974-4a9c-a63e-213da16c4afa",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 4
       },
       "geometry": {
@@ -809,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 325,
+        "OBJECTID": 319,
         "IncidentName": "WHITE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000069",
@@ -843,7 +887,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "b8677fb9-24a1-4543-ba4d-760e638982a6",
         "GlobalID": "51b39cc0-96ca-4eb7-bcc9-6ad7683bb139",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 4
       },
       "geometry": {
@@ -853,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 326,
+        "OBJECTID": 320,
         "IncidentName": "RED TOMAHAWK",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000070",
@@ -887,7 +931,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "0ec6d745-14d3-464b-90ab-060ed9a0009e",
         "GlobalID": "bc2eb7b9-f70e-4765-9973-b4c165c92f00",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 4
       },
       "geometry": {
@@ -897,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 328,
+        "OBJECTID": 322,
         "IncidentName": "POST",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000071",
@@ -931,8 +975,8 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "2920588a-b00b-471c-93a0-fa2a308d83de",
         "GlobalID": "84d24aaf-39a3-43be-a4ba-d123a237ac21",
-        "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 3
+        "ModifiedOnAge": 2,
+        "FireDiscoveryAge": 4
       },
       "geometry": {
         "x": -113.01833329999994,
@@ -941,7 +985,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 329,
+        "OBJECTID": 323,
         "IncidentName": "ADAMS",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000072",
@@ -985,7 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 571,
+        "OBJECTID": 565,
         "IncidentName": "CHILDS",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000073",
@@ -1029,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 572,
+        "OBJECTID": 566,
         "IncidentName": "RUNNING WOLF ROAD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000075",
@@ -1073,7 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 676,
+        "OBJECTID": 670,
         "IncidentName": "ALL CHIEFS",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000074",
@@ -1117,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 680,
+        "OBJECTID": 674,
         "IncidentName": "1ST AVE SE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000076",
@@ -1161,7 +1205,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 741,
+        "OBJECTID": 733,
         "IncidentName": "JOE JOE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000077",
