@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 144,
+        "OBJECTID": 145,
         "IncidentName": "Round Pole",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG06-240284",
@@ -673,6 +673,50 @@
       "geometry": {
         "x": -106.11828299999996,
         "y": 45.273450000000025
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 58,
+        "IncidentName": "Sweeney Creek- Rosebud",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG29-000158",
+        "DailyAcres": 0.25,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1718226360000,
+        "DiscoveryAcres": 0.25,
+        "POOCounty": "Rosebud",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1720379505000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "f6e5d7c9-edab-465d-b779-b1cf0ec9ccd5",
+        "GlobalID": "cb59146d-bc0f-41f5-9fa5-85e618e723e8",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 24
+      },
+      "geometry": {
+        "x": -106.34219999999999,
+        "y": 46.26376700000003
       }
     },
     {
