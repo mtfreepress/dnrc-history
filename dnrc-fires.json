@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 438,
+        "OBJECTID": 434,
         "IncidentName": "Maxwell Hill - McCone",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG41-000202",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 545,
+        "OBJECTID": 541,
         "IncidentName": "Alkali Creek - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000208",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 439,
+        "OBJECTID": 435,
         "IncidentName": "Plant",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLNF-240361",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 374,
+        "OBJECTID": 370,
         "IncidentName": "Bucket",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG17-000114",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 403,
+        "OBJECTID": 399,
         "IncidentName": "Bridge",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000200",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 476,
+        "OBJECTID": 472,
         "IncidentName": "Double Car",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240349",
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 375,
+        "OBJECTID": 371,
         "IncidentName": "Swamp",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG20-000115",
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 468,
+        "OBJECTID": 464,
         "IncidentName": "Trout Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-000363",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 262,
+        "OBJECTID": 258,
         "IncidentName": "Fireworks",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000198",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 450,
+        "OBJECTID": 446,
         "IncidentName": "Mt Crow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240348",
@@ -761,6 +761,50 @@
       "geometry": {
         "x": -107.50906199999997,
         "y": 45.679895000000045
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 544,
+        "IncidentName": "Teepee",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG22-240351",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1720463040000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Big Horn",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1720463619000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "c4971fe6-dda5-4f33-bc69-bdaa21a467c1",
+        "GlobalID": "be70ffd5-d693-440e-9cd1-e98bd815a770",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -107.46239999999995,
+        "y": 45.601600000000076
       }
     },
     {
@@ -853,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 303,
+        "OBJECTID": 299,
         "IncidentName": "ALL CHIEFS",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000074",
@@ -897,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 307,
+        "OBJECTID": 303,
         "IncidentName": "1ST AVE SE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000076",
@@ -941,7 +985,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 364,
+        "OBJECTID": 360,
         "IncidentName": "JOE JOE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000077",
@@ -985,7 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 405,
+        "OBJECTID": 401,
         "IncidentName": "DUCKHEAD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000078",
