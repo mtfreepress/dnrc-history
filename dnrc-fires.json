@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 331,
+        "OBJECTID": 329,
         "IncidentName": "Maxwell Hill - McCone",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG41-000202",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 483,
+        "OBJECTID": 481,
         "IncidentName": "Beauty Creek - McCone",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG41-000211",
@@ -413,7 +413,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 332,
+        "OBJECTID": 528,
+        "IncidentName": "Rock",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG14-000213",
+        "DailyAcres": 21.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1720558499000,
+        "DiscoveryAcres": 21.5,
+        "POOCounty": "Custer",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1720566163000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "f887ce5d-f4cb-4385-a9ff-ca5b48beba55",
+        "GlobalID": "cef66835-1386-4cd1-9dbf-6f29c419fc36",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -106.02553299999994,
+        "y": 46.27871700000003
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 330,
         "IncidentName": "Plant",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLNF-240361",
@@ -457,7 +501,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 484,
+        "OBJECTID": 511,
+        "IncidentName": "Morris",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG31-005076",
+        "DailyAcres": 5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1720555658000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Teton",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1720565260000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "ff6c32ca-3c6b-43c1-a997-2b83a83b472c",
+        "GlobalID": "10502766-5633-49c3-b8e2-573e622345cd",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.34923999999995,
+        "y": 47.607537000000036
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 482,
         "IncidentName": "Horse Creek - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000212",
@@ -501,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 508,
+        "OBJECTID": 505,
         "IncidentName": "Horse Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-000367",
@@ -531,7 +619,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1720563230000,
+        "ModifiedOnDateTime": 1720566421000,
         "IncidentTypeKind": "FI",
         "IrwinID": "889237aa-38dc-45d4-a8d0-b70d8990f5b7",
         "GlobalID": "7050d16f-62ea-4c25-91fd-790bace41aef",
@@ -539,13 +627,13 @@
         "FireDiscoveryAge": 0
       },
       "geometry": {
-        "x": -111.69659999999999,
-        "y": 46.688000000000045
+        "x": -111.69613299999997,
+        "y": 46.68870000000004
       }
     },
     {
       "attributes": {
-        "OBJECTID": 443,
+        "OBJECTID": 441,
         "IncidentName": "897",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000209",
@@ -677,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 297,
+        "OBJECTID": 295,
         "IncidentName": "Bridge",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000200",
@@ -721,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 431,
+        "OBJECTID": 429,
         "IncidentName": "LG18 6245",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG18-246245",
@@ -765,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 440,
+        "OBJECTID": 438,
         "IncidentName": "Walking Horse",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000210",
@@ -809,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 517,
+        "OBJECTID": 514,
         "IncidentName": "LG186245",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTDDC-MTBD186245",
@@ -941,7 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 418,
+        "OBJECTID": 416,
         "IncidentName": "Teepee",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-240351",
@@ -985,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 512,
+        "OBJECTID": 509,
         "IncidentName": "202407320-UTV",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG10-202407320",
@@ -1029,51 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 514,
-        "IncidentName": "Jackson Corner",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG31-005076",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1720555658000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Teton",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1720561125000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "ff6c32ca-3c6b-43c1-a997-2b83a83b472c",
-        "GlobalID": "10502766-5633-49c3-b8e2-573e622345cd",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -112.34923999999995,
-        "y": 47.607537000000036
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 299,
+        "OBJECTID": 297,
         "IncidentName": "DUCKHEAD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000078",
