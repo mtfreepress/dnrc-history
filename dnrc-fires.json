@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 478,
+        "OBJECTID": 477,
         "IncidentName": "Horse Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-000367",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 309,
+        "OBJECTID": 308,
         "IncidentName": "Maxwell Hill - McCone",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG41-000202",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 455,
+        "OBJECTID": 454,
         "IncidentName": "Beauty Creek - McCone",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG41-000211",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 496,
+        "OBJECTID": 495,
         "IncidentName": "Rock",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000213",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 483,
+        "OBJECTID": 482,
         "IncidentName": "Morris",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG31-005076",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 456,
+        "OBJECTID": 455,
         "IncidentName": "Horse Creek - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000212",
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 417,
+        "OBJECTID": 416,
         "IncidentName": "897",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000209",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 506,
+        "OBJECTID": 505,
         "IncidentName": "Greenleaf Cattle",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000214",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 405,
+        "OBJECTID": 404,
         "IncidentName": "LG18 6245",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG18-246245",
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 414,
+        "OBJECTID": 413,
         "IncidentName": "Walking Horse",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000210",
@@ -897,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 486,
+        "OBJECTID": 485,
         "IncidentName": "LG186245",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTDDC-MTBD186245",
@@ -1029,7 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 393,
+        "OBJECTID": 392,
         "IncidentName": "Teepee",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-240351",
@@ -1073,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 481,
+        "OBJECTID": 480,
         "IncidentName": "202407320-UTV",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG10-202407320",
@@ -1117,7 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 513,
+        "OBJECTID": 512,
         "IncidentName": "Tern",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCMR-000215",
@@ -1157,6 +1157,50 @@
       "geometry": {
         "x": -106.33430999999996,
         "y": 48.01321000000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 539,
+        "IncidentName": "RUNNING CRANE",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBFA-000079",
+        "DailyAcres": null,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1720396800000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Glacier",
+        "POOState": "US-MT",
+        "FireCause": null,
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1720590106000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "c53041dc-2969-49f1-8d87-89ca0b1b0c4e",
+        "GlobalID": "8e204d4a-8c81-4d33-b844-99a97a26d4d3",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 2
+      },
+      "geometry": {
+        "x": -113.01222219999994,
+        "y": 48.52611110000004
       }
     }
   ]
