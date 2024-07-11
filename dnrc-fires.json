@@ -403,7 +403,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "62750501-4ac2-432e-8383-ee9eacc0ae60",
         "GlobalID": "cf54034a-2573-4481-b054-243bef797a00",
-        "ModifiedOnAge": 3,
+        "ModifiedOnAge": 4,
         "FireDiscoveryAge": 4
       },
       "geometry": {
@@ -447,7 +447,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "dcc57192-c5aa-4c8e-b776-146f9e93421d",
         "GlobalID": "a94ceb82-e3ce-4ba5-baef-e347467da174",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 1
       },
       "geometry": {
@@ -535,7 +535,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "df86150a-180d-4e69-975c-22fba851cf9f",
         "GlobalID": "4f85701c-1cf7-4ead-a587-f0ff23ddffe3",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 1
       },
       "geometry": {
@@ -1205,6 +1205,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 524,
+        "IncidentName": "Tern 5 - McCone",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG41-000231",
+        "DailyAcres": 0.9,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1720629540000,
+        "DiscoveryAcres": 0.9,
+        "POOCounty": "McCone",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1720716121000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "ab89c63e-8a8b-4077-b847-2e8c6d664cc0",
+        "GlobalID": "42599a96-be3f-4574-8bee-b9b197a2198d",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -106.24963799999995,
+        "y": 47.94732400000004
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 451,
         "IncidentName": "Baird Butte - Wibaux",
         "IncidentTypeCategory": "WF",
@@ -1460,7 +1504,7 @@
         "IrwinID": "24b83887-b044-49f7-97e8-3b2c7546c812",
         "GlobalID": "7cc0cf06-c26a-4861-8ec8-09c4b3c24409",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
+        "FireDiscoveryAge": 1
       },
       "geometry": {
         "x": -109.64506799999998,
