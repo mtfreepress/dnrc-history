@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 333,
+        "OBJECTID": 329,
         "IncidentName": "Horse Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-000367",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 519,
+        "OBJECTID": 515,
         "IncidentName": "Draw",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240369",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 248,
+        "OBJECTID": 246,
         "IncidentName": "Maxwell Hill - McCone",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG41-000202",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 406,
+        "OBJECTID": 402,
         "IncidentName": "Alpha - Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000216",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 484,
+        "OBJECTID": 480,
         "IncidentName": "Running Board - Fallon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG39-000227",
@@ -536,7 +536,7 @@
         "IrwinID": "fde3ccbb-8cea-4b9a-b220-1d711abc7c2b",
         "GlobalID": "abbbcef4-43ce-4c9a-99eb-e9e4561710c4",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
+        "FireDiscoveryAge": 1
       },
       "geometry": {
         "x": -104.35861999999997,
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 411,
+        "OBJECTID": 407,
         "IncidentName": "Gordon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG02-005078",
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 312,
+        "OBJECTID": 308,
         "IncidentName": "Beauty Creek - McCone",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG41-000211",
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 349,
+        "OBJECTID": 345,
         "IncidentName": "Rock",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000213",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 483,
+        "OBJECTID": 479,
         "IncidentName": "Road 422 - Dawson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG16-000225",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 501,
+        "OBJECTID": 497,
         "IncidentName": "Haying - Garfield",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000235",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 509,
+        "OBJECTID": 505,
         "IncidentName": "West Valley Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG32-240364",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 485,
+        "OBJECTID": 481,
         "IncidentName": "Taylor - McCone",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG41-000228",
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 338,
+        "OBJECTID": 334,
         "IncidentName": "Morris",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG31-005076",
@@ -897,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 479,
+        "OBJECTID": 475,
         "IncidentName": "Hay",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG08-000124",
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 313,
+        "OBJECTID": 309,
         "IncidentName": "Horse Creek - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000212",
@@ -985,7 +985,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 414,
+        "OBJECTID": 410,
         "IncidentName": "Sage Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000219",
@@ -1029,7 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 473,
+        "OBJECTID": 469,
         "IncidentName": "Riley",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG36-000119",
@@ -1073,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 486,
+        "OBJECTID": 482,
         "IncidentName": "Works - Carter",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG42-000229",
@@ -1117,51 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 279,
-        "IncidentName": "897",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG14-000209",
-        "DailyAcres": 2.9,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1720471379000,
-        "DiscoveryAcres": 1,
-        "POOCounty": "Custer",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1720476647000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "9ffe5d5b-ef97-4b02-94e1-61f3e7035387",
-        "GlobalID": "6ae53c8a-7163-4071-94de-0deec55867bc",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 3
-      },
-      "geometry": {
-        "x": -105.84559999999999,
-        "y": 46.48096700000008
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 388,
+        "OBJECTID": 384,
         "IncidentName": "Ten Mile",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-000370",
@@ -1249,7 +1205,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 238,
+        "OBJECTID": 237,
         "IncidentName": "Bucket",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG17-000114",
@@ -1293,7 +1249,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 357,
+        "OBJECTID": 353,
         "IncidentName": "Greenleaf Cattle - Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000214",
@@ -1337,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 490,
+        "OBJECTID": 486,
         "IncidentName": "Tern 5 - McCone",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG41-000231",
@@ -1381,7 +1337,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 422,
+        "OBJECTID": 418,
         "IncidentName": "Baird Butte - Wibaux",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG52-000224",
@@ -1425,7 +1381,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 493,
+        "OBJECTID": 489,
         "IncidentName": "Tern 7",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000233",
@@ -1469,7 +1425,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 494,
+        "OBJECTID": 490,
         "IncidentName": "Tern 8",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000234",
@@ -1513,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 270,
+        "OBJECTID": 268,
         "IncidentName": "LG18 6245",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG18-246245",
@@ -1557,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 341,
+        "OBJECTID": 337,
         "IncidentName": "LG186245",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTDDC-MTBD186245",
@@ -1591,7 +1547,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "fdf1dc85-9f6e-46b4-b076-db116200bff6",
         "GlobalID": "4e96401b-f88a-4ace-87a6-d6f72b8acaa9",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 3
       },
       "geometry": {
@@ -1601,7 +1557,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 474,
+        "OBJECTID": 470,
         "IncidentName": "Young",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG08-000120",
@@ -1645,7 +1601,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 478,
+        "OBJECTID": 474,
         "IncidentName": "24 north ditch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG08-000122",
@@ -1689,7 +1645,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 491,
+        "OBJECTID": 487,
         "IncidentName": "Tern 6 - McCone",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG41-000232",
@@ -1777,7 +1733,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 476,
+        "OBJECTID": 472,
         "IncidentName": "Hoosac",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG08-000123",
@@ -1821,7 +1777,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 336,
+        "OBJECTID": 332,
         "IncidentName": "202407320-UTV",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG10-202407320",
@@ -1865,7 +1821,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 364,
+        "OBJECTID": 360,
         "IncidentName": "Tern",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCMR-000215",
@@ -1909,7 +1865,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 409,
+        "OBJECTID": 405,
         "IncidentName": "Huffman Lane - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000217",
@@ -1953,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 443,
+        "OBJECTID": 439,
         "IncidentName": "Friday",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000126",
@@ -1997,7 +1953,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 446,
+        "OBJECTID": 442,
         "IncidentName": "Hidden Valley",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-000373",
@@ -2041,7 +1997,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 477,
+        "OBJECTID": 473,
         "IncidentName": "Patrick Hill",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG12-000125",
@@ -2085,7 +2041,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 487,
+        "OBJECTID": 483,
         "IncidentName": "Tern 4",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCMR-000230",
@@ -2129,7 +2085,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 495,
+        "OBJECTID": 491,
         "IncidentName": "Shinnick Hollow - Richland",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG27-000226",
@@ -2173,7 +2129,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 385,
+        "OBJECTID": 381,
         "IncidentName": "RUNNING CRANE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000079",
@@ -2217,7 +2173,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 386,
+        "OBJECTID": 382,
         "IncidentName": "BIKER",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000080",
@@ -2261,7 +2217,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 436,
+        "OBJECTID": 432,
         "IncidentName": "BLEVINS",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000081",
@@ -2295,7 +2251,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "d164340a-93c0-4877-a7e7-96260a216374",
         "GlobalID": "2ba6ec2f-9d4c-47c9-9038-a3c1098f7ded",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 2
       },
       "geometry": {
@@ -2305,7 +2261,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 438,
+        "OBJECTID": 434,
         "IncidentName": "FOX",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000082",
@@ -2339,7 +2295,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "ecc9a339-c4a7-4e4a-a22f-210403efa665",
         "GlobalID": "1e6040fd-02fa-414b-abf1-84b1cc408f9d",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 1
       },
       "geometry": {
@@ -2349,7 +2305,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 439,
+        "OBJECTID": 435,
         "IncidentName": "GAME",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000083",
