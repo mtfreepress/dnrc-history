@@ -369,6 +369,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 519,
+        "IncidentName": "Anderson",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG22-000241",
+        "DailyAcres": 200,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1720801440000,
+        "DiscoveryAcres": 200,
+        "POOCounty": "Big Horn",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1720808666000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "a17436d4-2142-418a-9afd-84eb50363055",
+        "GlobalID": "fcd074a4-cbb4-4af1-906b-31d0b0263ed7",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -106.70183299999997,
+        "y": 45.13816700000007
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 447,
         "IncidentName": "Draw",
         "IncidentTypeCategory": "WF",
@@ -1063,7 +1107,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "cab6dd49-7492-480b-a9b7-95beb1181bcf",
         "GlobalID": "daaa41b8-d3da-4a15-bc97-6af22187d64c",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 9
       },
       "geometry": {
@@ -1733,7 +1777,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 512,
+        "OBJECTID": 511,
         "IncidentName": "Gone",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240373",
@@ -1909,7 +1953,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 514,
+        "OBJECTID": 513,
         "IncidentName": "Taylor Creek 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-246258",
@@ -2393,7 +2437,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 507,
+        "OBJECTID": 506,
         "IncidentName": "Eagle",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-005081",
