@@ -457,6 +457,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 524,
+        "IncidentName": "Deadman",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG29-000236",
+        "DailyAcres": 60,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1720774800000,
+        "DiscoveryAcres": 60,
+        "POOCounty": "Rosebud",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1720793254000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "9779307d-f844-457d-bd79-137755eb073b",
+        "GlobalID": "8ffc6f36-dae2-4d56-b8d5-34189fd2c4ca",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -106.62268299999994,
+        "y": 45.220200000000034
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 360,
         "IncidentName": "Alpha - Rosebud",
         "IncidentTypeCategory": "WF",
@@ -1371,7 +1415,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "53f834b6-fa69-4177-b683-e48c3eb1c11d",
         "GlobalID": "954bbc16-b428-48f4-8a66-dd0002e1b5b1",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 2
       },
       "geometry": {
