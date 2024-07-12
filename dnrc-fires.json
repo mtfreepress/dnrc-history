@@ -2305,6 +2305,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 521,
+        "IncidentName": "Carson Field",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTNWS-000210",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1720751400000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Flathead",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1720757261000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "8953883e-26db-4d81-9ab6-c95b61fee5ae",
+        "GlobalID": "abb2c683-360e-4d3a-8bd6-aeb5370724b1",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -114.88686699999994,
+        "y": 48.060583000000065
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 354,
         "IncidentName": "RUNNING CRANE",
         "IncidentTypeCategory": "WF",
@@ -2384,7 +2428,7 @@
         "IrwinID": "c07a6e17-e670-4cd0-9143-db0a5c075fe4",
         "GlobalID": "dac4339c-8ceb-4700-ad80-682f7efa9ec1",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 3
+        "FireDiscoveryAge": 4
       },
       "geometry": {
         "x": -113.23611109999996,
