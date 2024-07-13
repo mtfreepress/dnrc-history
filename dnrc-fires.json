@@ -2647,7 +2647,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "784204e7-14a2-4b42-8d45-a321f3b745f8",
         "GlobalID": "67a14d66-b98a-4876-bf9b-6a8f93eb803a",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 3
       },
       "geometry": {
@@ -2833,7 +2833,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 508,
+        "OBJECTID": 505,
         "IncidentName": "Hwy 451 Inc 394",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240394",
@@ -2873,50 +2873,6 @@
       "geometry": {
         "x": -107.36366699999996,
         "y": 45.30135000000007
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 510,
-        "IncidentName": "Hwy 451 Inc 390",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTCRA-240390",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1720885440000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Big Horn",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1720889670000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "54632004-4976-415e-9024-dfe2641c0d31",
-        "GlobalID": "52d9aef3-3e2b-4d2d-b66e-3b3d967c5480",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -107.37925899999999,
-        "y": 45.19968800000004
       }
     },
     {
