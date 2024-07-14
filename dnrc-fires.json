@@ -369,6 +369,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 280,
+        "IncidentName": "Deadman",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG29-000236",
+        "DailyAcres": 6200,
+        "CalculatedAcres": 7664.7615,
+        "PercentContained": 4,
+        "ICS209ReportDateTime": 1720962562000,
+        "FireDiscoveryDateTime": 1720774800000,
+        "DiscoveryAcres": 60,
+        "POOCounty": "Rosebud",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": 14,
+        "IncidentManagementOrganization": "Type 3 IC",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": 0,
+        "OtherStructuresDestroyed": 0,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Timber (Grass and Understory)",
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1720994296000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "9779307d-f844-457d-bd79-137755eb073b",
+        "GlobalID": "8ffc6f36-dae2-4d56-b8d5-34189fd2c4ca",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 2
+      },
+      "geometry": {
+        "x": -106.62268299999994,
+        "y": 45.220200000000034
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 287,
         "IncidentName": "Anderson",
         "IncidentTypeCategory": "WF",
@@ -409,50 +453,6 @@
       "geometry": {
         "x": -106.70183299999997,
         "y": 45.13816700000007
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 280,
-        "IncidentName": "Deadman",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG29-000236",
-        "DailyAcres": 3000,
-        "CalculatedAcres": null,
-        "PercentContained": 4,
-        "ICS209ReportDateTime": 1720962562000,
-        "FireDiscoveryDateTime": 1720774800000,
-        "DiscoveryAcres": 60,
-        "POOCounty": "Rosebud",
-        "POOState": "US-MT",
-        "FireCause": "Natural",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": 14,
-        "IncidentManagementOrganization": "Type 3 IC",
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": 0,
-        "OtherStructuresDestroyed": 0,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": "Timber (Grass and Understory)",
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1720992456000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "9779307d-f844-457d-bd79-137755eb073b",
-        "GlobalID": "8ffc6f36-dae2-4d56-b8d5-34189fd2c4ca",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 2
-      },
-      "geometry": {
-        "x": -106.62268299999994,
-        "y": 45.220200000000034
       }
     },
     {
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 433,
+        "OBJECTID": 432,
         "IncidentName": "Lower Flat Willow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG55-000133",
@@ -707,7 +707,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1720965461000,
+        "ModifiedOnDateTime": 1720993690000,
         "IncidentTypeKind": "FI",
         "IrwinID": "f9d03740-583d-49a0-b9a2-9ceef321210b",
         "GlobalID": "70d4e8bd-8aa3-4bf5-a51b-f28dc01bef28",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 411,
+        "OBJECTID": 410,
         "IncidentName": "LG18 6261",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG18-246261",
@@ -1161,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 459,
+        "OBJECTID": 458,
         "IncidentName": "Plum Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCD-000135",
@@ -1293,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 479,
+        "OBJECTID": 478,
         "IncidentName": "Hobble Diamond",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG40-240410",
@@ -1636,7 +1636,7 @@
         "IrwinID": "fba91fe3-801e-460a-99f7-927c49cb4651",
         "GlobalID": "b5ba8084-26f8-4a2c-9fd6-f9d667909647",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
+        "FireDiscoveryAge": 1
       },
       "geometry": {
         "x": -110.02354999999994,
@@ -1689,7 +1689,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 421,
+        "OBJECTID": 420,
         "IncidentName": "220",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000266",
@@ -1767,7 +1767,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "f9614cd6-c871-49f9-aad2-c38ee06fcb00",
         "GlobalID": "b1093f65-d66a-4013-89f3-bc02ee91c00b",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 1
       },
       "geometry": {
@@ -1953,7 +1953,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 538,
+        "OBJECTID": 535,
         "IncidentName": "Five Mile - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000271",
@@ -2173,7 +2173,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 415,
+        "OBJECTID": 414,
         "IncidentName": "Lewis and Clark",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG04-240421",
@@ -2208,7 +2208,7 @@
         "IrwinID": "61c2dd34-f14a-4b73-b174-25e4ee8aed00",
         "GlobalID": "5c99cbdf-bc69-4879-8453-ad204730fd9b",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
+        "FireDiscoveryAge": 1
       },
       "geometry": {
         "x": -114.07699999999994,
@@ -2295,7 +2295,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "745e09d5-c14b-4b62-b4ea-7723801fd453",
         "GlobalID": "50060869-56d6-4b01-938f-53450e9510b1",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 2
       },
       "geometry": {
@@ -2525,7 +2525,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 522,
+        "OBJECTID": 520,
         "IncidentName": "Cemetary - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000270",
@@ -2569,7 +2569,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 481,
+        "OBJECTID": 480,
         "IncidentName": "PARDUE ROAD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000084",
@@ -2613,7 +2613,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 482,
+        "OBJECTID": 481,
         "IncidentName": "CAMPBELL",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000085",
@@ -2657,7 +2657,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 483,
+        "OBJECTID": 482,
         "IncidentName": "FORESTER",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000086",
@@ -2701,7 +2701,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 484,
+        "OBJECTID": 483,
         "IncidentName": "ROOK",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000087",
@@ -2745,7 +2745,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 485,
+        "OBJECTID": 484,
         "IncidentName": "WELLMAN",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000088",
