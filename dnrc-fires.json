@@ -633,50 +633,6 @@
     },
     {
       "attributes": {
-        "OBJECTID": 513,
-        "IncidentName": "Lower Flat Willow",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG55-000133",
-        "DailyAcres": 90,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1720909755000,
-        "DiscoveryAcres": 90,
-        "POOCounty": "Petroleum",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1720924811000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "f9d03740-583d-49a0-b9a2-9ceef321210b",
-        "GlobalID": "70d4e8bd-8aa3-4bf5-a51b-f28dc01bef28",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -108.52709999999996,
-        "y": 46.815600000000074
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 299,
         "IncidentName": "Draw",
         "IncidentTypeCategory": "WF",
@@ -761,6 +717,50 @@
       "geometry": {
         "x": -106.05039999999997,
         "y": 47.89909000000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 512,
+        "IncidentName": "Lower Flat Willow",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG55-000133",
+        "DailyAcres": 77,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1720909755000,
+        "DiscoveryAcres": 90,
+        "POOCounty": "Petroleum",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1720933353000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "f9d03740-583d-49a0-b9a2-9ceef321210b",
+        "GlobalID": "70d4e8bd-8aa3-4bf5-a51b-f28dc01bef28",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -108.52709999999996,
+        "y": 46.815600000000074
       }
     },
     {
@@ -1117,7 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 473,
+        "OBJECTID": 472,
         "IncidentName": "Kelly Creek - Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000265",
@@ -1513,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 483,
+        "OBJECTID": 482,
         "IncidentName": "LG18 6261",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG18-246261",
@@ -1601,7 +1601,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 476,
+        "OBJECTID": 475,
         "IncidentName": "Conant",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCGF-240404",
@@ -1777,7 +1777,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 493,
+        "OBJECTID": 492,
         "IncidentName": "220",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000266",
@@ -2393,7 +2393,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 487,
+        "OBJECTID": 486,
         "IncidentName": "Lewis and Clark",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG04-240421",
