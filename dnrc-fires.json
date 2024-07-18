@@ -448,7 +448,7 @@
         "IrwinID": "a17436d4-2142-418a-9afd-84eb50363055",
         "GlobalID": "fcd074a4-cbb4-4af1-906b-31d0b0263ed7",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 5
+        "FireDiscoveryAge": 6
       },
       "geometry": {
         "x": -106.70183299999997,
@@ -1117,7 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 603,
+        "OBJECTID": 602,
         "IncidentName": "Beck",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000143",
@@ -1503,7 +1503,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "2e1d6302-efaa-4a2e-8ad9-99d77bd037cb",
         "GlobalID": "8a8e3f95-93fd-4098-8ccf-28bb42939597",
-        "ModifiedOnAge": 6,
+        "ModifiedOnAge": 7,
         "FireDiscoveryAge": 7
       },
       "geometry": {
@@ -1909,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 583,
+        "OBJECTID": 582,
         "IncidentName": "Beacon Hill",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLNF-240458",
@@ -1917,7 +1917,7 @@
         "CalculatedAcres": null,
         "PercentContained": null,
         "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1721294637000,
+        "FireDiscoveryDateTime": 1721294580000,
         "DiscoveryAcres": 1.5,
         "POOCounty": "Mineral",
         "POOState": "US-MT",
@@ -1939,7 +1939,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1721314615000,
+        "ModifiedOnDateTime": 1721319418000,
         "IncidentTypeKind": "FI",
         "IrwinID": "92bf7677-38da-4dea-a11d-96066be398dc",
         "GlobalID": "4f7603ed-ca7d-4b77-bdd3-90a7cbfccf96",
@@ -2525,7 +2525,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 609,
+        "OBJECTID": 608,
         "IncidentName": "300 State Hwy 72",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG10-202407832",
@@ -2956,7 +2956,7 @@
         "IrwinID": "d2eead7d-bd21-430e-8df3-3903edc72dce",
         "GlobalID": "61f83d60-5ec7-4227-97d9-8f57779fea74",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 7
+        "FireDiscoveryAge": 8
       },
       "geometry": {
         "x": -106.31890299999998,
@@ -3093,50 +3093,6 @@
       "geometry": {
         "x": -113.22166699999997,
         "y": 45.011450000000025
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 564,
-        "IncidentName": "Hunting",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBDF-246287",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1721262400000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Jefferson",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1721313123000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "4ad34c54-c7cf-4d62-9d73-d005e8536dca",
-        "GlobalID": "80357ebb-d2a2-4271-a252-1bc67a4ac45f",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -111.87999999999994,
-        "y": 46.208533000000045
       }
     },
     {
