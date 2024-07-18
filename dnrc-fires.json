@@ -1117,6 +1117,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 608,
+        "IncidentName": "Beck",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTFPA-000143",
+        "DailyAcres": 31.64,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1721248920000,
+        "DiscoveryAcres": 31.64,
+        "POOCounty": "Roosevelt",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1721317080000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "fe2a9c7d-53ad-45a5-a0b5-6bc750cc912b",
+        "GlobalID": "cf4bd510-fa7a-4a08-ba48-ea2c84175f43",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -105.26666699999998,
+        "y": 48.366667000000064
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 181,
         "IncidentName": "Gordon",
         "IncidentTypeCategory": "WF",
@@ -1569,7 +1613,7 @@
         "DiscoveryAcres": 3,
         "POOCounty": "Garfield",
         "POOState": "US-MT",
-        "FireCause": "Undetermined",
+        "FireCause": "Natural",
         "FireCauseGeneral": null,
         "GACC": "NRCC",
         "TotalIncidentPersonnel": null,
@@ -1587,11 +1631,11 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1721139466000,
+        "ModifiedOnDateTime": 1721317136000,
         "IncidentTypeKind": "FI",
         "IrwinID": "62d78cdf-9c81-4218-a4d0-7f2b08cd2f5c",
         "GlobalID": "b57951a6-45d7-4d41-b258-0a1b6eb3d9af",
-        "ModifiedOnAge": 2,
+        "ModifiedOnAge": 0,
         "FireDiscoveryAge": 4
       },
       "geometry": {
@@ -1855,7 +1899,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "c949937b-ce8a-4505-ab4a-b6ed68091ffc",
         "GlobalID": "d980567c-bc52-4449-95da-54c613bdacdd",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 1
       },
       "geometry": {
@@ -1865,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 590,
+        "OBJECTID": 588,
         "IncidentName": "Beacon Hill",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLNF-240458",
@@ -3009,7 +3053,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 571,
+        "OBJECTID": 569,
         "IncidentName": "Hunting",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246287",
