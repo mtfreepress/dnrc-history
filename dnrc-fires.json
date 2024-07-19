@@ -1513,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 648,
+        "OBJECTID": 647,
         "IncidentName": "Rocky Cliff",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240459",
@@ -1597,6 +1597,50 @@
       "geometry": {
         "x": -106.50009099999994,
         "y": 47.813837000000035
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 641,
+        "IncidentName": "Hilltop",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG03-240457",
+        "DailyAcres": 2.4,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1721346900000,
+        "DiscoveryAcres": 2,
+        "POOCounty": "Musselshell",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1721359917000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "71de067c-16cb-49e4-bbc7-328d57f63f41",
+        "GlobalID": "37df1816-6606-426d-91f2-5af9b7f7d9e6",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -108.58716699999997,
+        "y": 46.227667000000054
       }
     },
     {
@@ -1685,50 +1729,6 @@
       "geometry": {
         "x": -109.15008299999994,
         "y": 47.04638300000005
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 642,
-        "IncidentName": "Hilltop",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG03-240457",
-        "DailyAcres": 2,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1721346900000,
-        "DiscoveryAcres": 2,
-        "POOCounty": "Musselshell",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1721355407000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "71de067c-16cb-49e4-bbc7-328d57f63f41",
-        "GlobalID": "37df1816-6606-426d-91f2-5af9b7f7d9e6",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -108.58716699999997,
-        "y": 46.227667000000054
       }
     },
     {
@@ -2085,7 +2085,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 637,
+        "OBJECTID": 636,
         "IncidentName": "Deep Creek 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240458",
@@ -2701,7 +2701,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 622,
+        "OBJECTID": 621,
         "IncidentName": "Shell Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246290",
