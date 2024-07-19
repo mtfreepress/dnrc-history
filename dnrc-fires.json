@@ -985,6 +985,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 645,
+        "IncidentName": "Rocky Cliff",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG03-240459",
+        "DailyAcres": 33,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1721352619000,
+        "DiscoveryAcres": 2.5,
+        "POOCounty": "Yellowstone",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1721361326000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "ca372ea3-855b-412f-8e45-a5d4ce672d22",
+        "GlobalID": "067e22aa-f476-4a19-b9dc-1c3b397deb5f",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -108.30259999999998,
+        "y": 45.85071700000003
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 531,
         "IncidentName": "Beck",
         "IncidentTypeCategory": "WF",
@@ -1513,50 +1557,6 @@
     },
     {
       "attributes": {
-        "OBJECTID": 647,
-        "IncidentName": "Rocky Cliff",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG03-240459",
-        "DailyAcres": 5,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1721352619000,
-        "DiscoveryAcres": 2.5,
-        "POOCounty": "Yellowstone",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1721357173000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "ca372ea3-855b-412f-8e45-a5d4ce672d22",
-        "GlobalID": "067e22aa-f476-4a19-b9dc-1c3b397deb5f",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -108.30259999999998,
-        "y": 45.85071700000003
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 186,
         "IncidentName": "Sage Creek",
         "IncidentTypeCategory": "WF",
@@ -1601,7 +1601,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 641,
+        "OBJECTID": 640,
         "IncidentName": "Hilltop",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240457",
@@ -2085,7 +2085,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 636,
+        "OBJECTID": 635,
         "IncidentName": "Deep Creek 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240458",
