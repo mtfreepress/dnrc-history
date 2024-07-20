@@ -721,6 +721,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 567,
+        "IncidentName": "Blacktail Canyon",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDF-246294",
+        "DailyAcres": 150,
+        "CalculatedAcres": null,
+        "PercentContained": 0,
+        "ICS209ReportDateTime": 1721447541000,
+        "FireDiscoveryDateTime": 1721421440000,
+        "DiscoveryAcres": 2,
+        "POOCounty": "Silver Bow",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": 62,
+        "IncidentManagementOrganization": "Type 3 IC",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Timber (Grass and Understory)",
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1721447541000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "ebc5eeae-8d72-4837-b8af-ca2d5202eee7",
+        "GlobalID": "bdc68060-7421-4a9e-b206-8ec620206b0a",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.42816699999997,
+        "y": 45.88533300000006
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 272,
         "IncidentName": "Pony Lane",
         "IncidentTypeCategory": "WF",
@@ -805,50 +849,6 @@
       "geometry": {
         "x": -108.52709999999996,
         "y": 46.815600000000074
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 567,
-        "IncidentName": "Blacktail Canyon",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBDF-246294",
-        "DailyAcres": 70,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1721421440000,
-        "DiscoveryAcres": 2,
-        "POOCounty": "Silver Bow",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1721436886000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "ebc5eeae-8d72-4837-b8af-ca2d5202eee7",
-        "GlobalID": "bdc68060-7421-4a9e-b206-8ec620206b0a",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -112.42816699999997,
-        "y": 45.88533300000006
       }
     },
     {
@@ -1063,7 +1063,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "ca372ea3-855b-412f-8e45-a5d4ce672d22",
         "GlobalID": "067e22aa-f476-4a19-b9dc-1c3b397deb5f",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 1
       },
       "geometry": {
