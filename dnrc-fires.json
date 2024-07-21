@@ -536,7 +536,7 @@
         "IrwinID": "5fa5ba0b-e6d5-4953-b96e-9e673066a398",
         "GlobalID": "40101def-6abe-4033-9dff-46c7e69e14eb",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 8
+        "FireDiscoveryAge": 9
       },
       "geometry": {
         "x": -106.69560099999995,
@@ -976,7 +976,7 @@
         "IrwinID": "ebc5eeae-8d72-4837-b8af-ca2d5202eee7",
         "GlobalID": "bdc68060-7421-4a9e-b206-8ec620206b0a",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 1
+        "FireDiscoveryAge": 2
       },
       "geometry": {
         "x": -112.42816699999997,
@@ -1152,7 +1152,7 @@
         "IrwinID": "fe2a9c7d-53ad-45a5-a0b5-6bc750cc912b",
         "GlobalID": "cf4bd510-fa7a-4a08-ba48-ea2c84175f43",
         "ModifiedOnAge": 3,
-        "FireDiscoveryAge": 3
+        "FireDiscoveryAge": 4
       },
       "geometry": {
         "x": -105.26666699999998,
@@ -1328,7 +1328,7 @@
         "IrwinID": "c38e153c-e47e-4893-b414-17ae7272a393",
         "GlobalID": "d3d10bfa-288c-4d93-abcc-64a4132ab0d8",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 5
+        "FireDiscoveryAge": 6
       },
       "geometry": {
         "x": -108.32098999999994,
@@ -1469,6 +1469,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 602,
+        "IncidentName": "Butte Creek - Rosebud",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG29-000310",
+        "DailyAcres": 4.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1721359800000,
+        "DiscoveryAcres": 4.5,
+        "POOCounty": "Rosebud",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1721593698000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "920b3961-3e45-4162-9f83-b4617f07153e",
+        "GlobalID": "d19a4125-e663-44cf-9516-d42dedc2fa8c",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 2
+      },
+      "geometry": {
+        "x": -106.42721699999998,
+        "y": 46.26161700000006
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 379,
         "IncidentName": "Seepay",
         "IncidentTypeCategory": "WF",
@@ -1597,6 +1641,50 @@
       "geometry": {
         "x": -115.15611699999994,
         "y": 47.18741700000004
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 605,
+        "IncidentName": "Liscom Creek - Custer",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG14-000311",
+        "DailyAcres": 1.8,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1721527200000,
+        "DiscoveryAcres": 1.8,
+        "POOCounty": "Custer",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1721594515000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "7c8f3d5f-7051-4339-9c7c-6425c424aae6",
+        "GlobalID": "741b67c5-531b-415e-95c2-247b2115f77b",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -106.06854999999996,
+        "y": 45.804917000000046
       }
     },
     {
@@ -1821,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 590,
+        "OBJECTID": 589,
         "IncidentName": "Hoot - Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000295",
@@ -2085,7 +2173,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 586,
+        "OBJECTID": 585,
         "IncidentName": "Big Sheep Mountain - Prairie",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG45-000307",
@@ -2129,7 +2217,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 591,
+        "OBJECTID": 590,
         "IncidentName": "Pain Tree - Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000308",
@@ -2173,7 +2261,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 596,
+        "OBJECTID": 594,
         "IncidentName": "Canal",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000309",
@@ -2252,7 +2340,7 @@
         "IrwinID": "49861987-df08-4a84-bc3b-a29a5283f5ab",
         "GlobalID": "0499c0cf-0ca1-41a3-b2c5-ea7becda854e",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 2
+        "FireDiscoveryAge": 3
       },
       "geometry": {
         "x": -112.53416669999996,
