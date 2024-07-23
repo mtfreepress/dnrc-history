@@ -2173,6 +2173,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 642,
+        "IncidentName": "Horse Fly 2",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTHLF-000445",
+        "DailyAcres": 0.25,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1721709669000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Lewis and Clark",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1721752720000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "40fde4ad-beb2-49de-804f-fa02c64a4644",
+        "GlobalID": "3f6e5f15-89bf-4e24-9a73-ae3b01537fbc",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.42363299999994,
+        "y": 46.97130000000004
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 111,
         "IncidentName": "West Muddy",
         "IncidentTypeCategory": "WF",
@@ -2614,7 +2658,7 @@
     {
       "attributes": {
         "OBJECTID": 634,
-        "IncidentName": "Burnt Fork Creek",
+        "IncidentName": "Fork",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024231",
         "DailyAcres": 0.1,
@@ -2625,7 +2669,7 @@
         "DiscoveryAcres": 0.1,
         "POOCounty": "Ravalli",
         "POOState": "US-MT",
-        "FireCause": "Undetermined",
+        "FireCause": "Natural",
         "FireCauseGeneral": null,
         "GACC": "NRCC",
         "TotalIncidentPersonnel": null,
@@ -2643,7 +2687,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1721750526000,
+        "ModifiedOnDateTime": 1721752560000,
         "IncidentTypeKind": "FI",
         "IrwinID": "928fe8ad-ec24-4622-9d7a-b8ba1d6ac135",
         "GlobalID": "af718480-92b8-4617-83b5-6b06b28cdf20",
@@ -2657,7 +2701,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 639,
+        "OBJECTID": 638,
         "IncidentName": "Flat Rock",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024229",
