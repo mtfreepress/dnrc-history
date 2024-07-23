@@ -756,7 +756,7 @@
         "IrwinID": "e9226243-f186-4d9b-89f3-49e72701ae0c",
         "GlobalID": "41a579ed-dc0c-4e0b-bc30-2c0679377cd1",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
+        "FireDiscoveryAge": 1
       },
       "geometry": {
         "x": -114.04504799999995,
@@ -1777,6 +1777,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 636,
+        "IncidentName": "Johnsrud",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTSWS-240492",
+        "DailyAcres": 1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1721708491000,
+        "DiscoveryAcres": 0.5,
+        "POOCounty": "Missoula",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1721719113000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "63e86045-1928-46a2-9242-38d49b847977",
+        "GlobalID": "e1f22e65-5915-492c-85e6-29c570f065f2",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -113.65164199999998,
+        "y": 46.91868800000003
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 160,
         "IncidentName": "Tern 7",
         "IncidentTypeCategory": "WF",
@@ -1993,50 +2037,6 @@
       "geometry": {
         "x": -106.85848299999998,
         "y": 46.311833000000036
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 636,
-        "IncidentName": "Johnsrud",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTSWS-240492",
-        "DailyAcres": 0.5,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1721708491000,
-        "DiscoveryAcres": 0.5,
-        "POOCounty": "Missoula",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1721717962000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "63e86045-1928-46a2-9242-38d49b847977",
-        "GlobalID": "e1f22e65-5915-492c-85e6-29c570f065f2",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -113.65164199999998,
-        "y": 46.91868800000003
       }
     },
     {
