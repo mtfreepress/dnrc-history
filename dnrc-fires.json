@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 388,
+        "OBJECTID": 386,
         "IncidentName": "Butler Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-240486",
@@ -799,7 +799,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "c62dfb1c-19e1-4d31-afcc-0915b2613a8a",
         "GlobalID": "70d21fb3-acc0-47e0-90c2-bb72aa773bd9",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 4
       },
       "geometry": {
@@ -844,7 +844,7 @@
         "IrwinID": "3e94349e-54e6-4aa6-8249-444265670028",
         "GlobalID": "9b4f376d-8133-49a8-98f3-23f180da9107",
         "ModifiedOnAge": 7,
-        "FireDiscoveryAge": 7
+        "FireDiscoveryAge": 8
       },
       "geometry": {
         "x": -108.94257499999998,
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 600,
+        "OBJECTID": 594,
         "IncidentName": "Bear Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG08-000166",
@@ -1161,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 495,
+        "OBJECTID": 492,
         "IncidentName": "Hilltop - Dawson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG16-000321",
@@ -1205,7 +1205,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 428,
+        "OBJECTID": 426,
         "IncidentName": "Brackett Butte - Fallon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG39-000317",
@@ -1293,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 510,
+        "OBJECTID": 507,
         "IncidentName": "Bad - Dawson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG16-000323",
@@ -1327,7 +1327,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "fd1a419d-199a-4411-819f-8bdad0be450c",
         "GlobalID": "63dfed18-10d8-4107-9e2d-103b9997e235",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 15
       },
       "geometry": {
@@ -1337,7 +1337,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 534,
+        "OBJECTID": 530,
         "IncidentName": "Morgan Creek - Dawson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG16-000328",
@@ -1381,7 +1381,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 587,
+        "OBJECTID": 582,
         "IncidentName": "Cracker Box - Dawson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG16-000329",
@@ -1425,7 +1425,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 523,
+        "OBJECTID": 520,
         "IncidentName": "Hubbart Dam Road",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNWS-000261",
@@ -1513,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 374,
+        "OBJECTID": 372,
         "IncidentName": "Hercules",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000315",
@@ -1601,7 +1601,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 346,
+        "OBJECTID": 589,
+        "IncidentName": "Muir Creek",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTGNP-000265",
+        "DailyAcres": 5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1721792928000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Flathead",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1721851070000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "6658d510-5e05-450e-9d50-0d348971428c",
+        "GlobalID": "97df34fb-4f3b-4376-9cdc-28eb54c3d63a",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -113.58696699999996,
+        "y": 48.38278600000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 344,
         "IncidentName": "Butte Creek - Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000310",
@@ -1689,51 +1733,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 594,
-        "IncidentName": "Muir Creek",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTGNP-000265",
-        "DailyAcres": 4,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1721792928000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Flathead",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1721844802000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "6658d510-5e05-450e-9d50-0d348971428c",
-        "GlobalID": "97df34fb-4f3b-4376-9cdc-28eb54c3d63a",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -113.58696699999996,
-        "y": 48.38278600000007
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 429,
+        "OBJECTID": 427,
         "IncidentName": "North Butte - Fallon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG39-000318",
@@ -1768,7 +1768,7 @@
         "IrwinID": "d3113f27-bfb1-4821-9ca0-1552e2d0ab0d",
         "GlobalID": "292b0de3-d275-4b73-ad70-6b1c43de977c",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 3
+        "FireDiscoveryAge": 4
       },
       "geometry": {
         "x": -104.09882999999996,
@@ -1821,7 +1821,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 607,
+        "OBJECTID": 601,
         "IncidentName": "Timber Creek - Dawson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG16-000334",
@@ -1865,7 +1865,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 496,
+        "OBJECTID": 493,
         "IncidentName": "Glendive Creek - Dawson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG16-000322",
@@ -1953,7 +1953,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 347,
+        "OBJECTID": 345,
         "IncidentName": "Liscom Creek - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000311",
@@ -1997,7 +1997,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 585,
+        "OBJECTID": 580,
         "IncidentName": "BIA Route 1 West",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000165",
@@ -2041,7 +2041,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 575,
+        "OBJECTID": 570,
         "IncidentName": "Cattleman's",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG17-000160",
@@ -2173,7 +2173,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 611,
+        "OBJECTID": 605,
         "IncidentName": "Deer Creek - Dawson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG16-000335",
@@ -2384,7 +2384,7 @@
         "IrwinID": "39c715f1-c82f-4d73-871b-b20e90e88114",
         "GlobalID": "99d89f1f-b328-494f-ae1f-4a66b894f3be",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 4
+        "FireDiscoveryAge": 5
       },
       "geometry": {
         "x": -107.76021999999995,
@@ -2393,7 +2393,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 364,
+        "OBJECTID": 362,
         "IncidentName": "Calbick",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFNF-000254",
@@ -2437,7 +2437,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 433,
+        "OBJECTID": 431,
         "IncidentName": "Horse Point - Wibaux",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG52-000319",
@@ -2569,7 +2569,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 490,
+        "OBJECTID": 487,
         "IncidentName": "Horse Fly 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-000445",
@@ -2613,7 +2613,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 584,
+        "OBJECTID": 579,
         "IncidentName": "Volvo",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCD-000164",
@@ -2779,7 +2779,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "8e0cf188-46d0-42e5-a8b9-a00bff3f929d",
         "GlobalID": "ab56d9d2-e187-4abf-9073-63f87b78ee1f",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 8
       },
       "geometry": {
@@ -2877,7 +2877,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 341,
+        "OBJECTID": 340,
         "IncidentName": "Canal",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000309",
@@ -2921,7 +2921,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 349,
+        "OBJECTID": 347,
         "IncidentName": "Pole Barn - Fallon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG39-000313",
@@ -2965,7 +2965,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 487,
+        "OBJECTID": 484,
         "IncidentName": "Flat Rock",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024229",
@@ -3009,7 +3009,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 492,
+        "OBJECTID": 489,
         "IncidentName": "Hay Creek - Wibaux",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG52-000320",
@@ -3053,7 +3053,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 515,
+        "OBJECTID": 512,
         "IncidentName": "Ponderosa 1",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-246311",
@@ -3097,7 +3097,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 518,
+        "OBJECTID": 515,
         "IncidentName": "HWY 313 Inc 492",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-240492",
@@ -3141,7 +3141,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 577,
+        "OBJECTID": 572,
         "IncidentName": "Flat Tire",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG17-000161",
@@ -3185,7 +3185,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 579,
+        "OBJECTID": 574,
         "IncidentName": "Homestead",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG24-000162",
@@ -3220,7 +3220,7 @@
         "IrwinID": "891528cb-5e43-46e3-a5bf-87f91b2b50a7",
         "GlobalID": "05099d2d-885d-442a-ba9a-cbbeab1a40a3",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 1
+        "FireDiscoveryAge": 2
       },
       "geometry": {
         "x": -109.13597099999998,
@@ -3229,7 +3229,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 580,
+        "OBJECTID": 575,
         "IncidentName": "Tractor",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG24-000163",
@@ -3273,7 +3273,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 603,
+        "OBJECTID": 597,
         "IncidentName": "Rim - Dawson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG16-000333",
@@ -3317,7 +3317,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 613,
+        "OBJECTID": 607,
         "IncidentName": "Thunderbolt",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG23-240498",
@@ -3347,7 +3347,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1721850092000,
+        "ModifiedOnDateTime": 1721850189000,
         "IncidentTypeKind": "FI",
         "IrwinID": "e47c7a60-3d8c-4876-a5e5-2cec768d10b3",
         "GlobalID": "a7c6456d-d022-40f4-b912-a48b98904b6a",
@@ -3361,7 +3361,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 432,
+        "OBJECTID": 430,
         "IncidentName": "2236 McClellan Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-000440",
@@ -3405,7 +3405,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 403,
+        "OBJECTID": 401,
         "IncidentName": "BIG DRAW",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFHA-000083",
@@ -3449,7 +3449,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 540,
+        "OBJECTID": 535,
         "IncidentName": "POST CREEK",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFHA-000084",
@@ -3493,7 +3493,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 550,
+        "OBJECTID": 545,
         "IncidentName": "MP 18",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-WYYNP-000004",
