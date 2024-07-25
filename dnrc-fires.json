@@ -2599,11 +2599,11 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1721767312000,
+        "ModifiedOnDateTime": 1721921126000,
         "IncidentTypeKind": "FI",
         "IrwinID": "3b73f26c-e628-4e44-bd96-40ecb8f54994",
         "GlobalID": "f70e7fa3-06ef-4839-9a12-c77a82052163",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 0,
         "FireDiscoveryAge": 3
       },
       "geometry": {
@@ -3885,6 +3885,50 @@
       "geometry": {
         "x": -114.34888888999996,
         "y": 47.684722220000026
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 674,
+        "IncidentName": "GARCEAU",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTFHA-000085",
+        "DailyAcres": null,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1721880240000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Lake",
+        "POOState": "US-MT",
+        "FireCause": null,
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1721920531000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "d7050a18-fe81-46b4-9c05-7425a07ffef6",
+        "GlobalID": "e58c85f2-e0bc-4079-8e30-e313b62c30d9",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -114.50816699999996,
+        "y": 47.70633300000003
       }
     }
   ]
