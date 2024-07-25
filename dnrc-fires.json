@@ -800,55 +800,11 @@
         "IrwinID": "e9226243-f186-4d9b-89f3-49e72701ae0c",
         "GlobalID": "41a579ed-dc0c-4e0b-bc30-2c0679377cd1",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 2
+        "FireDiscoveryAge": 3
       },
       "geometry": {
         "x": -114.04504799999995,
         "y": 46.96895100000006
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 664,
-        "IncidentName": "182",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG50-000336",
-        "DailyAcres": 100,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1721882756000,
-        "DiscoveryAcres": 100,
-        "POOCounty": "Garfield",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1721891046000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "ba2da94f-5d9d-41fc-9f17-3ef2e82277b0",
-        "GlobalID": "9d3a77e7-c91c-48d5-9656-d0e7c2b5d5a0",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -107.40504999999996,
-        "y": 47.09150000000005
       }
     },
     {
@@ -1025,6 +981,50 @@
       "geometry": {
         "x": -108.88021999999995,
         "y": 46.168330000000026
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 663,
+        "IncidentName": "182",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG50-000336",
+        "DailyAcres": 45.3,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1721882756000,
+        "DiscoveryAcres": 45.3,
+        "POOCounty": "Garfield",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1721892335000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "ba2da94f-5d9d-41fc-9f17-3ef2e82277b0",
+        "GlobalID": "9d3a77e7-c91c-48d5-9656-d0e7c2b5d5a0",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -107.40313299999997,
+        "y": 47.09395000000006
       }
     },
     {
@@ -2301,50 +2301,6 @@
       "geometry": {
         "x": -105.02146199999999,
         "y": 47.266174000000035
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 662,
-        "IncidentName": "Town Pump",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTSWS-240515",
-        "DailyAcres": 1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1721887017000,
-        "DiscoveryAcres": 0.25,
-        "POOCounty": "Missoula",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1721889904000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "bd9bb0fd-94ec-4e79-b31c-6b9b04385859",
-        "GlobalID": "4682b1ac-2222-4279-8001-6c20203841dc",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -113.89009999999996,
-        "y": 46.87468300000006
       }
     },
     {
