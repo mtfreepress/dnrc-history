@@ -975,7 +975,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "8f8cf6e1-bb29-4b84-b6ae-8a3732ea5a2c",
         "GlobalID": "065fd068-f253-41ff-b670-355d26a2b5fa",
-        "ModifiedOnAge": 6,
+        "ModifiedOnAge": 7,
         "FireDiscoveryAge": 7
       },
       "geometry": {
@@ -1279,7 +1279,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1722003366000,
+        "ModifiedOnDateTime": 1722004564000,
         "IncidentTypeKind": "FI",
         "IrwinID": "6658d510-5e05-450e-9d50-0d348971428c",
         "GlobalID": "97df34fb-4f3b-4376-9cdc-28eb54c3d63a",
@@ -1909,50 +1909,6 @@
     },
     {
       "attributes": {
-        "OBJECTID": 698,
-        "IncidentName": "McGuire",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTKNF-000168",
-        "DailyAcres": 5,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1721964822000,
-        "DiscoveryAcres": 5,
-        "POOCounty": "Lincoln",
-        "POOState": "US-MT",
-        "FireCause": "Natural",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1722000963000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "9c85cfbc-ef31-4244-a338-cb06a184b297",
-        "GlobalID": "ee46e33c-e0af-4750-a2e6-c525c58f9f0c",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -115.22598299999999,
-        "y": 48.67631200000005
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 533,
         "IncidentName": "West Tie Creek",
         "IncidentTypeCategory": "WF",
@@ -1987,7 +1943,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "929e4df4-a986-4d8b-a433-aff00593534d",
         "GlobalID": "21761d3c-3596-4f5f-9572-243b81e6be6d",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 1
       },
       "geometry": {
@@ -2173,6 +2129,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 698,
+        "IncidentName": "McGuire",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTKNF-000168",
+        "DailyAcres": 2,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1721964822000,
+        "DiscoveryAcres": 2,
+        "POOCounty": "Lincoln",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1722004701000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "9c85cfbc-ef31-4244-a338-cb06a184b297",
+        "GlobalID": "ee46e33c-e0af-4750-a2e6-c525c58f9f0c",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -115.22598299999999,
+        "y": 48.67631200000005
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 409,
         "IncidentName": "BIA Route 1 West",
         "IncidentTypeCategory": "WF",
@@ -2295,7 +2295,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "f741c118-57a1-45dd-91ed-9c9e47b38fd4",
         "GlobalID": "26916f31-7cf5-41cf-a601-99e768fc378a",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 2
       },
       "geometry": {
@@ -2999,7 +2999,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "5c574308-bc16-4d04-88a4-8f6e13a2a598",
         "GlobalID": "f2838300-42d3-469d-b007-fba1b03a1abb",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 3
       },
       "geometry": {
