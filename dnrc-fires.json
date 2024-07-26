@@ -1513,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 693,
+        "OBJECTID": 688,
         "IncidentName": "Shackleford",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG34-000178",
@@ -1909,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 692,
+        "OBJECTID": 687,
         "IncidentName": "Aberdeen",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240511",
@@ -2119,7 +2119,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "f8a3a1d7-9cbd-4848-975e-6ef27e7993e4",
         "GlobalID": "cecd83cc-1194-4f20-975b-9f3fb4c1d129",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 1
       },
       "geometry": {
@@ -2525,6 +2525,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 644,
+        "IncidentName": "Johnson",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBRF-024261",
+        "DailyAcres": 1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1721949840000,
+        "DiscoveryAcres": 0.5,
+        "POOCounty": "Ravalli",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1722012779000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "e2e54cdb-3f3e-4820-b140-2f0b4dc45dfc",
+        "GlobalID": "2a46616e-7f19-4140-b357-c57e3e44c6b9",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -113.71416699999997,
+        "y": 45.86650000000003
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 681,
         "IncidentName": "St. John's RD",
         "IncidentTypeCategory": "WF",
@@ -2609,50 +2653,6 @@
       "geometry": {
         "x": -114.82631699999996,
         "y": 47.987333000000035
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 644,
-        "IncidentName": "Johnson",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBRF-024261",
-        "DailyAcres": 0.5,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1721949840000,
-        "DiscoveryAcres": 0.5,
-        "POOCounty": "Ravalli",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1722008093000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "e2e54cdb-3f3e-4820-b140-2f0b4dc45dfc",
-        "GlobalID": "2a46616e-7f19-4140-b357-c57e3e44c6b9",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -113.70043099999998,
-        "y": 45.85039400000005
       }
     },
     {
@@ -3461,7 +3461,7 @@
         "DiscoveryAcres": 0.1,
         "POOCounty": "Powell",
         "POOState": "US-MT",
-        "FireCause": "Undetermined",
+        "FireCause": "Natural",
         "FireCauseGeneral": null,
         "GACC": "NRCC",
         "TotalIncidentPersonnel": null,
@@ -3479,7 +3479,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1721938358000,
+        "ModifiedOnDateTime": 1722012486000,
         "IncidentTypeKind": "FI",
         "IrwinID": "ea6e4d7f-3083-42d7-8db8-ef2c84b6b752",
         "GlobalID": "f1858e1f-fa91-4f5b-8795-8c93ed9f2f07",
@@ -3549,7 +3549,7 @@
         "DiscoveryAcres": 0.1,
         "POOCounty": "Lewis and Clark",
         "POOState": "US-MT",
-        "FireCause": "Undetermined",
+        "FireCause": "Natural",
         "FireCauseGeneral": null,
         "GACC": "NRCC",
         "TotalIncidentPersonnel": null,
@@ -3567,7 +3567,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1721938112000,
+        "ModifiedOnDateTime": 1722012267000,
         "IncidentTypeKind": "FI",
         "IrwinID": "a99380ce-c0de-4425-9d8c-e48448945fa5",
         "GlobalID": "f233b6f9-e6c8-4189-863f-b62276283230",
