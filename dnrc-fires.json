@@ -1293,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 681,
+        "OBJECTID": 680,
         "IncidentName": "Three Bar",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000340",
@@ -2173,50 +2173,6 @@
     },
     {
       "attributes": {
-        "OBJECTID": 674,
-        "IncidentName": "Fraser",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLNF-240536",
-        "DailyAcres": 2,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1721950140000,
-        "DiscoveryAcres": 2,
-        "POOCounty": "Missoula",
-        "POOState": "US-MT",
-        "FireCause": "Natural",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1721959274000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "d5edf325-4355-4f42-b5ab-45d2a15129da",
-        "GlobalID": "5ca678ca-d8cb-4d81-bbee-b6d2b5aebac3",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -113.92683299999999,
-        "y": 46.96033300000005
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 420,
         "IncidentName": "BIA Route 1 West",
         "IncidentTypeCategory": "WF",
@@ -2525,6 +2481,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 674,
+        "IncidentName": "Fraser",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLNF-240536",
+        "DailyAcres": 0.8,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1721950140000,
+        "DiscoveryAcres": 2,
+        "POOCounty": "Missoula",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1721965313000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "d5edf325-4355-4f42-b5ab-45d2a15129da",
+        "GlobalID": "5ca678ca-d8cb-4d81-bbee-b6d2b5aebac3",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -113.92691699999995,
+        "y": 46.95986700000003
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 668,
         "IncidentName": "Castle Rock",
         "IncidentTypeCategory": "WF",
@@ -2569,7 +2569,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 685,
+        "OBJECTID": 684,
         "IncidentName": "Johnson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024261",
@@ -2613,7 +2613,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 688,
+        "OBJECTID": 687,
         "IncidentName": "Silcox Park",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLNF-240539",
