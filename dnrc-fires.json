@@ -2731,7 +2731,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1721953896000,
+        "ModifiedOnDateTime": 1722017606000,
         "IncidentTypeKind": "FI",
         "IrwinID": "31f6b444-eef8-4f4d-bfd3-28dedda5f571",
         "GlobalID": "dfd49c72-89ff-4161-8e68-b4d015a14eb1",
@@ -3351,7 +3351,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "c4f6665d-4946-47c6-92e6-076980a610f6",
         "GlobalID": "8d773a90-563a-4a06-9851-251b8c62f985",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 1
       },
       "geometry": {
@@ -3537,7 +3537,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 673,
+        "OBJECTID": 672,
         "IncidentName": "Edwards Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-246331",
@@ -3577,6 +3577,50 @@
       "geometry": {
         "x": -113.15573299999994,
         "y": 46.72365000000008
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 680,
+        "IncidentName": "Seeley Creek",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLNF-240544",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1722014169000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Missoula",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1722018162000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "e8abbb16-a003-4ca7-a391-7a49819b2f3a",
+        "GlobalID": "a912e21b-d787-4b50-96aa-e00d53474a58",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -113.47518299999996,
+        "y": 47.18566700000008
       }
     },
     {
