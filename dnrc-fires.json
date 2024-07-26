@@ -1909,6 +1909,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 707,
+        "IncidentName": "McGuire",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTKNF-000168",
+        "DailyAcres": 5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1721964822000,
+        "DiscoveryAcres": 5,
+        "POOCounty": "Lincoln",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1722000963000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "9c85cfbc-ef31-4244-a338-cb06a184b297",
+        "GlobalID": "ee46e33c-e0af-4750-a2e6-c525c58f9f0c",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -115.22598299999999,
+        "y": 48.67631200000005
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 538,
         "IncidentName": "West Tie Creek",
         "IncidentTypeCategory": "WF",
@@ -2169,6 +2213,50 @@
       "geometry": {
         "x": -105.25614999999999,
         "y": 48.11457000000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 706,
+        "IncidentName": "Hay Coulee",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTNCD-000173",
+        "DailyAcres": 1.6,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1721957611000,
+        "DiscoveryAcres": 1.6,
+        "POOCounty": "Petroleum",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1722000525000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "8046cd65-57d9-4a9e-8b1c-de71bd5c0e20",
+        "GlobalID": "721a79ba-747a-4d26-97d7-a6c1005cee65",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -108.10966699999994,
+        "y": 47.48300000000006
       }
     },
     {
