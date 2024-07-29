@@ -809,50 +809,6 @@
     },
     {
       "attributes": {
-        "OBJECTID": 377,
-        "IncidentName": "Grouse",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBDF-246327",
-        "DailyAcres": 185,
-        "CalculatedAcres": 76.7158,
-        "PercentContained": 0,
-        "ICS209ReportDateTime": 1722210884000,
-        "FireDiscoveryDateTime": 1721949051000,
-        "DiscoveryAcres": 0.25,
-        "POOCounty": "Beaverhead",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": 60,
-        "IncidentManagementOrganization": "Type 3 Team",
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": "Timber (Litter and Understory)",
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1722214016000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "4168d580-a2a8-4752-9a78-b28968574e5d",
-        "GlobalID": "3fe750a9-d03a-474c-80f4-106bd8b074bf",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 3
-      },
-      "geometry": {
-        "x": -113.11116699999997,
-        "y": 45.69033300000007
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 319,
         "IncidentName": "MILL POCKET",
         "IncidentTypeCategory": "WF",
@@ -937,6 +893,50 @@
       "geometry": {
         "x": -114.49027779999994,
         "y": 47.758055600000034
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 377,
+        "IncidentName": "Grouse",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDF-246327",
+        "DailyAcres": 100,
+        "CalculatedAcres": 76.7158,
+        "PercentContained": 0,
+        "ICS209ReportDateTime": 1722210884000,
+        "FireDiscoveryDateTime": 1721949051000,
+        "DiscoveryAcres": 0.25,
+        "POOCounty": "Beaverhead",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": 60,
+        "IncidentManagementOrganization": "Type 3 Team",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Timber (Litter and Understory)",
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1722227821000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "4168d580-a2a8-4752-9a78-b28968574e5d",
+        "GlobalID": "3fe750a9-d03a-474c-80f4-106bd8b074bf",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 3
+      },
+      "geometry": {
+        "x": -113.11116699999997,
+        "y": 45.69033300000007
       }
     },
     {
