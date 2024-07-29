@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 495,
+        "OBJECTID": 493,
         "IncidentName": "Diamond",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG40-240525",
@@ -897,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 370,
+        "OBJECTID": 369,
         "IncidentName": "Grouse",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246327",
@@ -1029,7 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 400,
+        "OBJECTID": 399,
         "IncidentName": "Horse Canyon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-246335",
@@ -1073,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 387,
+        "OBJECTID": 386,
         "IncidentName": "71 - Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000346",
@@ -1205,7 +1205,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 460,
+        "OBJECTID": 458,
         "IncidentName": "Tree Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000324",
@@ -1249,7 +1249,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 396,
+        "OBJECTID": 395,
         "IncidentName": "Ringling",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG47-000468",
@@ -1293,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 569,
+        "OBJECTID": 568,
         "IncidentName": "Hughes Point",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024271",
@@ -1689,7 +1689,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 360,
+        "OBJECTID": 359,
         "IncidentName": "Shackleford",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG34-000178",
@@ -1777,7 +1777,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 554,
+        "OBJECTID": 552,
         "IncidentName": "Badger Hole 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000182",
@@ -1953,7 +1953,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 368,
+        "OBJECTID": 353,
+        "IncidentName": "Bass Creek",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBRF-024246",
+        "DailyAcres": 11,
+        "CalculatedAcres": 14.8567,
+        "PercentContained": 0,
+        "ICS209ReportDateTime": 1722206264000,
+        "FireDiscoveryDateTime": 1721966760000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Ravalli",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": 56,
+        "IncidentManagementOrganization": "Type 4 IC",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Timber (Litter and Understory)",
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1722263005000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "bc5717b7-00ba-4a6f-871c-e68fca46e8f9",
+        "GlobalID": "f91d4d22-45e8-440c-9850-c5b0e5e303c2",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 3
+      },
+      "geometry": {
+        "x": -114.19532999999996,
+        "y": 46.59436000000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 367,
         "IncidentName": "Whiskey Ridge",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG08-000179",
@@ -1997,7 +2041,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 359,
+        "OBJECTID": 358,
         "IncidentName": "Plantation",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000177",
@@ -2041,51 +2085,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 353,
-        "IncidentName": "Bass Creek",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBRF-024246",
-        "DailyAcres": 5,
-        "CalculatedAcres": 436.7251,
-        "PercentContained": 0,
-        "ICS209ReportDateTime": 1722206264000,
-        "FireDiscoveryDateTime": 1721966760000,
-        "DiscoveryAcres": null,
-        "POOCounty": "Ravalli",
-        "POOState": "US-MT",
-        "FireCause": "Natural",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": 56,
-        "IncidentManagementOrganization": "Type 4 IC",
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": "Timber (Litter and Understory)",
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1722206264000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "bc5717b7-00ba-4a6f-871c-e68fca46e8f9",
-        "GlobalID": "f91d4d22-45e8-440c-9850-c5b0e5e303c2",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 3
-      },
-      "geometry": {
-        "x": -114.18583329999996,
-        "y": 46.59277780000008
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 555,
+        "OBJECTID": 553,
         "IncidentName": "Tange",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG34-000183",
@@ -2129,7 +2129,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 531,
+        "OBJECTID": 529,
         "IncidentName": "St Phillips - Wibaux",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG52-000353",
@@ -2173,7 +2173,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 382,
+        "OBJECTID": 381,
         "IncidentName": "Renz Creek - Richland",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG27-000343",
@@ -2261,7 +2261,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 357,
+        "OBJECTID": 356,
         "IncidentName": "St. John's RD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG34-000175",
@@ -2305,7 +2305,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 565,
+        "OBJECTID": 564,
         "IncidentName": "LG18 6343",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG18-246343",
@@ -2437,7 +2437,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 385,
+        "OBJECTID": 384,
         "IncidentName": "OBrien Creek - Richland",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG27-000344",
@@ -2481,7 +2481,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 358,
+        "OBJECTID": 357,
         "IncidentName": "Bud rd",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG24-000176",
@@ -2525,7 +2525,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 551,
+        "OBJECTID": 549,
         "IncidentName": "Bud Rd",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG24-000180",
@@ -2657,7 +2657,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 543,
+        "OBJECTID": 541,
         "IncidentName": "Eagle",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024270",
@@ -2701,7 +2701,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 615,
+        "OBJECTID": 614,
         "IncidentName": "6246 Glass Drive",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-000487",
@@ -2745,7 +2745,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 616,
+        "OBJECTID": 615,
         "IncidentName": "Coakley",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240538",
@@ -2833,7 +2833,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 364,
+        "OBJECTID": 363,
         "IncidentName": "Edwards Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-246331",
@@ -2877,7 +2877,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 388,
+        "OBJECTID": 387,
         "IncidentName": "CR 118 - Richland",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG27-000345",
@@ -2921,7 +2921,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 418,
+        "OBJECTID": 417,
         "IncidentName": "Kootenai Lakes",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024262",
@@ -2965,7 +2965,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 459,
+        "OBJECTID": 457,
         "IncidentName": "Holland Peak",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFNF-000291",
@@ -3009,7 +3009,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 556,
+        "OBJECTID": 554,
         "IncidentName": "Walker",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG17-000184",
@@ -3053,7 +3053,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 552,
+        "OBJECTID": 550,
         "IncidentName": "Pink",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG17-000181",
