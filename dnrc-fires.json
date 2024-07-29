@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 100,
+        "OBJECTID": 106,
         "IncidentName": "Deadman",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000236",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 104,
+        "OBJECTID": 110,
         "IncidentName": "McGhee",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000245",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 88,
+        "OBJECTID": 94,
         "IncidentName": "Horse Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-000367",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 118,
+        "OBJECTID": 124,
         "IncidentName": "Prairie",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000249",
@@ -491,7 +491,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "5fa5ba0b-e6d5-4953-b96e-9e673066a398",
         "GlobalID": "40101def-6abe-4033-9dff-46c7e69e14eb",
-        "ModifiedOnAge": 6,
+        "ModifiedOnAge": 7,
         "FireDiscoveryAge": 16
       },
       "geometry": {
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 325,
+        "OBJECTID": 328,
         "IncidentName": "Gilbert Ranch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-005101",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 119,
+        "OBJECTID": 125,
         "IncidentName": "Miller Peak",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLNF-240427",
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 110,
+        "OBJECTID": 116,
         "IncidentName": "Four Mile",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-000262",
@@ -677,7 +677,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 186,
+        "OBJECTID": 551,
+        "IncidentName": "LG18 6343",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG18-246343",
+        "DailyAcres": 600,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1722199390000,
+        "DiscoveryAcres": 1,
+        "POOCounty": "Beaverhead",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1722271776000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "62c9dbbe-20a5-4b9f-b560-125525f6a0fc",
+        "GlobalID": "9c2f5c12-07fd-4fe2-a06f-ae675f0ebc7c",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.76104999999995,
+        "y": 45.23696700000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 194,
         "IncidentName": "Tullock Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-240467",
@@ -721,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 316,
+        "OBJECTID": 320,
         "IncidentName": "MILL POCKET",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFHA-000088",
@@ -765,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 337,
+        "OBJECTID": 340,
         "IncidentName": "SULLIVAN",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFHA-000089",
@@ -809,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 363,
+        "OBJECTID": 364,
         "IncidentName": "Grouse",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246327",
@@ -853,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 198,
+        "OBJECTID": 206,
         "IncidentName": "Pennel Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG39-000304",
@@ -887,7 +931,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "1dcb5b1c-7b7f-4a73-9e6b-ed61bec189e5",
         "GlobalID": "fc9db09c-d094-41d9-9e7e-3c76710a2981",
-        "ModifiedOnAge": 6,
+        "ModifiedOnAge": 7,
         "FireDiscoveryAge": 9
       },
       "geometry": {
@@ -897,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 180,
+        "OBJECTID": 188,
         "IncidentName": "Blacktail Canyon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246294",
@@ -941,7 +985,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 393,
+        "OBJECTID": 394,
         "IncidentName": "Horse Canyon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-246335",
@@ -985,7 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 380,
+        "OBJECTID": 381,
         "IncidentName": "71 - Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000346",
@@ -1029,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 285,
+        "OBJECTID": 290,
         "IncidentName": "Hawaiian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG53-240502",
@@ -1073,7 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 301,
+        "OBJECTID": 305,
         "IncidentName": "182",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000336",
@@ -1117,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 451,
+        "OBJECTID": 452,
         "IncidentName": "Tree Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000324",
@@ -1161,7 +1205,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 389,
+        "OBJECTID": 390,
         "IncidentName": "Ringling",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG47-000468",
@@ -1205,7 +1249,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 557,
+        "OBJECTID": 555,
         "IncidentName": "Hughes Point",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024271",
@@ -1213,7 +1257,7 @@
         "CalculatedAcres": null,
         "PercentContained": null,
         "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1722202404000,
+        "FireDiscoveryDateTime": 1722202380000,
         "DiscoveryAcres": 0.1,
         "POOCounty": "Ravalli",
         "POOState": "US-MT",
@@ -1235,7 +1279,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1722224355000,
+        "ModifiedOnDateTime": 1722272309000,
         "IncidentTypeKind": "FI",
         "IrwinID": "cd34c85c-f602-4782-8771-5e39bf03635e",
         "GlobalID": "c28c8aaf-d95b-4422-94fa-6b47e6af21f2",
@@ -1249,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 266,
+        "OBJECTID": 271,
         "IncidentName": "Bear Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG08-000166",
@@ -1293,7 +1337,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 265,
+        "OBJECTID": 270,
         "IncidentName": "Muir Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTGNP-000265",
@@ -1337,51 +1381,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 246,
-        "IncidentName": "Hilltop - Dawson",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG16-000321",
-        "DailyAcres": 28.8,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1721254800000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Dawson",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1721756043000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "d5d19b04-6edb-4ea9-b0fa-c31f43e4530a",
-        "GlobalID": "c4b7a530-4cc5-4ced-a38b-c325ff4dc391",
-        "ModifiedOnAge": 5,
-        "FireDiscoveryAge": 11
-      },
-      "geometry": {
-        "x": -105.08408599999996,
-        "y": 47.297161000000074
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 101,
+        "OBJECTID": 107,
         "IncidentName": "Thompson Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240376",
@@ -1416,7 +1416,7 @@
         "IrwinID": "5dcf8b4d-9fed-4de2-be3f-dd58f8c89319",
         "GlobalID": "918b0585-67e5-4c6a-9543-c8e0d706148e",
         "ModifiedOnAge": 4,
-        "FireDiscoveryAge": 16
+        "FireDiscoveryAge": 17
       },
       "geometry": {
         "x": -107.07149999999996,
@@ -1425,51 +1425,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 232,
-        "IncidentName": "Brackett Butte - Fallon",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG39-000317",
-        "DailyAcres": 25.4,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1721509200000,
-        "DiscoveryAcres": 1,
-        "POOCounty": "Fallon",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1721685928000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "3e4ddcc4-f95e-49db-a613-728ee6fd37b3",
-        "GlobalID": "fb0da171-b9b6-47f2-8a2e-39a77ab48ca0",
-        "ModifiedOnAge": 6,
-        "FireDiscoveryAge": 8
-      },
-      "geometry": {
-        "x": -104.22246999999999,
-        "y": 46.29215000000005
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 89,
+        "OBJECTID": 95,
         "IncidentName": "Rock",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000213",
@@ -1503,7 +1459,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "f887ce5d-f4cb-4385-a9ff-ca5b48beba55",
         "GlobalID": "cef66835-1386-4cd1-9dbf-6f29c419fc36",
-        "ModifiedOnAge": 6,
+        "ModifiedOnAge": 7,
         "FireDiscoveryAge": 19
       },
       "geometry": {
@@ -1513,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 306,
+        "OBJECTID": 310,
         "IncidentName": "HAYMAKER",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFHA-000087",
@@ -1557,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 289,
+        "OBJECTID": 294,
         "IncidentName": "Swamp",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG53-240503",
@@ -1601,7 +1557,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 353,
+        "OBJECTID": 356,
         "IncidentName": "Shackleford",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG34-000178",
@@ -1645,7 +1601,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 248,
+        "OBJECTID": 253,
         "IncidentName": "Bad - Dawson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG16-000323",
@@ -1689,7 +1645,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 541,
+        "OBJECTID": 540,
         "IncidentName": "Badger Hole 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000182",
@@ -1733,7 +1689,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 252,
+        "OBJECTID": 257,
         "IncidentName": "Morgan Creek - Dawson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG16-000328",
@@ -1777,7 +1733,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 263,
+        "OBJECTID": 268,
         "IncidentName": "Cracker Box - Dawson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG16-000329",
@@ -1821,7 +1777,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 330,
+        "OBJECTID": 333,
         "IncidentName": "Deer Hollow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024258",
@@ -1855,7 +1811,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "c721b4ce-35a5-4aee-8fb3-dee2ff5a85d5",
         "GlobalID": "147a03c9-aeb9-4b94-a1c3-d8621731fe96",
-        "ModifiedOnAge": 2,
+        "ModifiedOnAge": 3,
         "FireDiscoveryAge": 3
       },
       "geometry": {
@@ -1865,7 +1821,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 350,
+        "OBJECTID": 353,
         "IncidentName": "Bass Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024246",
@@ -1909,7 +1865,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 361,
+        "OBJECTID": 362,
         "IncidentName": "Whiskey Ridge",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG08-000179",
@@ -1944,7 +1900,7 @@
         "IrwinID": "f2bfad13-58c6-4f88-aa00-8512f3b722a9",
         "GlobalID": "170b79f3-b631-4b85-b2d7-a1bacb68262a",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 2
+        "FireDiscoveryAge": 3
       },
       "geometry": {
         "x": -109.49411699999996,
@@ -1953,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 542,
+        "OBJECTID": 541,
         "IncidentName": "Tange",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG34-000183",
@@ -2041,7 +1997,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 375,
+        "OBJECTID": 376,
         "IncidentName": "Renz Creek - Richland",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG27-000343",
@@ -2085,7 +2041,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 344,
+        "OBJECTID": 347,
         "IncidentName": "Johnson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024261",
@@ -2125,50 +2081,6 @@
       "geometry": {
         "x": -113.71416699999997,
         "y": 45.86650000000003
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 553,
-        "IncidentName": "LG18 6343",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG18-246343",
-        "DailyAcres": 1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1722199390000,
-        "DiscoveryAcres": 1,
-        "POOCounty": "Beaverhead",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1722216987000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "62c9dbbe-20a5-4b9f-b560-125525f6a0fc",
-        "GlobalID": "9c2f5c12-07fd-4fe2-a06f-ae675f0ebc7c",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -112.76104999999995,
-        "y": 45.23696700000005
       }
     },
     {
@@ -2217,7 +2129,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 315,
+        "OBJECTID": 319,
         "IncidentName": "Railroad",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024251",
@@ -2261,7 +2173,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 378,
+        "OBJECTID": 379,
         "IncidentName": "OBrien Creek - Richland",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG27-000344",
@@ -2305,7 +2217,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 538,
+        "OBJECTID": 537,
         "IncidentName": "Bud Rd",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG24-000180",
@@ -2393,7 +2305,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 46,
+        "OBJECTID": 51,
         "IncidentName": "CFS2406-3078",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024154",
@@ -2437,7 +2349,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 530,
+        "OBJECTID": 529,
         "IncidentName": "Eagle",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024270",
@@ -2481,7 +2393,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 600,
+        "OBJECTID": 596,
         "IncidentName": "6246 Glass Drive",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-000487",
@@ -2525,7 +2437,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 601,
+        "OBJECTID": 597,
         "IncidentName": "Coakley",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240538",
@@ -2569,51 +2481,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 322,
-        "IncidentName": "Middleman",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTHLF-000456",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1721873160000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Lewis and Clark",
-        "POOState": "US-MT",
-        "FireCause": "Natural",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1722012267000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "a99380ce-c0de-4425-9d8c-e48448945fa5",
-        "GlobalID": "f233b6f9-e6c8-4189-863f-b62276283230",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 4
-      },
-      "geometry": {
-        "x": -111.64070699999996,
-        "y": 46.78580200000005
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 357,
+        "OBJECTID": 358,
         "IncidentName": "Edwards Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-246331",
@@ -2657,7 +2525,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 381,
+        "OBJECTID": 382,
         "IncidentName": "CR 118 - Richland",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG27-000345",
@@ -2701,7 +2569,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 411,
+        "OBJECTID": 412,
         "IncidentName": "Kootenai Lakes",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024262",
@@ -2745,7 +2613,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 450,
+        "OBJECTID": 451,
         "IncidentName": "Holland Peak",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFNF-000291",
@@ -2789,7 +2657,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 543,
+        "OBJECTID": 542,
         "IncidentName": "Walker",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG17-000184",
@@ -2833,7 +2701,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 539,
+        "OBJECTID": 538,
         "IncidentName": "Pink",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG17-000181",
