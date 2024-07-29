@@ -1293,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 581,
+        "OBJECTID": 580,
         "IncidentName": "Hughes Point",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024271",
@@ -2305,7 +2305,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 577,
+        "OBJECTID": 576,
         "IncidentName": "LG18 6343",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG18-246343",
@@ -2349,7 +2349,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 603,
+        "OBJECTID": 602,
         "IncidentName": "Bunch Grass",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000174",
@@ -2789,7 +2789,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 632,
+        "OBJECTID": 631,
         "IncidentName": "6246 Glass Drive",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-000487",
@@ -2833,7 +2833,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 633,
+        "OBJECTID": 632,
         "IncidentName": "Coakley",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDC-240538",
@@ -2873,6 +2873,50 @@
       "geometry": {
         "x": -108.69028999999995,
         "y": 45.90769000000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 636,
+        "IncidentName": "HILLSBORO",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBIP-000242",
+        "DailyAcres": 0.2,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1722211680000,
+        "DiscoveryAcres": 0.2,
+        "POOCounty": "Carbon",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "RMCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1722223505000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "e675091f-e9c9-4fc8-a0c7-8609e1060873",
+        "GlobalID": "91a838ce-3918-42f9-a0f5-94c9f99cb7b7",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -108.23389499999996,
+        "y": 45.099563000000046
       }
     },
     {
@@ -3097,7 +3141,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 568,
+        "OBJECTID": 567,
         "IncidentName": "Walker",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG17-000184",
