@@ -580,7 +580,7 @@
         "IrwinID": "a555e5c6-597e-4a0b-a63a-f1a157fc194b",
         "GlobalID": "abed48b8-20c9-4486-a88d-8be032da5086",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 14
+        "FireDiscoveryAge": 15
       },
       "geometry": {
         "x": -113.86633299999994,
@@ -751,7 +751,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1722291876000,
+        "ModifiedOnDateTime": 1722292695000,
         "IncidentTypeKind": "FI",
         "IrwinID": "9d7d11ff-d921-4d0e-ac86-9f6c9e220915",
         "GlobalID": "3852c636-bbfc-4ce6-ba70-154b3a6ccdbd",
@@ -1025,6 +1025,50 @@
       "geometry": {
         "x": -113.49108299999995,
         "y": 46.42441700000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 614,
+        "IncidentName": "Black Mountain",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTHLF-000492",
+        "DailyAcres": 50,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1722286612000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Lewis and Clark",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1722292491000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "5724f00e-4ccb-47c3-b234-f53706386be8",
+        "GlobalID": "2b2c2ab5-1dd2-4121-8230-4b73382ede77",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.77244399999995,
+        "y": 47.01202800000004
       }
     },
     {
@@ -1821,7 +1865,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 622,
+        "OBJECTID": 621,
         "IncidentName": "Red Rock",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000356",
@@ -1953,7 +1997,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 618,
+        "OBJECTID": 617,
         "IncidentName": "Sasse Baler",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG53-240543",
@@ -1993,50 +2037,6 @@
       "geometry": {
         "x": -109.04789199999999,
         "y": 46.13500700000003
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 615,
-        "IncidentName": "Black Mountain",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTHLF-000492",
-        "DailyAcres": 2,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1722286612000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Lewis and Clark",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1722289408000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "5724f00e-4ccb-47c3-b234-f53706386be8",
-        "GlobalID": "2b2c2ab5-1dd2-4121-8230-4b73382ede77",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -112.77244399999995,
-        "y": 47.01202800000004
       }
     },
     {
@@ -2613,7 +2613,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 619,
+        "OBJECTID": 618,
         "IncidentName": "Jimmy Ridge",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFNF-000298",
@@ -2692,7 +2692,7 @@
         "IrwinID": "df9e8952-a555-4ce4-ace6-42fdb509201d",
         "GlobalID": "d309e85f-4727-4fdd-9b6c-7b9aa602c277",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 2
+        "FireDiscoveryAge": 3
       },
       "geometry": {
         "x": -105.63813199999998,
@@ -2701,7 +2701,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 624,
+        "OBJECTID": 623,
         "IncidentName": "Prairie Dog",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000024",
