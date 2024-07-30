@@ -1121,7 +1121,7 @@
         "IncidentName": "Black Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-000492",
-        "DailyAcres": 50,
+        "DailyAcres": 65,
         "CalculatedAcres": null,
         "PercentContained": null,
         "ICS209ReportDateTime": null,
@@ -1147,7 +1147,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1722301494000,
+        "ModifiedOnDateTime": 1722309502000,
         "IncidentTypeKind": "FI",
         "IrwinID": "5724f00e-4ccb-47c3-b234-f53706386be8",
         "GlobalID": "2b2c2ab5-1dd2-4121-8230-4b73382ede77",
@@ -2085,7 +2085,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 603,
+        "OBJECTID": 602,
         "IncidentName": "Price Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246344",
@@ -2653,6 +2653,50 @@
       "geometry": {
         "x": -105.75436899999994,
         "y": 48.080824000000064
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 609,
+        "IncidentName": "Woodworth",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTSWS-240572",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1722308716000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Powell",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1722309847000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "f5cf505c-210a-44e4-b7a7-cca11907fa92",
+        "GlobalID": "ea934727-2a0a-46fe-9ab2-53e37aa40c88",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -113.25026699999995,
+        "y": 47.079597000000035
       }
     },
     {
