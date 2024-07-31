@@ -2340,7 +2340,7 @@
         "IrwinID": "3092c190-deb1-4185-bdb4-2ed58f65b8e3",
         "GlobalID": "94058636-98da-4ff9-9f7c-28df1ad59ffc",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 1
+        "FireDiscoveryAge": 2
       },
       "geometry": {
         "x": -105.29866699999997,
@@ -2521,6 +2521,50 @@
       "geometry": {
         "x": -105.25368999999995,
         "y": 48.11439000000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 607,
+        "IncidentName": "Forest",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG14-000368",
+        "DailyAcres": 0.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1722449258000,
+        "DiscoveryAcres": 0.5,
+        "POOCounty": "Custer",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1722451319000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "f51f7254-32c5-4bd8-aa81-9cf27088563d",
+        "GlobalID": "e63b4c48-e4ac-4cdf-ada7-18e364aa04fa",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -106.05366699999996,
+        "y": 46.09566700000005
       }
     },
     {
@@ -3269,6 +3313,50 @@
       "geometry": {
         "x": -108.65203899999995,
         "y": 45.44297000000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 605,
+        "IncidentName": "San Marino Drive",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG03-240559",
+        "DailyAcres": 0.01,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1719723960000,
+        "DiscoveryAcres": 0.01,
+        "POOCounty": "Yellowstone",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1722450935000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "8af17d17-d03e-40e0-8ca0-3d76d7dfcdf2",
+        "GlobalID": "e0b45689-2682-4710-a297-d517e2274bad",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 31
+      },
+      "geometry": {
+        "x": -108.40058299999998,
+        "y": 45.80628000000007
       }
     },
     {
