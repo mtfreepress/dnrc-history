@@ -1161,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 503,
+        "OBJECTID": 502,
         "IncidentName": "Deere",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG23-240577",
@@ -1557,7 +1557,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 509,
+        "OBJECTID": 508,
         "IncidentName": "Case",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG23-240579",
@@ -2829,6 +2829,50 @@
       "geometry": {
         "x": -106.77083299999998,
         "y": 45.62583300000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 521,
+        "IncidentName": "Lick Creek",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTHLF-005112",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1722648925000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Lewis and Clark",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1722652927000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "a4d4d860-b523-4e7d-9508-1897d1de7fed",
+        "GlobalID": "7407f628-6b15-4a59-ba0b-0d8f4ea18b79",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -113.06520899999998,
+        "y": 47.834258000000034
       }
     },
     {
