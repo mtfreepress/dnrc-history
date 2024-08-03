@@ -1460,7 +1460,7 @@
         "IrwinID": "5e239c3a-9628-4784-b608-4882eb989813",
         "GlobalID": "2efb8d84-393c-4e5a-a888-3920f3f95764",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 2
+        "FireDiscoveryAge": 3
       },
       "geometry": {
         "x": -106.48627799999997,
@@ -1773,6 +1773,50 @@
       "geometry": {
         "x": -114.11954999999995,
         "y": 45.99861700000008
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 460,
+        "IncidentName": "Storm Peak",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDF-246365",
+        "DailyAcres": 10,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1722631579000,
+        "DiscoveryAcres": 0.5,
+        "POOCounty": "Beaverhead",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1722692566000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "2a290036-b8e2-4ad0-953f-f16ff697b674",
+        "GlobalID": "053f945d-c3f0-4e44-9afc-78f32c1861fe",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.83733299999994,
+        "y": 45.55966700000005
       }
     },
     {
@@ -2433,50 +2477,6 @@
       "geometry": {
         "x": -104.50528199999997,
         "y": 48.768049000000076
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 460,
-        "IncidentName": "Storm Peak",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBDF-246365",
-        "DailyAcres": 0.5,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1722631579000,
-        "DiscoveryAcres": 0.5,
-        "POOCounty": "Beaverhead",
-        "POOState": "US-MT",
-        "FireCause": "Natural",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1722646250000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "2a290036-b8e2-4ad0-953f-f16ff697b674",
-        "GlobalID": "053f945d-c3f0-4e44-9afc-78f32c1861fe",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -112.83733299999994,
-        "y": 45.55966700000005
       }
     },
     {
