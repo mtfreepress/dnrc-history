@@ -491,7 +491,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "f7b929c6-266c-4999-9de6-ac72643f4bcf",
         "GlobalID": "ce947f7e-53ce-4b27-8bfa-daf228f66eca",
-        "ModifiedOnAge": 8,
+        "ModifiedOnAge": 9,
         "FireDiscoveryAge": 9
       },
       "geometry": {
@@ -624,7 +624,7 @@
         "IrwinID": "49dcb617-96fa-405d-893b-093b96866959",
         "GlobalID": "02ec96ef-27cc-4bfe-a224-13201bf7cea8",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 3
+        "FireDiscoveryAge": 4
       },
       "geometry": {
         "x": -106.55648399999995,
@@ -2169,6 +2169,50 @@
       "geometry": {
         "x": -114.36716699999994,
         "y": 45.84883300000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 551,
+        "IncidentName": "Busby Road",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTNCA-000387",
+        "DailyAcres": 2.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1722758400000,
+        "DiscoveryAcres": 2.5,
+        "POOCounty": "Big Horn",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1722789247000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "ff92aaee-8e6e-4e22-bf10-6ef754afe474",
+        "GlobalID": "443f3d2b-13f7-4b69-ac08-7bd5fc6cd441",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -106.94969399999997,
+        "y": 45.537806000000046
       }
     },
     {
