@@ -857,7 +857,7 @@
         "IncidentName": "Calving Pasture",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG36-000210",
-        "DailyAcres": 150,
+        "DailyAcres": 133,
         "CalculatedAcres": null,
         "PercentContained": null,
         "ICS209ReportDateTime": null,
@@ -883,7 +883,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1722774843000,
+        "ModifiedOnDateTime": 1722780309000,
         "IncidentTypeKind": "FI",
         "IrwinID": "90bdadf5-0790-4718-a861-bae3ab606da3",
         "GlobalID": "ba95cd68-f94a-4930-ade2-0fe1db286ff2",
@@ -1425,6 +1425,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 293,
+        "IncidentName": "Hughes Point",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBRF-024271",
+        "DailyAcres": 40,
+        "CalculatedAcres": null,
+        "PercentContained": 71,
+        "ICS209ReportDateTime": 1722726958000,
+        "FireDiscoveryDateTime": 1722202380000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Ravalli",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": 69,
+        "IncidentManagementOrganization": "Type 4 IC",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Timber (Grass and Understory)",
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1722779068000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "cd34c85c-f602-4782-8771-5e39bf03635e",
+        "GlobalID": "c28c8aaf-d95b-4422-94fa-6b47e6af21f2",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 6
+      },
+      "geometry": {
+        "x": -114.05236699999995,
+        "y": 45.66408300000006
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 197,
         "IncidentName": "Muir Creek",
         "IncidentTypeCategory": "WF",
@@ -1548,7 +1592,7 @@
         "IrwinID": "5e239c3a-9628-4784-b608-4882eb989813",
         "GlobalID": "2efb8d84-393c-4e5a-a888-3920f3f95764",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 3
+        "FireDiscoveryAge": 4
       },
       "geometry": {
         "x": -106.48627799999997,
@@ -1597,50 +1641,6 @@
       "geometry": {
         "x": -104.18760999999995,
         "y": 48.369511000000045
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 293,
-        "IncidentName": "Hughes Point",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBRF-024271",
-        "DailyAcres": 20,
-        "CalculatedAcres": null,
-        "PercentContained": 71,
-        "ICS209ReportDateTime": 1722726958000,
-        "FireDiscoveryDateTime": 1722202380000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Ravalli",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": 69,
-        "IncidentManagementOrganization": "Type 4 IC",
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": "Timber (Grass and Understory)",
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1722726958000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "cd34c85c-f602-4782-8771-5e39bf03635e",
-        "GlobalID": "c28c8aaf-d95b-4422-94fa-6b47e6af21f2",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 6
-      },
-      "geometry": {
-        "x": -114.05236699999995,
-        "y": 45.66408300000006
       }
     },
     {
