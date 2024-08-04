@@ -976,7 +976,7 @@
         "IrwinID": "c147febf-762d-402b-afa6-951b12b788a0",
         "GlobalID": "572fef51-64e0-4a89-8658-5285f4d88a3b",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 1
+        "FireDiscoveryAge": 2
       },
       "geometry": {
         "x": -107.10901699999994,
@@ -1909,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 545,
+        "OBJECTID": 544,
         "IncidentName": "Little Bobcat - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000386",
@@ -2217,7 +2217,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 543,
+        "OBJECTID": 542,
         "IncidentName": "Spotty",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG10-202408740",
@@ -2481,7 +2481,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 547,
+        "OBJECTID": 546,
         "IncidentName": "5700 Rd",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024295",
@@ -2785,6 +2785,50 @@
       "geometry": {
         "x": -106.65933299999995,
         "y": 45.616333000000054
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 549,
+        "IncidentName": "Reimel Creek",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBRF-024294",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1722779400000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Ravalli",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1722788783000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "07cbc4d1-fdd2-4504-ad7e-315077233da4",
+        "GlobalID": "4ded649b-22f0-4aa4-bbbb-05e1c468cab1",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -113.95610199999999,
+        "y": 45.832058000000075
       }
     },
     {
