@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 534,
+        "OBJECTID": 533,
         "IncidentName": "Calving Pasture",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG36-000210",
@@ -1029,11 +1029,11 @@
     },
     {
       "attributes": {
-        "OBJECTID": 531,
+        "OBJECTID": 530,
         "IncidentName": "Hopkin",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000380",
-        "DailyAcres": 100,
+        "DailyAcres": 52,
         "CalculatedAcres": null,
         "PercentContained": null,
         "ICS209ReportDateTime": null,
@@ -1059,7 +1059,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1722775822000,
+        "ModifiedOnDateTime": 1722780871000,
         "IncidentTypeKind": "FI",
         "IrwinID": "19e6d015-ba29-4687-ac86-c8b2e79752ce",
         "GlobalID": "93e1c29e-4ec4-483f-8439-2a9421c5c078",
@@ -1069,50 +1069,6 @@
       "geometry": {
         "x": -104.78754999999995,
         "y": 45.445583000000056
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 533,
-        "IncidentName": "Whitetail Creek",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTMCD-000381",
-        "DailyAcres": 50,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1722764917000,
-        "DiscoveryAcres": 50,
-        "POOCounty": "Carter",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1722765459000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "8da5f9fd-550f-4d4f-8103-e32381575ef9",
-        "GlobalID": "438c47bf-744d-4874-8f43-67343283f1ed",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -104.78833299999997,
-        "y": 45.44500000000005
       }
     },
     {
@@ -1377,6 +1333,50 @@
       "geometry": {
         "x": -106.05820999999997,
         "y": 47.01090000000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 532,
+        "IncidentName": "Whitetail Creek",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTMCD-000381",
+        "DailyAcres": 40.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1722764917000,
+        "DiscoveryAcres": 50,
+        "POOCounty": "Carter",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1722780946000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "8da5f9fd-550f-4d4f-8103-e32381575ef9",
+        "GlobalID": "438c47bf-744d-4874-8f43-67343283f1ed",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -104.78833299999997,
+        "y": 45.44500000000005
       }
     },
     {
@@ -1811,7 +1811,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "2b044743-8d38-46e4-9da8-79eb703550f1",
         "GlobalID": "fb4b7d15-d190-4f1c-8947-58edb30be188",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 2
       },
       "geometry": {
@@ -2261,7 +2261,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 475,
+        "OBJECTID": 474,
         "IncidentName": "North McGuire",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000190",
@@ -2305,7 +2305,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 536,
+        "OBJECTID": 535,
         "IncidentName": "Pretty Shield Rd",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240582",
@@ -2428,7 +2428,7 @@
         "IrwinID": "ab831251-3be3-4027-a9c2-3445707766c1",
         "GlobalID": "7ab96a0c-120d-41da-994b-fefaac562f4b",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 4
+        "FireDiscoveryAge": 5
       },
       "geometry": {
         "x": -105.77541699999995,
@@ -2481,7 +2481,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 487,
+        "OBJECTID": 486,
         "IncidentName": "Ditch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG08-000208",
@@ -2525,7 +2525,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 490,
+        "OBJECTID": 489,
         "IncidentName": "Mutual Aid 584",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG10-240584",
@@ -2569,7 +2569,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 494,
+        "OBJECTID": 493,
         "IncidentName": "South Fork Little Prickly Pear",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-000530",
@@ -2613,7 +2613,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 516,
+        "OBJECTID": 515,
         "IncidentName": "Braaten",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG04-240595",
@@ -2657,7 +2657,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 489,
+        "OBJECTID": 488,
         "IncidentName": "Lonely bale",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG36-000209",
