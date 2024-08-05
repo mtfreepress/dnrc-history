@@ -942,6 +942,50 @@
     {
       "attributes": {
         "OBJECTID": 557,
+        "IncidentName": "Shirley",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTMCD-000399",
+        "DailyAcres": 80,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1722881001000,
+        "DiscoveryAcres": 1,
+        "POOCounty": "Powder River",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1722896326000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "468f5a5d-5632-4a1d-b191-5c859de2de58",
+        "GlobalID": "59533198-5610-4cb2-8584-021caa4bc13a",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -106.03878299999997,
+        "y": 45.27128300000004
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 556,
         "IncidentName": "Stewart",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000401",
@@ -1469,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 528,
+        "OBJECTID": 527,
         "IncidentName": "Saw Mill - Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000394",
@@ -1689,50 +1733,6 @@
     },
     {
       "attributes": {
-        "OBJECTID": 558,
-        "IncidentName": "Shirley",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTMCD-000399",
-        "DailyAcres": 12,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1722881001000,
-        "DiscoveryAcres": 1,
-        "POOCounty": "Powder River",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1722891889000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "468f5a5d-5632-4a1d-b191-5c859de2de58",
-        "GlobalID": "59533198-5610-4cb2-8584-021caa4bc13a",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -106.03878299999997,
-        "y": 45.27128300000004
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 307,
         "IncidentName": "Storm Peak",
         "IncidentTypeCategory": "WF",
@@ -1865,7 +1865,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 587,
+        "OBJECTID": 586,
         "IncidentName": "Three Mile",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000400",
@@ -1895,7 +1895,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1722891582000,
+        "ModifiedOnDateTime": 1722896471000,
         "IncidentTypeKind": "FI",
         "IrwinID": "69965976-3982-4dac-b81d-b4051b6dfb9c",
         "GlobalID": "466fa62b-9e29-4b2e-b620-143bb7a7d1a7",
@@ -1905,6 +1905,50 @@
       "geometry": {
         "x": -105.93388299999998,
         "y": 45.485217000000034
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 623,
+        "IncidentName": "Houghlan",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTMCD-000404",
+        "DailyAcres": 5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1722889487000,
+        "DiscoveryAcres": 5,
+        "POOCounty": "Powder River",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1722896807000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "61858fb6-75a7-41da-a881-9e2e4bd6c925",
+        "GlobalID": "d3371a79-9edf-4a06-8145-a9d87cf7c53a",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -105.87999999999994,
+        "y": 45.57000000000005
       }
     },
     {
@@ -2076,7 +2120,7 @@
         "IrwinID": "ba292efa-8408-41d2-b6cc-8b93883f59bf",
         "GlobalID": "bbe6d6af-2114-48c2-9c5c-544aeb5de9b7",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 2
+        "FireDiscoveryAge": 3
       },
       "geometry": {
         "x": -111.05083299999995,
@@ -2085,7 +2129,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 486,
+        "OBJECTID": 485,
         "IncidentName": "Chromo",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000393",
@@ -2437,7 +2481,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 544,
+        "OBJECTID": 543,
         "IncidentName": "Three Tree - Rosebud Co",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000397",
@@ -2701,7 +2745,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 598,
+        "OBJECTID": 597,
         "IncidentName": "Malloy Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024305",
