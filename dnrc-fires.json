@@ -1513,6 +1513,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 290,
+        "IncidentName": "Boulder Peak",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBRF-024277",
+        "DailyAcres": 30,
+        "CalculatedAcres": 30.1167,
+        "PercentContained": 0,
+        "ICS209ReportDateTime": 1722643428000,
+        "FireDiscoveryDateTime": 1722346416000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Ravalli",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": 1,
+        "IncidentManagementOrganization": "Type 4 IC",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Timber (Litter and Understory)",
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1722951053000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "74b0bdc6-cb1c-47de-b74b-0bb870164223",
+        "GlobalID": "fc23483e-0410-49a2-8d30-7df24ea4265f",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 7
+      },
+      "geometry": {
+        "x": -114.36716699999994,
+        "y": 45.84883300000007
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 288,
         "IncidentName": "Pawnee Ridge",
         "IncidentTypeCategory": "WF",
@@ -1597,50 +1641,6 @@
       "geometry": {
         "x": -104.18760999999995,
         "y": 48.369511000000045
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 290,
-        "IncidentName": "Boulder Peak",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBRF-024277",
-        "DailyAcres": 20,
-        "CalculatedAcres": 30.1167,
-        "PercentContained": 0,
-        "ICS209ReportDateTime": 1722643428000,
-        "FireDiscoveryDateTime": 1722346416000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Ravalli",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": 1,
-        "IncidentManagementOrganization": "Type 4 IC",
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": "Timber (Litter and Understory)",
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1722865550000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "74b0bdc6-cb1c-47de-b74b-0bb870164223",
-        "GlobalID": "fc23483e-0410-49a2-8d30-7df24ea4265f",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 6
-      },
-      "geometry": {
-        "x": -114.36716699999994,
-        "y": 45.84883300000007
       }
     },
     {
@@ -2129,7 +2129,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 596,
+        "OBJECTID": 595,
         "IncidentName": "Chalky - Rosebud Co.",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-000405",
@@ -2393,7 +2393,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 598,
+        "OBJECTID": 597,
         "IncidentName": "Dugan Draw",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000407",
@@ -2559,7 +2559,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "7a4229db-9e84-46bf-8cd3-e7999dfc1c52",
         "GlobalID": "d74075fe-adad-4b15-8536-6355bc48f506",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 2
       },
       "geometry": {
@@ -2657,7 +2657,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 603,
+        "OBJECTID": 602,
         "IncidentName": "Barbwire Tree",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG53-240606",
