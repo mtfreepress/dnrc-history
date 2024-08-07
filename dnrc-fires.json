@@ -667,7 +667,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "b29f90ad-ba02-4302-a6b4-8d98c30b3314",
         "GlobalID": "2e28c3a7-fe1e-4dd0-a749-4e5c9ff13881",
-        "ModifiedOnAge": 7,
+        "ModifiedOnAge": 8,
         "FireDiscoveryAge": 8
       },
       "geometry": {
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 322,
+        "OBJECTID": 323,
         "IncidentName": "Calving Pasture",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG36-000210",
@@ -799,7 +799,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "90bdadf5-0790-4718-a861-bae3ab606da3",
         "GlobalID": "ba95cd68-f94a-4930-ade2-0fe1db286ff2",
-        "ModifiedOnAge": 2,
+        "ModifiedOnAge": 3,
         "FireDiscoveryAge": 3
       },
       "geometry": {
@@ -1293,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 321,
+        "OBJECTID": 322,
         "IncidentName": "Whitetail Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000381",
@@ -1723,7 +1723,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "e4494d11-64df-4ff2-931a-bc43e0376387",
         "GlobalID": "700fb1e7-31f7-4389-86aa-60f67020a50d",
-        "ModifiedOnAge": 6,
+        "ModifiedOnAge": 7,
         "FireDiscoveryAge": 11
       },
       "geometry": {
@@ -2207,7 +2207,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "40e51e66-a5b0-41c4-8737-cf45ac1bc324",
         "GlobalID": "171051ac-79aa-4a4e-a7f7-eae75cafd180",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 1
       },
       "geometry": {
@@ -2257,50 +2257,6 @@
       "geometry": {
         "x": -114.23219999999998,
         "y": 45.63745000000006
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 324,
-        "IncidentName": "Combine",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG12-000212",
-        "DailyAcres": 0.4,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1722715200000,
-        "DiscoveryAcres": 0.4,
-        "POOCounty": "Hill",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1722783206000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "3cf1e33d-c750-4a42-8167-b08f0de1690b",
-        "GlobalID": "aa731f5b-b1be-4de5-9f87-3ca00fcbc946",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 3
-      },
-      "geometry": {
-        "x": -110.16282999999999,
-        "y": 48.51604400000008
       }
     },
     {
@@ -2481,7 +2437,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 323,
+        "OBJECTID": 324,
         "IncidentName": "Morrison",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000383",
