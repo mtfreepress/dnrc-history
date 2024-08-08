@@ -2701,7 +2701,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 616,
+        "OBJECTID": 615,
         "IncidentName": "Tin Cup",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024307",
@@ -2745,7 +2745,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 620,
+        "OBJECTID": 619,
         "IncidentName": "Blue",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLNF-240616",
@@ -2785,6 +2785,50 @@
       "geometry": {
         "x": -113.85111299999994,
         "y": 46.939167000000054
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 628,
+        "IncidentName": "South Bass",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBRF-024322",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1722980100000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Ravalli",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1723141671000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "ff0a287c-e7e7-4937-a014-34f3fe703dec",
+        "GlobalID": "40ca7d39-f808-4975-ad2e-b18f6ec8cce4",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -114.19723299999998,
+        "y": 46.57551700000005
       }
     },
     {
@@ -2921,7 +2965,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 621,
+        "OBJECTID": 620,
         "IncidentName": "NORTH SIDE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000109",
