@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 292,
+        "OBJECTID": 293,
         "IncidentName": "Calving Pasture",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG36-000210",
@@ -1205,7 +1205,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 291,
+        "OBJECTID": 292,
         "IncidentName": "Whitetail Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000381",
@@ -1323,7 +1323,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1723234013000,
+        "ModifiedOnDateTime": 1723234912000,
         "IncidentTypeKind": "FI",
         "IrwinID": "6658d510-5e05-450e-9d50-0d348971428c",
         "GlobalID": "97df34fb-4f3b-4376-9cdc-28eb54c3d63a",
@@ -1513,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 307,
+        "OBJECTID": 308,
         "IncidentName": "Saw Mill - Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000394",
@@ -1997,7 +1997,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 585,
+        "OBJECTID": 584,
         "IncidentName": "Government Hill",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000414",
@@ -2081,50 +2081,6 @@
       "geometry": {
         "x": -113.61161699999997,
         "y": 47.54750000000007
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 312,
-        "IncidentName": "Three Tree - Rosebud",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG29-000397",
-        "DailyAcres": 0.25,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1722879548000,
-        "DiscoveryAcres": 0.25,
-        "POOCounty": "Rosebud",
-        "POOState": "US-MT",
-        "FireCause": "Natural",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1722975413000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "6e980556-4b86-4522-9126-e1f046212e6e",
-        "GlobalID": "bd8fa400-20b8-403e-a180-e64a12479bbf",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 4
-      },
-      "geometry": {
-        "x": -106.15685499999995,
-        "y": 46.29812600000008
       }
     },
     {
@@ -2428,7 +2384,7 @@
         "IrwinID": "8be13b34-c6b7-4cf8-b39f-d504087beb2e",
         "GlobalID": "02cd3803-a88c-4bfe-9665-47c310c509b8",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
+        "FireDiscoveryAge": 1
       },
       "geometry": {
         "x": -114.33872799999995,
