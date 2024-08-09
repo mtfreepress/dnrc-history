@@ -447,7 +447,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "4d3ab5d5-7ac6-4f32-8603-bfaf188bfb31",
         "GlobalID": "298123d9-db47-4785-9923-976f8dc1b446",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 4
       },
       "geometry": {
@@ -1909,6 +1909,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 596,
+        "IncidentName": "Black Otter Trail",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDC-240624",
+        "DailyAcres": 0.75,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1719636300000,
+        "DiscoveryAcres": 0.75,
+        "POOCounty": "Yellowstone",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1723242418000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "c4cac77c-24f6-481f-aa67-b74771f6c623",
+        "GlobalID": "22672f84-742f-4b2f-98f7-c192034e2a82",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 41
+      },
+      "geometry": {
+        "x": -108.48301599999996,
+        "y": 45.799615000000074
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 566,
         "IncidentName": "Government Hill",
         "IncidentTypeCategory": "WF",
@@ -2305,7 +2349,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 592,
+        "OBJECTID": 591,
         "IncidentName": "HWY 287 MM 105",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG43-000396",
