@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 271,
+        "OBJECTID": 272,
         "IncidentName": "Stewart",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000401",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 316,
+        "OBJECTID": 317,
         "IncidentName": "County Line - Garfield",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000413",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 251,
+        "OBJECTID": 252,
         "IncidentName": "Calving Pasture",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG36-000210",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 320,
+        "OBJECTID": 321,
         "IncidentName": "Morenson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG11-000221",
@@ -897,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 237,
+        "OBJECTID": 238,
         "IncidentName": "Castle",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-240569",
@@ -1029,7 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 315,
+        "OBJECTID": 316,
         "IncidentName": "Last Chance - McCone",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG41-000412",
@@ -1073,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 244,
+        "OBJECTID": 245,
         "IncidentName": "Pentagon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFNF-000323",
@@ -1249,7 +1249,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 250,
+        "OBJECTID": 251,
         "IncidentName": "Whitetail Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000381",
@@ -1283,7 +1283,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "8da5f9fd-550f-4d4f-8103-e32381575ef9",
         "GlobalID": "438c47bf-744d-4874-8f43-67343283f1ed",
-        "ModifiedOnAge": 6,
+        "ModifiedOnAge": 7,
         "FireDiscoveryAge": 7
       },
       "geometry": {
@@ -1381,7 +1381,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 263,
+        "OBJECTID": 264,
         "IncidentName": "Saw Mill - Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000394",
@@ -1469,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 514,
+        "OBJECTID": 513,
         "IncidentName": "Sullivan",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNWS-000359",
@@ -1557,7 +1557,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 507,
+        "OBJECTID": 506,
         "IncidentName": "Smith",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000220",
@@ -1817,6 +1817,50 @@
       "geometry": {
         "x": -113.61161699999997,
         "y": 47.54750000000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 236,
+        "IncidentName": "Tower",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTNCA-000378",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1722552300000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Rosebud",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1723395844000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "56a65d9f-c44f-45ce-8939-776a2861a108",
+        "GlobalID": "61186d95-efbf-4504-b08d-f1cb775d111e",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 9
+      },
+      "geometry": {
+        "x": -106.66211099999998,
+        "y": 45.62338900000003
       }
     },
     {
@@ -2129,7 +2173,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 543,
+        "OBJECTID": 542,
         "IncidentName": "NORTH CROW",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFHA-000100",
@@ -2159,7 +2203,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1723395258000,
+        "ModifiedOnDateTime": 1723396601000,
         "IncidentTypeKind": "FI",
         "IrwinID": "a85a77fc-65a0-47a0-beae-2b68dc4b2db5",
         "GlobalID": "408d79f6-5d12-43ae-9ed0-b544a40e5be6",
