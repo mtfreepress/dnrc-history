@@ -1381,7 +1381,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 490,
+        "OBJECTID": 489,
         "IncidentName": "Upper Sarpy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-240660",
@@ -1645,7 +1645,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 488,
+        "OBJECTID": 487,
         "IncidentName": "Alaska Peak",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000230",
@@ -1909,17 +1909,17 @@
     },
     {
       "attributes": {
-        "OBJECTID": 514,
-        "IncidentName": "Fivemile",
+        "OBJECTID": 524,
+        "IncidentName": "South Fork",
         "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTNCD-000226",
-        "DailyAcres": 0.13,
+        "UniqueFireIdentifier": "2024-MTKNF-000229",
+        "DailyAcres": 0.25,
         "CalculatedAcres": null,
         "PercentContained": null,
         "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1723423953000,
-        "DiscoveryAcres": 0.13,
-        "POOCounty": "Golden Valley",
+        "FireDiscoveryDateTime": 1723401885000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Lincoln",
         "POOState": "US-MT",
         "FireCause": "Undetermined",
         "FireCauseGeneral": null,
@@ -1939,16 +1939,16 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1723440045000,
+        "ModifiedOnDateTime": 1723471149000,
         "IncidentTypeKind": "FI",
-        "IrwinID": "f54b4e1e-498f-4484-a033-1115c4e32e9c",
-        "GlobalID": "30d3c24a-220c-49f5-a8f0-4da8aaa790d0",
+        "IrwinID": "a9ff2ffd-4c05-4713-b308-384afc8b99cb",
+        "GlobalID": "2615bbe4-1a84-406f-b63b-06302c12d31c",
         "ModifiedOnAge": 0,
         "FireDiscoveryAge": 0
       },
       "geometry": {
-        "x": -109.04558299999997,
-        "y": 46.74500000000006
+        "x": -115.50274999999999,
+        "y": 48.67288300000007
       }
     },
     {
@@ -2261,7 +2261,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 482,
+        "OBJECTID": 481,
         "IncidentName": "Pete Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000228",
@@ -2301,6 +2301,50 @@
       "geometry": {
         "x": -115.81933299999997,
         "y": 48.89383300000003
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 525,
+        "IncidentName": "Kipp Creek",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTGNP-000364",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1723333680000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Flathead",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1723471477000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "ee1a5a93-3f05-49b4-820b-340b30228276",
+        "GlobalID": "8d42911d-a37d-475c-87a4-e90c3d30c052",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -113.86589999999995,
+        "y": 48.84320000000008
       }
     },
     {
@@ -2349,7 +2393,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 478,
+        "OBJECTID": 477,
         "IncidentName": "VALLEY",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFHA-000099",
