@@ -1240,7 +1240,7 @@
         "IrwinID": "ba2da94f-5d9d-41fc-9f17-3ef2e82277b0",
         "GlobalID": "9d3a77e7-c91c-48d5-9656-d0e7c2b5d5a0",
         "ModifiedOnAge": 6,
-        "FireDiscoveryAge": 17
+        "FireDiscoveryAge": 18
       },
       "geometry": {
         "x": -107.40313299999997,
@@ -1381,7 +1381,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 500,
+        "OBJECTID": 499,
         "IncidentName": "Upper Sarpy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-240660",
@@ -1645,7 +1645,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 498,
+        "OBJECTID": 497,
         "IncidentName": "Alaska Peak",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000230",
@@ -1905,6 +1905,50 @@
       "geometry": {
         "x": -112.00099999999998,
         "y": 46.722867000000065
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 526,
+        "IncidentName": "Fivemile",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTNCD-000226",
+        "DailyAcres": 0.13,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1723423953000,
+        "DiscoveryAcres": 0.13,
+        "POOCounty": "Golden Valley",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1723439353000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "f54b4e1e-498f-4484-a033-1115c4e32e9c",
+        "GlobalID": "30d3c24a-220c-49f5-a8f0-4da8aaa790d0",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -109.04558299999997,
+        "y": 46.74500000000006
       }
     },
     {
@@ -2217,7 +2261,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 492,
+        "OBJECTID": 491,
         "IncidentName": "Pete Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000228",
@@ -2305,7 +2349,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 488,
+        "OBJECTID": 487,
         "IncidentName": "VALLEY",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFHA-000099",
