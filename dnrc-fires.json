@@ -2691,7 +2691,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "a77e76af-01fe-4534-b43a-31e8d2f855b4",
         "GlobalID": "2ff2b13e-9e13-44b8-9841-4c78676a5223",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 1
       },
       "geometry": {
@@ -2867,7 +2867,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "549153af-f09b-449a-84a1-7ea077058a8e",
         "GlobalID": "5b1d7341-8641-490b-804b-39bb8b562fa4",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 5
       },
       "geometry": {
@@ -3357,6 +3357,50 @@
       "geometry": {
         "x": -112.87222219999995,
         "y": 48.52805560000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 548,
+        "IncidentName": "DOG LAKE",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTFHA-000102",
+        "DailyAcres": null,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1723554000000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Sanders",
+        "POOState": "US-MT",
+        "FireCause": null,
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1723660332000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "878eab72-f199-4954-a2cc-d498e6c2e334",
+        "GlobalID": "db748c7d-5ebf-4e1f-80b8-3607e6f1b3d7",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -114.92666666999997,
+        "y": 47.59777778000006
       }
     }
   ]
