@@ -491,7 +491,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "32058de5-3873-42f4-adcc-8008f5b35b59",
         "GlobalID": "86ee7209-fc02-45ec-8c63-7a492930d386",
-        "ModifiedOnAge": 6,
+        "ModifiedOnAge": 7,
         "FireDiscoveryAge": 7
       },
       "geometry": {
@@ -888,7 +888,7 @@
         "IrwinID": "c147febf-762d-402b-afa6-951b12b788a0",
         "GlobalID": "572fef51-64e0-4a89-8658-5285f4d88a3b",
         "ModifiedOnAge": 4,
-        "FireDiscoveryAge": 11
+        "FireDiscoveryAge": 12
       },
       "geometry": {
         "x": -107.10901699999994,
@@ -1239,7 +1239,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "bbf28f39-4df5-45ad-9b6a-22660d6c179e",
         "GlobalID": "0ed9f0cd-5759-41e0-a0a8-f893448096f8",
-        "ModifiedOnAge": 6,
+        "ModifiedOnAge": 7,
         "FireDiscoveryAge": 7
       },
       "geometry": {
@@ -1949,6 +1949,50 @@
       "geometry": {
         "x": -106.61744199999998,
         "y": 47.14834700000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 554,
+        "IncidentName": "Electric Peak North",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG05-000579",
+        "DailyAcres": 5.9,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1723608506000,
+        "DiscoveryAcres": 5.9,
+        "POOCounty": "Lewis and Clark",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1723652665000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "4c4126f2-a8bd-45f8-bfa7-889d983b5810",
+        "GlobalID": "2813bbbe-86eb-4496-83d1-ed77406328f4",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.09561699999995,
+        "y": 47.10656700000004
       }
     },
     {
