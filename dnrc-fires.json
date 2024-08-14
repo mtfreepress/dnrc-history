@@ -1689,6 +1689,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 523,
+        "IncidentName": "Getaway",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTCMR-000433",
+        "DailyAcres": 15,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1723583125000,
+        "DiscoveryAcres": 3,
+        "POOCounty": "Garfield",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1723645589000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "12917098-e6b6-4e4f-b83d-703326542f3c",
+        "GlobalID": "90910425-f903-45ee-be10-7750e5a2e2c5",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -106.91516699999994,
+        "y": 47.64516700000007
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 179,
         "IncidentName": "Deer Hollow",
         "IncidentTypeCategory": "WF",
@@ -1905,50 +1949,6 @@
       "geometry": {
         "x": -106.61744199999998,
         "y": 47.14834700000006
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 523,
-        "IncidentName": "Getaway",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTCMR-000433",
-        "DailyAcres": 3,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1723583125000,
-        "DiscoveryAcres": 3,
-        "POOCounty": "Garfield",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1723587857000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "12917098-e6b6-4e4f-b83d-703326542f3c",
-        "GlobalID": "90910425-f903-45ee-be10-7750e5a2e2c5",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -106.91516699999994,
-        "y": 47.64516700000007
       }
     },
     {
