@@ -457,6 +457,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 486,
+        "IncidentName": "Circle Bar",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTMCD-000434",
+        "DailyAcres": 815,
+        "CalculatedAcres": null,
+        "PercentContained": 0,
+        "ICS209ReportDateTime": 1723681624000,
+        "FireDiscoveryDateTime": 1723656781000,
+        "DiscoveryAcres": 25,
+        "POOCounty": "Big Horn",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": 27,
+        "IncidentManagementOrganization": "Type 4 IC",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Timber (Grass and Understory)",
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1723729650000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "aa28ccaa-bf81-4240-933e-354b18cf321b",
+        "GlobalID": "daee84c8-3bfa-4e5a-9905-78e03eedd548",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -106.47124999999994,
+        "y": 45.16133300000007
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 265,
         "IncidentName": "County Line - Garfield",
         "IncidentTypeCategory": "WF",
@@ -497,50 +541,6 @@
       "geometry": {
         "x": -107.40966799999995,
         "y": 46.88354600000008
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 486,
-        "IncidentName": "Circle Bar",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTMCD-000434",
-        "DailyAcres": 500,
-        "CalculatedAcres": null,
-        "PercentContained": 0,
-        "ICS209ReportDateTime": 1723681624000,
-        "FireDiscoveryDateTime": 1723656781000,
-        "DiscoveryAcres": 25,
-        "POOCounty": "Big Horn",
-        "POOState": "US-MT",
-        "FireCause": "Natural",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": 27,
-        "IncidentManagementOrganization": "Type 4 IC",
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": "Timber (Grass and Understory)",
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1723681624000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "aa28ccaa-bf81-4240-933e-354b18cf321b",
-        "GlobalID": "daee84c8-3bfa-4e5a-9905-78e03eedd548",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -106.47124999999994,
-        "y": 45.16133300000007
       }
     },
     {
