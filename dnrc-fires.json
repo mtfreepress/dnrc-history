@@ -887,7 +887,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "de4b3717-876b-42b3-bffd-abe843d22a52",
         "GlobalID": "13b7d090-ae3c-422c-bc74-a4368606890b",
-        "ModifiedOnAge": 4,
+        "ModifiedOnAge": 5,
         "FireDiscoveryAge": 38
       },
       "geometry": {
@@ -1337,7 +1337,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 486,
+        "OBJECTID": 484,
         "IncidentName": "Jack",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240762",
@@ -1635,7 +1635,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "12917098-e6b6-4e4f-b83d-703326542f3c",
         "GlobalID": "90910425-f903-45ee-be10-7750e5a2e2c5",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 3
       },
       "geometry": {
@@ -1988,7 +1988,7 @@
         "IrwinID": "d9cf690f-037f-4f04-9767-ed75c3b74012",
         "GlobalID": "fb96dfc7-450c-41a3-94e5-efaaf2b0319a",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 2
+        "FireDiscoveryAge": 3
       },
       "geometry": {
         "x": -111.94896699999998,
@@ -2085,7 +2085,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 513,
+        "OBJECTID": 511,
         "IncidentName": "Blackstone",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000448",
@@ -2129,7 +2129,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 488,
+        "OBJECTID": 486,
         "IncidentName": "Hwy 212 Inc 761",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240761",
@@ -2393,7 +2393,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 512,
+        "OBJECTID": 510,
         "IncidentName": "Fire 765",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCGF-240765",
@@ -2433,6 +2433,50 @@
       "geometry": {
         "x": -111.03233299999994,
         "y": 45.91716700000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 517,
+        "IncidentName": "Wolf 25",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTNWS-000246L",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1723905317000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Lincoln",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1723918736000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "a26061ca-0b8f-4931-8ada-e3a39608c760",
+        "GlobalID": "9da08ca4-38e8-4c6c-82f6-8d8ee3d79372",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -114.91348299999999,
+        "y": 48.43550000000005
       }
     },
     {
