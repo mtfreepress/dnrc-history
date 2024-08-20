@@ -2041,6 +2041,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 395,
+        "IncidentName": "HWY 93 MM 89",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTNWS-000420",
+        "DailyAcres": 0.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1724030940000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Lake",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1724178653000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "f0204cd9-710b-48c6-b365-40c97ba76a61",
+        "GlobalID": "33d2ea1e-0b89-4e6d-8cf0-9fbb77bb8abc",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -114.20111699999995,
+        "y": 47.914333000000056
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 422,
         "IncidentName": "Austrian Header - McCone",
         "IncidentTypeCategory": "WF",
@@ -2345,50 +2389,6 @@
       "geometry": {
         "x": -113.06121699999994,
         "y": 46.44530000000003
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 395,
-        "IncidentName": "HWY 93 MM 89",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTNWS-000420",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1724030940000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Lake",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1724087820000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "f0204cd9-710b-48c6-b365-40c97ba76a61",
-        "GlobalID": "33d2ea1e-0b89-4e6d-8cf0-9fbb77bb8abc",
-        "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 1
-      },
-      "geometry": {
-        "x": -114.20111699999995,
-        "y": 47.914333000000056
       }
     },
     {
