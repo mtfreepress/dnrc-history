@@ -1733,6 +1733,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 493,
+        "IncidentName": "Old Holiday Place",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG19-000254",
+        "DailyAcres": 24,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1724268960000,
+        "DiscoveryAcres": 24,
+        "POOCounty": "Chouteau",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1724519847000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "d082b96f-d9f7-47e9-8e91-844ac225dda0",
+        "GlobalID": "c506e8c7-674e-41f4-b42a-16c4e04d9c73",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 2
+      },
+      "geometry": {
+        "x": -110.39369899999997,
+        "y": 47.71546500000005
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 275,
         "IncidentName": "Back Creek - Fallon",
         "IncidentTypeCategory": "WF",
@@ -2301,6 +2345,50 @@
       "geometry": {
         "x": -112.88949999999994,
         "y": 46.79033300000003
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 494,
+        "IncidentName": "Logi",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG24-000255",
+        "DailyAcres": 2.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1724273040000,
+        "DiscoveryAcres": 2.5,
+        "POOCounty": "Blaine",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1724520074000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "aec6ee2a-72b0-4029-9e01-cf5611895ce4",
+        "GlobalID": "0773dd87-715e-4308-8cc7-3b08ac2f7374",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 2
+      },
+      "geometry": {
+        "x": -109.38756399999994,
+        "y": 48.51909000000006
       }
     },
     {
@@ -3009,6 +3097,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 495,
+        "IncidentName": "Moccasin Road",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG17-000256",
+        "DailyAcres": 0.07,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1724389860000,
+        "DiscoveryAcres": 0.07,
+        "POOCounty": "Roosevelt",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1724520286000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "1f159baa-686d-4818-99fd-52509ccbbd0c",
+        "GlobalID": "95e02c9b-d895-4fce-aee2-8ea00a4cd198",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -105.22087699999997,
+        "y": 48.12863900000008
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 491,
         "IncidentName": "Powerline 2",
         "IncidentTypeCategory": "WF",
@@ -3088,7 +3220,7 @@
         "IrwinID": "6466dae7-3b57-4846-b5d8-05da9a919dfb",
         "GlobalID": "1dd9a6ca-8ebf-4496-9ffb-65d48ec4379e",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 2
+        "FireDiscoveryAge": 3
       },
       "geometry": {
         "x": -114.13833299999999,
