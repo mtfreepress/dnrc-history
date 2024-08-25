@@ -413,50 +413,6 @@
     },
     {
       "attributes": {
-        "OBJECTID": 385,
-        "IncidentName": "Big Hollow",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTCES-246466",
-        "DailyAcres": 3450,
-        "CalculatedAcres": null,
-        "PercentContained": 0,
-        "ICS209ReportDateTime": 1724560772000,
-        "FireDiscoveryDateTime": 1724443083000,
-        "DiscoveryAcres": 40,
-        "POOCounty": "Beaverhead",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": 84,
-        "IncidentManagementOrganization": "Type 3 IC",
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": "Tall Grass (2.5 feet)",
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1724560771000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "f46faea0-3820-48b4-b566-016c1ee5457e",
-        "GlobalID": "6059d2e5-a71b-48ad-985b-0b4336822106",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 1
-      },
-      "geometry": {
-        "x": -113.35276699999997,
-        "y": 45.013900000000035
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 44,
         "IncidentName": "Miller Peak",
         "IncidentTypeCategory": "WF",
@@ -497,6 +453,50 @@
       "geometry": {
         "x": -113.86633299999994,
         "y": 46.73266700000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 385,
+        "IncidentName": "Big Hollow",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTCES-246466",
+        "DailyAcres": 2000,
+        "CalculatedAcres": null,
+        "PercentContained": 0,
+        "ICS209ReportDateTime": 1724560772000,
+        "FireDiscoveryDateTime": 1724443083000,
+        "DiscoveryAcres": 40,
+        "POOCounty": "Beaverhead",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": 84,
+        "IncidentManagementOrganization": "Type 3 IC",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Tall Grass (2.5 feet)",
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1724561240000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "f46faea0-3820-48b4-b566-016c1ee5457e",
+        "GlobalID": "6059d2e5-a71b-48ad-985b-0b4336822106",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -113.35276699999997,
+        "y": 45.013900000000035
       }
     },
     {
@@ -3616,7 +3616,7 @@
         "IrwinID": "1f159baa-686d-4818-99fd-52509ccbbd0c",
         "GlobalID": "95e02c9b-d895-4fce-aee2-8ea00a4cd198",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 1
+        "FireDiscoveryAge": 2
       },
       "geometry": {
         "x": -105.22087699999997,
