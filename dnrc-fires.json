@@ -1591,7 +1591,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "db05ae17-aabb-4f89-92af-1e1ea8211c3d",
         "GlobalID": "04ce0132-124f-4040-8b6f-f32920f38e86",
-        "ModifiedOnAge": 4,
+        "ModifiedOnAge": 5,
         "FireDiscoveryAge": 5
       },
       "geometry": {
@@ -2173,7 +2173,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 465,
+        "OBJECTID": 464,
         "IncidentName": "Creek Bottom",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG08-000264",
@@ -2261,6 +2261,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 448,
+        "IncidentName": "Sheser Creek",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDF-246474",
+        "DailyAcres": 6.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1724465835000,
+        "DiscoveryAcres": 1,
+        "POOCounty": "Beaverhead",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1724555155000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "7e89af80-d613-4cd3-be67-629a993dda63",
+        "GlobalID": "c4067cb7-aa6f-4cd9-a5aa-09ff35b7a4de",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -113.40698299999997,
+        "y": 44.99266700000004
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 446,
         "IncidentName": "Highway",
         "IncidentTypeCategory": "WF",
@@ -2305,7 +2349,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 458,
+        "OBJECTID": 457,
         "IncidentName": "Miztry - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000487",
@@ -2340,7 +2384,7 @@
         "IrwinID": "3ea2a2c4-c03d-4ab6-8e82-f8f312659934",
         "GlobalID": "1d63622f-e305-456d-8c79-60117b29bb13",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
+        "FireDiscoveryAge": 1
       },
       "geometry": {
         "x": -105.50694999999996,
@@ -2560,7 +2604,7 @@
         "IrwinID": "c722493b-bd56-4d06-aeb1-51b86838b3f6",
         "GlobalID": "c715f256-05d3-44f4-b138-4010b24df824",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
+        "FireDiscoveryAge": 1
       },
       "geometry": {
         "x": -105.82765299999994,
@@ -2613,7 +2657,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 462,
+        "OBJECTID": 461,
         "IncidentName": "Flynn Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000263",
@@ -2648,7 +2692,7 @@
         "IrwinID": "f567442d-7c3c-45b9-b9c6-89e70497f0c7",
         "GlobalID": "d29fe807-ac6c-4356-a410-a9e9567f57c7",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
+        "FireDiscoveryAge": 1
       },
       "geometry": {
         "x": -105.83194399999996,
@@ -2657,7 +2701,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 481,
+        "OBJECTID": 479,
         "IncidentName": "LG25 6478",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG25-246478",
@@ -2697,6 +2741,50 @@
       "geometry": {
         "x": -111.71499999999997,
         "y": 45.525833000000034
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 506,
+        "IncidentName": "Poplar Mouth",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG17-000265",
+        "DailyAcres": 2,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1724529180000,
+        "DiscoveryAcres": 2,
+        "POOCounty": "Roosevelt",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1724555052000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "ab97a54c-9e8d-4293-8509-a561f406609c",
+        "GlobalID": "4718c76e-85f7-4ce9-8bdd-68128c7eb769",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -105.18763899999999,
+        "y": 48.08405600000003
       }
     },
     {
@@ -2789,50 +2877,6 @@
     },
     {
       "attributes": {
-        "OBJECTID": 448,
-        "IncidentName": "Sheser Creek",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBDF-246474",
-        "DailyAcres": 1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1724465835000,
-        "DiscoveryAcres": 1,
-        "POOCounty": "Beaverhead",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1724535654000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "7e89af80-d613-4cd3-be67-629a993dda63",
-        "GlobalID": "c4067cb7-aa6f-4cd9-a5aa-09ff35b7a4de",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 1
-      },
-      "geometry": {
-        "x": -113.40698299999997,
-        "y": 44.99266700000004
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 451,
         "IncidentName": "Pegg",
         "IncidentTypeCategory": "WF",
@@ -2921,7 +2965,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 474,
+        "OBJECTID": 472,
         "IncidentName": "Alice Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLNF-240729",
@@ -2961,50 +3005,6 @@
       "geometry": {
         "x": -114.65504999999996,
         "y": 47.09113300000007
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 452,
-        "IncidentName": "Trout Creek",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLNF-240727",
-        "DailyAcres": 0.3,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1724516498000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Mineral",
-        "POOState": "US-MT",
-        "FireCause": "Natural",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1724548477000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "7e123f78-d289-4573-8be8-ac39dc3d2cc0",
-        "GlobalID": "2a7a15da-abed-4a2a-b44f-eebdcfe12061",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -114.95613099999997,
-        "y": 47.04131800000005
       }
     },
     {
@@ -3361,7 +3361,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 456,
+        "OBJECTID": 455,
         "IncidentName": "Lustre Rd",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG20-000262",
@@ -3405,7 +3405,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 457,
+        "OBJECTID": 456,
         "IncidentName": "Moore Lake",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLNF-240724",
@@ -3449,7 +3449,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 475,
+        "OBJECTID": 473,
         "IncidentName": "Ibex",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000262",
@@ -3493,7 +3493,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 502,
+        "OBJECTID": 500,
         "IncidentName": "Lake Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000272",
@@ -3533,6 +3533,50 @@
       "geometry": {
         "x": -115.49644999999998,
         "y": 48.04225000000008
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 505,
+        "IncidentName": "Kah Mountain",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTFNF-000451",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1724520960000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Flathead",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1724554021000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "f5540528-f86e-4d24-8727-d788d5b9af64",
+        "GlobalID": "82305fb3-c8e2-4a57-94a6-446afc177e21",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -113.68463299999996,
+        "y": 48.03450000000004
       }
     },
     {
