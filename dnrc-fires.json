@@ -1064,7 +1064,7 @@
         "IrwinID": "bd75744d-f6a9-4b26-8a49-6621c0fb8c5b",
         "GlobalID": "c2eda5cf-9768-44cc-95c7-6cb5b3f2b4e6",
         "ModifiedOnAge": 11,
-        "FireDiscoveryAge": 12
+        "FireDiscoveryAge": 13
       },
       "geometry": {
         "x": -105.48515999999995,
@@ -1460,7 +1460,7 @@
         "IrwinID": "bdb7328d-8b59-45e4-93bf-664a9403534c",
         "GlobalID": "7b70e336-521a-4e2d-b16c-f226e524809b",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 6
+        "FireDiscoveryAge": 7
       },
       "geometry": {
         "x": -113.86366699999996,
@@ -2477,6 +2477,50 @@
       "geometry": {
         "x": -112.88949999999994,
         "y": 46.79033300000003
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 490,
+        "IncidentName": "HW 313 INC 829",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTCRA-240829",
+        "DailyAcres": 3,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1724617650000,
+        "DiscoveryAcres": 3,
+        "POOCounty": "Big Horn",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1724618103000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "efb32cf0-6239-4997-bde2-65d2e1dcd6f3",
+        "GlobalID": "99e2c2d3-072c-433b-9db7-4ae64ff31cf5",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -107.72069999999997,
+        "y": 45.42350000000005
       }
     },
     {
