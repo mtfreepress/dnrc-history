@@ -579,7 +579,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "759ac2b4-1ad1-413e-8261-1a3e0548e1f0",
         "GlobalID": "cba90484-1549-4da7-9937-f0df5e2c339d",
-        "ModifiedOnAge": 4,
+        "ModifiedOnAge": 5,
         "FireDiscoveryAge": 5
       },
       "geometry": {
@@ -800,7 +800,7 @@
         "IrwinID": "046be65e-cf99-43f4-91c2-3976f31f5ace",
         "GlobalID": "9e9be613-9930-4959-8b5c-012fd4601805",
         "ModifiedOnAge": 13,
-        "FireDiscoveryAge": 13
+        "FireDiscoveryAge": 14
       },
       "geometry": {
         "x": -107.72454999999997,
@@ -1293,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 458,
+        "OBJECTID": 457,
         "IncidentName": "Custer Trail - Wibaux",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG52-000496",
@@ -1460,7 +1460,7 @@
         "IrwinID": "a211fa6a-24f2-4bb7-918c-2b43391ae406",
         "GlobalID": "28d5bf41-bfd9-44e6-a83a-0b1cf6734cec",
         "ModifiedOnAge": 5,
-        "FireDiscoveryAge": 14
+        "FireDiscoveryAge": 15
       },
       "geometry": {
         "x": -107.34735999999998,
@@ -2251,7 +2251,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "ebe10c26-001b-435b-be8d-dbe30bde3bf4",
         "GlobalID": "35e14964-6c02-4054-81ba-759b7c248bff",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 2
       },
       "geometry": {
@@ -2515,7 +2515,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "c722493b-bd56-4d06-aeb1-51b86838b3f6",
         "GlobalID": "c715f256-05d3-44f4-b138-4010b24df824",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 2
       },
       "geometry": {
@@ -2833,7 +2833,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 451,
+        "OBJECTID": 450,
         "IncidentName": "Williams Hay Stack",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240840",
@@ -2877,7 +2877,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 457,
+        "OBJECTID": 456,
         "IncidentName": "994 Kyhl Lane",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240845",
@@ -3273,7 +3273,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 454,
+        "OBJECTID": 453,
         "IncidentName": "Liberty - Wibaux",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG52-000494",
@@ -3489,6 +3489,50 @@
       "geometry": {
         "x": -114.75449999999995,
         "y": 47.81850000000003
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 459,
+        "IncidentName": "JOHN DEERE",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBFA-000116",
+        "DailyAcres": null,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1724434380000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Glacier",
+        "POOState": "US-MT",
+        "FireCause": null,
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1724693759000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "7a332099-d01e-49e0-a9b9-7396b256bfed",
+        "GlobalID": "8402f012-2748-4bf3-aade-ca80d2c78cdf",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 3
+      },
+      "geometry": {
+        "x": -112.74638889999994,
+        "y": 48.62916670000004
       }
     }
   ]
