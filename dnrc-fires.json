@@ -1415,7 +1415,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "db05ae17-aabb-4f89-92af-1e1ea8211c3d",
         "GlobalID": "04ce0132-124f-4040-8b6f-f32920f38e86",
-        "ModifiedOnAge": 6,
+        "ModifiedOnAge": 7,
         "FireDiscoveryAge": 7
       },
       "geometry": {
@@ -2252,7 +2252,7 @@
         "IrwinID": "3ea2a2c4-c03d-4ab6-8e82-f8f312659934",
         "GlobalID": "1d63622f-e305-456d-8c79-60117b29bb13",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 2
+        "FireDiscoveryAge": 3
       },
       "geometry": {
         "x": -105.50694999999996,
@@ -2472,7 +2472,7 @@
         "IrwinID": "c722493b-bd56-4d06-aeb1-51b86838b3f6",
         "GlobalID": "c715f256-05d3-44f4-b138-4010b24df824",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 2
+        "FireDiscoveryAge": 3
       },
       "geometry": {
         "x": -105.82765299999994,
@@ -2560,7 +2560,7 @@
         "IrwinID": "f567442d-7c3c-45b9-b9c6-89e70497f0c7",
         "GlobalID": "d29fe807-ac6c-4356-a410-a9e9567f57c7",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 2
+        "FireDiscoveryAge": 3
       },
       "geometry": {
         "x": -105.83194399999996,
@@ -2647,7 +2647,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "ab97a54c-9e8d-4293-8509-a561f406609c",
         "GlobalID": "4718c76e-85f7-4ce9-8bdd-68128c7eb769",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 2
       },
       "geometry": {
@@ -2657,7 +2657,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 457,
+        "OBJECTID": 456,
         "IncidentName": "Battle Overlook - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000498",
@@ -2917,50 +2917,6 @@
       "geometry": {
         "x": -106.67569399999996,
         "y": 45.65905600000008
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 463,
-        "IncidentName": "Boyse",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLNF-240738",
-        "DailyAcres": 0.5,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1724717973000,
-        "DiscoveryAcres": 0.5,
-        "POOCounty": "Sanders",
-        "POOState": "US-MT",
-        "FireCause": "Natural",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1724724761000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "1b3308f9-aaa8-4cac-b13d-55553fda144f",
-        "GlobalID": "495a1b3c-50df-4590-bc58-084e8b29a107",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -115.25599999999997,
-        "y": 47.554050000000075
       }
     },
     {
@@ -3581,7 +3537,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 464,
+        "OBJECTID": 462,
         "IncidentName": "McDermott",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTDDC-246487",
