@@ -755,7 +755,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "e82f9739-377d-4338-8ed7-49c89afa6ff8",
         "GlobalID": "b1cb0394-826a-474f-832b-18b2235691aa",
-        "ModifiedOnAge": 4,
+        "ModifiedOnAge": 5,
         "FireDiscoveryAge": 5
       },
       "geometry": {
@@ -1063,12 +1063,56 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "41e348b5-e82b-47e4-bfa2-bf24a795adaf",
         "GlobalID": "ba931562-2330-43f1-b1ea-7fd524f1d9da",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 1
       },
       "geometry": {
         "x": -109.72812499999998,
         "y": 45.48002500000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 492,
+        "IncidentName": "Rock head",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG24-000276",
+        "DailyAcres": 81,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1721871720000,
+        "DiscoveryAcres": 81,
+        "POOCounty": "Blaine",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1724945063000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "d03c568e-f23e-4a70-a450-c1368c558638",
+        "GlobalID": "ae356afc-b0c7-4eaa-8243-48def110fe47",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 35
+      },
+      "geometry": {
+        "x": -108.43512699999997,
+        "y": 48.68128000000007
       }
     },
     {
