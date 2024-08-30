@@ -579,7 +579,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "0f4be3e8-f093-4892-9424-ab167d1d88be",
         "GlobalID": "ac942372-dd94-4302-9d8d-3d0916fb7271",
-        "ModifiedOnAge": 2,
+        "ModifiedOnAge": 3,
         "FireDiscoveryAge": 7
       },
       "geometry": {
@@ -805,6 +805,50 @@
       "geometry": {
         "x": -111.29349999999994,
         "y": 46.91948000000008
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 485,
+        "IncidentName": "Highline",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG09-000511",
+        "DailyAcres": 150,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1725039063000,
+        "DiscoveryAcres": 30,
+        "POOCounty": "Powder River",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1725044215000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "d2c329ae-fc94-46d4-93c9-7531562f6c18",
+        "GlobalID": "eb0118c3-aeb5-4320-873c-75d565cfb9bc",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -105.96161699999999,
+        "y": 45.13641700000005
       }
     },
     {
@@ -1117,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 465,
+        "OBJECTID": 464,
         "IncidentName": "North Savoy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG24-000280",
@@ -1381,50 +1425,6 @@
     },
     {
       "attributes": {
-        "OBJECTID": 486,
-        "IncidentName": "Highline",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG09-000511",
-        "DailyAcres": 30,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1725039063000,
-        "DiscoveryAcres": 30,
-        "POOCounty": "Powder River",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1725042569000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "d2c329ae-fc94-46d4-93c9-7531562f6c18",
-        "GlobalID": "eb0118c3-aeb5-4320-873c-75d565cfb9bc",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -105.96161699999999,
-        "y": 45.13641700000005
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 260,
         "IncidentName": "Old Holiday Place",
         "IncidentTypeCategory": "WF",
@@ -1557,7 +1557,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 467,
+        "OBJECTID": 466,
         "IncidentName": "Shaver - Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000507",
@@ -2129,7 +2129,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 466,
+        "OBJECTID": 465,
         "IncidentName": "I-94 - Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000506",
@@ -2437,7 +2437,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 468,
+        "OBJECTID": 467,
         "IncidentName": "Butler Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLNF-240760",
@@ -2648,7 +2648,7 @@
         "IrwinID": "889960d4-2c1f-4cb7-abcd-105f76d2a428",
         "GlobalID": "d2433941-8f82-4071-b86f-194642940a16",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 33
+        "FireDiscoveryAge": 34
       },
       "geometry": {
         "x": -113.61161699999997,
