@@ -1205,7 +1205,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 442,
+        "OBJECTID": 441,
         "IncidentName": "MM 46",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000517",
@@ -1865,6 +1865,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 417,
+        "IncidentName": "Tepee",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTCGF-240884",
+        "DailyAcres": 1.25,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1725214777000,
+        "DiscoveryAcres": 0.25,
+        "POOCounty": "Gallatin",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1725287383000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "dcfa2d68-a4ce-4bc0-af8c-fff41fac6431",
+        "GlobalID": "18ca5029-951d-402c-934d-c67b0e0c38b3",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -111.10633299999995,
+        "y": 44.81116700000007
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 92,
         "IncidentName": "Calbick",
         "IncidentTypeCategory": "WF",
@@ -1909,7 +1953,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 448,
+        "OBJECTID": 447,
         "IncidentName": "No Water",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-240886",
@@ -1949,50 +1993,6 @@
       "geometry": {
         "x": -107.60549999999995,
         "y": 45.23316700000004
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 418,
-        "IncidentName": "Tepee",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTCGF-240884",
-        "DailyAcres": 0.25,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1725214777000,
-        "DiscoveryAcres": 0.25,
-        "POOCounty": "Gallatin",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1725218479000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "dcfa2d68-a4ce-4bc0-af8c-fff41fac6431",
-        "GlobalID": "18ca5029-951d-402c-934d-c67b0e0c38b3",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -111.10633299999995,
-        "y": 44.81116700000007
       }
     },
     {
@@ -2169,6 +2169,50 @@
       "geometry": {
         "x": -115.53341699999999,
         "y": 48.01305000000008
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 472,
+        "IncidentName": "RT 20 E",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTFPA-000287",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1725240600000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Roosevelt",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1725287619000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "30467839-0673-4331-bdda-50548861c066",
+        "GlobalID": "cf68c1dc-0de2-479f-9f8b-257b31f2ee5a",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -104.67947199999998,
+        "y": 48.12091700000008
       }
     },
     {
