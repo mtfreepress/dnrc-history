@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 133,
+        "OBJECTID": 132,
         "IncidentName": "Grouse",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246327",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 130,
+        "OBJECTID": 129,
         "IncidentName": "Johnson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024261",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 50,
+        "OBJECTID": 49,
         "IncidentName": "Miller Peak",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLNF-240427",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 120,
+        "OBJECTID": 119,
         "IncidentName": "Railroad",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024251",
@@ -1337,7 +1337,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 108,
+        "OBJECTID": 107,
         "IncidentName": "Muir Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTGNP-000265",
@@ -1592,7 +1592,7 @@
         "IrwinID": "50bdf065-ae3b-4407-83c4-0246200084f0",
         "GlobalID": "ecefbf66-8513-4778-b5db-aa3cdcbb8f62",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 9
+        "FireDiscoveryAge": 10
       },
       "geometry": {
         "x": -113.60636699999998,
@@ -1645,7 +1645,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 357,
+        "OBJECTID": 356,
         "IncidentName": "North Star Louse",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG36-000282",
@@ -1689,7 +1689,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 351,
+        "OBJECTID": 350,
         "IncidentName": "Alaska",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG43-000667",
@@ -1821,7 +1821,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 405,
+        "OBJECTID": 404,
         "IncidentName": "Tepee",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCGF-240884",
@@ -1865,7 +1865,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 92,
+        "OBJECTID": 91,
         "IncidentName": "Calbick",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFNF-000254",
@@ -1899,7 +1899,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "3b73f26c-e628-4e44-bd96-40ecb8f54994",
         "GlobalID": "f70e7fa3-06ef-4839-9a12-c77a82052163",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 42
       },
       "geometry": {
@@ -1909,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 433,
+        "OBJECTID": 432,
         "IncidentName": "No Water",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-240886",
@@ -2129,7 +2129,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 458,
+        "OBJECTID": 457,
         "IncidentName": "RT 20 E",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000287",
@@ -2169,50 +2169,6 @@
       "geometry": {
         "x": -104.67947199999998,
         "y": 48.12091700000008
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 485,
-        "IncidentName": "Harrison Park",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBDF-246512",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1725238003000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Beaverhead",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1725298371000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "f8a6ec23-6ba2-479a-813c-4452ff21af3f",
-        "GlobalID": "d0512bf0-a832-4dab-93eb-cd6b300842a1",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -113.11291699999998,
-        "y": 45.49400000000003
       }
     },
     {
