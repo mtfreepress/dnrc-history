@@ -1469,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 385,
+        "OBJECTID": 383,
         "IncidentName": "No Water",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-240886",
@@ -1909,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 477,
+        "OBJECTID": 475,
         "IncidentName": "Tex",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246545",
@@ -1993,6 +1993,50 @@
       "geometry": {
         "x": -113.14683299999996,
         "y": 48.091833000000065
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 505,
+        "IncidentName": "Reservoir Creek",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTCES-246549",
+        "DailyAcres": 0.25,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1725329621000,
+        "DiscoveryAcres": 0.25,
+        "POOCounty": "Beaverhead",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1725332784000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "79644edf-4134-4664-9694-2552336eb6a1",
+        "GlobalID": "9273bb66-f556-436c-b594-03436834d839",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -113.06883299999998,
+        "y": 45.13671700000003
       }
     },
     {
@@ -2129,7 +2173,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 410,
+        "OBJECTID": 408,
         "IncidentName": "RT 20 E",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000287",
@@ -2173,7 +2217,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 470,
+        "OBJECTID": 468,
         "IncidentName": "LG25 6548",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG25-246548",
