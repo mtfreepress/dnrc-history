@@ -448,7 +448,7 @@
         "IrwinID": "5fa5ba0b-e6d5-4953-b96e-9e673066a398",
         "GlobalID": "40101def-6abe-4033-9dff-46c7e69e14eb",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 53
+        "FireDiscoveryAge": 54
       },
       "geometry": {
         "x": -106.69560099999995,
@@ -491,7 +491,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "4168d580-a2a8-4752-9a78-b28968574e5d",
         "GlobalID": "3fe750a9-d03a-474c-80f4-106bd8b074bf",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 40
       },
       "geometry": {
@@ -638,7 +638,7 @@
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024418",
         "DailyAcres": 2399,
-        "CalculatedAcres": 2399.2914,
+        "CalculatedAcres": 2873.0646,
         "PercentContained": 3,
         "ICS209ReportDateTime": 1725399440000,
         "FireDiscoveryDateTime": 1724449620000,
@@ -663,7 +663,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1725399440000,
+        "ModifiedOnDateTime": 1725483118000,
         "IncidentTypeKind": "FI",
         "IrwinID": "191211cd-e240-43c1-9787-0e1891bb3edc",
         "GlobalID": "76f9f39f-1dda-4eb6-8baa-8b55cbd4130f",
@@ -1636,7 +1636,7 @@
         "IrwinID": "bdb7328d-8b59-45e4-93bf-664a9403534c",
         "GlobalID": "7b70e336-521a-4e2d-b16c-f226e524809b",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 16
+        "FireDiscoveryAge": 17
       },
       "geometry": {
         "x": -113.86366699999996,
@@ -1905,6 +1905,50 @@
       "geometry": {
         "x": -106.80266699999999,
         "y": 46.34230000000008
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 89,
+        "IncidentName": "Hercules",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG14-000315",
+        "DailyAcres": 8,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1721598421000,
+        "DiscoveryAcres": 8,
+        "POOCounty": "Custer",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1725482843000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "18bad20e-18ef-4aa2-803c-4d9fe223ae63",
+        "GlobalID": "b2cce02b-6f7e-44ef-9a6a-ba8f02bb46da",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 44
+      },
+      "geometry": {
+        "x": -105.25346699999994,
+        "y": 45.98831700000005
       }
     },
     {
@@ -2305,6 +2349,94 @@
     },
     {
       "attributes": {
+        "OBJECTID": 539,
+        "IncidentName": "Micah Ridge",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTCGF-240913",
+        "DailyAcres": 0.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1725471000000,
+        "DiscoveryAcres": 0.5,
+        "POOCounty": "Gallatin",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1725483097000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "95d85a62-fec2-4918-a86f-f402c323f7b4",
+        "GlobalID": "41dfa4a1-ef27-4758-a4df-84b5c9cfbfe2",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -111.12349999999998,
+        "y": 45.468000000000075
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 528,
+        "IncidentName": "Beaver Crk",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG49-240916",
+        "DailyAcres": 0.2,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1725478427000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Park",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1725483264000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "e8a64240-a938-4600-aafc-8a5ec9e96766",
+        "GlobalID": "80915649-3046-4018-808f-939cbaf9fd98",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -110.42347199999995,
+        "y": 45.61840600000005
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 162,
         "IncidentName": "Elk Horn Pass",
         "IncidentTypeCategory": "WF",
@@ -2515,7 +2647,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "1a554398-24a7-4043-bdde-55ac32b63e17",
         "GlobalID": "4093fe36-4ea7-4923-928d-5177d85e2980",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 1
       },
       "geometry": {
@@ -2613,50 +2745,6 @@
     },
     {
       "attributes": {
-        "OBJECTID": 528,
-        "IncidentName": "Beaver Crk",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG49-240916",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1725478427000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Park",
-        "POOState": "US-MT",
-        "FireCause": "Natural",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1725480594000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "e8a64240-a938-4600-aafc-8a5ec9e96766",
-        "GlobalID": "80915649-3046-4018-808f-939cbaf9fd98",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -110.42347199999995,
-        "y": 45.61840600000005
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 532,
         "IncidentName": "Limekiln",
         "IncidentTypeCategory": "WF",
@@ -2697,6 +2785,50 @@
       "geometry": {
         "x": -109.33611099999996,
         "y": 47.138333000000046
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 537,
+        "IncidentName": "4 Mile",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDF-246554",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1725408655000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Deer Lodge",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1725482830000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "39c7befb-3599-4db6-b2e4-7dbc61df0c71",
+        "GlobalID": "cfa42015-1b8e-4f42-bbff-2d0213087317",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -113.22231199999999,
+        "y": 46.093597000000045
       }
     },
     {
@@ -2912,7 +3044,7 @@
         "IrwinID": "3152aa3e-ac8d-4c4b-9950-eab66251874c",
         "GlobalID": "55d3368c-ca18-44eb-971c-f5a03881c72d",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 95
+        "FireDiscoveryAge": 96
       },
       "geometry": {
         "x": -113.01999999999998,
