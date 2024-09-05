@@ -536,7 +536,7 @@
         "IrwinID": "e2e54cdb-3f3e-4820-b140-2f0b4dc45dfc",
         "GlobalID": "2a46616e-7f19-4140-b357-c57e3e44c6b9",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 41
+        "FireDiscoveryAge": 42
       },
       "geometry": {
         "x": -113.71416699999997,
@@ -888,7 +888,7 @@
         "IrwinID": "fd031f20-f0cd-4663-a307-1256ce5c57c9",
         "GlobalID": "29b67be0-aef6-4dab-ada2-be69f9b174bb",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
+        "FireDiscoveryAge": 1
       },
       "geometry": {
         "x": -114.41264999999999,
@@ -2389,6 +2389,50 @@
       "geometry": {
         "x": -112.00264999999996,
         "y": 45.49822000000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 550,
+        "IncidentName": "Hay Fire",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG50-000520",
+        "DailyAcres": 0.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1725573325000,
+        "DiscoveryAcres": 0.5,
+        "POOCounty": "Garfield",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1725578137000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "4063b315-d038-448c-a312-1701610356a5",
+        "GlobalID": "b31698d4-9f32-49ac-9839-a645592849e7",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -107.67316699999998,
+        "y": 47.27713300000005
       }
     },
     {
