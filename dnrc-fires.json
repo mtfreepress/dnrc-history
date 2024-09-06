@@ -1943,7 +1943,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "7a16ab9e-9540-41b0-b978-a1cc84b89a59",
         "GlobalID": "394b0b4c-b6fa-4d0d-b7ff-6ed3834d939c",
-        "ModifiedOnAge": 6,
+        "ModifiedOnAge": 7,
         "FireDiscoveryAge": 22
       },
       "geometry": {
@@ -2257,6 +2257,50 @@
       "geometry": {
         "x": -113.57333299999999,
         "y": 46.57561700000008
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 576,
+        "IncidentName": "Green Acres",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTFPA-000289",
+        "DailyAcres": 2,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1725566580000,
+        "DiscoveryAcres": 2,
+        "POOCounty": "Roosevelt",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1725632617000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "8af32e15-b5df-4393-959b-de683614e589",
+        "GlobalID": "fcf48cb4-3285-4231-b74f-1f4a5aa78cfa",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -105.70655599999998,
+        "y": 48.077667000000076
       }
     },
     {
