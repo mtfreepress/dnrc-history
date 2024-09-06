@@ -417,10 +417,10 @@
         "IncidentName": "Grouse",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246327",
-        "DailyAcres": 5000,
+        "DailyAcres": 5743,
         "CalculatedAcres": 4166.4947,
         "PercentContained": 22,
-        "ICS209ReportDateTime": 1725489141000,
+        "ICS209ReportDateTime": 1725658479000,
         "FireDiscoveryDateTime": 1721949051000,
         "DiscoveryAcres": 0.25,
         "POOCounty": "Beaverhead",
@@ -443,11 +443,11 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1725489141000,
+        "ModifiedOnDateTime": 1725658479000,
         "IncidentTypeKind": "FI",
         "IrwinID": "4168d580-a2a8-4752-9a78-b28968574e5d",
         "GlobalID": "3fe750a9-d03a-474c-80f4-106bd8b074bf",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 0,
         "FireDiscoveryAge": 42
       },
       "geometry": {
@@ -809,14 +809,14 @@
     },
     {
       "attributes": {
-        "OBJECTID": 431,
+        "OBJECTID": 430,
         "IncidentName": "MILE MARKER 104",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFHA-000117",
         "DailyAcres": 400,
         "CalculatedAcres": 451.9162,
-        "PercentContained": 0,
-        "ICS209ReportDateTime": 1725571261000,
+        "PercentContained": 10,
+        "ICS209ReportDateTime": 1725658299000,
         "FireDiscoveryDateTime": 1725491700000,
         "DiscoveryAcres": null,
         "POOCounty": "Sanders",
@@ -824,7 +824,7 @@
         "FireCause": "Human",
         "FireCauseGeneral": null,
         "GACC": "NRCC",
-        "TotalIncidentPersonnel": 61,
+        "TotalIncidentPersonnel": 69,
         "IncidentManagementOrganization": "Type 3 IC",
         "FireMgmtComplexity": null,
         "ResidencesDestroyed": null,
@@ -839,7 +839,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1725576434000,
+        "ModifiedOnDateTime": 1725658299000,
         "IncidentTypeKind": "FI",
         "IrwinID": "fd031f20-f0cd-4663-a307-1256ce5c57c9",
         "GlobalID": "29b67be0-aef6-4dab-ada2-be69f9b174bb",
@@ -847,8 +847,8 @@
         "FireDiscoveryAge": 1
       },
       "geometry": {
-        "x": -114.41264999999999,
-        "y": 47.31439000000006
+        "x": -114.42611109999996,
+        "y": 47.309444400000075
       }
     },
     {
@@ -1381,7 +1381,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 354,
+        "OBJECTID": 353,
         "IncidentName": "McNaley",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG32-240906",
@@ -1416,7 +1416,7 @@
         "IrwinID": "2085cfb3-ca72-4c28-a908-6feaba81afa2",
         "GlobalID": "03923cbc-472f-4018-af20-11d4170071c1",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 2
+        "FireDiscoveryAge": 3
       },
       "geometry": {
         "x": -109.30225999999999,
@@ -1777,7 +1777,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 534,
+        "OBJECTID": 533,
         "IncidentName": "Bailer Dam",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000522",
@@ -1865,7 +1865,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 424,
+        "OBJECTID": 423,
         "IncidentName": "Pedro Mine",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246558",
@@ -1909,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 501,
+        "OBJECTID": 500,
         "IncidentName": "Middle Fork",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246563",
@@ -1953,7 +1953,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 363,
+        "OBJECTID": 362,
         "IncidentName": "Soap Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-240908",
@@ -2032,7 +2032,7 @@
         "IrwinID": "e3c9bf31-4a59-4f7f-a6cf-7423dda5c554",
         "GlobalID": "2acfb147-25af-490b-b520-526897190ba6",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 11
+        "FireDiscoveryAge": 12
       },
       "geometry": {
         "x": -105.61001699999997,
@@ -2075,7 +2075,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "b57088c5-12fb-408f-8a5b-9dc1efc06e14",
         "GlobalID": "b031a9a6-6cad-4972-8a2c-2678a5c3c592",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 14
       },
       "geometry": {
@@ -2085,7 +2085,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 532,
+        "OBJECTID": 531,
         "IncidentName": "Green Acres",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000289",
@@ -2173,7 +2173,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 564,
+        "OBJECTID": 562,
         "IncidentName": "Westland Rd",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG20-000290",
@@ -2261,7 +2261,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 493,
+        "OBJECTID": 492,
         "IncidentName": "Hay",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000520",
@@ -2305,7 +2305,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 559,
+        "OBJECTID": 558,
         "IncidentName": "Bend",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLNF-240790",
@@ -2789,7 +2789,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 386,
+        "OBJECTID": 385,
         "IncidentName": "Elephant Rock",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024453",
@@ -2833,7 +2833,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 429,
+        "OBJECTID": 428,
         "IncidentName": "Sunflower",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240917",
@@ -2877,7 +2877,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 500,
+        "OBJECTID": 499,
         "IncidentName": "Sheep Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246562",
@@ -2921,7 +2921,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 505,
+        "OBJECTID": 504,
         "IncidentName": "Roosevelt",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCGF-240912",
@@ -2965,7 +2965,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 546,
+        "OBJECTID": 545,
         "IncidentName": "Boyd Creek Rd",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG08-000270",
@@ -3009,7 +3009,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 576,
+        "OBJECTID": 574,
         "IncidentName": "Darkhorse",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246564",
