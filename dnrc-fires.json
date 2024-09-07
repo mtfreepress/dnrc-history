@@ -1689,7 +1689,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 502,
+        "OBJECTID": 501,
         "IncidentName": "Bailer Dam",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000522",
@@ -1782,7 +1782,7 @@
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246558",
         "DailyAcres": 12,
-        "CalculatedAcres": 6.261,
+        "CalculatedAcres": 14.3294,
         "PercentContained": null,
         "ICS209ReportDateTime": null,
         "FireDiscoveryDateTime": 1725475917000,
@@ -1807,7 +1807,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1725647519000,
+        "ModifiedOnDateTime": 1725675793000,
         "IncidentTypeKind": "FI",
         "IrwinID": "da4f79dd-48fc-4763-8b2c-d8d4cac56b68",
         "GlobalID": "631435c0-838b-4485-b260-a0ea4ecee685",
@@ -1821,7 +1821,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 472,
+        "OBJECTID": 471,
         "IncidentName": "Middle Fork",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246563",
@@ -1865,7 +1865,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 549,
+        "OBJECTID": 548,
         "IncidentName": "Tee",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240926",
@@ -2041,7 +2041,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 500,
+        "OBJECTID": 499,
         "IncidentName": "Green Acres",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000289",
@@ -2129,7 +2129,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 527,
+        "OBJECTID": 526,
         "IncidentName": "Westland Rd",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG20-000290",
@@ -2217,7 +2217,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 464,
+        "OBJECTID": 463,
         "IncidentName": "Hay",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000520",
@@ -2789,7 +2789,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 471,
+        "OBJECTID": 470,
         "IncidentName": "Sheep Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246562",
@@ -2833,7 +2833,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 476,
+        "OBJECTID": 475,
         "IncidentName": "Roosevelt",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCGF-240912",
@@ -2877,7 +2877,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 514,
+        "OBJECTID": 513,
         "IncidentName": "Boyd Creek Rd",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG08-000270",
@@ -2921,7 +2921,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 537,
+        "OBJECTID": 536,
         "IncidentName": "River Crow Road INC 924",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240924",
@@ -2961,6 +2961,138 @@
       "geometry": {
         "x": -107.49266699999998,
         "y": 45.67416700000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 563,
+        "IncidentName": "2nd Ave",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBFA-000118",
+        "DailyAcres": null,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1725076800000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Glacier",
+        "POOState": "US-MT",
+        "FireCause": null,
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1725676061000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "9e32f9a9-4b05-4f43-9c04-dc16a733fa7a",
+        "GlobalID": "9faf1dbd-03e0-4e36-aacd-51052afae497",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 6
+      },
+      "geometry": {
+        "x": -113.01638889999998,
+        "y": 48.55833330000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 564,
+        "IncidentName": "BOWL",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBFA-000119",
+        "DailyAcres": null,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1725307200000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Glacier",
+        "POOState": "US-MT",
+        "FireCause": null,
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1725676241000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "ec88ef54-6977-48e2-a020-0eceffcbe0cc",
+        "GlobalID": "943a2d9d-4b16-4afe-b43c-7c74d67ea174",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 4
+      },
+      "geometry": {
+        "x": -113.01694439999994,
+        "y": 48.572222200000056
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 565,
+        "IncidentName": "JIMINEZ",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBFA-000120",
+        "DailyAcres": null,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1725327000000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Glacier",
+        "POOState": "US-MT",
+        "FireCause": null,
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1725676784000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "62e79dc6-6396-4d99-9bff-39f93bbbfb42",
+        "GlobalID": "c383d4a6-fed9-4395-877c-fdf0acb6ec0d",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 4
+      },
+      "geometry": {
+        "x": -113.01444439999995,
+        "y": 48.55194440000008
       }
     }
   ]
