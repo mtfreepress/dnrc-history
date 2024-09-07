@@ -35,7 +35,7 @@
     "IrwinID": "2b136641-8c91-4c70-960d-64e05bc390e4",
     "GlobalID": "ed31ba29-87b1-47f3-a5ba-91c8be5d3f5a",
     "ModifiedOnAge": 0,
-    "FireDiscoveryAge": 15
+    "FireDiscoveryAge": 16
   },
   "geometry": {
     "x": -106.07121999999998,
