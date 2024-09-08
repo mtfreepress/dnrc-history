@@ -1020,7 +1020,7 @@
         "IrwinID": "74b0bdc6-cb1c-47de-b74b-0bb870164223",
         "GlobalID": "fc23483e-0410-49a2-8d30-7df24ea4265f",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 39
+        "FireDiscoveryAge": 40
       },
       "geometry": {
         "x": -114.36716699999994,
@@ -1469,6 +1469,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 557,
+        "IncidentName": "Kreis",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLNF-240793",
+        "DailyAcres": 22.7,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1725764371000,
+        "DiscoveryAcres": 2,
+        "POOCounty": "Missoula",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1725802725000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "88775836-6551-4b76-b677-3f5f9f9a3483",
+        "GlobalID": "177e5184-2e43-43ca-9abd-ea161133dcbb",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -114.451867,
+        "y": 47.10205000000008
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 333,
         "IncidentName": "Pedro Mine",
         "IncidentTypeCategory": "WF",
@@ -1641,50 +1685,6 @@
       "geometry": {
         "x": -104.72776699999997,
         "y": 46.91185000000007
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 558,
-        "IncidentName": "Kreis",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLNF-240793",
-        "DailyAcres": 15.5,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1725764371000,
-        "DiscoveryAcres": 2,
-        "POOCounty": "Missoula",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1725790431000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "88775836-6551-4b76-b677-3f5f9f9a3483",
-        "GlobalID": "177e5184-2e43-43ca-9abd-ea161133dcbb",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -114.451867,
-        "y": 47.10205000000008
       }
     },
     {
