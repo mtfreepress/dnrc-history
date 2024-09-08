@@ -976,7 +976,7 @@
         "IrwinID": "15bf29fb-96bd-46a1-96f0-3d8af94239e9",
         "GlobalID": "04c5c843-abf1-4965-92b2-3ea4457e451c",
         "ModifiedOnAge": 11,
-        "FireDiscoveryAge": 16
+        "FireDiscoveryAge": 17
       },
       "geometry": {
         "x": -109.11999999999995,
@@ -1855,8 +1855,8 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "1a5c4b5d-9b76-4726-8cbb-0074635b617f",
         "GlobalID": "352673af-712b-4978-8ba7-5d739828f538",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
+        "ModifiedOnAge": 1,
+        "FireDiscoveryAge": 1
       },
       "geometry": {
         "x": -105.88599999999997,
@@ -2071,7 +2071,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1725814392000,
+        "ModifiedOnDateTime": 1725819827000,
         "IncidentTypeKind": "FI",
         "IrwinID": "bc4c692c-14e0-4fa9-83d0-213daa20b5c5",
         "GlobalID": "7f1820e4-e416-429d-9bd9-65f27c960ccf",
@@ -2163,12 +2163,56 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "4063b315-d038-448c-a312-1701610356a5",
         "GlobalID": "b31698d4-9f32-49ac-9839-a645592849e7",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 2
       },
       "geometry": {
         "x": -107.67316699999998,
         "y": 47.27713300000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 564,
+        "IncidentName": "Long Tom",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTDDC-246574",
+        "DailyAcres": 0.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1725812354000,
+        "DiscoveryAcres": 0.5,
+        "POOCounty": "Silver Bow",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1725819803000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "7f71e9da-5be0-4bda-b6ed-26d3c55b154b",
+        "GlobalID": "e73a4ad5-b973-4de0-bd6c-7ea1218a777c",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.92567999999994,
+        "y": 45.925640000000044
       }
     },
     {
