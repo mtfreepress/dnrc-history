@@ -589,6 +589,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 191,
+        "IncidentName": "Daly",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBRF-024380",
+        "DailyAcres": 2170,
+        "CalculatedAcres": 2067.5123,
+        "PercentContained": 6,
+        "ICS209ReportDateTime": 1725796502000,
+        "FireDiscoveryDateTime": 1724013420000,
+        "DiscoveryAcres": 0.25,
+        "POOCounty": "Ravalli",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": 33,
+        "IncidentManagementOrganization": "Type 3 IC",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": 0,
+        "OtherStructuresDestroyed": 0,
+        "Injuries": 0,
+        "Fatalities": 0,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Timber (Litter and Understory)",
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1725796502000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "bdb7328d-8b59-45e4-93bf-664a9403534c",
+        "GlobalID": "7b70e336-521a-4e2d-b16c-f226e524809b",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 20
+      },
+      "geometry": {
+        "x": -113.86366699999996,
+        "y": 46.18966700000004
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 35,
         "IncidentName": "Four Mile",
         "IncidentTypeCategory": "WF",
@@ -629,50 +673,6 @@
       "geometry": {
         "x": -106.82430999999997,
         "y": 45.240830000000074
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 191,
-        "IncidentName": "Daly",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBRF-024380",
-        "DailyAcres": 2068,
-        "CalculatedAcres": 2067.5123,
-        "PercentContained": 4,
-        "ICS209ReportDateTime": 1725712347000,
-        "FireDiscoveryDateTime": 1724013420000,
-        "DiscoveryAcres": 0.25,
-        "POOCounty": "Ravalli",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": 12,
-        "IncidentManagementOrganization": "Type 3 IC",
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": 0,
-        "OtherStructuresDestroyed": 0,
-        "Injuries": 0,
-        "Fatalities": 0,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": "Timber (Litter and Understory)",
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1725762231000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "bdb7328d-8b59-45e4-93bf-664a9403534c",
-        "GlobalID": "7b70e336-521a-4e2d-b16c-f226e524809b",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 20
-      },
-      "geometry": {
-        "x": -113.86366699999996,
-        "y": 46.18966700000004
       }
     },
     {
