@@ -756,7 +756,7 @@
         "IrwinID": "c4f6665d-4946-47c6-92e6-076980a610f6",
         "GlobalID": "8d773a90-563a-4a06-9851-251b8c62f985",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 46
+        "FireDiscoveryAge": 47
       },
       "geometry": {
         "x": -113.85899999999998,
@@ -887,7 +887,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "98a2eaef-d03c-4181-a312-dcb4806a99dd",
         "GlobalID": "70a8e8fe-7333-4c1e-88f9-e430ccabb074",
-        "ModifiedOnAge": 12,
+        "ModifiedOnAge": 13,
         "FireDiscoveryAge": 19
       },
       "geometry": {
@@ -1029,7 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 407,
+        "OBJECTID": 406,
         "IncidentName": "Long Tom",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-246574",
@@ -1108,7 +1108,7 @@
         "IrwinID": "49fb279b-7f52-4942-9bbb-b56f831d0328",
         "GlobalID": "b818e963-120d-4c8f-8140-9867133a2663",
         "ModifiedOnAge": 11,
-        "FireDiscoveryAge": 46
+        "FireDiscoveryAge": 47
       },
       "geometry": {
         "x": -108.28152899999998,
@@ -1117,7 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 552,
+        "OBJECTID": 550,
         "IncidentName": "China Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000300",
@@ -1161,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 425,
+        "OBJECTID": 423,
         "IncidentName": "Cole Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG10-240934",
@@ -1205,7 +1205,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 548,
+        "OBJECTID": 546,
         "IncidentName": "Tognetti",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG08-000291",
@@ -1513,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 386,
+        "OBJECTID": 385,
         "IncidentName": "Kreis",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLNF-240793",
@@ -1733,7 +1733,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 322,
+        "OBJECTID": 323,
         "IncidentName": "Bailer Dam",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000522",
@@ -1777,7 +1777,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 472,
+        "OBJECTID": 470,
         "IncidentName": "Kennedy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLNF-240798",
@@ -1821,7 +1821,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 558,
+        "OBJECTID": 556,
         "IncidentName": "Wold Road",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240940",
@@ -1909,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 325,
+        "OBJECTID": 326,
         "IncidentName": "Tee",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240926",
@@ -1953,7 +1953,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 531,
+        "OBJECTID": 615,
+        "IncidentName": "Diamond",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG36-000295",
+        "DailyAcres": 6.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1725404820000,
+        "DiscoveryAcres": 6.5,
+        "POOCounty": "Judith Basin",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1725979493000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "23e928ee-5d9a-47ba-bdc9-73054501ad20",
+        "GlobalID": "149c8599-2e90-4d20-9727-4419efd23f6f",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 6
+      },
+      "geometry": {
+        "x": -109.86065599999995,
+        "y": 46.91155700000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 529,
         "IncidentName": "Buffalo",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000528",
@@ -1997,7 +2041,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 351,
+        "OBJECTID": 350,
         "IncidentName": "Keogh - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000524",
@@ -2041,7 +2085,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 376,
+        "OBJECTID": 375,
         "IncidentName": "HWY 212 INC 933",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-240933",
@@ -2085,7 +2129,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 452,
+        "OBJECTID": 450,
         "IncidentName": "Watchtower",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024464",
@@ -2173,7 +2217,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 399,
+        "OBJECTID": 398,
         "IncidentName": "Kootenai Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024462",
@@ -2217,7 +2261,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 316,
+        "OBJECTID": 317,
         "IncidentName": "Hay",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000520",
@@ -2261,7 +2305,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 496,
+        "OBJECTID": 494,
         "IncidentName": "Rock Candy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000298",
@@ -2305,7 +2349,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 567,
+        "OBJECTID": 617,
+        "IncidentName": "Moulten",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG08-000296",
+        "DailyAcres": 0.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1725139800000,
+        "DiscoveryAcres": 0.5,
+        "POOCounty": "Fergus",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1725980580000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "492f1c38-d986-421c-9328-e52597664de8",
+        "GlobalID": "86ff5344-0afe-4b81-9574-664a15f6c56e",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 9
+      },
+      "geometry": {
+        "x": -109.35429999999997,
+        "y": 47.343800000000044
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 565,
         "IncidentName": "Fales Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024467",
@@ -2349,7 +2437,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 612,
+        "OBJECTID": 610,
         "IncidentName": "Elevator",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG17-000292",
@@ -2393,7 +2481,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 613,
+        "OBJECTID": 611,
         "IncidentName": "RTE 34",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG17-000293",
@@ -2481,7 +2569,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 354,
+        "OBJECTID": 353,
         "IncidentName": "614",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024459",
@@ -2525,7 +2613,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 522,
+        "OBJECTID": 520,
         "IncidentName": "County",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000529",
@@ -2569,7 +2657,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 528,
+        "OBJECTID": 526,
         "IncidentName": "South Lynch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000530",
@@ -2824,7 +2912,7 @@
         "IrwinID": "dafb9623-427d-43b6-992a-ee74972e7336",
         "GlobalID": "88221060-626b-4d85-872d-44706c00a00e",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 128
+        "FireDiscoveryAge": 129
       },
       "geometry": {
         "x": -113.01694439999994,
@@ -2868,7 +2956,7 @@
         "IrwinID": "58c90634-45eb-4492-acb2-8324de4dbe7a",
         "GlobalID": "64ab5e19-a784-4cba-b65b-9c716073e864",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 127
+        "FireDiscoveryAge": 128
       },
       "geometry": {
         "x": -113.01055559999998,
@@ -2912,7 +3000,7 @@
         "IrwinID": "46536abd-af40-44f1-8a94-a5eced716e99",
         "GlobalID": "18c62ed6-4bf6-4a32-ba87-501ca243c01e",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 122
+        "FireDiscoveryAge": 123
       },
       "geometry": {
         "x": -113.0244444,
@@ -2956,7 +3044,7 @@
         "IrwinID": "b3717486-f2ad-4093-9094-1bda886ec973",
         "GlobalID": "65b0a931-39db-4a75-b8e6-d042334e9e95",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 121
+        "FireDiscoveryAge": 122
       },
       "geometry": {
         "x": -113.02027779999997,
