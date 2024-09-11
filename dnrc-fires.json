@@ -1020,7 +1020,7 @@
         "IrwinID": "be9b468f-c599-46f5-8e1c-118d78cc023d",
         "GlobalID": "9105cf08-a38b-4b46-8f10-1b90d2504c4f",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 18
+        "FireDiscoveryAge": 19
       },
       "geometry": {
         "x": -113.10149999999999,
@@ -1547,7 +1547,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "50bdf065-ae3b-4407-83c4-0246200084f0",
         "GlobalID": "ecefbf66-8513-4778-b5db-aa3cdcbb8f62",
-        "ModifiedOnAge": 2,
+        "ModifiedOnAge": 3,
         "FireDiscoveryAge": 19
       },
       "geometry": {
@@ -1865,50 +1865,6 @@
     },
     {
       "attributes": {
-        "OBJECTID": 575,
-        "IncidentName": "Bemish",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLNF-240803",
-        "DailyAcres": 3,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1725995238000,
-        "DiscoveryAcres": 1,
-        "POOCounty": "Sanders",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1726011371000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "124a325e-fd94-4954-a8ae-fe21091661f7",
-        "GlobalID": "7c4b5d0b-5abf-4109-8f52-9f0024e2e8b9",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -115.05011599999995,
-        "y": 47.43619800000005
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 544,
         "IncidentName": "Broadski",
         "IncidentTypeCategory": "WF",
@@ -1949,6 +1905,50 @@
       "geometry": {
         "x": -108.84211999999997,
         "y": 45.65121000000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 575,
+        "IncidentName": "Bemish",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLNF-240803",
+        "DailyAcres": 2.23,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1725995238000,
+        "DiscoveryAcres": 1,
+        "POOCounty": "Sanders",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1726079422000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "124a325e-fd94-4954-a8ae-fe21091661f7",
+        "GlobalID": "7c4b5d0b-5abf-4109-8f52-9f0024e2e8b9",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -115.05011599999995,
+        "y": 47.43619800000005
       }
     },
     {
