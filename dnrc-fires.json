@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 283,
+        "OBJECTID": 284,
         "IncidentName": "MILE MARKER 104",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFHA-000117",
@@ -887,7 +887,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "3a9b8d00-95a3-42f8-be38-81a337d33628",
         "GlobalID": "d7d7d6b8-8e6c-4ed7-b638-c6f941d9fdc7",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 2
       },
       "geometry": {
@@ -1029,7 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 347,
+        "OBJECTID": 348,
         "IncidentName": "Cole Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG10-240934",
@@ -1161,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 337,
+        "OBJECTID": 338,
         "IncidentName": "Long Tom",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-246574",
@@ -1196,7 +1196,7 @@
         "IrwinID": "7f71e9da-5be0-4bda-b6ed-26d3c55b154b",
         "GlobalID": "e73a4ad5-b973-4de0-bd6c-7ea1218a777c",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 3
+        "FireDiscoveryAge": 4
       },
       "geometry": {
         "x": -112.92567999999994,
@@ -1425,7 +1425,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 281,
+        "OBJECTID": 282,
         "IncidentName": "Pedro Mine",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246558",
@@ -1557,7 +1557,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 298,
+        "OBJECTID": 299,
         "IncidentName": "Bailer Dam",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000522",
@@ -1723,7 +1723,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "8d31c622-04d6-47e3-9ef9-daa1926a5c81",
         "GlobalID": "c5cedb25-a58b-46a3-a967-1a80a3fd6e71",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 2
       },
       "geometry": {
@@ -1821,7 +1821,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 563,
+        "OBJECTID": 562,
         "IncidentName": "DA",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240959",
@@ -1865,7 +1865,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 354,
+        "OBJECTID": 355,
         "IncidentName": "Watchtower",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024464",
@@ -1909,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 599,
+        "OBJECTID": 598,
         "IncidentName": "Strike 3",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240961",
@@ -1997,7 +1997,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 596,
+        "OBJECTID": 595,
         "IncidentName": "Willow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024474",
@@ -2467,16 +2467,60 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1726019161000,
+        "ModifiedOnDateTime": 1726158292000,
         "IncidentTypeKind": "FI",
         "IrwinID": "6470f813-354a-4d30-9aaa-5d20287b817b",
         "GlobalID": "c3e4e587-ae64-4b6c-b945-f1a43e80ed82",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 0,
         "FireDiscoveryAge": 2
       },
       "geometry": {
         "x": -115.85684999999995,
         "y": 48.77585000000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 223,
+        "IncidentName": "Geiger Lake",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTKNF-000284",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": 0,
+        "ICS209ReportDateTime": 1725576178000,
+        "FireDiscoveryDateTime": 1724880174000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Lincoln",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": "Type 5 IC",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Brush (2 feet)",
+        "ContainmentDateTime": 1726164000000,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1726157823000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "347909ae-7fa2-432f-95ac-8fb8794b6e42",
+        "GlobalID": "f1f8706a-ddad-409e-a5a0-4f1a88bc5bc0",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 14
+      },
+      "geometry": {
+        "x": -115.53341699999999,
+        "y": 48.01305000000008
       }
     },
     {
@@ -2701,7 +2745,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 587,
+        "OBJECTID": 586,
         "IncidentName": "Chaffin",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024473",
