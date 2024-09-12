@@ -1,6 +1,6 @@
 {
   "attributes": {
-    "OBJECTID": 193,
+    "OBJECTID": 192,
     "IncidentName": "Remington",
     "IncidentTypeCategory": "WF",
     "UniqueFireIdentifier": "2024-WYSHX-240442",
@@ -40,49 +40,5 @@
   "geometry": {
     "x": -106.07121999999998,
     "y": 44.94164000000006
-  }
-}
-{
-  "attributes": {
-    "OBJECTID": 537,
-    "IncidentName": "Short Draw",
-    "IncidentTypeCategory": "WF",
-    "UniqueFireIdentifier": "2024-WYCMX-240531",
-    "DailyAcres": 40000,
-    "CalculatedAcres": null,
-    "PercentContained": 0,
-    "ICS209ReportDateTime": 1726100026000,
-    "FireDiscoveryDateTime": 1726084620000,
-    "DiscoveryAcres": 0.1,
-    "POOCounty": "Campbell",
-    "POOState": "US-WY",
-    "FireCause": "Undetermined",
-    "FireCauseGeneral": null,
-    "GACC": "RMCC",
-    "TotalIncidentPersonnel": 89,
-    "IncidentManagementOrganization": "Type 3 IC",
-    "FireMgmtComplexity": null,
-    "ResidencesDestroyed": 1,
-    "OtherStructuresDestroyed": 4,
-    "Injuries": null,
-    "Fatalities": null,
-    "PredominantFuelGroup": null,
-    "PredominantFuelModel": null,
-    "PrimaryFuelModel": "Timber (Grass and Understory)",
-    "ContainmentDateTime": null,
-    "ControlDateTime": null,
-    "FinalAcres": null,
-    "IsValid": 1,
-    "FireOutDateTime": null,
-    "ModifiedOnDateTime": 1726150946000,
-    "IncidentTypeKind": "FI",
-    "IrwinID": "d5407b54-aaaf-4689-a0ad-5a589db67982",
-    "GlobalID": "2ed3b5d8-14b2-40d2-8320-fc0b7fa53479",
-    "ModifiedOnAge": 0,
-    "FireDiscoveryAge": 1
-  },
-  "geometry": {
-    "x": -105.61704999999995,
-    "y": 44.955167000000074
   }
 }
