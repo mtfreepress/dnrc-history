@@ -45,7 +45,7 @@
   },
   {
     "attributes": {
-      "OBJECTID": 481,
+      "OBJECTID": 476,
       "IncidentName": "Short Draw",
       "IncidentTypeCategory": "WF",
       "UniqueFireIdentifier": "2024-WYCMX-240531",
