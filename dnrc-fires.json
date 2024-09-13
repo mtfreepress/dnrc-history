@@ -756,7 +756,7 @@
         "IrwinID": "c4f6665d-4946-47c6-92e6-076980a610f6",
         "GlobalID": "8d773a90-563a-4a06-9851-251b8c62f985",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 49
+        "FireDiscoveryAge": 50
       },
       "geometry": {
         "x": -113.85899999999998,
@@ -2437,7 +2437,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 585,
+        "OBJECTID": 586,
         "IncidentName": "N Lost Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240977",
@@ -3185,7 +3185,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 548,
+        "OBJECTID": 541,
+        "IncidentName": "Cottonwood Creek",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTSWS-240808",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1726164732000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Powell",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1726240168000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "a38a7dea-c0d8-44f8-bbba-dc63d8b3e38c",
+        "GlobalID": "555e1477-6018-4400-b011-6c48805e121e",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.98999999999995,
+        "y": 46.80000000000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 549,
         "IncidentName": "Old Darby Rd",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024478",
@@ -3229,7 +3273,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 587,
+        "OBJECTID": 588,
         "IncidentName": "Ash Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000539",
