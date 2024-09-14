@@ -941,6 +941,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 579,
+        "IncidentName": "Silver Tip",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBID-240991",
+        "DailyAcres": 150,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1726347723000,
+        "DiscoveryAcres": 150,
+        "POOCounty": "Carbon",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1726351830000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "d4c02dc4-bd98-4b25-9db1-32655f423e5a",
+        "GlobalID": "902fe986-951f-4680-b466-4d9e5d3b66fc",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -108.95543299999997,
+        "y": 45.13661700000006
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 113,
         "IncidentName": "Boulder Peak",
         "IncidentTypeCategory": "WF",
@@ -1063,7 +1107,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "9da22d2f-2949-4934-a9bd-655a7b4d27f1",
         "GlobalID": "c93b63bc-db77-491e-b0bb-fa5e24fb72c9",
-        "ModifiedOnAge": 5,
+        "ModifiedOnAge": 6,
         "FireDiscoveryAge": 6
       },
       "geometry": {
@@ -1283,7 +1327,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "7f71e9da-5be0-4bda-b6ed-26d3c55b154b",
         "GlobalID": "e73a4ad5-b973-4de0-bd6c-7ea1218a777c",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 6
       },
       "geometry": {
@@ -1645,7 +1689,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 570,
+        "OBJECTID": 569,
         "IncidentName": "Pine Bluff",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG10-240990",
@@ -2252,7 +2296,7 @@
         "IrwinID": "a145d11c-3081-4111-b3d7-77018f3a1834",
         "GlobalID": "9faa49b3-f9e2-4358-ab24-6c8825490f38",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
+        "FireDiscoveryAge": 1
       },
       "geometry": {
         "x": -106.99879999999996,
@@ -2261,7 +2305,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 569,
+        "OBJECTID": 568,
         "IncidentName": "Elk Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024471",
@@ -2745,7 +2789,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 577,
+        "OBJECTID": 576,
         "IncidentName": "North Hills Access #3",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-000736",
