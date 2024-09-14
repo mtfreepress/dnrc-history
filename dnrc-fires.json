@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 579,
+        "OBJECTID": 574,
         "IncidentName": "Silver Tip",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBID-240991",
@@ -1161,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 424,
+        "OBJECTID": 421,
         "IncidentName": "Whites",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG43-000712",
@@ -1372,7 +1372,7 @@
         "IrwinID": "51798845-158b-44e1-b6b0-52b284b11f58",
         "GlobalID": "50be5389-3c88-4a47-90f2-84eb043ac5b4",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 25
+        "FireDiscoveryAge": 26
       },
       "geometry": {
         "x": -114.51036699999997,
@@ -1416,7 +1416,7 @@
         "IrwinID": "cd9e9d02-6df3-4ec1-85a5-519904063877",
         "GlobalID": "ee2e08c2-3de3-40e7-beea-32caed84f678",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 4
+        "FireDiscoveryAge": 5
       },
       "geometry": {
         "x": -114.45149999999995,
@@ -1689,7 +1689,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 569,
+        "OBJECTID": 565,
         "IncidentName": "Pine Bluff",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG10-240990",
@@ -1821,7 +1821,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 407,
+        "OBJECTID": 404,
         "IncidentName": "Strike 3",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240961",
@@ -1953,7 +1953,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 426,
+        "OBJECTID": 423,
         "IncidentName": "Brake 1 - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000535",
@@ -1997,7 +1997,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 509,
+        "OBJECTID": 506,
         "IncidentName": "Horseshoe",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240988",
@@ -2037,6 +2037,50 @@
       "geometry": {
         "x": -108.87016699999998,
         "y": 45.72233300000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 579,
+        "IncidentName": "Little Wolf Creek",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG05-000737",
+        "DailyAcres": 1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1726346761000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Lewis and Clark",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1726352911000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "0dd5d0e7-2d7c-410b-b1d1-82ba1eba9527",
+        "GlobalID": "bc00565a-7581-4027-b7b6-e4de3363f3ce",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.16719999999998,
+        "y": 47.02343300000007
       }
     },
     {
@@ -2129,7 +2173,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 467,
+        "OBJECTID": 464,
         "IncidentName": "N Lost Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240977",
@@ -2261,7 +2305,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 520,
+        "OBJECTID": 517,
         "IncidentName": "Battle",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-000541",
@@ -2305,7 +2349,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 568,
+        "OBJECTID": 564,
         "IncidentName": "Elk Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024471",
@@ -2613,7 +2657,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 427,
+        "OBJECTID": 424,
         "IncidentName": "Brake 2 - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000536",
@@ -2657,7 +2701,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 428,
+        "OBJECTID": 425,
         "IncidentName": "Brake 3 - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000537",
@@ -2701,7 +2745,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 439,
+        "OBJECTID": 436,
         "IncidentName": "Old Darby Rd",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024478",
@@ -2745,7 +2789,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 485,
+        "OBJECTID": 482,
         "IncidentName": "Mereness - Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000540",
@@ -2789,7 +2833,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 576,
+        "OBJECTID": 572,
         "IncidentName": "North Hills Access #3",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-000736",
@@ -2819,7 +2863,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1726350976000,
+        "ModifiedOnDateTime": 1726352087000,
         "IncidentTypeKind": "FI",
         "IrwinID": "429101bf-89c7-4d4e-ae1b-51aaaa11666c",
         "GlobalID": "2f18b1a1-ccbe-483f-b942-dab96e346960",
@@ -2833,7 +2877,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 425,
+        "OBJECTID": 422,
         "IncidentName": "TRI",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000126",
