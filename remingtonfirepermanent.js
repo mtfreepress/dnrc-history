@@ -45,7 +45,7 @@
   },
   {
     "attributes": {
-      "OBJECTID": 401,
+      "OBJECTID": 399,
       "IncidentName": "Short Draw",
       "IncidentTypeCategory": "WF",
       "UniqueFireIdentifier": "2024-WYCMX-240531",
@@ -80,7 +80,7 @@
       "IrwinID": "d5407b54-aaaf-4689-a0ad-5a589db67982",
       "GlobalID": "2ed3b5d8-14b2-40d2-8320-fc0b7fa53479",
       "ModifiedOnAge": 0,
-      "FireDiscoveryAge": 2
+      "FireDiscoveryAge": 3
     },
     "geometry": {
       "x": -105.61704999999995,
