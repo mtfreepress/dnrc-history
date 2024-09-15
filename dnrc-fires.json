@@ -897,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 573,
+        "OBJECTID": 570,
         "IncidentName": "Silver Tip",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBID-240991",
@@ -1161,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 426,
+        "OBJECTID": 425,
         "IncidentName": "Whites",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG43-000712",
@@ -1240,7 +1240,7 @@
         "IrwinID": "3df73923-1231-43dd-aa32-bac0060050fb",
         "GlobalID": "89cc57c0-aee8-4b5c-93c7-a9545caaa1ff",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 42
+        "FireDiscoveryAge": 43
       },
       "geometry": {
         "x": -113.15703299999996,
@@ -1421,6 +1421,50 @@
       "geometry": {
         "x": -114.45149999999995,
         "y": 45.714500000000044
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 564,
+        "IncidentName": "Pine Bluff",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG10-240990",
+        "DailyAcres": 45.9,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1726344431000,
+        "DiscoveryAcres": 17,
+        "POOCounty": "Carbon",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1726363460000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "1e7a5cab-3d4a-4ebb-ad73-4550fd1356be",
+        "GlobalID": "522b5570-e4a7-4e9f-886b-9dfa8613c9df",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -109.01379999999995,
+        "y": 45.59653300000008
       }
     },
     {
@@ -1689,50 +1733,6 @@
     },
     {
       "attributes": {
-        "OBJECTID": 567,
-        "IncidentName": "Pine Bluff",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG10-240990",
-        "DailyAcres": 17,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1726344431000,
-        "DiscoveryAcres": 17,
-        "POOCounty": "Carbon",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1726349213000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "1e7a5cab-3d4a-4ebb-ad73-4550fd1356be",
-        "GlobalID": "522b5570-e4a7-4e9f-886b-9dfa8613c9df",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -109.01379999999995,
-        "y": 45.59653300000008
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 366,
         "IncidentName": "Wold Road",
         "IncidentTypeCategory": "WF",
@@ -1777,7 +1777,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 576,
+        "OBJECTID": 573,
         "IncidentName": "Little Wolf Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-000737",
@@ -1821,19 +1821,19 @@
     },
     {
       "attributes": {
-        "OBJECTID": 579,
+        "OBJECTID": 576,
         "IncidentName": "West Pryor",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240992",
-        "DailyAcres": 5,
+        "DailyAcres": 2.2,
         "CalculatedAcres": null,
         "PercentContained": null,
         "ICS209ReportDateTime": null,
         "FireDiscoveryDateTime": 1726350840000,
-        "DiscoveryAcres": 5,
+        "DiscoveryAcres": 2.2,
         "POOCounty": "Big Horn",
         "POOState": "US-MT",
-        "FireCause": "Undetermined",
+        "FireCause": "Natural",
         "FireCauseGeneral": null,
         "GACC": "NRCC",
         "TotalIncidentPersonnel": null,
@@ -1851,7 +1851,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1726355574000,
+        "ModifiedOnDateTime": 1726362890000,
         "IncidentTypeKind": "FI",
         "IrwinID": "3c5ccc2c-7043-4dc0-9b68-fd1b3b41d685",
         "GlobalID": "8612d7dd-1228-4d77-ac7b-9e3689d5bf02",
@@ -1905,50 +1905,6 @@
       "geometry": {
         "x": -114.49163299999998,
         "y": 45.819450000000074
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 409,
-        "IncidentName": "Strike 3",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG03-240961",
-        "DailyAcres": 2,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1726100429000,
-        "DiscoveryAcres": 2,
-        "POOCounty": "Yellowstone",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1726103896000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "19a8d7be-7a3a-4e8a-8425-5397cfcb3503",
-        "GlobalID": "610d97b5-16f1-481f-ad14-fc45f8102a38",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 3
-      },
-      "geometry": {
-        "x": -108.37280999999996,
-        "y": 45.82436000000007
       }
     },
     {
@@ -2041,7 +1997,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 428,
+        "OBJECTID": 427,
         "IncidentName": "Brake 1 - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000535",
@@ -2085,7 +2041,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 510,
+        "OBJECTID": 509,
         "IncidentName": "Horseshoe",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240988",
@@ -2217,7 +2173,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 469,
+        "OBJECTID": 468,
         "IncidentName": "N Lost Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-240977",
@@ -2251,7 +2207,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "d915ac67-0bf5-424f-a943-051d0565c2a5",
         "GlobalID": "a23d46e5-644f-4be8-8bd2-5207d8c217dd",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 2
       },
       "geometry": {
@@ -2349,7 +2305,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 521,
+        "OBJECTID": 519,
         "IncidentName": "Battle",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-000541",
@@ -2393,7 +2349,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 566,
+        "OBJECTID": 563,
         "IncidentName": "Elk Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024471",
@@ -2701,7 +2657,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 429,
+        "OBJECTID": 428,
         "IncidentName": "Brake 2 - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000536",
@@ -2745,7 +2701,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 430,
+        "OBJECTID": 429,
         "IncidentName": "Brake 3 - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000537",
@@ -2789,7 +2745,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 441,
+        "OBJECTID": 440,
         "IncidentName": "Old Darby Rd",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024478",
@@ -2833,7 +2789,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 487,
+        "OBJECTID": 486,
         "IncidentName": "Mereness - Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000540",
@@ -2877,7 +2833,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 571,
+        "OBJECTID": 568,
         "IncidentName": "North Hills Access #3",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-000736",
@@ -2921,7 +2877,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 427,
+        "OBJECTID": 426,
         "IncidentName": "TRI",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000126",
