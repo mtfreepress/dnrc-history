@@ -580,7 +580,7 @@
         "IrwinID": "f46faea0-3820-48b4-b566-016c1ee5457e",
         "GlobalID": "6059d2e5-a71b-48ad-985b-0b4336822106",
         "ModifiedOnAge": 6,
-        "FireDiscoveryAge": 24
+        "FireDiscoveryAge": 25
       },
       "geometry": {
         "x": -113.35276699999997,
@@ -1108,7 +1108,7 @@
         "IrwinID": "68506201-d508-461b-909b-970a180217c7",
         "GlobalID": "b814f722-63f3-4403-ac0d-37d40a796050",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 7
+        "FireDiscoveryAge": 8
       },
       "geometry": {
         "x": -109.72985499999999,
@@ -1469,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 537,
+        "OBJECTID": 536,
         "IncidentName": "Avins Fence - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000563",
@@ -1811,7 +1811,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "f4631557-b2e9-48a0-81a5-344f7ac17009",
         "GlobalID": "da3217ea-35c7-4215-86b7-3a7e43e93bfb",
-        "ModifiedOnAge": 3,
+        "ModifiedOnAge": 4,
         "FireDiscoveryAge": 11
       },
       "geometry": {
@@ -1953,6 +1953,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 527,
+        "IncidentName": "Dry Horse",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG09-000561",
+        "DailyAcres": 6.4,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1726592997000,
+        "DiscoveryAcres": 5,
+        "POOCounty": "Powder River",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1726602545000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "6b4ee6be-f7dd-4ca1-a4c1-6fdce833857b",
+        "GlobalID": "1779d53d-e93f-4618-b1db-240d00feefd3",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -105.10849999999999,
+        "y": 45.23900000000003
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 389,
         "IncidentName": "Little Wolf Creek",
         "IncidentTypeCategory": "WF",
@@ -2037,50 +2081,6 @@
       "geometry": {
         "x": -105.05696999999998,
         "y": 45.201400000000035
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 527,
-        "IncidentName": "Dry Horse",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG09-000561",
-        "DailyAcres": 5,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1726592997000,
-        "DiscoveryAcres": 5,
-        "POOCounty": "Powder River",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1726601599000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "6b4ee6be-f7dd-4ca1-a4c1-6fdce833857b",
-        "GlobalID": "1779d53d-e93f-4618-b1db-240d00feefd3",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -105.10849999999999,
-        "y": 45.23900000000003
       }
     },
     {
@@ -2824,7 +2824,7 @@
         "IrwinID": "9d356061-eda8-424b-be3e-83551a8c4971",
         "GlobalID": "2dadb80d-c3f8-4fd8-9eae-b027d7f1a457",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 65
+        "FireDiscoveryAge": 66
       },
       "geometry": {
         "x": -111.59964399999996,
@@ -3009,7 +3009,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 536,
+        "OBJECTID": 535,
         "IncidentName": "Camp",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000314",
