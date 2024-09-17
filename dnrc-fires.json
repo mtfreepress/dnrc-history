@@ -1733,6 +1733,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 534,
+        "IncidentName": "Bank",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG29-000545",
+        "DailyAcres": 10,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1726524600000,
+        "DiscoveryAcres": 10,
+        "POOCounty": "Rosebud",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1726532314000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "67e79f06-ace0-4cb6-8907-ec16e5cab3c8",
+        "GlobalID": "1f713bbe-eb92-4f1b-aaa3-a5e4c1e9d4b2",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -106.53085599999997,
+        "y": 45.32979400000005
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 426,
         "IncidentName": "Little Wolf Creek",
         "IncidentTypeCategory": "WF",
@@ -1944,7 +1988,7 @@
         "IrwinID": "44821309-4304-4f00-bf61-f6712ecf15eb",
         "GlobalID": "b033ce47-21c0-4125-9815-d67d5c250f59",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 8
+        "FireDiscoveryAge": 9
       },
       "geometry": {
         "x": -107.23768799999999,
@@ -2301,6 +2345,50 @@
       "geometry": {
         "x": -112.06036699999999,
         "y": 45.53613300000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 535,
+        "IncidentName": "Elk Springs",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTMCD-000546",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1726527757000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Powder River",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1726532530000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "9d4ec245-2e92-4f08-aaa5-505624ac3931",
+        "GlobalID": "b6021ec0-69fe-4dda-a6ae-39ad718d95be",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -106.06784799999997,
+        "y": 45.382277000000045
       }
     },
     {
