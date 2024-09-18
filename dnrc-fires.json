@@ -1679,7 +1679,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "da4f79dd-48fc-4763-8b2c-d8d4cac56b68",
         "GlobalID": "631435c0-838b-4485-b260-a0ea4ecee685",
-        "ModifiedOnAge": 5,
+        "ModifiedOnAge": 6,
         "FireDiscoveryAge": 13
       },
       "geometry": {
@@ -2609,6 +2609,50 @@
       "geometry": {
         "x": -105.07468999999998,
         "y": 45.16177000000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 547,
+        "IncidentName": "JK South - Carter",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG42-000566",
+        "DailyAcres": 0.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1726581240000,
+        "DiscoveryAcres": 0.5,
+        "POOCounty": "Carter",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1726667813000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "9495c35b-0e28-4157-91a7-cf340ebe2922",
+        "GlobalID": "1b574b38-a49c-4d62-8fd5-88d8b4121824",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -104.90344999999996,
+        "y": 45.27706000000006
       }
     },
     {
