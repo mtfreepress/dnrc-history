@@ -1239,7 +1239,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "f9d03740-583d-49a0-b9a2-9ceef321210b",
         "GlobalID": "70d4e8bd-8aa3-4bf5-a51b-f28dc01bef28",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 66
       },
       "geometry": {
@@ -1811,7 +1811,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "1eb76b50-976f-4be7-a514-757a148aa3d0",
         "GlobalID": "98e53622-87fe-4a25-975c-57d254484b41",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 1
       },
       "geometry": {
@@ -2081,6 +2081,50 @@
       "geometry": {
         "x": -105.05696999999998,
         "y": 45.201400000000035
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 552,
+        "IncidentName": "Blowout Creek - Carter",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG42-000567",
+        "DailyAcres": 5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1726624800000,
+        "DiscoveryAcres": 5,
+        "POOCounty": "Carter",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1726674627000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "c25761c8-457d-4414-bd3b-66feeef38e14",
+        "GlobalID": "0a7887bb-e5d1-45e0-ae3d-cdc86b3250f6",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -105.03619999999995,
+        "y": 45.17107000000004
       }
     },
     {
@@ -2559,7 +2603,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "bf957640-797d-4830-9757-5d3062c2904f",
         "GlobalID": "9328ffb4-0723-496b-9e06-4deb84aeea06",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 1
       },
       "geometry": {
@@ -3043,7 +3087,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "95a99a9b-77d3-4694-b8d3-547d6a629f40",
         "GlobalID": "f43ac724-f291-4614-aa79-c7a0bd59df76",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 1
       },
       "geometry": {
