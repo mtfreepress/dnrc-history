@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 364,
+        "OBJECTID": 365,
         "IncidentName": "Homestead",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG34-000304",
@@ -1073,6 +1073,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 562,
+        "IncidentName": "Big Basin - Richland",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG27-000572",
+        "DailyAcres": 127,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1725667200000,
+        "DiscoveryAcres": 127,
+        "POOCounty": "Richland",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1726759816000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "e58c0bb1-22ca-4e5b-9207-0d915551ebfe",
+        "GlobalID": "671b8854-0c25-4412-be1c-fa12ae97fa9b",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 12
+      },
+      "geometry": {
+        "x": -104.84910999999994,
+        "y": 47.97068000000007
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 92,
         "IncidentName": "West Christina",
         "IncidentTypeCategory": "WF",
@@ -1249,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 329,
+        "OBJECTID": 330,
         "IncidentName": "Whites",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG43-000712",
@@ -1557,7 +1601,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 366,
+        "OBJECTID": 367,
         "IncidentName": "Sunday - Dawson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG16-000543",
@@ -1865,6 +1909,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 563,
+        "IncidentName": "Fatzinger Reservoir - Richland",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG27-000573",
+        "DailyAcres": 10,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1726002000000,
+        "DiscoveryAcres": 10,
+        "POOCounty": "Richland",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1726760057000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "55aa1a29-5edc-494e-a034-47110f38ce99",
+        "GlobalID": "d6a3e32c-493e-41f1-b707-f1b611e47791",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 8
+      },
+      "geometry": {
+        "x": -105.03913899999998,
+        "y": 47.93336100000005
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 430,
         "IncidentName": "Co Line - Carter",
         "IncidentTypeCategory": "WF",
@@ -2163,7 +2251,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "75d04812-8796-4c2e-b120-c0c0f39e9a9d",
         "GlobalID": "72f59ed5-7453-45f3-be32-2f2ebb885a70",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 2
       },
       "geometry": {
@@ -2569,7 +2657,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 365,
+        "OBJECTID": 366,
         "IncidentName": "Buzz - Dawson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG16-000542",
