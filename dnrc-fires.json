@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 142,
+        "OBJECTID": 143,
         "IncidentName": "Daly",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024380",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 163,
+        "OBJECTID": 164,
         "IncidentName": "Big Hollow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-246466",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 164,
+        "OBJECTID": 165,
         "IncidentName": "Sharrott Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024418",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 143,
+        "OBJECTID": 144,
         "IncidentName": "Ratio Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246437",
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 365,
+        "OBJECTID": 364,
         "IncidentName": "Homestead",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG34-000304",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 174,
+        "OBJECTID": 175,
         "IncidentName": "McDermott",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246487",
@@ -805,6 +805,94 @@
       "geometry": {
         "x": -115.75679999999994,
         "y": 48.51606700000008
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 556,
+        "IncidentName": "Long Grass - Richland",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG27-000570",
+        "DailyAcres": 200,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1725141600000,
+        "DiscoveryAcres": 200,
+        "POOCounty": "Richland",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1726756647000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "11e865e1-136c-45f0-88ce-3468e7318a28",
+        "GlobalID": "70c7eabe-6702-49f3-a0a4-14f045ecbf43",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 18
+      },
+      "geometry": {
+        "x": -105.08536999999995,
+        "y": 47.92559000000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 224,
+        "IncidentName": "Pedro Mine",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDF-246558",
+        "DailyAcres": 152,
+        "CalculatedAcres": 14.3294,
+        "PercentContained": 66,
+        "ICS209ReportDateTime": 1726756941000,
+        "FireDiscoveryDateTime": 1725475917000,
+        "DiscoveryAcres": 0.5,
+        "POOCounty": "Madison",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": 14,
+        "IncidentManagementOrganization": "Type 4 IC",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Timber (Litter and Understory)",
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1726756941000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "da4f79dd-48fc-4763-8b2c-d8d4cac56b68",
+        "GlobalID": "631435c0-838b-4485-b260-a0ea4ecee685",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 14
+      },
+      "geometry": {
+        "x": -112.00264999999996,
+        "y": 45.49822000000006
       }
     },
     {
@@ -897,7 +985,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 449,
+        "OBJECTID": 446,
         "IncidentName": "Avins Fence - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000563",
@@ -1029,7 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 162,
+        "OBJECTID": 163,
         "IncidentName": "McElwain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-240711",
@@ -1337,7 +1425,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 146,
+        "OBJECTID": 147,
         "IncidentName": "Blue Joint",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024388",
@@ -1469,51 +1557,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 224,
-        "IncidentName": "Pedro Mine",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBDF-246558",
-        "DailyAcres": 22,
-        "CalculatedAcres": 14.3294,
-        "PercentContained": 0,
-        "ICS209ReportDateTime": 1726080725000,
-        "FireDiscoveryDateTime": 1725475917000,
-        "DiscoveryAcres": 0.5,
-        "POOCounty": "Madison",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": 14,
-        "IncidentManagementOrganization": "Type 4 IC",
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": "Timber (Litter and Understory)",
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1726149371000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "da4f79dd-48fc-4763-8b2c-d8d4cac56b68",
-        "GlobalID": "631435c0-838b-4485-b260-a0ea4ecee685",
-        "ModifiedOnAge": 7,
-        "FireDiscoveryAge": 14
-      },
-      "geometry": {
-        "x": -112.00264999999996,
-        "y": 45.49822000000006
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 368,
+        "OBJECTID": 366,
         "IncidentName": "Sunday - Dawson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG16-000543",
@@ -1547,7 +1591,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "d89a80d1-668f-4cbd-89d7-2215f1b9bc81",
         "GlobalID": "10db98ed-6f6c-4e87-9286-b9bc9b152c99",
-        "ModifiedOnAge": 2,
+        "ModifiedOnAge": 3,
         "FireDiscoveryAge": 3
       },
       "geometry": {
@@ -1557,7 +1601,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 177,
+        "OBJECTID": 178,
         "IncidentName": "Kid Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFNF-000463",
@@ -1601,7 +1645,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 436,
+        "OBJECTID": 433,
         "IncidentName": "Biddle 116 - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000560",
@@ -1645,7 +1689,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 161,
+        "OBJECTID": 162,
         "IncidentName": "Grizzly",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLNF-240708",
@@ -1733,7 +1777,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 435,
+        "OBJECTID": 432,
         "IncidentName": "Biddle Outback - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000559",
@@ -1777,7 +1821,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 433,
+        "OBJECTID": 430,
         "IncidentName": "Co Line - Carter",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG42-000557",
@@ -1821,7 +1865,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 444,
+        "OBJECTID": 441,
         "IncidentName": "Dry Horse",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000561",
@@ -1865,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 423,
+        "OBJECTID": 420,
         "IncidentName": "6 Mile Haystack - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000552",
@@ -1899,7 +1943,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "4b9d117a-e29e-4127-ab62-448fa1028be2",
         "GlobalID": "7e8d38e6-2319-42ba-a741-687b8f600fd2",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 2
       },
       "geometry": {
@@ -1909,7 +1953,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 494,
+        "OBJECTID": 491,
         "IncidentName": "Blowout Creek - Carter",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG42-000567",
@@ -1949,50 +1993,6 @@
       "geometry": {
         "x": -105.03619999999995,
         "y": 45.17107000000004
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 366,
-        "IncidentName": "Sunday Bluff",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTFPA-000305",
-        "DailyAcres": 3.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1726434000000,
-        "DiscoveryAcres": 3.1,
-        "POOCounty": "Roosevelt",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1726496030000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "df534d09-0dc4-48cb-9242-5e8a745bc25f",
-        "GlobalID": "a774e53b-c089-480f-98df-9798472016e8",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 3
-      },
-      "geometry": {
-        "x": -105.20727799999997,
-        "y": 48.10933300000005
       }
     },
     {
@@ -2085,7 +2085,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 432,
+        "OBJECTID": 429,
         "IncidentName": "Phillips Gumbo - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG42-000556",
@@ -2173,7 +2173,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 418,
+        "OBJECTID": 415,
         "IncidentName": "Espy Road - Carter",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG42-000550",
@@ -2217,7 +2217,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 421,
+        "OBJECTID": 418,
         "IncidentName": "Boyes - Carter",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG42-000551",
@@ -2251,7 +2251,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "e13a4f75-620a-47df-b7dc-ff52e217d50a",
         "GlobalID": "90678ea2-652b-487b-91af-7d6627218409",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 2
       },
       "geometry": {
@@ -2261,7 +2261,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 424,
+        "OBJECTID": 421,
         "IncidentName": "Duncan - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000553",
@@ -2295,7 +2295,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "8f7cdc02-cb2a-4454-9fb3-dfb4f5ad1523",
         "GlobalID": "e38da59c-6738-45eb-bfab-49012033ff33",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 2
       },
       "geometry": {
@@ -2305,7 +2305,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 426,
+        "OBJECTID": 423,
         "IncidentName": "Ridge Road - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000555",
@@ -2339,7 +2339,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "32b3d65c-53d0-48d1-9961-e85773f15f7c",
         "GlobalID": "77df5055-3994-4900-8add-2573298cc634",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 2
       },
       "geometry": {
@@ -2349,7 +2349,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 425,
+        "OBJECTID": 422,
         "IncidentName": "Duncan Hill - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000554",
@@ -2383,7 +2383,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "57359955-3beb-4d0f-a672-8a3c6cff5db8",
         "GlobalID": "ad1a946b-e5da-4799-8a79-6acedf474b2e",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 2
       },
       "geometry": {
@@ -2393,7 +2393,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 486,
+        "OBJECTID": 483,
         "IncidentName": "JK South - Carter",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG42-000566",
@@ -2437,7 +2437,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 559,
+        "OBJECTID": 554,
         "IncidentName": "Bennie Peer - Richland",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG27-000568",
@@ -2481,7 +2481,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 367,
+        "OBJECTID": 555,
+        "IncidentName": "HWY 23 - Richland",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG27-000569",
+        "DailyAcres": 0.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1724270400000,
+        "DiscoveryAcres": 0.5,
+        "POOCounty": "Richland",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1726756432000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "7c473b0e-5220-4a93-8877-53132a9f0de0",
+        "GlobalID": "f31657ea-0f1d-4863-afee-a598b27c5c9c",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 28
+      },
+      "geometry": {
+        "x": -104.12522999999999,
+        "y": 47.66117000000003
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 365,
         "IncidentName": "Buzz - Dawson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG16-000542",
@@ -2525,7 +2569,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 434,
+        "OBJECTID": 431,
         "IncidentName": "3 Mile - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000558",
@@ -2569,7 +2613,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 371,
+        "OBJECTID": 368,
         "IncidentName": "Allen",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG32-241001",
@@ -2613,7 +2657,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 403,
+        "OBJECTID": 400,
         "IncidentName": "Little Pumpkin",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000547",
@@ -2745,7 +2789,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 124,
+        "OBJECTID": 125,
         "IncidentName": "HWY 287 MM 105",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG43-000396",
@@ -2833,51 +2877,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 359,
-        "IncidentName": "Indian Creek",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBDF-246594",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1726355153000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Madison",
-        "POOState": "US-MT",
-        "FireCause": "Natural",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1726496489000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "1aeee994-d785-4a7c-94ce-7ea37f902880",
-        "GlobalID": "a081ebda-d446-4695-aa64-9e56cb39ed94",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 4
-      },
-      "geometry": {
-        "x": -112.06036699999999,
-        "y": 45.53613300000006
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 540,
+        "OBJECTID": 537,
         "IncidentName": "Todd",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLNF-240815",
@@ -2921,7 +2921,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 397,
+        "OBJECTID": 394,
         "IncidentName": "Cottonwood",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000037",
