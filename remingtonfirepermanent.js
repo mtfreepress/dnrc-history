@@ -80,7 +80,7 @@
       "IrwinID": "d5407b54-aaaf-4689-a0ad-5a589db67982",
       "GlobalID": "2ed3b5d8-14b2-40d2-8320-fc0b7fa53479",
       "ModifiedOnAge": 0,
-      "FireDiscoveryAge": 8
+      "FireDiscoveryAge": 9
     },
     "geometry": {
       "x": -105.61704999999995,
