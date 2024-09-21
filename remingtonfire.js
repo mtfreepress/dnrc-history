@@ -1,7 +1,7 @@
 [
   {
     "attributes": {
-      "OBJECTID": 190,
+      "OBJECTID": 192,
       "IncidentName": "Remington",
       "IncidentTypeCategory": "WF",
       "UniqueFireIdentifier": "2024-WYSHX-240442",
@@ -45,11 +45,11 @@
   },
   {
     "attributes": {
-      "OBJECTID": 346,
+      "OBJECTID": 348,
       "IncidentName": "Short Draw",
       "IncidentTypeCategory": "WF",
       "UniqueFireIdentifier": "2024-WYCMX-240531",
-      "DailyAcres": 34557,
+      "DailyAcres": 40000,
       "CalculatedAcres": 30562.1142,
       "PercentContained": 100,
       "ICS209ReportDateTime": 1726878990000,
@@ -75,7 +75,7 @@
       "FinalAcres": null,
       "IsValid": 1,
       "FireOutDateTime": null,
-      "ModifiedOnDateTime": 1726878990000,
+      "ModifiedOnDateTime": 1726956343000,
       "IncidentTypeKind": "FI",
       "IrwinID": "d5407b54-aaaf-4689-a0ad-5a589db67982",
       "GlobalID": "2ed3b5d8-14b2-40d2-8320-fc0b7fa53479",
