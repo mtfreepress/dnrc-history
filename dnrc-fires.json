@@ -1195,7 +1195,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "f9d03740-583d-49a0-b9a2-9ceef321210b",
         "GlobalID": "70d4e8bd-8aa3-4bf5-a51b-f28dc01bef28",
-        "ModifiedOnAge": 3,
+        "ModifiedOnAge": 4,
         "FireDiscoveryAge": 69
       },
       "geometry": {
@@ -1547,7 +1547,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "1eb76b50-976f-4be7-a514-757a148aa3d0",
         "GlobalID": "98e53622-87fe-4a25-975c-57d254484b41",
-        "ModifiedOnAge": 3,
+        "ModifiedOnAge": 4,
         "FireDiscoveryAge": 4
       },
       "geometry": {
@@ -1685,50 +1685,6 @@
       "geometry": {
         "x": -105.34313999999995,
         "y": 45.09890000000007
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 391,
-        "IncidentName": "Blowout Creek - Carter",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG42-000567",
-        "DailyAcres": 5,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1726624800000,
-        "DiscoveryAcres": 5,
-        "POOCounty": "Carter",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1726674627000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "c25761c8-457d-4414-bd3b-66feeef38e14",
-        "GlobalID": "0a7887bb-e5d1-45e0-ae3d-cdc86b3250f6",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 3
-      },
-      "geometry": {
-        "x": -105.03619999999995,
-        "y": 45.17107000000004
       }
     },
     {
@@ -1900,7 +1856,7 @@
         "IrwinID": "6470f813-354a-4d30-9aaa-5d20287b817b",
         "GlobalID": "c3e4e587-ae64-4b6c-b945-f1a43e80ed82",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 10
+        "FireDiscoveryAge": 11
       },
       "geometry": {
         "x": -115.85684999999995,
@@ -1944,7 +1900,7 @@
         "IrwinID": "d999a413-89cd-471d-8732-9881e285f871",
         "GlobalID": "c6660db9-9066-4922-8341-52dbdb1a42fa",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 11
+        "FireDiscoveryAge": 12
       },
       "geometry": {
         "x": -115.89913299999995,
@@ -2129,7 +2085,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 508,
+        "OBJECTID": 507,
         "IncidentName": "Stine",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246598",
