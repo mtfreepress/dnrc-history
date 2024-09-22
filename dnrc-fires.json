@@ -360,7 +360,7 @@
         "IrwinID": "bdb7328d-8b59-45e4-93bf-664a9403534c",
         "GlobalID": "7b70e336-521a-4e2d-b16c-f226e524809b",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 34
+        "FireDiscoveryAge": 35
       },
       "geometry": {
         "x": -113.86366699999996,
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 361,
+        "OBJECTID": 358,
         "IncidentName": "Homestead",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG34-000304",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 250,
+        "OBJECTID": 249,
         "IncidentName": "MILE MARKER 104",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFHA-000117",
@@ -711,7 +711,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "fd031f20-f0cd-4663-a307-1256ce5c57c9",
         "GlobalID": "29b67be0-aef6-4dab-ada2-be69f9b174bb",
-        "ModifiedOnAge": 11,
+        "ModifiedOnAge": 12,
         "FireDiscoveryAge": 17
       },
       "geometry": {
@@ -728,7 +728,7 @@
         "DailyAcres": 427,
         "CalculatedAcres": 319.0732,
         "PercentContained": 0,
-        "ICS209ReportDateTime": 1726955307000,
+        "ICS209ReportDateTime": 1727037437000,
         "FireDiscoveryDateTime": 1724690537000,
         "DiscoveryAcres": 0.1,
         "POOCounty": "Granite",
@@ -736,7 +736,7 @@
         "FireCause": "Undetermined",
         "FireCauseGeneral": null,
         "GACC": "NRCC",
-        "TotalIncidentPersonnel": 1,
+        "TotalIncidentPersonnel": 5,
         "IncidentManagementOrganization": "Type 4 IC",
         "FireMgmtComplexity": null,
         "ResidencesDestroyed": 0,
@@ -751,7 +751,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1726955307000,
+        "ModifiedOnDateTime": 1727037437000,
         "IncidentTypeKind": "FI",
         "IrwinID": "8a666ed2-7179-4f39-874d-4deaf4c6834c",
         "GlobalID": "24c85463-51bb-4b74-a749-f48705a8066d",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 311,
+        "OBJECTID": 308,
         "IncidentName": "China Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000300",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 249,
+        "OBJECTID": 248,
         "IncidentName": "Pedro Mine",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246558",
@@ -931,7 +931,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "74b0bdc6-cb1c-47de-b74b-0bb870164223",
         "GlobalID": "fc23483e-0410-49a2-8d30-7df24ea4265f",
-        "ModifiedOnAge": 2,
+        "ModifiedOnAge": 3,
         "FireDiscoveryAge": 54
       },
       "geometry": {
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 371,
+        "OBJECTID": 368,
         "IncidentName": "Avins Fence - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000563",
@@ -1063,7 +1063,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "6b044e2c-fda7-47fa-85a8-3abf46e24866",
         "GlobalID": "c8237284-2476-431b-b1cc-6da267bcd6f9",
-        "ModifiedOnAge": 4,
+        "ModifiedOnAge": 5,
         "FireDiscoveryAge": 54
       },
       "geometry": {
@@ -1117,7 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 310,
+        "OBJECTID": 307,
         "IncidentName": "Tognetti",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG08-000291",
@@ -1337,7 +1337,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 314,
+        "OBJECTID": 311,
         "IncidentName": "Fales Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024467",
@@ -1371,7 +1371,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "cd9e9d02-6df3-4ec1-85a5-519904063877",
         "GlobalID": "ee2e08c2-3de3-40e7-beea-32caed84f678",
-        "ModifiedOnAge": 2,
+        "ModifiedOnAge": 3,
         "FireDiscoveryAge": 12
       },
       "geometry": {
@@ -1513,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 370,
+        "OBJECTID": 367,
         "IncidentName": "Biddle 116 - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000560",
@@ -1601,7 +1601,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 369,
+        "OBJECTID": 510,
+        "IncidentName": "Sheep Creek",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDF-246608",
+        "DailyAcres": 15,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1727027516000,
+        "DiscoveryAcres": 15,
+        "POOCounty": "Jefferson",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1727037431000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "3455ce9e-329c-490f-9d8b-320cfc34ed3b",
+        "GlobalID": "953e377c-6518-48bb-a018-6e741b3e087d",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.41049999999996,
+        "y": 46.20936700000004
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 366,
         "IncidentName": "Biddle Outback - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000559",
@@ -1645,7 +1689,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 270,
+        "OBJECTID": 268,
         "IncidentName": "Keogh - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000524",
@@ -1689,51 +1733,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 299,
-        "IncidentName": "Watchtower",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBRF-024464",
-        "DailyAcres": 2,
-        "CalculatedAcres": null,
-        "PercentContained": 0,
-        "ICS209ReportDateTime": 1726777018000,
-        "FireDiscoveryDateTime": 1725839403000,
-        "DiscoveryAcres": 2,
-        "POOCounty": "Ravalli",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": 1,
-        "IncidentManagementOrganization": "Type 4 IC",
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": "Timber (Litter and Understory)",
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1726777018000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "1d046b18-d4ca-4601-b345-f4f13a873dbf",
-        "GlobalID": "f57f9e35-663d-4791-840e-a4f78ea480c4",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 13
-      },
-      "geometry": {
-        "x": -114.49163299999998,
-        "y": 45.819450000000074
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 320,
+        "OBJECTID": 317,
         "IncidentName": "Clark Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000301",
@@ -1777,7 +1777,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 303,
+        "OBJECTID": 300,
         "IncidentName": "Rock Candy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000298",
@@ -1909,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 357,
+        "OBJECTID": 354,
         "IncidentName": "Indian Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246594",
@@ -1953,7 +1953,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 424,
+        "OBJECTID": 419,
         "IncidentName": "Stine",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246598",
@@ -1993,6 +1993,50 @@
       "geometry": {
         "x": -113.03533299999998,
         "y": 45.73616700000008
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 508,
+        "IncidentName": "I90 MM306",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG06-241048",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1721877840000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Gallatin",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1727037719000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "04dc2546-f5cf-4306-a967-577964f50b7e",
+        "GlobalID": "49945e5b-ecc3-4fe8-8512-aa80e9bb0208",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 59
+      },
+      "geometry": {
+        "x": -111.05674499999998,
+        "y": 45.70127700000006
       }
     },
     {
@@ -2163,7 +2207,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "d1f59604-fae4-4573-b7b6-e5496b849ac1",
         "GlobalID": "0444bd55-bfa8-441d-8a92-228277276073",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 173
       },
       "geometry": {
@@ -2383,7 +2427,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "a9ec071b-c076-42a2-a30d-4dd93bb36855",
         "GlobalID": "5d2a8171-11b0-4b90-873e-db619150d8fa",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 155
       },
       "geometry": {
