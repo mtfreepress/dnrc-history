@@ -448,7 +448,7 @@
         "IrwinID": "4168d580-a2a8-4752-9a78-b28968574e5d",
         "GlobalID": "3fe750a9-d03a-474c-80f4-106bd8b074bf",
         "ModifiedOnAge": 5,
-        "FireDiscoveryAge": 60
+        "FireDiscoveryAge": 61
       },
       "geometry": {
         "x": -113.11116699999997,
@@ -844,7 +844,7 @@
         "IrwinID": "4ddcc1d0-b1d0-43b3-9da5-0d828761a5be",
         "GlobalID": "2737b738-fb04-4565-91e9-6617ed3ebfb7",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 27
+        "FireDiscoveryAge": 28
       },
       "geometry": {
         "x": -112.53386699999999,
@@ -1645,6 +1645,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 505,
+        "IncidentName": "Ravine",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLNF-240829",
+        "DailyAcres": 0.75,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1727203500000,
+        "DiscoveryAcres": 0.25,
+        "POOCounty": "Missoula",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1727218679000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "787bd34a-4661-4916-b27e-0ab4f3eeb0c9",
+        "GlobalID": "8bf163cb-607f-4c5e-88a5-440b663b01ac",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -113.96667799999994,
+        "y": 46.974173000000064
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 430,
         "IncidentName": "Dad",
         "IncidentTypeCategory": "WF",
@@ -1685,50 +1729,6 @@
       "geometry": {
         "x": -113.07828299999994,
         "y": 44.77670000000006
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 505,
-        "IncidentName": "Ravine",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLNF-240829",
-        "DailyAcres": 0.25,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1727203500000,
-        "DiscoveryAcres": 0.25,
-        "POOCounty": "Missoula",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1727218426000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "787bd34a-4661-4916-b27e-0ab4f3eeb0c9",
-        "GlobalID": "8bf163cb-607f-4c5e-88a5-440b663b01ac",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -113.96667799999994,
-        "y": 46.974173000000064
       }
     },
     {
