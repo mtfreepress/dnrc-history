@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 331,
+        "OBJECTID": 330,
         "IncidentName": "Homestead",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG34-000304",
@@ -897,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 343,
+        "OBJECTID": 342,
         "IncidentName": "Avins Fence - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000563",
@@ -1240,7 +1240,7 @@
         "IrwinID": "c69f9251-135f-43be-850d-382fc9f38f7b",
         "GlobalID": "51d3a38f-15a1-410a-b3f2-7fba4bbf0cff",
         "ModifiedOnAge": 4,
-        "FireDiscoveryAge": 25
+        "FireDiscoveryAge": 26
       },
       "geometry": {
         "x": -114.47091699999999,
@@ -1469,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 342,
+        "OBJECTID": 341,
         "IncidentName": "Biddle 116 - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000560",
@@ -1557,7 +1557,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 341,
+        "OBJECTID": 340,
         "IncidentName": "Biddle Outback - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000559",
@@ -1601,7 +1601,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 405,
+        "OBJECTID": 402,
         "IncidentName": "Sheep Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246608",
@@ -1631,7 +1631,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1727204187000,
+        "ModifiedOnDateTime": 1727206265000,
         "IncidentTypeKind": "FI",
         "IrwinID": "3455ce9e-329c-490f-9d8b-320cfc34ed3b",
         "GlobalID": "953e377c-6518-48bb-a018-6e741b3e087d",
@@ -1645,7 +1645,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 433,
+        "OBJECTID": 430,
         "IncidentName": "Dad",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246610",
@@ -1690,94 +1690,6 @@
     {
       "attributes": {
         "OBJECTID": 2,
-        "IncidentName": "3-MILE",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTFBA-000004",
-        "DailyAcres": null,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1710700200000,
-        "DiscoveryAcres": null,
-        "POOCounty": "Blaine",
-        "POOState": "US-MT",
-        "FireCause": null,
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1726946112000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "b6330796-8bb1-4646-9462-eafddeb9ef3d",
-        "GlobalID": "60d1a1d8-f94f-4e16-8cbb-58febb74b38a",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 191
-      },
-      "geometry": {
-        "x": -108.74277777999998,
-        "y": 48.44611111000006
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 3,
-        "IncidentName": "WING",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTGST-000005",
-        "DailyAcres": null,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1712095200000,
-        "DiscoveryAcres": null,
-        "POOCounty": "Blaine",
-        "POOState": "US-MT",
-        "FireCause": null,
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1726947126000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "98f3e520-6825-42a9-a848-9a271123afa8",
-        "GlobalID": "f36350a0-b0a6-4936-aac8-83dea8b3a1d6",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 174
-      },
-      "geometry": {
-        "x": -108.53499999999997,
-        "y": 48.03277778000006
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 4,
         "IncidentName": "SNOWMAN",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTGST-000006",
@@ -1821,7 +1733,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 7,
+        "OBJECTID": 5,
         "IncidentName": "BUCK 1",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000007",
@@ -1865,7 +1777,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 8,
+        "OBJECTID": 6,
         "IncidentName": "PONY HILL",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000008",
@@ -1900,7 +1812,7 @@
         "IrwinID": "f992c259-2a74-4582-933a-eaa07bf3908b",
         "GlobalID": "92f947c0-ebb9-44c1-8cf9-4da311bf7f50",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 157
+        "FireDiscoveryAge": 158
       },
       "geometry": {
         "x": -108.55333332999999,
@@ -1909,7 +1821,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 9,
+        "OBJECTID": 7,
         "IncidentName": "BURNT DUCK",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000009",
@@ -1953,7 +1865,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 10,
+        "OBJECTID": 8,
         "IncidentName": "MUD FLAP",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000010",
@@ -1997,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 11,
+        "OBJECTID": 9,
         "IncidentName": "ISLAND",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000011",
@@ -2041,7 +1953,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 13,
+        "OBJECTID": 11,
         "IncidentName": "HARLME FIRE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000012",
@@ -2085,7 +1997,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 14,
+        "OBJECTID": 12,
         "IncidentName": "WOZER",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000013",
@@ -2129,7 +2041,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 15,
+        "OBJECTID": 13,
         "IncidentName": "DONUT",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000014",
@@ -2173,7 +2085,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 16,
+        "OBJECTID": 14,
         "IncidentName": "PLAYGROUND",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000015",
@@ -2208,7 +2120,7 @@
         "IrwinID": "a3f8014e-f3c1-425a-8a1c-a2fa07a79383",
         "GlobalID": "bb49ff50-82b8-4b1a-9e5d-849e3a0be493",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 147
+        "FireDiscoveryAge": 148
       },
       "geometry": {
         "x": -108.71194443999997,
@@ -2217,7 +2129,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 19,
+        "OBJECTID": 17,
         "IncidentName": "SINGING WOMAN",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000016",
@@ -2257,6 +2169,94 @@
       "geometry": {
         "x": -108.67555555999996,
         "y": 48.001944440000045
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 29,
+        "IncidentName": "CHAIR",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBFA-000062",
+        "DailyAcres": null,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1719446400000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Glacier",
+        "POOState": "US-MT",
+        "FireCause": null,
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1727204840000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "9c161411-2d5a-46f3-9f9c-90fcbb971930",
+        "GlobalID": "ed3791f3-f589-4b70-85ba-3e1ce69d93fc",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 89
+      },
+      "geometry": {
+        "x": -113.01749999999998,
+        "y": 48.55777780000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 30,
+        "IncidentName": "CLAW",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBFA-000063",
+        "DailyAcres": null,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1719460800000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Glacier",
+        "POOState": "US-MT",
+        "FireCause": null,
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1727204492000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "0891ee7b-f10a-49c3-8a79-ead153574d80",
+        "GlobalID": "187a618f-ac1a-4349-aeac-2a1c059f0b2d",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 89
+      },
+      "geometry": {
+        "x": -113.01722219999999,
+        "y": 48.56250000000006
       }
     },
     {
@@ -2789,7 +2789,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 421,
+        "OBJECTID": 418,
         "IncidentName": "AUBREY ROAD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000127",
