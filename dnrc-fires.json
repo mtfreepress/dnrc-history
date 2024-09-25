@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 169,
+        "OBJECTID": 168,
         "IncidentName": "Daly",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024380",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 186,
+        "OBJECTID": 185,
         "IncidentName": "Sharrott Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024418",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 170,
+        "OBJECTID": 169,
         "IncidentName": "Ratio Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246437",
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 197,
+        "OBJECTID": 196,
         "IncidentName": "McDermott",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246487",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 202,
+        "OBJECTID": 201,
         "IncidentName": "Marsh Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-000652",
@@ -985,7 +985,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 185,
+        "OBJECTID": 184,
         "IncidentName": "McElwain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-240711",
@@ -1249,7 +1249,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 199,
+        "OBJECTID": 198,
         "IncidentName": "Kid Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFNF-000463",
@@ -1293,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 184,
+        "OBJECTID": 183,
         "IncidentName": "Grizzly",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLNF-240708",
@@ -1328,7 +1328,7 @@
         "IrwinID": "50bdf065-ae3b-4407-83c4-0246200084f0",
         "GlobalID": "ecefbf66-8513-4778-b5db-aa3cdcbb8f62",
         "ModifiedOnAge": 6,
-        "FireDiscoveryAge": 32
+        "FireDiscoveryAge": 33
       },
       "geometry": {
         "x": -113.60636699999998,
@@ -1689,7 +1689,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 175,
+        "OBJECTID": 174,
         "IncidentName": "Blue Joint",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024388",
@@ -1733,7 +1733,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 192,
+        "OBJECTID": 191,
         "IncidentName": "Ibex",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000262",
@@ -1905,50 +1905,6 @@
       "geometry": {
         "x": -114.42149999999998,
         "y": 45.684833000000026
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 550,
-        "IncidentName": "Hickory",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG06-241071",
-        "DailyAcres": 0.06,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1723754700000,
-        "DiscoveryAcres": 0.06,
-        "POOCounty": "Gallatin",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1727287035000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "99a1cd92-20f4-4404-a423-ba0e9df75283",
-        "GlobalID": "d82c7498-5a89-4f0f-b23c-0fa77ec82de6",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 40
-      },
-      "geometry": {
-        "x": -111.17388499999998,
-        "y": 45.660585000000026
       }
     },
     {
@@ -2604,7 +2560,7 @@
         "IrwinID": "26e4ec6e-8f85-4497-a9d3-a775dc564a80",
         "GlobalID": "685edd2d-ce4a-4a2e-8fdb-02e40aa3c775",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 80
+        "FireDiscoveryAge": 81
       },
       "geometry": {
         "x": -113.01805559999997,
@@ -2687,7 +2643,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1727286999000,
+        "ModifiedOnDateTime": 1727287054000,
         "IncidentTypeKind": "FI",
         "IrwinID": "c53041dc-2969-49f1-8d87-89ca0b1b0c4e",
         "GlobalID": "8e204d4a-8c81-4d33-b844-99a97a26d4d3",
