@@ -492,7 +492,7 @@
         "IrwinID": "191211cd-e240-43c1-9787-0e1891bb3edc",
         "GlobalID": "76f9f39f-1dda-4eb6-8baa-8b55cbd4130f",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 35
+        "FireDiscoveryAge": 36
       },
       "geometry": {
         "x": -114.18432999999999,
@@ -1029,6 +1029,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 478,
+        "IncidentName": "Feely",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDF-246634",
+        "DailyAcres": 75,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1727556811000,
+        "DiscoveryAcres": 50,
+        "POOCounty": "Silver Bow",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1727560452000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "d37423c3-ec35-4860-897c-853ae4f4d37e",
+        "GlobalID": "72ac58b9-b383-48b5-98f9-71b335098240",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.62583999999998,
+        "y": 45.82627300000007
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 88,
         "IncidentName": "Pentagon",
         "IncidentTypeCategory": "WF",
@@ -1425,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 443,
+        "OBJECTID": 441,
         "IncidentName": "Hotel",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000581",
@@ -1645,7 +1689,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 454,
+        "OBJECTID": 452,
         "IncidentName": "Tributary",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246630",
@@ -1777,7 +1821,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 328,
+        "OBJECTID": 327,
         "IncidentName": "I-90 inc.1078",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-241078",
@@ -1821,7 +1865,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 351,
+        "OBJECTID": 350,
         "IncidentName": "I-90 Inc. 1079",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-241079",
@@ -1865,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 432,
+        "OBJECTID": 430,
         "IncidentName": "North Sarpy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000580",
@@ -1905,6 +1949,50 @@
       "geometry": {
         "x": -107.01297199999999,
         "y": 45.66263900000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 479,
+        "IncidentName": "Abandoned camp fire 1093",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTCGF-241093",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1727560134000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Gallatin",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1727560380000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "7649d73b-4bc5-4212-b555-0056deaec93a",
+        "GlobalID": "b3845536-3741-490b-b59d-ddfee91fcde8",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -111.03278299999994,
+        "y": 45.510533000000066
       }
     }
   ]
