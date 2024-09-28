@@ -711,7 +711,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "3a9b8d00-95a3-42f8-be38-81a337d33628",
         "GlobalID": "d7d7d6b8-8e6c-4ed7-b638-c6f941d9fdc7",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 18
       },
       "geometry": {
@@ -1108,7 +1108,7 @@
         "IrwinID": "c69f9251-135f-43be-850d-382fc9f38f7b",
         "GlobalID": "51d3a38f-15a1-410a-b3f2-7fba4bbf0cff",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 29
+        "FireDiscoveryAge": 30
       },
       "geometry": {
         "x": -114.47091699999999,
@@ -1425,7 +1425,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 460,
+        "OBJECTID": 459,
         "IncidentName": "Hotel",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000581",
@@ -1635,12 +1635,56 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "6470f813-354a-4d30-9aaa-5d20287b817b",
         "GlobalID": "c3e4e587-ae64-4b6c-b945-f1a43e80ed82",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 18
       },
       "geometry": {
         "x": -115.85684999999995,
         "y": 48.77585000000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 471,
+        "IncidentName": "Tributary",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDF-246630",
+        "DailyAcres": 1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1727489340000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Madison",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1727551584000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "160cf1b8-ca30-4bba-a356-4ab99b1249a9",
+        "GlobalID": "3dd3efc2-75ce-464b-8d51-fd2ffb117d73",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -111.93579199999999,
+        "y": 44.89520500000003
       }
     },
     {
@@ -1679,7 +1723,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "d999a413-89cd-471d-8732-9881e285f871",
         "GlobalID": "c6660db9-9066-4922-8341-52dbdb1a42fa",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 19
       },
       "geometry": {
@@ -1733,7 +1777,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 341,
+        "OBJECTID": 340,
         "IncidentName": "I-90 inc.1078",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-241078",
@@ -1777,7 +1821,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 365,
+        "OBJECTID": 364,
         "IncidentName": "I-90 Inc. 1079",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-241079",
@@ -1821,7 +1865,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 448,
+        "OBJECTID": 447,
         "IncidentName": "North Sarpy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000580",
@@ -1856,55 +1900,11 @@
         "IrwinID": "4bcce6b2-6cb2-4d76-8155-de9aa1d2e1a4",
         "GlobalID": "e0bf6e9c-f264-4053-9c81-e155766fd60f",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
+        "FireDiscoveryAge": 1
       },
       "geometry": {
         "x": -107.01297199999999,
         "y": 45.66263900000007
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 472,
-        "IncidentName": "Tributary",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBDF-246630",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1727489340000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Madison",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1727543628000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "160cf1b8-ca30-4bba-a356-4ab99b1249a9",
-        "GlobalID": "3dd3efc2-75ce-464b-8d51-fd2ffb117d73",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -111.93599999999998,
-        "y": 44.89600000000007
       }
     },
     {
