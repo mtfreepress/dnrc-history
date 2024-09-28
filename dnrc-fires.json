@@ -1033,7 +1033,7 @@
         "IncidentName": "Sheep Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246608",
-        "DailyAcres": 80,
+        "DailyAcres": 90,
         "CalculatedAcres": 10.2873,
         "PercentContained": 38,
         "ICS209ReportDateTime": 1727391156000,
@@ -1059,7 +1059,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1727461077000,
+        "ModifiedOnDateTime": 1727481879000,
         "IncidentTypeKind": "FI",
         "IrwinID": "3455ce9e-329c-490f-9d8b-320cfc34ed3b",
         "GlobalID": "953e377c-6518-48bb-a018-6e741b3e087d",
@@ -1548,7 +1548,7 @@
         "IrwinID": "1d046b18-d4ca-4601-b345-f4f13a873dbf",
         "GlobalID": "f57f9e35-663d-4791-840e-a4f78ea480c4",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 18
+        "FireDiscoveryAge": 19
       },
       "geometry": {
         "x": -114.49163299999998,
@@ -1777,50 +1777,6 @@
     },
     {
       "attributes": {
-        "OBJECTID": 526,
-        "IncidentName": "LG51 6627",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG51-246627",
-        "DailyAcres": 0.25,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1727470719000,
-        "DiscoveryAcres": 0.25,
-        "POOCounty": "Jefferson",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1727474752000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "458f40ad-5eff-44e8-bd7c-96f5fd1db6dc",
-        "GlobalID": "09f94cdc-b3f5-4329-8b3d-3de37b6a7f7c",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -112.17422999999997,
-        "y": 45.89506700000004
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 119,
         "IncidentName": "Mink Lake",
         "IncidentTypeCategory": "WF",
@@ -1944,7 +1900,7 @@
         "IrwinID": "f154ffe3-2e39-4daf-8e28-257379efaebb",
         "GlobalID": "082e42d1-cd20-4d1a-90f8-1d5559f3e23f",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 1
+        "FireDiscoveryAge": 2
       },
       "geometry": {
         "x": -107.46418999999997,
@@ -1953,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 528,
+        "OBJECTID": 527,
         "IncidentName": "North Sarpy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000580",
@@ -2384,7 +2340,7 @@
         "IrwinID": "c53041dc-2969-49f1-8d87-89ca0b1b0c4e",
         "GlobalID": "8e204d4a-8c81-4d33-b844-99a97a26d4d3",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 81
+        "FireDiscoveryAge": 82
       },
       "geometry": {
         "x": -113.01222219999994,
