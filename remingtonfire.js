@@ -1,7 +1,7 @@
 [
   {
     "attributes": {
-      "OBJECTID": 136,
+      "OBJECTID": 135,
       "IncidentName": "Remington",
       "IncidentTypeCategory": "WF",
       "UniqueFireIdentifier": "2024-WYSHX-240442",
@@ -45,7 +45,7 @@
   },
   {
     "attributes": {
-      "OBJECTID": 243,
+      "OBJECTID": 242,
       "IncidentName": "Short Draw",
       "IncidentTypeCategory": "WF",
       "UniqueFireIdentifier": "2024-WYCMX-240531",
