@@ -1293,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 461,
+        "OBJECTID": 459,
         "IncidentName": "Feely",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246634",
@@ -1459,7 +1459,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "e4494d11-64df-4ff2-931a-bc43e0376387",
         "GlobalID": "700fb1e7-31f7-4389-86aa-60f67020a50d",
-        "ModifiedOnAge": 2,
+        "ModifiedOnAge": 3,
         "FireDiscoveryAge": 64
       },
       "geometry": {
@@ -1469,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 427,
+        "OBJECTID": 425,
         "IncidentName": "Hotel",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000581",
@@ -1504,7 +1504,7 @@
         "IrwinID": "2e619c9c-2d9e-4af4-9120-06c841ad6b67",
         "GlobalID": "bf8c9add-0c12-4992-a9d1-44ca560d5a2f",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
+        "FireDiscoveryAge": 1
       },
       "geometry": {
         "x": -106.53106699999995,
@@ -1592,7 +1592,7 @@
         "IrwinID": "1d046b18-d4ca-4601-b345-f4f13a873dbf",
         "GlobalID": "f57f9e35-663d-4791-840e-a4f78ea480c4",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 19
+        "FireDiscoveryAge": 20
       },
       "geometry": {
         "x": -114.49163299999998,
@@ -1645,51 +1645,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 233,
-        "IncidentName": "Clark Mountain",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTKNF-000301",
-        "DailyAcres": 1,
-        "CalculatedAcres": null,
-        "PercentContained": 0,
-        "ICS209ReportDateTime": 1727378896000,
-        "FireDiscoveryDateTime": 1725983126000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Lincoln",
-        "POOState": "US-MT",
-        "FireCause": "Natural",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": 1,
-        "IncidentManagementOrganization": "Type 5 IC",
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": "Timber (Litter and Understory)",
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1727378896000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "6470f813-354a-4d30-9aaa-5d20287b817b",
-        "GlobalID": "c3e4e587-ae64-4b6c-b945-f1a43e80ed82",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 18
-      },
-      "geometry": {
-        "x": -115.85684999999995,
-        "y": 48.77585000000005
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 438,
+        "OBJECTID": 436,
         "IncidentName": "Tributary",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246630",
@@ -1821,6 +1777,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 233,
+        "IncidentName": "Clark Mountain",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTKNF-000301",
+        "DailyAcres": 0.25,
+        "CalculatedAcres": null,
+        "PercentContained": 0,
+        "ICS209ReportDateTime": 1727378896000,
+        "FireDiscoveryDateTime": 1725983126000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Lincoln",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": 1,
+        "IncidentManagementOrganization": "Type 5 IC",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Timber (Litter and Understory)",
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1727569537000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "6470f813-354a-4d30-9aaa-5d20287b817b",
+        "GlobalID": "c3e4e587-ae64-4b6c-b945-f1a43e80ed82",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 18
+      },
+      "geometry": {
+        "x": -115.85684999999995,
+        "y": 48.77585000000005
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 316,
         "IncidentName": "I-90 inc.1078",
         "IncidentTypeCategory": "WF",
@@ -1865,7 +1865,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 336,
+        "OBJECTID": 334,
         "IncidentName": "I-90 Inc. 1079",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-241079",
@@ -1900,7 +1900,7 @@
         "IrwinID": "f154ffe3-2e39-4daf-8e28-257379efaebb",
         "GlobalID": "082e42d1-cd20-4d1a-90f8-1d5559f3e23f",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 2
+        "FireDiscoveryAge": 3
       },
       "geometry": {
         "x": -107.46418999999997,
@@ -1909,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 416,
+        "OBJECTID": 414,
         "IncidentName": "North Sarpy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000580",
