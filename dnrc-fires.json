@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 249,
+        "OBJECTID": 248,
         "IncidentName": "Homestead",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG34-000304",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 227,
+        "OBJECTID": 226,
         "IncidentName": "China Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000300",
@@ -711,7 +711,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "3a9b8d00-95a3-42f8-be38-81a337d33628",
         "GlobalID": "d7d7d6b8-8e6c-4ed7-b638-c6f941d9fdc7",
-        "ModifiedOnAge": 2,
+        "ModifiedOnAge": 3,
         "FireDiscoveryAge": 19
       },
       "geometry": {
@@ -809,6 +809,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 273,
+        "IncidentName": "Sheep Creek",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDF-246608",
+        "DailyAcres": 140,
+        "CalculatedAcres": 10.2873,
+        "PercentContained": 38,
+        "ICS209ReportDateTime": 1727391156000,
+        "FireDiscoveryDateTime": 1727027460000,
+        "DiscoveryAcres": 15,
+        "POOCounty": "Jefferson",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": 22,
+        "IncidentManagementOrganization": "Type 5 IC",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Timber (Grass and Understory)",
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1727637413000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "3455ce9e-329c-490f-9d8b-320cfc34ed3b",
+        "GlobalID": "953e377c-6518-48bb-a018-6e741b3e087d",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 7
+      },
+      "geometry": {
+        "x": -112.41049999999996,
+        "y": 46.20936700000004
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 83,
         "IncidentName": "Boulder Peak",
         "IncidentTypeCategory": "WF",
@@ -853,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 256,
+        "OBJECTID": 255,
         "IncidentName": "Avins Fence - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000563",
@@ -937,50 +981,6 @@
       "geometry": {
         "x": -110.12696699999998,
         "y": 46.885050000000035
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 274,
-        "IncidentName": "Sheep Creek",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBDF-246608",
-        "DailyAcres": 130,
-        "CalculatedAcres": 10.2873,
-        "PercentContained": 38,
-        "ICS209ReportDateTime": 1727391156000,
-        "FireDiscoveryDateTime": 1727027460000,
-        "DiscoveryAcres": 15,
-        "POOCounty": "Jefferson",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": 22,
-        "IncidentManagementOrganization": "Type 5 IC",
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": "Timber (Grass and Understory)",
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1727555797000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "3455ce9e-329c-490f-9d8b-320cfc34ed3b",
-        "GlobalID": "953e377c-6518-48bb-a018-6e741b3e087d",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 7
-      },
-      "geometry": {
-        "x": -112.41049999999996,
-        "y": 46.20936700000004
       }
     },
     {
@@ -1108,7 +1108,7 @@
         "IrwinID": "c69f9251-135f-43be-850d-382fc9f38f7b",
         "GlobalID": "51d3a38f-15a1-410a-b3f2-7fba4bbf0cff",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 30
+        "FireDiscoveryAge": 31
       },
       "geometry": {
         "x": -114.47091699999999,
@@ -1205,7 +1205,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 229,
+        "OBJECTID": 228,
         "IncidentName": "Fales Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024467",
@@ -1293,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 409,
+        "OBJECTID": 408,
         "IncidentName": "Feely",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246634",
@@ -1469,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 376,
+        "OBJECTID": 375,
         "IncidentName": "Hotel",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000581",
@@ -1557,7 +1557,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 387,
+        "OBJECTID": 386,
         "IncidentName": "Tributary",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246630",
@@ -1591,7 +1591,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "160cf1b8-ca30-4bba-a356-4ab99b1249a9",
         "GlobalID": "3dd3efc2-75ce-464b-8d51-fd2ffb117d73",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 1
       },
       "geometry": {
@@ -1601,51 +1601,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 219,
-        "IncidentName": "Rock Candy",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTKNF-000298",
-        "DailyAcres": 0.75,
-        "CalculatedAcres": null,
-        "PercentContained": 0,
-        "ICS209ReportDateTime": 1727379314000,
-        "FireDiscoveryDateTime": 1725896872000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Lincoln",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": 1,
-        "IncidentManagementOrganization": "Type 5 IC",
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": "Timber (Litter and Understory)",
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1727379315000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "d999a413-89cd-471d-8732-9881e285f871",
-        "GlobalID": "c6660db9-9066-4922-8341-52dbdb1a42fa",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 20
-      },
-      "geometry": {
-        "x": -115.89913299999995,
-        "y": 48.896750000000054
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 231,
+        "OBJECTID": 230,
         "IncidentName": "Clark Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000301",
@@ -1689,7 +1645,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 365,
+        "OBJECTID": 364,
         "IncidentName": "North Sarpy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000580",
@@ -1724,7 +1680,7 @@
         "IrwinID": "4bcce6b2-6cb2-4d76-8155-de9aa1d2e1a4",
         "GlobalID": "e0bf6e9c-f264-4053-9c81-e155766fd60f",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 1
+        "FireDiscoveryAge": 2
       },
       "geometry": {
         "x": -107.01297199999999,
