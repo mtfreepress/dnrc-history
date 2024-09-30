@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 73,
+        "OBJECTID": 74,
         "IncidentName": "Johnson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024261",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 75,
+        "OBJECTID": 76,
         "IncidentName": "Grouse",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246327",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 68,
+        "OBJECTID": 69,
         "IncidentName": "Railroad",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024251",
@@ -580,7 +580,7 @@
         "IrwinID": "c4f6665d-4946-47c6-92e6-076980a610f6",
         "GlobalID": "8d773a90-563a-4a06-9851-251b8c62f985",
         "ModifiedOnAge": 3,
-        "FireDiscoveryAge": 66
+        "FireDiscoveryAge": 67
       },
       "geometry": {
         "x": -113.85899999999998,
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 87,
+        "OBJECTID": 88,
         "IncidentName": "Boulder Peak",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024277",
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 91,
+        "OBJECTID": 92,
         "IncidentName": "Calving Pasture",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG36-000210",
@@ -985,7 +985,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 83,
+        "OBJECTID": 84,
         "IncidentName": "West Christina",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG08-000186",
@@ -1029,7 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 89,
+        "OBJECTID": 90,
         "IncidentName": "Pentagon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFNF-000323",
@@ -1249,7 +1249,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 85,
+        "OBJECTID": 86,
         "IncidentName": "Rd 1037",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000187",
@@ -1293,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 457,
+        "OBJECTID": 455,
         "IncidentName": "421",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG32-241099",
@@ -1337,7 +1337,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 423,
+        "OBJECTID": 422,
         "IncidentName": "Road A",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-241097",
@@ -1469,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 77,
+        "OBJECTID": 78,
         "IncidentName": "Badger Hole 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000182",
@@ -1513,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 332,
+        "OBJECTID": 331,
         "IncidentName": "Hotel",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000581",
@@ -1557,7 +1557,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 343,
+        "OBJECTID": 459,
+        "IncidentName": "Sun Creek",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG36-000308",
+        "DailyAcres": 5.79,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1727565240000,
+        "DiscoveryAcres": 5.79,
+        "POOCounty": "Judith Basin",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1727708243000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "d0b75101-222b-4d1a-9514-23feda951e67",
+        "GlobalID": "91e2af5d-7b11-4195-b970-6a8f0ae7b7e1",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -110.35924999999997,
+        "y": 47.107530000000054
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 342,
         "IncidentName": "Tributary",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246630",
@@ -1645,7 +1689,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 460,
+        "OBJECTID": 458,
         "IncidentName": "River Road",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000582",
@@ -1689,7 +1733,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 321,
+        "OBJECTID": 320,
         "IncidentName": "North Sarpy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000580",
@@ -1733,7 +1777,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 440,
+        "OBJECTID": 438,
         "IncidentName": "Fry Meadow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNWS-000529",
@@ -1773,6 +1817,50 @@
       "geometry": {
         "x": -113.66066699999999,
         "y": 47.40708300000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 461,
+        "IncidentName": "Maclay Flats",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLNF-240837",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1727703094000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Missoula",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1727709064000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "ce1dcefd-c537-47fc-950e-c3ea8642be99",
+        "GlobalID": "cd9bdc40-483d-420d-b79a-e9e46827815f",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -114.10378299999996,
+        "y": 46.83545000000004
       }
     }
   ]
