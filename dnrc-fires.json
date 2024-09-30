@@ -536,7 +536,7 @@
         "IrwinID": "9587a573-0197-4f10-9420-42e137052fbc",
         "GlobalID": "6d073c15-b569-4cc8-b8f5-6f1f7dfb3547",
         "ModifiedOnAge": 4,
-        "FireDiscoveryAge": 42
+        "FireDiscoveryAge": 43
       },
       "geometry": {
         "x": -112.19616699999995,
@@ -765,6 +765,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 272,
+        "IncidentName": "Sheep Creek",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDF-246608",
+        "DailyAcres": 166,
+        "CalculatedAcres": 93.82,
+        "PercentContained": 38,
+        "ICS209ReportDateTime": 1727736251000,
+        "FireDiscoveryDateTime": 1727027460000,
+        "DiscoveryAcres": 15,
+        "POOCounty": "Jefferson",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": 2,
+        "IncidentManagementOrganization": "Type 5 IC",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Timber (Grass and Understory)",
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1727736251000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "3455ce9e-329c-490f-9d8b-320cfc34ed3b",
+        "GlobalID": "953e377c-6518-48bb-a018-6e741b3e087d",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 8
+      },
+      "geometry": {
+        "x": -112.41049999999996,
+        "y": 46.20936700000004
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 154,
         "IncidentName": "Marsh Creek",
         "IncidentTypeCategory": "WF",
@@ -849,50 +893,6 @@
       "geometry": {
         "x": -112.00264999999996,
         "y": 45.49822000000006
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 272,
-        "IncidentName": "Sheep Creek",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBDF-246608",
-        "DailyAcres": 140,
-        "CalculatedAcres": 93.82,
-        "PercentContained": 38,
-        "ICS209ReportDateTime": 1727391156000,
-        "FireDiscoveryDateTime": 1727027460000,
-        "DiscoveryAcres": 15,
-        "POOCounty": "Jefferson",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": 22,
-        "IncidentManagementOrganization": "Type 5 IC",
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": "Timber (Grass and Understory)",
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1727732343000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "3455ce9e-329c-490f-9d8b-320cfc34ed3b",
-        "GlobalID": "953e377c-6518-48bb-a018-6e741b3e087d",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 8
-      },
-      "geometry": {
-        "x": -112.41049999999996,
-        "y": 46.20936700000004
       }
     },
     {
@@ -1195,7 +1195,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "7f71e9da-5be0-4bda-b6ed-26d3c55b154b",
         "GlobalID": "e73a4ad5-b973-4de0-bd6c-7ea1218a777c",
-        "ModifiedOnAge": 4,
+        "ModifiedOnAge": 5,
         "FireDiscoveryAge": 22
       },
       "geometry": {
@@ -1856,7 +1856,7 @@
         "IrwinID": "d4c885c1-7455-48ae-b305-5fd55d2d2def",
         "GlobalID": "36b4364b-8993-48f8-8ef3-45b16ec4e773",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
+        "FireDiscoveryAge": 1
       },
       "geometry": {
         "x": -113.66066699999999,
