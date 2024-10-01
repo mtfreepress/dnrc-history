@@ -799,7 +799,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "4ddcc1d0-b1d0-43b3-9da5-0d828761a5be",
         "GlobalID": "2737b738-fb04-4565-91e9-6617ed3ebfb7",
-        "ModifiedOnAge": 7,
+        "ModifiedOnAge": 8,
         "FireDiscoveryAge": 34
       },
       "geometry": {
@@ -931,7 +931,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "74b0bdc6-cb1c-47de-b74b-0bb870164223",
         "GlobalID": "fc23483e-0410-49a2-8d30-7df24ea4265f",
-        "ModifiedOnAge": 4,
+        "ModifiedOnAge": 5,
         "FireDiscoveryAge": 63
       },
       "geometry": {
@@ -1240,7 +1240,7 @@
         "IrwinID": "ad76ec08-73ba-4aa4-8dfc-8c396b589e91",
         "GlobalID": "f31b4932-7df8-4020-9063-9ea748df78cb",
         "ModifiedOnAge": 5,
-        "FireDiscoveryAge": 63
+        "FireDiscoveryAge": 64
       },
       "geometry": {
         "x": -104.83705599999996,
@@ -1327,7 +1327,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "befb3806-c30f-4b5a-bc89-b36e1f9b45a8",
         "GlobalID": "55597e4d-c24d-4e5b-ae05-1f578f70edb7",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 2
       },
       "geometry": {
@@ -1509,6 +1509,50 @@
       "geometry": {
         "x": -104.82333299999999,
         "y": 48.27377800000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 529,
+        "IncidentName": "LG25 6640",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG25-246640",
+        "DailyAcres": 7,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1727639653000,
+        "DiscoveryAcres": 7,
+        "POOCounty": "Madison",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1727822413000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "2e04181a-ff7d-4e07-aaf1-cbcfc1f4a7ae",
+        "GlobalID": "14271700-7964-4655-914b-ecb8f12d9fbd",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 2
+      },
+      "geometry": {
+        "x": -111.75256699999994,
+        "y": 45.23252400000007
       }
     },
     {
