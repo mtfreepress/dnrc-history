@@ -668,7 +668,7 @@
         "IrwinID": "8a666ed2-7179-4f39-874d-4deaf4c6834c",
         "GlobalID": "24c85463-51bb-4b74-a749-f48705a8066d",
         "ModifiedOnAge": 4,
-        "FireDiscoveryAge": 35
+        "FireDiscoveryAge": 36
       },
       "geometry": {
         "x": -113.48083299999996,
@@ -1733,7 +1733,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 505,
+        "OBJECTID": 504,
         "IncidentName": "Wolf Prairie",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNWS-000331L",
@@ -1953,7 +1953,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 502,
+        "OBJECTID": 501,
         "IncidentName": "Lower East",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000587",
@@ -1993,6 +1993,50 @@
       "geometry": {
         "x": -106.66136099999994,
         "y": 45.62000000000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 510,
+        "IncidentName": "Kinsey Road - Custer",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG14-000586",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1727636400000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Custer",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1727800768000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "dcec67d5-e8d0-4093-9ec3-0809d6258e09",
+        "GlobalID": "8adad150-3511-46eb-b4ad-c89c308c0b43",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -105.87333299999995,
+        "y": 46.433283000000074
       }
     },
     {
