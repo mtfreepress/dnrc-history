@@ -751,7 +751,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1728086487000,
+        "ModifiedOnDateTime": 1728094013000,
         "IncidentTypeKind": "FI",
         "IrwinID": "3455ce9e-329c-490f-9d8b-320cfc34ed3b",
         "GlobalID": "953e377c-6518-48bb-a018-6e741b3e087d",
@@ -1557,7 +1557,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 420,
+        "OBJECTID": 418,
         "IncidentName": "Shadow Lake",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024536",
@@ -1601,7 +1601,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 546,
+        "OBJECTID": 538,
         "IncidentName": "Wilkes",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLNF-240864",
@@ -1631,7 +1631,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1728089931000,
+        "ModifiedOnDateTime": 1728093124000,
         "IncidentTypeKind": "FI",
         "IrwinID": "b13e4573-dfcc-4366-81fc-119c3401f505",
         "GlobalID": "b0f23dd3-9c14-4746-a56d-8306e6fc0304",
@@ -1645,7 +1645,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 521,
+        "OBJECTID": 518,
         "IncidentName": "East Juddy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000591",
@@ -1689,7 +1689,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 367,
+        "OBJECTID": 365,
         "IncidentName": "Ranch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000589",
@@ -1733,7 +1733,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 524,
+        "OBJECTID": 521,
         "IncidentName": "E Elbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG10-241121",
@@ -1900,7 +1900,7 @@
         "IrwinID": "160cf1b8-ca30-4bba-a356-4ab99b1249a9",
         "GlobalID": "3dd3efc2-75ce-464b-8d51-fd2ffb117d73",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 6
+        "FireDiscoveryAge": 7
       },
       "geometry": {
         "x": -111.93579199999999,
@@ -1909,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 392,
+        "OBJECTID": 390,
         "IncidentName": "Hearst Lake",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-246650",
@@ -1997,7 +1997,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 448,
+        "OBJECTID": 446,
         "IncidentName": "Le 1 Dr",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000313",
@@ -2037,6 +2037,50 @@
       "geometry": {
         "x": -105.12333299999995,
         "y": 48.10697200000004
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 545,
+        "IncidentName": "Mile Marker 53",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTSWS-240867",
+        "DailyAcres": 0.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1728090420000,
+        "DiscoveryAcres": 0.5,
+        "POOCounty": "Powell",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1728093775000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "cf94e46d-a061-404e-b746-ffcfed6b199c",
+        "GlobalID": "96a64c08-5231-4276-b1e0-54aa39e15501",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.98956199999998,
+        "y": 46.97874400000006
       }
     },
     {
@@ -2217,8 +2261,8 @@
     },
     {
       "attributes": {
-        "OBJECTID": 550,
-        "IncidentName": "Charlie Gulch",
+        "OBJECTID": 540,
+        "IncidentName": "Rye Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024539",
         "DailyAcres": 0.1,
@@ -2247,7 +2291,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1728092183000,
+        "ModifiedOnDateTime": 1728094126000,
         "IncidentTypeKind": "FI",
         "IrwinID": "7bba52d2-acf8-4991-9455-fb170ac76442",
         "GlobalID": "7dfe6c93-8a9b-43d2-9681-82dadf762957",
@@ -2257,50 +2301,6 @@
       "geometry": {
         "x": -114.11491699999999,
         "y": 45.96753300000006
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 348,
-        "IncidentName": "209",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBFA-000132",
-        "DailyAcres": null,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1727832600000,
-        "DiscoveryAcres": null,
-        "POOCounty": "Glacier",
-        "POOState": "US-MT",
-        "FireCause": null,
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1727833814000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "db16be56-b5b4-4ed3-9584-d406674e8ac8",
-        "GlobalID": "f6372708-d862-48df-8154-65d5e93c6829",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 3
-      },
-      "geometry": {
-        "x": -113.01083329999994,
-        "y": 48.555000000000064
       }
     }
   ]
