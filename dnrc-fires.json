@@ -1107,7 +1107,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "3df73923-1231-43dd-aa32-bac0060050fb",
         "GlobalID": "89cc57c0-aee8-4b5c-93c7-a9545caaa1ff",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 63
       },
       "geometry": {
@@ -1415,12 +1415,56 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "e68153b4-a6df-47e2-a7f9-78ef9e179dee",
         "GlobalID": "5167e73d-38c0-47a6-b3fa-db78609907b0",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 39
       },
       "geometry": {
         "x": -113.25006299999995,
         "y": 47.401020000000074
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 545,
+        "IncidentName": "French Bar",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTCES-000799",
+        "DailyAcres": 20,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1728118974000,
+        "DiscoveryAcres": 3,
+        "POOCounty": "Lewis and Clark",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1728131097000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "628843a0-682c-48f3-a1ca-9beb2bbc2607",
+        "GlobalID": "112f80ae-b196-45bd-95f1-4e4f0e657b1b",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -111.74160999999998,
+        "y": 46.633120000000076
       }
     },
     {
@@ -1597,50 +1641,6 @@
       "geometry": {
         "x": -113.75099999999998,
         "y": 46.03833300000008
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 545,
-        "IncidentName": "French Bar",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTCES-000799",
-        "DailyAcres": 7,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1728118974000,
-        "DiscoveryAcres": 3,
-        "POOCounty": "Lewis and Clark",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1728125261000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "628843a0-682c-48f3-a1ca-9beb2bbc2607",
-        "GlobalID": "112f80ae-b196-45bd-95f1-4e4f0e657b1b",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -111.74160999999998,
-        "y": 46.633120000000076
       }
     },
     {
@@ -1899,7 +1899,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "3b73f26c-e628-4e44-bd96-40ecb8f54994",
         "GlobalID": "f70e7fa3-06ef-4839-9a12-c77a82052163",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 75
       },
       "geometry": {
