@@ -332,7 +332,7 @@
         "DailyAcres": 6949,
         "CalculatedAcres": 7359.9287,
         "PercentContained": 56,
-        "ICS209ReportDateTime": 1728086189000,
+        "ICS209ReportDateTime": 1728172160000,
         "FireDiscoveryDateTime": 1724013420000,
         "DiscoveryAcres": 0.25,
         "POOCounty": "Ravalli",
@@ -340,7 +340,7 @@
         "FireCause": "Undetermined",
         "FireCauseGeneral": null,
         "GACC": "NRCC",
-        "TotalIncidentPersonnel": 102,
+        "TotalIncidentPersonnel": 120,
         "IncidentManagementOrganization": "Type 3 IC",
         "FireMgmtComplexity": null,
         "ResidencesDestroyed": 0,
@@ -355,7 +355,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1728086189000,
+        "ModifiedOnDateTime": 1728172160000,
         "IncidentTypeKind": "FI",
         "IrwinID": "bdb7328d-8b59-45e4-93bf-664a9403534c",
         "GlobalID": "7b70e336-521a-4e2d-b16c-f226e524809b",
@@ -711,7 +711,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "8a666ed2-7179-4f39-874d-4deaf4c6834c",
         "GlobalID": "24c85463-51bb-4b74-a749-f48705a8066d",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 40
       },
       "geometry": {
@@ -1504,7 +1504,7 @@
         "IrwinID": "8b8262f2-ad89-421d-a54c-608d75663bc9",
         "GlobalID": "5d172e79-857d-4b52-b3d9-1cae1393926a",
         "ModifiedOnAge": 4,
-        "FireDiscoveryAge": 6
+        "FireDiscoveryAge": 7
       },
       "geometry": {
         "x": -104.73973899999999,
@@ -1557,7 +1557,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 462,
+        "OBJECTID": 460,
         "IncidentName": "French Bar",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-000799",
@@ -1645,7 +1645,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 435,
+        "OBJECTID": 433,
         "IncidentName": "East Juddy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000591",
@@ -1689,7 +1689,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 502,
+        "OBJECTID": 499,
         "IncidentName": "Agency Canal",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-241127",
@@ -1719,7 +1719,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1728169680000,
+        "ModifiedOnDateTime": 1728173585000,
         "IncidentTypeKind": "FI",
         "IrwinID": "144a8918-3526-4e88-812c-e11d3d78cb7d",
         "GlobalID": "b2479b8a-08d6-4167-9e9a-3623dc46ef7b",
@@ -1733,7 +1733,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 437,
+        "OBJECTID": 435,
         "IncidentName": "E Elbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG10-241121",
@@ -1812,7 +1812,7 @@
         "IrwinID": "1d046b18-d4ca-4601-b345-f4f13a873dbf",
         "GlobalID": "f57f9e35-663d-4791-840e-a4f78ea480c4",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 26
+        "FireDiscoveryAge": 27
       },
       "geometry": {
         "x": -114.49163299999998,
@@ -1909,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 480,
+        "OBJECTID": 478,
         "IncidentName": "Tomson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNWS-000541",
@@ -1944,7 +1944,7 @@
         "IrwinID": "d447f3de-14e5-4673-a2ae-b2835048d487",
         "GlobalID": "2cd5146b-df5a-4b80-9f2c-675d478ad6ec",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
+        "FireDiscoveryAge": 1
       },
       "geometry": {
         "x": -113.72939999999994,
@@ -1997,7 +1997,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 366,
+        "OBJECTID": 364,
         "IncidentName": "Le 1 Dr",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000313",
@@ -2217,7 +2217,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 450,
+        "OBJECTID": 448,
         "IncidentName": "Rye Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024539",
@@ -2257,6 +2257,50 @@
       "geometry": {
         "x": -114.11491699999999,
         "y": 45.96753300000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 502,
+        "IncidentName": "LG01 6661",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG01-246661",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1728172630000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Silver Bow",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1728173592000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "988cb5fd-3268-4923-854b-4ff7757f156f",
+        "GlobalID": "c47aa345-3685-4471-b178-d42eb41dac4a",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.50750999999997,
+        "y": 45.970552000000055
       }
     },
     {
