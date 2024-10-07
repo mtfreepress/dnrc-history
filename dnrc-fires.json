@@ -579,7 +579,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "0d5a4fb8-d8c9-4301-b251-1a5d4f91e825",
         "GlobalID": "9a3d9ece-c486-466d-902c-579b3986a4db",
-        "ModifiedOnAge": 2,
+        "ModifiedOnAge": 3,
         "FireDiscoveryAge": 86
       },
       "geometry": {
@@ -931,7 +931,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "4ddcc1d0-b1d0-43b3-9da5-0d828761a5be",
         "GlobalID": "2737b738-fb04-4565-91e9-6617ed3ebfb7",
-        "ModifiedOnAge": 13,
+        "ModifiedOnAge": 14,
         "FireDiscoveryAge": 40
       },
       "geometry": {
@@ -1019,7 +1019,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "74b0bdc6-cb1c-47de-b74b-0bb870164223",
         "GlobalID": "fc23483e-0410-49a2-8d30-7df24ea4265f",
-        "ModifiedOnAge": 3,
+        "ModifiedOnAge": 4,
         "FireDiscoveryAge": 69
       },
       "geometry": {
@@ -1337,7 +1337,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 491,
+        "OBJECTID": 486,
         "IncidentName": "Antelope Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG36-000315",
@@ -1645,7 +1645,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 377,
+        "OBJECTID": 376,
         "IncidentName": "Agency Canal",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-241127",
@@ -1680,7 +1680,7 @@
         "IrwinID": "144a8918-3526-4e88-812c-e11d3d78cb7d",
         "GlobalID": "b2479b8a-08d6-4167-9e9a-3623dc46ef7b",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 1
+        "FireDiscoveryAge": 2
       },
       "geometry": {
         "x": -107.46796999999998,
@@ -1733,7 +1733,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 453,
+        "OBJECTID": 449,
         "IncidentName": "Windy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000314",
@@ -1953,50 +1953,6 @@
     },
     {
       "attributes": {
-        "OBJECTID": 379,
-        "IncidentName": "LG01 6661",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG01-246661",
-        "DailyAcres": 0.25,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1728172630000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Silver Bow",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1728231614000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "988cb5fd-3268-4923-854b-4ff7757f156f",
-        "GlobalID": "c47aa345-3685-4471-b178-d42eb41dac4a",
-        "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 1
-      },
-      "geometry": {
-        "x": -112.50750999999997,
-        "y": 45.970552000000055
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 230,
         "IncidentName": "Battle",
         "IncidentTypeCategory": "WF",
@@ -2041,7 +1997,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 335,
+        "OBJECTID": 334,
         "IncidentName": "Rye Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024539",
@@ -2085,7 +2041,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 454,
+        "OBJECTID": 450,
         "IncidentName": "Wyant Lant",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024541",
@@ -2129,7 +2085,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 465,
+        "OBJECTID": 460,
         "IncidentName": "Goat",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNWS-000545",
