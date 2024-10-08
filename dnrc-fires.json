@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 125,
+        "OBJECTID": 124,
         "IncidentName": "Daly",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024380",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 81,
+        "OBJECTID": 80,
         "IncidentName": "Johnson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024261",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 84,
+        "OBJECTID": 83,
         "IncidentName": "Grouse",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246327",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 134,
+        "OBJECTID": 132,
         "IncidentName": "Sharrott Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024418",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 126,
+        "OBJECTID": 125,
         "IncidentName": "Ratio Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246437",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 34,
+        "OBJECTID": 33,
         "IncidentName": "Four Mile",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-000262",
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 76,
+        "OBJECTID": 75,
         "IncidentName": "Railroad",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024251",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 139,
+        "OBJECTID": 137,
         "IncidentName": "McDermott",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246487",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 115,
+        "OBJECTID": 114,
         "IncidentName": "Black Canyon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG47-005121",
@@ -800,7 +800,7 @@
         "IrwinID": "11ae82ff-7435-494c-915a-41058d098d1c",
         "GlobalID": "25dd68b3-a40c-4a1a-8430-f68b60b0693a",
         "ModifiedOnAge": 5,
-        "FireDiscoveryAge": 58
+        "FireDiscoveryAge": 59
       },
       "geometry": {
         "x": -111.29349999999994,
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 95,
+        "OBJECTID": 94,
         "IncidentName": "Boulder Peak",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024277",
@@ -985,7 +985,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 120,
+        "OBJECTID": 119,
         "IncidentName": "Booth",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG22-240673",
@@ -1029,7 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 97,
+        "OBJECTID": 96,
         "IncidentName": "Pentagon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFNF-000323",
@@ -1073,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 144,
+        "OBJECTID": 143,
         "IncidentName": "Razorback",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024440",
@@ -1161,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 129,
+        "OBJECTID": 128,
         "IncidentName": "Blue Joint",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024388",
@@ -1293,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 455,
+        "OBJECTID": 454,
         "IncidentName": "Antelope Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG36-000315",
@@ -1337,7 +1337,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 140,
+        "OBJECTID": 139,
         "IncidentName": "Kid Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFNF-000463",
@@ -1377,50 +1377,6 @@
       "geometry": {
         "x": -113.25006299999995,
         "y": 47.401020000000074
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 133,
-        "IncidentName": "Grizzly",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLNF-240708",
-        "DailyAcres": 18,
-        "CalculatedAcres": 18.215,
-        "PercentContained": 0,
-        "ICS209ReportDateTime": 1727441681000,
-        "FireDiscoveryDateTime": 1724436000000,
-        "DiscoveryAcres": 0.5,
-        "POOCounty": "Granite",
-        "POOState": "US-MT",
-        "FireCause": "Natural",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": 1,
-        "IncidentManagementOrganization": "Type 4 IC",
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": "Timber (Grass and Understory)",
-        "ContainmentDateTime": 1727725080000,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1727725210000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "50bdf065-ae3b-4407-83c4-0246200084f0",
-        "GlobalID": "ecefbf66-8513-4778-b5db-aa3cdcbb8f62",
-        "ModifiedOnAge": 7,
-        "FireDiscoveryAge": 46
-      },
-      "geometry": {
-        "x": -113.60636699999998,
-        "y": 46.552783000000034
       }
     },
     {
@@ -1469,7 +1425,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 130,
+        "OBJECTID": 129,
         "IncidentName": "Rockvale",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG10-240788",
@@ -1592,7 +1548,7 @@
         "IrwinID": "1cc56e27-32b5-4b8b-8dba-460fe7f2dbee",
         "GlobalID": "800c78c9-3860-4b3d-9556-2f537a9d8634",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 5
+        "FireDiscoveryAge": 6
       },
       "geometry": {
         "x": -113.76504999999997,
@@ -1601,7 +1557,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 354,
+        "OBJECTID": 353,
         "IncidentName": "Agency Canal",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-241127",
@@ -1680,7 +1636,7 @@
         "IrwinID": "97119b8a-9ef3-4073-987f-5c80ba06d9b0",
         "GlobalID": "5206ea46-817a-4d8a-92de-9c02156d30c9",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 3
+        "FireDiscoveryAge": 4
       },
       "geometry": {
         "x": -108.91861699999998,
@@ -1689,7 +1645,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 421,
+        "OBJECTID": 420,
         "IncidentName": "Windy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000314",
@@ -1733,7 +1689,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 31,
+        "OBJECTID": 30,
         "IncidentName": "21 Road",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240320",
@@ -1777,7 +1733,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 118,
+        "OBJECTID": 117,
         "IncidentName": "Johnson Materials",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240658",
@@ -1821,7 +1777,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 137,
+        "OBJECTID": 135,
         "IncidentName": "994 Kyhl Lane",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG03-240845",
@@ -1997,7 +1953,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 422,
+        "OBJECTID": 421,
         "IncidentName": "Wyant Lant",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024541",
@@ -2041,7 +1997,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 431,
+        "OBJECTID": 430,
         "IncidentName": "Goat",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNWS-000545",
@@ -2085,7 +2041,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 499,
+        "OBJECTID": 497,
         "IncidentName": "Multipurpose Road",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-241143",
