@@ -1064,7 +1064,7 @@
         "IrwinID": "3df73923-1231-43dd-aa32-bac0060050fb",
         "GlobalID": "89cc57c0-aee8-4b5c-93c7-a9545caaa1ff",
         "ModifiedOnAge": 5,
-        "FireDiscoveryAge": 66
+        "FireDiscoveryAge": 67
       },
       "geometry": {
         "x": -113.15703299999996,
@@ -1289,6 +1289,50 @@
       "geometry": {
         "x": -109.21144999999996,
         "y": 45.60273300000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 524,
+        "IncidentName": "Meridian",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDF-246666",
+        "DailyAcres": 30,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1728427669000,
+        "DiscoveryAcres": 30,
+        "POOCounty": "Madison",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1728436637000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "f6f94104-501f-4990-8e40-c386def7dbad",
+        "GlobalID": "cea28b6d-e9de-4c43-87cd-15cd17cce253",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -111.65916699999997,
+        "y": 44.74861700000008
       }
     },
     {
@@ -1538,12 +1582,12 @@
         "PredominantFuelGroup": null,
         "PredominantFuelModel": null,
         "PrimaryFuelModel": "Timber (Litter and Understory)",
-        "ContainmentDateTime": null,
+        "ContainmentDateTime": 1728435720000,
         "ControlDateTime": null,
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1728397944000,
+        "ModifiedOnDateTime": 1728435900000,
         "IncidentTypeKind": "FI",
         "IrwinID": "1cc56e27-32b5-4b8b-8dba-460fe7f2dbee",
         "GlobalID": "800c78c9-3860-4b3d-9556-2f537a9d8634",
@@ -1817,50 +1861,6 @@
       "geometry": {
         "x": -109.07146199999994,
         "y": 45.60692500000005
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 522,
-        "IncidentName": "Sinclair Lane",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTKNF-000347",
-        "DailyAcres": 0.25,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1728430981000,
-        "DiscoveryAcres": 0.25,
-        "POOCounty": "Lincoln",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1728433568000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "e84f5043-88a7-4643-8851-25df4d696067",
-        "GlobalID": "fad24917-b259-478f-9be7-60e72a1df5dc",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -114.96029999999996,
-        "y": 48.89400000000006
       }
     },
     {
