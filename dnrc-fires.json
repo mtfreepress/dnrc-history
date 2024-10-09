@@ -1337,6 +1337,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 540,
+        "IncidentName": "Kelsey",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTMCD-000597",
+        "DailyAcres": 40,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1728497833000,
+        "DiscoveryAcres": 40,
+        "POOCounty": "Powder River",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1728506598000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "1f803756-fb03-456d-834a-ed4ba3d942eb",
+        "GlobalID": "9e3cce72-9a81-49c4-b37f-6e75d865d118",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -105.75028299999997,
+        "y": 45.080183000000034
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 408,
         "IncidentName": "Antelope Butte",
         "IncidentTypeCategory": "WF",
@@ -1371,7 +1415,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "536abcc8-7216-4d7d-9a0c-ccfc1d2001c6",
         "GlobalID": "6c43ea17-1daf-4e3e-bd10-13fbf2821a08",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 4
       },
       "geometry": {
@@ -1636,7 +1680,7 @@
         "IrwinID": "c1da2a77-94d5-40fe-99e7-ffc102181ca6",
         "GlobalID": "c0d43e6b-9f56-476b-bbe0-398cb8db1633",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 27
+        "FireDiscoveryAge": 28
       },
       "geometry": {
         "x": -114.15403999999995,
