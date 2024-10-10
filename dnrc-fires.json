@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 446,
+        "OBJECTID": 445,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -1293,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 371,
+        "OBJECTID": 370,
         "IncidentName": "Antelope Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG36-000315",
@@ -1513,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 526,
+        "OBJECTID": 524,
         "IncidentName": "Poplar River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000317",
@@ -1689,7 +1689,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 355,
+        "OBJECTID": 354,
         "IncidentName": "Wyant Lant",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024541",
@@ -1733,7 +1733,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 356,
+        "OBJECTID": 355,
         "IncidentName": "Goat",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNWS-000545",
@@ -1777,7 +1777,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 410,
+        "OBJECTID": 409,
         "IncidentName": "Multipurpose Road",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-241143",
@@ -1821,7 +1821,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 522,
+        "OBJECTID": 520,
         "IncidentName": "Shell",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000316",
@@ -1865,7 +1865,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 547,
+        "OBJECTID": 545,
         "IncidentName": "Pattee Canyon 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLNF-240886",
@@ -1909,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 471,
+        "OBJECTID": 470,
         "IncidentName": "MICHEL RD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFHA-000134",
@@ -1953,7 +1953,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 524,
+        "OBJECTID": 522,
         "IncidentName": "GREASY",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000133",
@@ -1997,7 +1997,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 525,
+        "OBJECTID": 523,
         "IncidentName": "LABUFF",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000134",
@@ -2037,6 +2037,50 @@
       "geometry": {
         "x": -113.01138889999999,
         "y": 48.548055600000055
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 552,
+        "IncidentName": "Deer",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTFBA-000101",
+        "DailyAcres": null,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1728415740000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Blaine",
+        "POOState": "US-MT",
+        "FireCause": null,
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1728582007000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "8b972c5a-ab7d-4b96-9177-02fa924118b6",
+        "GlobalID": "eb06378e-20fe-43e2-8f3c-62066e4c6b4a",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -108.54462499999994,
+        "y": 48.03458600000005
       }
     }
   ]
