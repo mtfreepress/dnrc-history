@@ -373,10 +373,10 @@
         "IncidentName": "Johnson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024261",
-        "DailyAcres": 6687,
+        "DailyAcres": 7411,
         "CalculatedAcres": 7438.7156,
         "PercentContained": 61,
-        "ICS209ReportDateTime": 1727993471000,
+        "ICS209ReportDateTime": 1728598552000,
         "FireDiscoveryDateTime": 1721949840000,
         "DiscoveryAcres": 0.5,
         "POOCounty": "Ravalli",
@@ -384,8 +384,8 @@
         "FireCause": "Natural",
         "FireCauseGeneral": null,
         "GACC": "NRCC",
-        "TotalIncidentPersonnel": 5,
-        "IncidentManagementOrganization": "Type 4 IC",
+        "TotalIncidentPersonnel": 48,
+        "IncidentManagementOrganization": "Type 3 IC",
         "FireMgmtComplexity": null,
         "ResidencesDestroyed": 0,
         "OtherStructuresDestroyed": 0,
@@ -399,7 +399,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1728575049000,
+        "ModifiedOnDateTime": 1728598552000,
         "IncidentTypeKind": "FI",
         "IrwinID": "e2e54cdb-3f3e-4820-b140-2f0b4dc45dfc",
         "GlobalID": "2a46616e-7f19-4140-b357-c57e3e44c6b9",
@@ -579,7 +579,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "0d5a4fb8-d8c9-4301-b251-1a5d4f91e825",
         "GlobalID": "9a3d9ece-c486-466d-902c-579b3986a4db",
-        "ModifiedOnAge": 5,
+        "ModifiedOnAge": 6,
         "FireDiscoveryAge": 89
       },
       "geometry": {
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 439,
+        "OBJECTID": 438,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -755,7 +755,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "11ae82ff-7435-494c-915a-41058d098d1c",
         "GlobalID": "25dd68b3-a40c-4a1a-8430-f68b60b0693a",
-        "ModifiedOnAge": 7,
+        "ModifiedOnAge": 8,
         "FireDiscoveryAge": 61
       },
       "geometry": {
@@ -975,7 +975,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "74b0bdc6-cb1c-47de-b74b-0bb870164223",
         "GlobalID": "fc23483e-0410-49a2-8d30-7df24ea4265f",
-        "ModifiedOnAge": 6,
+        "ModifiedOnAge": 7,
         "FireDiscoveryAge": 72
       },
       "geometry": {
@@ -1196,7 +1196,7 @@
         "IrwinID": "51798845-158b-44e1-b6b0-52b284b11f58",
         "GlobalID": "50be5389-3c88-4a47-90f2-84eb043ac5b4",
         "ModifiedOnAge": 6,
-        "FireDiscoveryAge": 51
+        "FireDiscoveryAge": 52
       },
       "geometry": {
         "x": -114.51036699999997,
@@ -1239,8 +1239,8 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "cd9e9d02-6df3-4ec1-85a5-519904063877",
         "GlobalID": "ee2e08c2-3de3-40e7-beea-32caed84f678",
-        "ModifiedOnAge": 6,
-        "FireDiscoveryAge": 30
+        "ModifiedOnAge": 7,
+        "FireDiscoveryAge": 31
       },
       "geometry": {
         "x": -114.45149999999995,
@@ -1513,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 515,
+        "OBJECTID": 513,
         "IncidentName": "Poplar River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000317",
@@ -1548,7 +1548,7 @@
         "IrwinID": "64be3ee8-f8af-4436-bf70-d0986fc0e2a0",
         "GlobalID": "e25dfd19-6c3d-4298-9996-40512ff713d9",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
+        "FireDiscoveryAge": 1
       },
       "geometry": {
         "x": -105.21652799999998,
@@ -1909,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 403,
+        "OBJECTID": 402,
         "IncidentName": "Multipurpose Road",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-241143",
@@ -1953,7 +1953,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 511,
+        "OBJECTID": 509,
         "IncidentName": "Shell",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000316",
@@ -1997,51 +1997,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 536,
-        "IncidentName": "Pattee Canyon 2",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLNF-240886",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1728578279000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Missoula",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1728578853000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "99b08094-95f1-4add-a469-17c06b514cbb",
-        "GlobalID": "94bdb557-1455-4731-9df0-3127770410a3",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -113.92204999999996,
-        "y": 46.823083000000054
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 464,
+        "OBJECTID": 462,
         "IncidentName": "MICHEL RD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFHA-000134",
@@ -2085,7 +2041,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 513,
+        "OBJECTID": 511,
         "IncidentName": "GREASY",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000133",
@@ -2129,7 +2085,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 514,
+        "OBJECTID": 512,
         "IncidentName": "LABUFF",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000134",
@@ -2173,7 +2129,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 541,
+        "OBJECTID": 538,
         "IncidentName": "Deer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000101",
