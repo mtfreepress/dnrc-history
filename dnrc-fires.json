@@ -491,7 +491,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "191211cd-e240-43c1-9787-0e1891bb3edc",
         "GlobalID": "76f9f39f-1dda-4eb6-8baa-8b55cbd4130f",
-        "ModifiedOnAge": 5,
+        "ModifiedOnAge": 6,
         "FireDiscoveryAge": 47
       },
       "geometry": {
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 283,
+        "OBJECTID": 284,
         "IncidentName": "Flat Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000584",
@@ -985,7 +985,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 465,
+        "OBJECTID": 466,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -1073,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 512,
+        "OBJECTID": 513,
         "IncidentName": "Kelsey",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000597",
@@ -1293,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 277,
+        "OBJECTID": 278,
         "IncidentName": "421",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG32-241099",
@@ -1337,7 +1337,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 390,
+        "OBJECTID": 391,
         "IncidentName": "Antelope Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG36-000315",
@@ -1469,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 295,
+        "OBJECTID": 296,
         "IncidentName": "Blue Grotto",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246647",
@@ -1513,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 325,
+        "OBJECTID": 326,
         "IncidentName": "E Elbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG10-241121",
@@ -1553,6 +1553,50 @@
       "geometry": {
         "x": -108.91861699999998,
         "y": 45.44880000000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 549,
+        "IncidentName": "Poplar River",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTFPA-000317",
+        "DailyAcres": 1.25,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1728513600000,
+        "DiscoveryAcres": 1.25,
+        "POOCounty": "Roosevelt",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1728571502000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "64be3ee8-f8af-4436-bf70-d0986fc0e2a0",
+        "GlobalID": "e25dfd19-6c3d-4298-9996-40512ff713d9",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -105.21652799999998,
+        "y": 48.10633300000006
       }
     },
     {
@@ -1645,7 +1689,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 329,
+        "OBJECTID": 330,
         "IncidentName": "Rye Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024539",
@@ -1689,7 +1733,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 359,
+        "OBJECTID": 360,
         "IncidentName": "Wyant Lant",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024541",
@@ -1733,7 +1777,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 367,
+        "OBJECTID": 368,
         "IncidentName": "Goat",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNWS-000545",
@@ -1777,7 +1821,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 429,
+        "OBJECTID": 430,
         "IncidentName": "Multipurpose Road",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-241143",
@@ -1821,7 +1865,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 544,
+        "OBJECTID": 545,
         "IncidentName": "Shell",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000316",
@@ -1865,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 490,
+        "OBJECTID": 491,
         "IncidentName": "MICHEL RD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFHA-000134",
@@ -1905,6 +1949,94 @@
       "geometry": {
         "x": -114.03138888999996,
         "y": 47.55388889000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 547,
+        "IncidentName": "GREASY",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBFA-000133",
+        "DailyAcres": null,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1728428400000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Glacier",
+        "POOState": "US-MT",
+        "FireCause": null,
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1728571457000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "5ce30c53-a420-4a7b-95ce-bfdd2f7f451c",
+        "GlobalID": "d1acfc52-5f65-473e-906f-437be349b8b7",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -113.12749999999994,
+        "y": 48.58583330000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 548,
+        "IncidentName": "LABUFF",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBFA-000134",
+        "DailyAcres": null,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1728453660000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Glacier",
+        "POOState": "US-MT",
+        "FireCause": null,
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1728571466000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "93f4dcf6-5650-4e40-9869-8617dd03b41d",
+        "GlobalID": "81cc4834-fbef-4d02-a044-95c71af257da",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -113.01138889999999,
+        "y": 48.548055600000055
       }
     }
   ]
