@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 253,
+        "OBJECTID": 254,
         "IncidentName": "Sheep Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246608",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 281,
+        "OBJECTID": 282,
         "IncidentName": "Flat Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000584",
@@ -1293,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 276,
+        "OBJECTID": 277,
         "IncidentName": "421",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG32-241099",
@@ -1328,7 +1328,7 @@
         "IrwinID": "11873b7a-8199-496a-83a4-2a97e3bef79b",
         "GlobalID": "7910b75c-5107-486a-8a5c-4c8e4d2c2c2a",
         "ModifiedOnAge": 3,
-        "FireDiscoveryAge": 10
+        "FireDiscoveryAge": 11
       },
       "geometry": {
         "x": -109.21144999999996,
@@ -1469,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 293,
+        "OBJECTID": 294,
         "IncidentName": "Blue Grotto",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246647",
@@ -1513,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 323,
+        "OBJECTID": 324,
         "IncidentName": "E Elbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG10-241121",
@@ -1553,50 +1553,6 @@
       "geometry": {
         "x": -108.91861699999998,
         "y": 45.44880000000006
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 357,
-        "IncidentName": "Windy",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTFPA-000314",
-        "DailyAcres": 1.36,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1728151980000,
-        "DiscoveryAcres": 1.36,
-        "POOCounty": "Roosevelt",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1728309867000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "2d27712c-2262-44ba-9709-8c2fe32e9d8a",
-        "GlobalID": "708bfd83-819b-41b7-805d-0d1b9b9b555d",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 4
-      },
-      "geometry": {
-        "x": -105.15016699999995,
-        "y": 48.20125000000007
       }
     },
     {
@@ -1679,7 +1635,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "c1da2a77-94d5-40fe-99e7-ffc102181ca6",
         "GlobalID": "c0d43e6b-9f56-476b-bbe0-398cb8db1633",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 28
       },
       "geometry": {
@@ -1689,7 +1645,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 327,
+        "OBJECTID": 328,
         "IncidentName": "Rye Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024539",
@@ -1723,7 +1679,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "7bba52d2-acf8-4991-9455-fb170ac76442",
         "GlobalID": "7dfe6c93-8a9b-43d2-9681-82dadf762957",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 5
       },
       "geometry": {
@@ -1767,7 +1723,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "b76663e3-8d25-44b6-9da0-24e7359c568c",
         "GlobalID": "fb7aa4ee-6f05-4087-9ddb-37e61e5ecdb8",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 2
       },
       "geometry": {
