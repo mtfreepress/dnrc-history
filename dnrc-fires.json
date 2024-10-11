@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 152,
+        "OBJECTID": 153,
         "IncidentName": "Sharrott Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024418",
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 259,
+        "OBJECTID": 260,
         "IncidentName": "Sheep Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246608",
@@ -668,11 +668,55 @@
         "IrwinID": "3455ce9e-329c-490f-9d8b-320cfc34ed3b",
         "GlobalID": "953e377c-6518-48bb-a018-6e741b3e087d",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 18
+        "FireDiscoveryAge": 19
       },
       "geometry": {
         "x": -112.41049999999996,
         "y": 46.20936700000004
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 162,
+        "IncidentName": "McDermott",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDF-246487",
+        "DailyAcres": 435,
+        "CalculatedAcres": 319.0732,
+        "PercentContained": 0,
+        "ICS209ReportDateTime": 1728669319000,
+        "FireDiscoveryDateTime": 1724690537000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Granite",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": 6,
+        "IncidentManagementOrganization": "Type 5 IC",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": 0,
+        "OtherStructuresDestroyed": 0,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Timber (Grass and Understory)",
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1728669319000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "8a666ed2-7179-4f39-874d-4deaf4c6834c",
+        "GlobalID": "24c85463-51bb-4b74-a749-f48705a8066d",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 46
+      },
+      "geometry": {
+        "x": -113.48083299999996,
+        "y": 46.52950000000004
       }
     },
     {
@@ -765,51 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 161,
-        "IncidentName": "McDermott",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBDF-246487",
-        "DailyAcres": 216,
-        "CalculatedAcres": 319.0732,
-        "PercentContained": 0,
-        "ICS209ReportDateTime": 1727999510000,
-        "FireDiscoveryDateTime": 1724690537000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Granite",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": 2,
-        "IncidentManagementOrganization": "Type 5 IC",
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": 0,
-        "OtherStructuresDestroyed": 0,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": "Timber (Grass and Understory)",
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1728519191000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "8a666ed2-7179-4f39-874d-4deaf4c6834c",
-        "GlobalID": "24c85463-51bb-4b74-a749-f48705a8066d",
-        "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 46
-      },
-      "geometry": {
-        "x": -113.48083299999996,
-        "y": 46.52950000000004
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 238,
+        "OBJECTID": 239,
         "IncidentName": "China Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000300",
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 283,
+        "OBJECTID": 284,
         "IncidentName": "Flat Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000584",
@@ -897,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 188,
+        "OBJECTID": 189,
         "IncidentName": "Pedro Mine",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246558",
@@ -1073,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 167,
+        "OBJECTID": 168,
         "IncidentName": "Razorback",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024440",
@@ -1161,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 240,
+        "OBJECTID": 241,
         "IncidentName": "Fales Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024467",
@@ -1205,7 +1205,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 277,
+        "OBJECTID": 278,
         "IncidentName": "421",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG32-241099",
@@ -1293,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 163,
+        "OBJECTID": 164,
         "IncidentName": "Kid Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFNF-000463",
@@ -1333,6 +1333,50 @@
       "geometry": {
         "x": -113.25006299999995,
         "y": 47.401020000000074
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 152,
+        "IncidentName": "Grizzly",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLNF-240708",
+        "DailyAcres": 18,
+        "CalculatedAcres": 18.215,
+        "PercentContained": 100,
+        "ICS209ReportDateTime": 1728669204000,
+        "FireDiscoveryDateTime": 1724436000000,
+        "DiscoveryAcres": 0.5,
+        "POOCounty": "Granite",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": 0,
+        "IncidentManagementOrganization": "Type 5 IC",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Timber (Grass and Understory)",
+        "ContainmentDateTime": 1727725080000,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1728669204000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "50bdf065-ae3b-4407-83c4-0246200084f0",
+        "GlobalID": "ecefbf66-8513-4778-b5db-aa3cdcbb8f62",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 48
+      },
+      "geometry": {
+        "x": -113.60636699999998,
+        "y": 46.552783000000034
       }
     },
     {
@@ -1381,7 +1425,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 292,
+        "OBJECTID": 293,
         "IncidentName": "Blue Grotto",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246647",
@@ -1425,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 227,
+        "OBJECTID": 228,
         "IncidentName": "Watchtower",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024464",
@@ -1557,7 +1601,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 566,
+        "OBJECTID": 565,
         "IncidentName": "Stateline - Wibaux",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG52-000601",
@@ -1601,7 +1645,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 229,
+        "OBJECTID": 230,
         "IncidentName": "Rock Candy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000298",
@@ -1689,7 +1733,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 241,
+        "OBJECTID": 242,
         "IncidentName": "Clark Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000301",
@@ -1943,7 +1987,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "8b972c5a-ab7d-4b96-9177-02fa924118b6",
         "GlobalID": "eb06378e-20fe-43e2-8f3c-62066e4c6b4a",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 2
       },
       "geometry": {
