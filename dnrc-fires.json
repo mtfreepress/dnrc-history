@@ -579,7 +579,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "0d5a4fb8-d8c9-4301-b251-1a5d4f91e825",
         "GlobalID": "9a3d9ece-c486-466d-902c-579b3986a4db",
-        "ModifiedOnAge": 7,
+        "ModifiedOnAge": 8,
         "FireDiscoveryAge": 91
       },
       "geometry": {
@@ -1425,6 +1425,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 530,
+        "IncidentName": "East Gallagher",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTCES-246672",
+        "DailyAcres": 3,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1728762163000,
+        "DiscoveryAcres": 10,
+        "POOCounty": "Beaverhead",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1728772845000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "94fb3c03-330d-4947-b4ab-9983ece99e07",
+        "GlobalID": "44f3464b-6f62-406c-b334-5a03a71d564f",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.67549999999994,
+        "y": 45.010200000000054
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 211,
         "IncidentName": "Watchtower",
         "IncidentTypeCategory": "WF",
@@ -1469,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 363,
+        "OBJECTID": 362,
         "IncidentName": "Poplar River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000317",
@@ -1504,7 +1548,7 @@
         "IrwinID": "64be3ee8-f8af-4436-bf70-d0986fc0e2a0",
         "GlobalID": "e25dfd19-6c3d-4298-9996-40512ff713d9",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 2
+        "FireDiscoveryAge": 3
       },
       "geometry": {
         "x": -105.21652799999998,
@@ -1557,7 +1601,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 451,
+        "OBJECTID": 450,
         "IncidentName": "Stateline - Wibaux",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG52-000601",
@@ -1733,7 +1777,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 359,
+        "OBJECTID": 358,
         "IncidentName": "Shell",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000316",
@@ -1821,7 +1865,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 361,
+        "OBJECTID": 360,
         "IncidentName": "GREASY",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000133",
@@ -1865,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 362,
+        "OBJECTID": 361,
         "IncidentName": "LABUFF",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000134",
@@ -1909,7 +1953,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 386,
+        "OBJECTID": 385,
         "IncidentName": "Deer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000101",
