@@ -668,7 +668,7 @@
         "IrwinID": "3455ce9e-329c-490f-9d8b-320cfc34ed3b",
         "GlobalID": "953e377c-6518-48bb-a018-6e741b3e087d",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 20
+        "FireDiscoveryAge": 21
       },
       "geometry": {
         "x": -112.41049999999996,
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 315,
+        "OBJECTID": 314,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -1249,7 +1249,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 300,
+        "OBJECTID": 299,
         "IncidentName": "Antelope Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG36-000315",
@@ -1371,7 +1371,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "50bdf065-ae3b-4407-83c4-0246200084f0",
         "GlobalID": "ecefbf66-8513-4778-b5db-aa3cdcbb8f62",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 50
       },
       "geometry": {
@@ -1425,7 +1425,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 472,
+        "OBJECTID": 468,
         "IncidentName": "East Gallagher",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-246672",
@@ -1513,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 396,
+        "OBJECTID": 392,
         "IncidentName": "Stateline - Wibaux",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG52-000601",
@@ -1689,7 +1689,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 319,
+        "OBJECTID": 318,
         "IncidentName": "MICHEL RD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFHA-000134",
@@ -1729,50 +1729,6 @@
       "geometry": {
         "x": -114.03138888999996,
         "y": 47.55388889000005
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 331,
-        "IncidentName": "Deer",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTFBA-000101",
-        "DailyAcres": null,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1728415740000,
-        "DiscoveryAcres": null,
-        "POOCounty": "Blaine",
-        "POOState": "US-MT",
-        "FireCause": null,
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1728582225000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "8b972c5a-ab7d-4b96-9177-02fa924118b6",
-        "GlobalID": "eb06378e-20fe-43e2-8f3c-62066e4c6b4a",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 4
-      },
-      "geometry": {
-        "x": -108.54462499999994,
-        "y": 48.03458600000005
       }
     }
   ]
