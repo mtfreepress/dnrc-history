@@ -448,7 +448,7 @@
         "IrwinID": "4168d580-a2a8-4752-9a78-b28968574e5d",
         "GlobalID": "3fe750a9-d03a-474c-80f4-106bd8b074bf",
         "ModifiedOnAge": 3,
-        "FireDiscoveryAge": 79
+        "FireDiscoveryAge": 80
       },
       "geometry": {
         "x": -113.11116699999997,
@@ -1425,7 +1425,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 411,
+        "OBJECTID": 407,
         "IncidentName": "East Gallagher",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-246672",
@@ -1513,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 339,
+        "OBJECTID": 335,
         "IncidentName": "Stateline - Wibaux",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG52-000601",
@@ -1553,50 +1553,6 @@
       "geometry": {
         "x": -104.06147099999998,
         "y": 46.87148200000007
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 296,
-        "IncidentName": "MICHEL RD",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTFHA-000134",
-        "DailyAcres": null,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1728097200000,
-        "DiscoveryAcres": null,
-        "POOCounty": "Lake",
-        "POOState": "US-MT",
-        "FireCause": null,
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1728601638000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "71489373-711a-46b6-8432-45cd63e80db9",
-        "GlobalID": "c7df6e2a-da1f-40ff-b3ff-416311419781",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 8
-      },
-      "geometry": {
-        "x": -114.03138888999996,
-        "y": 47.55388889000005
       }
     }
   ]
