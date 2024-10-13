@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 233,
+        "OBJECTID": 231,
         "IncidentName": "Sheep Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246608",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 312,
+        "OBJECTID": 310,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 216,
+        "OBJECTID": 215,
         "IncidentName": "China Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000300",
@@ -843,7 +843,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "3a9b8d00-95a3-42f8-be38-81a337d33628",
         "GlobalID": "d7d7d6b8-8e6c-4ed7-b638-c6f941d9fdc7",
-        "ModifiedOnAge": 2,
+        "ModifiedOnAge": 3,
         "FireDiscoveryAge": 33
       },
       "geometry": {
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 251,
+        "OBJECTID": 249,
         "IncidentName": "Flat Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000584",
@@ -1161,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 218,
+        "OBJECTID": 217,
         "IncidentName": "Fales Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024467",
@@ -1205,7 +1205,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 246,
+        "OBJECTID": 244,
         "IncidentName": "421",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG32-241099",
@@ -1249,7 +1249,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 297,
+        "OBJECTID": 295,
         "IncidentName": "Antelope Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG36-000315",
@@ -1425,7 +1425,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 457,
+        "OBJECTID": 453,
         "IncidentName": "East Gallagher",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-246672",
@@ -1513,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 382,
+        "OBJECTID": 378,
         "IncidentName": "Stateline - Wibaux",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG52-000601",
@@ -1553,50 +1553,6 @@
       "geometry": {
         "x": -104.06147099999998,
         "y": 46.87148200000007
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 211,
-        "IncidentName": "Rock Candy",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTKNF-000298",
-        "DailyAcres": 0.75,
-        "CalculatedAcres": null,
-        "PercentContained": 0,
-        "ICS209ReportDateTime": 1728587068000,
-        "FireDiscoveryDateTime": 1725896872000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Lincoln",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": 1,
-        "IncidentManagementOrganization": "Type 5 IC",
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": "Timber (Litter and Understory)",
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1728587068000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "d999a413-89cd-471d-8732-9881e285f871",
-        "GlobalID": "c6660db9-9066-4922-8341-52dbdb1a42fa",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 34
-      },
-      "geometry": {
-        "x": -115.89913299999995,
-        "y": 48.896750000000054
       }
     },
     {
@@ -1645,51 +1601,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 219,
-        "IncidentName": "Clark Mountain",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTKNF-000301",
-        "DailyAcres": 0.25,
-        "CalculatedAcres": null,
-        "PercentContained": 0,
-        "ICS209ReportDateTime": 1728586842000,
-        "FireDiscoveryDateTime": 1725983126000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Lincoln",
-        "POOState": "US-MT",
-        "FireCause": "Natural",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": 1,
-        "IncidentManagementOrganization": "Type 5 IC",
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": "Timber (Litter and Understory)",
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1728586842000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "6470f813-354a-4d30-9aaa-5d20287b817b",
-        "GlobalID": "c3e4e587-ae64-4b6c-b945-f1a43e80ed82",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 33
-      },
-      "geometry": {
-        "x": -115.85684999999995,
-        "y": 48.77585000000005
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 316,
+        "OBJECTID": 314,
         "IncidentName": "MICHEL RD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFHA-000134",
