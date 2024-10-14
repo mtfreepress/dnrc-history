@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 286,
+        "OBJECTID": 285,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -887,7 +887,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "39521815-7b0d-448c-a8af-29e097c7900a",
         "GlobalID": "7b9455d0-ff52-43b6-86b1-ae059d4ee38a",
-        "ModifiedOnAge": 11,
+        "ModifiedOnAge": 12,
         "FireDiscoveryAge": 13
       },
       "geometry": {
@@ -1020,7 +1020,7 @@
         "IrwinID": "de4b3717-876b-42b3-bffd-abe843d22a52",
         "GlobalID": "13b7d090-ae3c-422c-bc74-a4368606890b",
         "ModifiedOnAge": 9,
-        "FireDiscoveryAge": 95
+        "FireDiscoveryAge": 96
       },
       "geometry": {
         "x": -107.05552599999999,
@@ -1381,7 +1381,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 374,
+        "OBJECTID": 372,
         "IncidentName": "East Gallagher",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-246672",
@@ -1421,50 +1421,6 @@
       "geometry": {
         "x": -112.67549999999994,
         "y": 45.010200000000054
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 303,
-        "IncidentName": "Stateline - Wibaux",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG52-000601",
-        "DailyAcres": 1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1728533400000,
-        "DiscoveryAcres": 1,
-        "POOCounty": "Wibaux",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1728666035000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "5dfa2fa3-16c5-439c-8f06-89895a1aec7e",
-        "GlobalID": "39175dfd-b6b6-485f-9c29-8799b830efc2",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 4
-      },
-      "geometry": {
-        "x": -104.06147099999998,
-        "y": 46.87148200000007
       }
     }
   ]
