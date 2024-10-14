@@ -580,7 +580,7 @@
         "IrwinID": "0d5a4fb8-d8c9-4301-b251-1a5d4f91e825",
         "GlobalID": "9a3d9ece-c486-466d-902c-579b3986a4db",
         "ModifiedOnAge": 9,
-        "FireDiscoveryAge": 92
+        "FireDiscoveryAge": 93
       },
       "geometry": {
         "x": -106.82430999999997,
@@ -1372,7 +1372,7 @@
         "IrwinID": "50bdf065-ae3b-4407-83c4-0246200084f0",
         "GlobalID": "ecefbf66-8513-4778-b5db-aa3cdcbb8f62",
         "ModifiedOnAge": 3,
-        "FireDiscoveryAge": 51
+        "FireDiscoveryAge": 52
       },
       "geometry": {
         "x": -113.60636699999998,
@@ -1381,7 +1381,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 369,
+        "OBJECTID": 367,
         "IncidentName": "East Gallagher",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-246672",
@@ -1421,6 +1421,94 @@
       "geometry": {
         "x": -112.67549999999994,
         "y": 45.010200000000054
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 463,
+        "IncidentName": "Butte",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLNF-240889",
+        "DailyAcres": 0.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1728918704000,
+        "DiscoveryAcres": 0.5,
+        "POOCounty": "Granite",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1728930071000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "ab333035-82a7-4c72-abc9-c233d3e5aef0",
+        "GlobalID": "fd95fe09-bdef-49c6-9c62-f8ab59a5a706",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -113.76741699999997,
+        "y": 46.51995000000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 464,
+        "IncidentName": "LG51 6676",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG51-246676",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1728926793000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Jefferson",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1728930424000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "96b290d8-279a-4430-844b-5cbb906a9432",
+        "GlobalID": "97b537af-15d9-4a32-9e28-8f01981e9339",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.10914999999994,
+        "y": 45.87833000000006
       }
     }
   ]
