@@ -1381,7 +1381,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 367,
+        "OBJECTID": 365,
         "IncidentName": "East Gallagher",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-246672",
@@ -1425,7 +1425,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 463,
+        "OBJECTID": 459,
         "IncidentName": "Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLNF-240889",
@@ -1465,50 +1465,6 @@
       "geometry": {
         "x": -113.76741699999997,
         "y": 46.51995000000005
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 464,
-        "IncidentName": "LG51 6676",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG51-246676",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1728926793000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Jefferson",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1728930424000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "96b290d8-279a-4430-844b-5cbb906a9432",
-        "GlobalID": "97b537af-15d9-4a32-9e28-8f01981e9339",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -112.10914999999994,
-        "y": 45.87833000000006
       }
     }
   ]
