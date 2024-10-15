@@ -1371,7 +1371,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "94fb3c03-330d-4947-b4ab-9983ece99e07",
         "GlobalID": "44f3464b-6f62-406c-b334-5a03a71d564f",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 2
       },
       "geometry": {
@@ -1465,6 +1465,50 @@
       "geometry": {
         "x": -113.41608299999996,
         "y": 46.196717000000035
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 428,
+        "IncidentName": "Imod",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTFPA-000319",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1728864000000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Roosevelt",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1729003147000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "fdf5f0ca-5885-4a34-b6a1-6f05199146df",
+        "GlobalID": "f58a44a7-117d-425b-ab6e-166cbe28c11e",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -105.68122199999999,
+        "y": 48.06075000000004
       }
     }
   ]
