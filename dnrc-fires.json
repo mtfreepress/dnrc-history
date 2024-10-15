@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 409,
+        "OBJECTID": 407,
         "IncidentName": "Nevada Lake",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-240891",
@@ -865,7 +865,7 @@
         "DiscoveryAcres": 10,
         "POOCounty": "Powell",
         "POOState": "US-MT",
-        "FireCause": "Undetermined",
+        "FireCause": "Human",
         "FireCauseGeneral": null,
         "GACC": "NRCC",
         "TotalIncidentPersonnel": null,
@@ -883,7 +883,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1729009311000,
+        "ModifiedOnDateTime": 1729022453000,
         "IncidentTypeKind": "FI",
         "IrwinID": "d7a32d2f-a8ba-4aea-9460-6510be16fe13",
         "GlobalID": "5b7ce54f-54be-4cdf-9d78-ab788c805cba",
@@ -1425,7 +1425,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 305,
+        "OBJECTID": 303,
         "IncidentName": "East Gallagher",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-246672",
@@ -1469,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 439,
+        "OBJECTID": 436,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -1513,7 +1513,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 420,
+        "OBJECTID": 450,
+        "IncidentName": "Camp Creek",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG11-000320",
+        "DailyAcres": 3,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1729018488000,
+        "DiscoveryAcres": 3,
+        "POOCounty": "Phillips",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1729022559000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "3ba62a28-c0d6-4ae1-978a-540738dd0928",
+        "GlobalID": "f175f7cb-c2a2-4b3d-929f-3ed41d5274a4",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -108.49575599999997,
+        "y": 47.91158900000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 418,
         "IncidentName": "Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000602",
@@ -1557,7 +1601,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 406,
+        "OBJECTID": 404,
         "IncidentName": "LG46 6678",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG46-246678",
@@ -1601,7 +1645,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 419,
+        "OBJECTID": 417,
         "IncidentName": "Imod",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000319",
@@ -1645,7 +1689,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 447,
+        "OBJECTID": 444,
         "IncidentName": "Stewart Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000353",
