@@ -711,7 +711,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "f6f94104-501f-4990-8e40-c386def7dbad",
         "GlobalID": "cea28b6d-e9de-4c43-87cd-15cd17cce253",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 6
       },
       "geometry": {
@@ -1337,7 +1337,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 326,
+        "OBJECTID": 324,
         "IncidentName": "East Gallagher",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-246672",
@@ -1381,19 +1381,19 @@
     },
     {
       "attributes": {
-        "OBJECTID": 409,
-        "IncidentName": "Butte",
+        "OBJECTID": 435,
+        "IncidentName": "Nevada Lake",
         "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLNF-240889",
-        "DailyAcres": 0.5,
+        "UniqueFireIdentifier": "2024-MTSWS-240891",
+        "DailyAcres": 10,
         "CalculatedAcres": null,
         "PercentContained": null,
         "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1728918704000,
-        "DiscoveryAcres": 0.5,
-        "POOCounty": "Granite",
+        "FireDiscoveryDateTime": 1728944220000,
+        "DiscoveryAcres": 10,
+        "POOCounty": "Powell",
         "POOState": "US-MT",
-        "FireCause": "Human",
+        "FireCause": "Undetermined",
         "FireCauseGeneral": null,
         "GACC": "NRCC",
         "TotalIncidentPersonnel": null,
@@ -1411,21 +1411,21 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1728930071000,
+        "ModifiedOnDateTime": 1728950939000,
         "IncidentTypeKind": "FI",
-        "IrwinID": "ab333035-82a7-4c72-abc9-c233d3e5aef0",
-        "GlobalID": "fd95fe09-bdef-49c6-9c62-f8ab59a5a706",
+        "IrwinID": "d7a32d2f-a8ba-4aea-9460-6510be16fe13",
+        "GlobalID": "5b7ce54f-54be-4cdf-9d78-ab788c805cba",
         "ModifiedOnAge": 0,
         "FireDiscoveryAge": 0
       },
       "geometry": {
-        "x": -113.76741699999997,
-        "y": 46.51995000000005
+        "x": -112.80555699999996,
+        "y": 46.81119200000006
       }
     },
     {
       "attributes": {
-        "OBJECTID": 433,
+        "OBJECTID": 430,
         "IncidentName": "LG46 6678",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG46-246678",
