@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 260,
+        "OBJECTID": 261,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -844,7 +844,7 @@
         "IrwinID": "3a9b8d00-95a3-42f8-be38-81a337d33628",
         "GlobalID": "d7d7d6b8-8e6c-4ed7-b638-c6f941d9fdc7",
         "ModifiedOnAge": 5,
-        "FireDiscoveryAge": 35
+        "FireDiscoveryAge": 36
       },
       "geometry": {
         "x": -115.75679999999994,
@@ -859,8 +859,8 @@
         "UniqueFireIdentifier": "2024-MTSWS-240891",
         "DailyAcres": 207,
         "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
+        "PercentContained": 0,
+        "ICS209ReportDateTime": 1729026679000,
         "FireDiscoveryDateTime": 1728944220000,
         "DiscoveryAcres": 10,
         "POOCounty": "Powell",
@@ -868,8 +868,8 @@
         "FireCause": "Human",
         "FireCauseGeneral": null,
         "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
+        "TotalIncidentPersonnel": 51,
+        "IncidentManagementOrganization": "Type 3 IC",
         "FireMgmtComplexity": null,
         "ResidencesDestroyed": null,
         "OtherStructuresDestroyed": null,
@@ -877,13 +877,13 @@
         "Fatalities": null,
         "PredominantFuelGroup": null,
         "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
+        "PrimaryFuelModel": "Timber (Grass and Understory)",
         "ContainmentDateTime": null,
         "ControlDateTime": null,
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1729022453000,
+        "ModifiedOnDateTime": 1729026679000,
         "IncidentTypeKind": "FI",
         "IrwinID": "d7a32d2f-a8ba-4aea-9460-6510be16fe13",
         "GlobalID": "5b7ce54f-54be-4cdf-9d78-ab788c805cba",
@@ -1293,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 279,
+        "OBJECTID": 280,
         "IncidentName": "Stateline - Wibaux",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG52-000601",
@@ -1381,7 +1381,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 300,
+        "OBJECTID": 301,
         "IncidentName": "East Gallagher",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-246672",
@@ -1499,7 +1499,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1729025835000,
+        "ModifiedOnDateTime": 1729026222000,
         "IncidentTypeKind": "FI",
         "IrwinID": "3ba62a28-c0d6-4ae1-978a-540738dd0928",
         "GlobalID": "f175f7cb-c2a2-4b3d-929f-3ed41d5274a4",
@@ -1507,8 +1507,8 @@
         "FireDiscoveryAge": 0
       },
       "geometry": {
-        "x": -108.49575599999997,
-        "y": 47.91158900000005
+        "x": -108.50583299999994,
+        "y": 47.91363300000006
       }
     },
     {
