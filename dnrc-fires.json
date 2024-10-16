@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 257,
+        "OBJECTID": 258,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -624,7 +624,7 @@
         "IrwinID": "0d5a4fb8-d8c9-4301-b251-1a5d4f91e825",
         "GlobalID": "9a3d9ece-c486-466d-902c-579b3986a4db",
         "ModifiedOnAge": 11,
-        "FireDiscoveryAge": 94
+        "FireDiscoveryAge": 95
       },
       "geometry": {
         "x": -106.82430999999997,
@@ -712,7 +712,7 @@
         "IrwinID": "3455ce9e-329c-490f-9d8b-320cfc34ed3b",
         "GlobalID": "953e377c-6518-48bb-a018-6e741b3e087d",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 23
+        "FireDiscoveryAge": 24
       },
       "geometry": {
         "x": -112.41049999999996,
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 357,
+        "OBJECTID": 358,
         "IncidentName": "Nevada Lake",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-240891",
@@ -1205,7 +1205,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 217,
+        "OBJECTID": 218,
         "IncidentName": "421",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG32-241099",
@@ -1249,7 +1249,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 274,
+        "OBJECTID": 275,
         "IncidentName": "Stateline - Wibaux",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG52-000601",
@@ -1337,7 +1337,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 287,
+        "OBJECTID": 288,
         "IncidentName": "East Gallagher",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-246672",
@@ -1425,7 +1425,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 368,
+        "OBJECTID": 369,
         "IncidentName": "Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000602",
@@ -1469,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 367,
+        "OBJECTID": 368,
         "IncidentName": "Imod",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000319",
@@ -1509,6 +1509,50 @@
       "geometry": {
         "x": -105.68122199999999,
         "y": 48.06075000000004
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 445,
+        "IncidentName": "Whistling Water",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTCRA-241160",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1729099740000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Big Horn",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1729102418000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "186b1e35-fccc-4e4b-8d96-75c0903c4dc3",
+        "GlobalID": "83e51f8e-0899-478b-8fd3-908a755a36c1",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -107.41966699999995,
+        "y": 45.53800000000007
       }
     }
   ]
