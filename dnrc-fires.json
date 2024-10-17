@@ -853,50 +853,6 @@
     },
     {
       "attributes": {
-        "OBJECTID": 134,
-        "IncidentName": "Pedro Mine",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBDF-246558",
-        "DailyAcres": 150,
-        "CalculatedAcres": 14.3294,
-        "PercentContained": 66,
-        "ICS209ReportDateTime": 1727970809000,
-        "FireDiscoveryDateTime": 1725475917000,
-        "DiscoveryAcres": 0.5,
-        "POOCounty": "Madison",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": 0,
-        "IncidentManagementOrganization": "Type 5 IC",
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": "Timber (Litter and Understory)",
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1727970809000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "da4f79dd-48fc-4763-8b2c-d8d4cac56b68",
-        "GlobalID": "631435c0-838b-4485-b260-a0ea4ecee685",
-        "ModifiedOnAge": 13,
-        "FireDiscoveryAge": 42
-      },
-      "geometry": {
-        "x": -112.00264999999996,
-        "y": 45.49822000000006
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 73,
         "IncidentName": "Boulder Peak",
         "IncidentTypeCategory": "WF",
@@ -1069,6 +1025,50 @@
       "geometry": {
         "x": -114.47091699999999,
         "y": 45.61598300000003
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 162,
+        "IncidentName": "Long Tom",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTSWS-246574",
+        "DailyAcres": 57,
+        "CalculatedAcres": null,
+        "PercentContained": 70,
+        "ICS209ReportDateTime": 1729180111000,
+        "FireDiscoveryDateTime": 1725812354000,
+        "DiscoveryAcres": 0.5,
+        "POOCounty": "Silver Bow",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": 0,
+        "IncidentManagementOrganization": "Type 4 IC",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Timber (Grass and Understory)",
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1729180111000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "7f71e9da-5be0-4bda-b6ed-26d3c55b154b",
+        "GlobalID": "e73a4ad5-b973-4de0-bd6c-7ea1218a777c",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 38
+      },
+      "geometry": {
+        "x": -112.92567999999994,
+        "y": 45.925640000000044
       }
     },
     {
@@ -1425,7 +1425,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 409,
+        "OBJECTID": 408,
         "IncidentName": "Doyle Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000355",
@@ -1469,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 425,
+        "OBJECTID": 424,
         "IncidentName": "Flat Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-005161",
@@ -1557,7 +1557,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 387,
+        "OBJECTID": 386,
         "IncidentName": "Whistling Water",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-241160",
