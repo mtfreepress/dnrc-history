@@ -373,10 +373,10 @@
         "IncidentName": "Johnson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024261",
-        "DailyAcres": 7411,
+        "DailyAcres": 8337,
         "CalculatedAcres": 7438.7156,
-        "PercentContained": 61,
-        "ICS209ReportDateTime": 1728598552000,
+        "PercentContained": 65,
+        "ICS209ReportDateTime": 1729199394000,
         "FireDiscoveryDateTime": 1721949840000,
         "DiscoveryAcres": 0.5,
         "POOCounty": "Ravalli",
@@ -384,7 +384,7 @@
         "FireCause": "Natural",
         "FireCauseGeneral": null,
         "GACC": "NRCC",
-        "TotalIncidentPersonnel": 48,
+        "TotalIncidentPersonnel": 47,
         "IncidentManagementOrganization": "Type 3 IC",
         "FireMgmtComplexity": null,
         "ResidencesDestroyed": 0,
@@ -399,11 +399,11 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1728598552000,
+        "ModifiedOnDateTime": 1729199394000,
         "IncidentTypeKind": "FI",
         "IrwinID": "e2e54cdb-3f3e-4820-b140-2f0b4dc45dfc",
         "GlobalID": "2a46616e-7f19-4140-b357-c57e3e44c6b9",
-        "ModifiedOnAge": 6,
+        "ModifiedOnAge": 0,
         "FireDiscoveryAge": 83
       },
       "geometry": {
@@ -800,7 +800,7 @@
         "IrwinID": "3a9b8d00-95a3-42f8-be38-81a337d33628",
         "GlobalID": "d7d7d6b8-8e6c-4ed7-b638-c6f941d9fdc7",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 37
+        "FireDiscoveryAge": 38
       },
       "geometry": {
         "x": -115.75679999999994,
@@ -849,6 +849,50 @@
       "geometry": {
         "x": -112.80555699999996,
         "y": 46.81119200000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 335,
+        "IncidentName": "Rainbow",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDF-246679",
+        "DailyAcres": 172,
+        "CalculatedAcres": null,
+        "PercentContained": 0,
+        "ICS209ReportDateTime": 1729198921000,
+        "FireDiscoveryDateTime": 1729012565000,
+        "DiscoveryAcres": 5,
+        "POOCounty": "Granite",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": "Type 4 IC",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": 0,
+        "OtherStructuresDestroyed": 0,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Timber (Litter and Understory)",
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1729198921000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "67b0ca3d-1a63-4e63-927e-cf9e8cbe0068",
+        "GlobalID": "b14bbeaa-e413-4c68-be2e-238464a31500",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 2
+      },
+      "geometry": {
+        "x": -113.33916699999997,
+        "y": 46.03916700000008
       }
     },
     {
@@ -1333,50 +1377,6 @@
       "geometry": {
         "x": -113.25006299999995,
         "y": 47.401020000000074
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 335,
-        "IncidentName": "Rainbow",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBDF-246679",
-        "DailyAcres": 5,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1729012565000,
-        "DiscoveryAcres": 5,
-        "POOCounty": "Granite",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1729019118000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "67b0ca3d-1a63-4e63-927e-cf9e8cbe0068",
-        "GlobalID": "b14bbeaa-e413-4c68-be2e-238464a31500",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 2
-      },
-      "geometry": {
-        "x": -113.33916699999997,
-        "y": 46.03916700000008
       }
     },
     {
