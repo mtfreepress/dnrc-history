@@ -462,7 +462,7 @@
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
         "DailyAcres": 3900,
-        "CalculatedAcres": 2069.4066,
+        "CalculatedAcres": 3131.9907,
         "PercentContained": 30,
         "ICS209ReportDateTime": 1729202613000,
         "FireDiscoveryDateTime": 1728427620000,
@@ -487,7 +487,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1729202613000,
+        "ModifiedOnDateTime": 1729263748000,
         "IncidentTypeKind": "FI",
         "IrwinID": "f6f94104-501f-4990-8e40-c386def7dbad",
         "GlobalID": "cea28b6d-e9de-4c43-87cd-15cd17cce253",
@@ -668,7 +668,7 @@
         "IrwinID": "c4f6665d-4946-47c6-92e6-076980a610f6",
         "GlobalID": "8d773a90-563a-4a06-9851-251b8c62f985",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 84
+        "FireDiscoveryAge": 85
       },
       "geometry": {
         "x": -113.85899999999998,
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 340,
+        "OBJECTID": 339,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -1381,51 +1381,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 327,
-        "IncidentName": "Rosebud",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTNCA-000602",
-        "DailyAcres": 2,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1728948600000,
-        "DiscoveryAcres": 2,
-        "POOCounty": "Big Horn",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1729004467000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "863ed211-c41f-49e0-b10e-122f524854ff",
-        "GlobalID": "fef0b030-0b2c-4c04-b7db-f5e423dee438",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 3
-      },
-      "geometry": {
-        "x": -106.84119399999997,
-        "y": 45.594389000000035
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 409,
+        "OBJECTID": 408,
         "IncidentName": "Doyle Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000355",
@@ -1469,7 +1425,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 421,
+        "OBJECTID": 420,
         "IncidentName": "Flat Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-005161",
@@ -1601,7 +1557,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 487,
+        "OBJECTID": 486,
         "IncidentName": "Soldier Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000604",
@@ -1865,7 +1821,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 390,
+        "OBJECTID": 389,
         "IncidentName": "Whistling Water",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-241160",
