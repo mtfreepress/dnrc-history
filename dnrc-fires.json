@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 276,
+        "OBJECTID": 275,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -712,7 +712,7 @@
         "IrwinID": "3455ce9e-329c-490f-9d8b-320cfc34ed3b",
         "GlobalID": "953e377c-6518-48bb-a018-6e741b3e087d",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 25
+        "FireDiscoveryAge": 26
       },
       "geometry": {
         "x": -112.41049999999996,
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 321,
+        "OBJECTID": 320,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -975,7 +975,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "74b0bdc6-cb1c-47de-b74b-0bb870164223",
         "GlobalID": "fc23483e-0410-49a2-8d30-7df24ea4265f",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 80
       },
       "geometry": {
@@ -1249,7 +1249,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 290,
+        "OBJECTID": 289,
         "IncidentName": "Stateline - Wibaux",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG52-000601",
@@ -1289,6 +1289,50 @@
       "geometry": {
         "x": -104.06147099999998,
         "y": 46.87148200000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 298,
+        "IncidentName": "East Gallagher",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTCES-246672",
+        "DailyAcres": 10,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1728762120000,
+        "DiscoveryAcres": 3,
+        "POOCounty": "Beaverhead",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1729273350000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "94fb3c03-330d-4947-b4ab-9983ece99e07",
+        "GlobalID": "44f3464b-6f62-406c-b334-5a03a71d564f",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 5
+      },
+      "geometry": {
+        "x": -112.67549999999994,
+        "y": 45.010200000000054
       }
     },
     {
@@ -1337,7 +1381,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 388,
+        "OBJECTID": 387,
         "IncidentName": "Doyle Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000355",
@@ -1381,7 +1425,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 399,
+        "OBJECTID": 398,
         "IncidentName": "Flat Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-005161",
@@ -1513,7 +1557,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 464,
+        "OBJECTID": 463,
         "IncidentName": "Soldier Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000604",
@@ -1777,7 +1821,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 369,
+        "OBJECTID": 368,
         "IncidentName": "Whistling Water",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-241160",
