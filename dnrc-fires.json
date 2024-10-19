@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 101,
+        "OBJECTID": 102,
         "IncidentName": "Daly",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024380",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 60,
+        "OBJECTID": 61,
         "IncidentName": "Johnson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024261",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 62,
+        "OBJECTID": 63,
         "IncidentName": "Grouse",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246327",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 109,
+        "OBJECTID": 110,
         "IncidentName": "Sharrott Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024418",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 102,
+        "OBJECTID": 103,
         "IncidentName": "Ratio Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246437",
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 55,
+        "OBJECTID": 56,
         "IncidentName": "Railroad",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024251",
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 71,
+        "OBJECTID": 72,
         "IncidentName": "Boulder Peak",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024277",
@@ -1073,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 104,
+        "OBJECTID": 105,
         "IncidentName": "Blue Joint",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024388",
@@ -1161,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 50,
+        "OBJECTID": 51,
         "IncidentName": "Muir Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTGNP-000265",
@@ -1293,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 325,
+        "OBJECTID": 324,
         "IncidentName": "Doyle Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000355",
@@ -1337,7 +1337,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 335,
+        "OBJECTID": 334,
         "IncidentName": "Flat Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-005161",
@@ -1425,7 +1425,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 97,
+        "OBJECTID": 98,
         "IncidentName": "Blackstone",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000448",
@@ -1469,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 396,
+        "OBJECTID": 395,
         "IncidentName": "Soldier Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000604",
@@ -1729,50 +1729,6 @@
       "geometry": {
         "x": -107.01297199999999,
         "y": 45.66263900000007
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 307,
-        "IncidentName": "Whistling Water",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTCRA-241160",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1729099740000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Big Horn",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1729102418000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "186b1e35-fccc-4e4b-8d96-75c0903c4dc3",
-        "GlobalID": "83e51f8e-0899-478b-8fd3-908a755a36c1",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 3
-      },
-      "geometry": {
-        "x": -107.41966699999995,
-        "y": 45.53800000000007
       }
     }
   ]
