@@ -447,7 +447,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "4168d580-a2a8-4752-9a78-b28968574e5d",
         "GlobalID": "3fe750a9-d03a-474c-80f4-106bd8b074bf",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 86
       },
       "geometry": {
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 254,
+        "OBJECTID": 253,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 286,
+        "OBJECTID": 285,
         "IncidentName": "Nevada Lake",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-240891",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 289,
+        "OBJECTID": 288,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -1205,7 +1205,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 264,
+        "OBJECTID": 263,
         "IncidentName": "Stateline - Wibaux",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG52-000601",
@@ -1284,7 +1284,7 @@
         "IrwinID": "1d046b18-d4ca-4601-b345-f4f13a873dbf",
         "GlobalID": "f57f9e35-663d-4791-840e-a4f78ea480c4",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 40
+        "FireDiscoveryAge": 41
       },
       "geometry": {
         "x": -114.49163299999998,
@@ -1293,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 305,
+        "OBJECTID": 304,
         "IncidentName": "Doyle Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000355",
@@ -1333,50 +1333,6 @@
       "geometry": {
         "x": -115.33921699999996,
         "y": 48.702867000000026
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 310,
-        "IncidentName": "Flat Creek",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG05-005161",
-        "DailyAcres": 1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1729114045000,
-        "DiscoveryAcres": 1,
-        "POOCounty": "Lewis and Clark",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1729123065000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "8678e9f7-0748-43f2-8454-9b9d7312ce89",
-        "GlobalID": "e574ea4d-c193-412f-a08e-9ac463caf1a6",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 3
-      },
-      "geometry": {
-        "x": -112.37557199999998,
-        "y": 47.34775200000007
       }
     },
     {
@@ -1469,7 +1425,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 368,
+        "OBJECTID": 364,
         "IncidentName": "Soldier Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000604",
@@ -1689,7 +1645,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 217,
+        "OBJECTID": 216,
         "IncidentName": "North Sarpy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000580",
