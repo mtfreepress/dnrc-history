@@ -403,7 +403,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "e2e54cdb-3f3e-4820-b140-2f0b4dc45dfc",
         "GlobalID": "2a46616e-7f19-4140-b357-c57e3e44c6b9",
-        "ModifiedOnAge": 3,
+        "ModifiedOnAge": 4,
         "FireDiscoveryAge": 87
       },
       "geometry": {
@@ -790,17 +790,17 @@
         "PredominantFuelGroup": null,
         "PredominantFuelModel": null,
         "PrimaryFuelModel": "Timber (Litter and Understory)",
-        "ContainmentDateTime": null,
+        "ContainmentDateTime": 1729544880000,
         "ControlDateTime": null,
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1729195720000,
+        "ModifiedOnDateTime": 1729544899000,
         "IncidentTypeKind": "FI",
         "IrwinID": "3a9b8d00-95a3-42f8-be38-81a337d33628",
         "GlobalID": "d7d7d6b8-8e6c-4ed7-b638-c6f941d9fdc7",
-        "ModifiedOnAge": 4,
-        "FireDiscoveryAge": 41
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 42
       },
       "geometry": {
         "x": -115.75679999999994,
@@ -887,7 +887,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "67b0ca3d-1a63-4e63-927e-cf9e8cbe0068",
         "GlobalID": "b14bbeaa-e413-4c68-be2e-238464a31500",
-        "ModifiedOnAge": 3,
+        "ModifiedOnAge": 4,
         "FireDiscoveryAge": 6
       },
       "geometry": {
@@ -1337,7 +1337,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 370,
+        "OBJECTID": 367,
         "IncidentName": "Lone Tree",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG36-000321",
@@ -1469,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 427,
+        "OBJECTID": 423,
         "IncidentName": "South Moon Creek - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000605",
@@ -1513,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 445,
+        "OBJECTID": 441,
         "IncidentName": "Lynx",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000361",
@@ -1557,7 +1557,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 414,
+        "OBJECTID": 410,
         "IncidentName": "Eagle Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000025",
