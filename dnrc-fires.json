@@ -844,7 +844,7 @@
         "IrwinID": "d7a32d2f-a8ba-4aea-9460-6510be16fe13",
         "GlobalID": "5b7ce54f-54be-4cdf-9d78-ab788c805cba",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 6
+        "FireDiscoveryAge": 7
       },
       "geometry": {
         "x": -112.80555699999996,
@@ -975,7 +975,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "da4f79dd-48fc-4763-8b2c-d8d4cac56b68",
         "GlobalID": "631435c0-838b-4485-b260-a0ea4ecee685",
-        "ModifiedOnAge": 3,
+        "ModifiedOnAge": 4,
         "FireDiscoveryAge": 47
       },
       "geometry": {
@@ -1152,7 +1152,7 @@
         "IrwinID": "51798845-158b-44e1-b6b0-52b284b11f58",
         "GlobalID": "50be5389-3c88-4a47-90f2-84eb043ac5b4",
         "ModifiedOnAge": 4,
-        "FireDiscoveryAge": 62
+        "FireDiscoveryAge": 63
       },
       "geometry": {
         "x": -114.51036699999997,
@@ -1196,7 +1196,7 @@
         "IrwinID": "cd9e9d02-6df3-4ec1-85a5-519904063877",
         "GlobalID": "ee2e08c2-3de3-40e7-beea-32caed84f678",
         "ModifiedOnAge": 4,
-        "FireDiscoveryAge": 41
+        "FireDiscoveryAge": 42
       },
       "geometry": {
         "x": -114.45149999999995,
@@ -1337,7 +1337,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 367,
+        "OBJECTID": 365,
         "IncidentName": "Lone Tree",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG36-000321",
@@ -1469,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 423,
+        "OBJECTID": 421,
         "IncidentName": "South Moon Creek - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000605",
@@ -1504,7 +1504,7 @@
         "IrwinID": "9e48824b-9560-4aea-99fd-04434ae36e91",
         "GlobalID": "7b34da1e-1598-49c8-b23d-d0591fea0159",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
+        "FireDiscoveryAge": 1
       },
       "geometry": {
         "x": -106.14564999999999,
@@ -1513,51 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 441,
-        "IncidentName": "Lynx",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTKNF-000361",
-        "DailyAcres": 0.25,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1729534569000,
-        "DiscoveryAcres": 0.25,
-        "POOCounty": "Lincoln",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1729538992000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "6c99f6fb-eefd-4a17-a227-cd843f720172",
-        "GlobalID": "fdd5c1ff-87a9-4caa-96bf-0f4c8d097234",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -115.84811699999995,
-        "y": 48.490117000000055
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 410,
+        "OBJECTID": 408,
         "IncidentName": "Eagle Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000025",
