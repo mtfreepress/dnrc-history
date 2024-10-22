@@ -721,6 +721,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 395,
+        "IncidentName": "Eagle Butte",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTFBA-000025",
+        "DailyAcres": 600,
+        "CalculatedAcres": null,
+        "PercentContained": 30,
+        "ICS209ReportDateTime": 1729560313000,
+        "FireDiscoveryDateTime": 1729483200000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Blaine",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": 26,
+        "IncidentManagementOrganization": "Type 4 IC",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Timber (Grass and Understory)",
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1729560313000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "e28dae51-c409-4ea9-8b7a-e66f32ce1673",
+        "GlobalID": "f6b2616d-1f11-4e2a-aa8a-b811e043d8e4",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -108.48888889999995,
+        "y": 48.00500000000005
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 106,
         "IncidentName": "McDermott",
         "IncidentTypeCategory": "WF",
@@ -1425,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 411,
+        "OBJECTID": 408,
         "IncidentName": "South Moon Creek - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000605",
@@ -1465,50 +1509,6 @@
       "geometry": {
         "x": -106.14564999999999,
         "y": 46.02606700000007
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 398,
-        "IncidentName": "Eagle Butte",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTFBA-000025",
-        "DailyAcres": null,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1729483200000,
-        "DiscoveryAcres": null,
-        "POOCounty": "Blaine",
-        "POOState": "US-MT",
-        "FireCause": null,
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1729555723000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "e28dae51-c409-4ea9-8b7a-e66f32ce1673",
-        "GlobalID": "f6b2616d-1f11-4e2a-aa8a-b811e043d8e4",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -108.48899999999998,
-        "y": 48.00500000000005
       }
     }
   ]
