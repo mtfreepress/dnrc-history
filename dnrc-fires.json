@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 382,
+        "OBJECTID": 380,
         "IncidentName": "Eagle Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000025",
@@ -1425,6 +1425,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 527,
+        "IncidentName": "186",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG50-000614",
+        "DailyAcres": 15,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1729544400000,
+        "DiscoveryAcres": 15,
+        "POOCounty": "Garfield",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1729627012000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "9bb7c4aa-a982-4697-9f6c-2c52c008d9ca",
+        "GlobalID": "7d5b1fad-1ff4-4b74-af22-935d86cc202e",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -107.37834499999997,
+        "y": 47.133327000000065
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 66,
         "IncidentName": "Badger Hole 2",
         "IncidentTypeCategory": "WF",
@@ -1460,7 +1504,7 @@
         "IrwinID": "e4494d11-64df-4ff2-931a-bc43e0376387",
         "GlobalID": "700fb1e7-31f7-4389-86aa-60f67020a50d",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 87
+        "FireDiscoveryAge": 88
       },
       "geometry": {
         "x": -104.82333299999999,
@@ -1469,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 395,
+        "OBJECTID": 393,
         "IncidentName": "South Moon Creek - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000605",
