@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 94,
+        "OBJECTID": 95,
         "IncidentName": "Daly",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024380",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 221,
+        "OBJECTID": 222,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 101,
+        "OBJECTID": 102,
         "IncidentName": "Sharrott Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024418",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 95,
+        "OBJECTID": 96,
         "IncidentName": "Ratio Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246437",
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 178,
+        "OBJECTID": 179,
         "IncidentName": "Homestead",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG34-000304",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 188,
+        "OBJECTID": 189,
         "IncidentName": "Sheep Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246608",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 382,
+        "OBJECTID": 383,
         "IncidentName": "Eagle Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000025",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 107,
+        "OBJECTID": 108,
         "IncidentName": "McDermott",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246487",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 169,
+        "OBJECTID": 170,
         "IncidentName": "China Mountain",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000300",
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 247,
+        "OBJECTID": 248,
         "IncidentName": "Nevada Lake",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-240891",
@@ -897,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 250,
+        "OBJECTID": 251,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 109,
+        "OBJECTID": 110,
         "IncidentName": "Marsh Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-000652",
@@ -985,7 +985,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 129,
+        "OBJECTID": 130,
         "IncidentName": "Pedro Mine",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246558",
@@ -1073,7 +1073,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 110,
+        "OBJECTID": 69,
+        "IncidentName": "Pentagon",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTFNF-000323",
+        "DailyAcres": 62,
+        "CalculatedAcres": 62.4406,
+        "PercentContained": 0,
+        "ICS209ReportDateTime": 1729609928000,
+        "FireDiscoveryDateTime": 1722649344000,
+        "DiscoveryAcres": 10,
+        "POOCounty": "Flathead",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": 1,
+        "IncidentManagementOrganization": "Type 5 IC",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Timber (Litter and Understory)",
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1729609928000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "3df73923-1231-43dd-aa32-bac0060050fb",
+        "GlobalID": "89cc57c0-aee8-4b5c-93c7-a9545caaa1ff",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 80
+      },
+      "geometry": {
+        "x": -113.15703299999996,
+        "y": 47.854933000000074
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 111,
         "IncidentName": "Razorback",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024440",
@@ -1117,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 152,
+        "OBJECTID": 153,
         "IncidentName": "Long Tom",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-246574",
@@ -1161,7 +1205,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 97,
+        "OBJECTID": 98,
         "IncidentName": "Blue Joint",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024388",
@@ -1205,7 +1249,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 171,
+        "OBJECTID": 172,
         "IncidentName": "Fales Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024467",
@@ -1337,7 +1381,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 229,
+        "OBJECTID": 230,
         "IncidentName": "Stateline - Wibaux",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG52-000601",
@@ -1425,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 260,
+        "OBJECTID": 261,
         "IncidentName": "Doyle Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000355",
@@ -1469,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 395,
+        "OBJECTID": 396,
         "IncidentName": "South Moon Creek - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000605",
