@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 228,
+        "OBJECTID": 229,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 194,
+        "OBJECTID": 195,
         "IncidentName": "Sheep Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246608",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 345,
+        "OBJECTID": 346,
         "IncidentName": "Eagle Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000025",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 251,
+        "OBJECTID": 252,
         "IncidentName": "Nevada Lake",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-240891",
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 253,
+        "OBJECTID": 254,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -888,7 +888,7 @@
         "IrwinID": "67b0ca3d-1a63-4e63-927e-cf9e8cbe0068",
         "GlobalID": "b14bbeaa-e413-4c68-be2e-238464a31500",
         "ModifiedOnAge": 5,
-        "FireDiscoveryAge": 7
+        "FireDiscoveryAge": 8
       },
       "geometry": {
         "x": -113.33916699999997,
@@ -1293,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 478,
+        "OBJECTID": 479,
         "IncidentName": "186",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000614",
@@ -1425,6 +1425,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 264,
+        "IncidentName": "Doyle Gulch",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTKNF-000355",
+        "DailyAcres": 2,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1729087980000,
+        "DiscoveryAcres": 0.5,
+        "POOCounty": "Lincoln",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1729703715000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "9605f5e4-bb95-4c0c-8441-acae1db36e00",
+        "GlobalID": "073213e3-f511-4e1d-8141-efea6c5f6d42",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 7
+      },
+      "geometry": {
+        "x": -115.33921699999996,
+        "y": 48.702867000000026
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 65,
         "IncidentName": "Holland Peak",
         "IncidentTypeCategory": "WF",
@@ -1469,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 358,
+        "OBJECTID": 359,
         "IncidentName": "South Moon Creek - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000605",
