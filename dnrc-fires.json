@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 278,
+        "OBJECTID": 277,
         "IncidentName": "Eagle Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000025",
@@ -756,7 +756,7 @@
         "IrwinID": "8a666ed2-7179-4f39-874d-4deaf4c6834c",
         "GlobalID": "24c85463-51bb-4b74-a749-f48705a8066d",
         "ModifiedOnAge": 7,
-        "FireDiscoveryAge": 59
+        "FireDiscoveryAge": 60
       },
       "geometry": {
         "x": -113.48083299999996,
@@ -1063,7 +1063,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "3df73923-1231-43dd-aa32-bac0060050fb",
         "GlobalID": "89cc57c0-aee8-4b5c-93c7-a9545caaa1ff",
-        "ModifiedOnAge": 2,
+        "ModifiedOnAge": 3,
         "FireDiscoveryAge": 83
       },
       "geometry": {
@@ -1323,11 +1323,11 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1729628222000,
+        "ModifiedOnDateTime": 1729874307000,
         "IncidentTypeKind": "FI",
         "IrwinID": "9bb7c4aa-a982-4697-9f6c-2c52c008d9ca",
         "GlobalID": "7d5b1fad-1ff4-4b74-af22-935d86cc202e",
-        "ModifiedOnAge": 2,
+        "ModifiedOnAge": 0,
         "FireDiscoveryAge": 3
       },
       "geometry": {
@@ -1411,7 +1411,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1729810183000,
+        "ModifiedOnDateTime": 1729874293000,
         "IncidentTypeKind": "FI",
         "IrwinID": "d0d4efc3-9496-4855-9157-222f310b7ec4",
         "GlobalID": "b87a0dcb-cb3c-4914-8ac5-85f5e60012f0",
@@ -1597,6 +1597,50 @@
       "geometry": {
         "x": -105.21652799999998,
         "y": 48.10633300000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 280,
+        "IncidentName": "South Moon Creek - Custer",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG14-000605",
+        "DailyAcres": 0.25,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1729461600000,
+        "DiscoveryAcres": 0.25,
+        "POOCounty": "Custer",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1729874329000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "9e48824b-9560-4aea-99fd-04434ae36e91",
+        "GlobalID": "7b34da1e-1598-49c8-b23d-d0591fea0159",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 4
+      },
+      "geometry": {
+        "x": -106.14564999999999,
+        "y": 46.02606700000007
       }
     },
     {
