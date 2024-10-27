@@ -359,7 +359,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "bdb7328d-8b59-45e4-93bf-664a9403534c",
         "GlobalID": "7b70e336-521a-4e2d-b16c-f226e524809b",
-        "ModifiedOnAge": 2,
+        "ModifiedOnAge": 3,
         "FireDiscoveryAge": 70
       },
       "geometry": {
@@ -404,7 +404,7 @@
         "IrwinID": "e2e54cdb-3f3e-4820-b140-2f0b4dc45dfc",
         "GlobalID": "2a46616e-7f19-4140-b357-c57e3e44c6b9",
         "ModifiedOnAge": 3,
-        "FireDiscoveryAge": 93
+        "FireDiscoveryAge": 94
       },
       "geometry": {
         "x": -113.71416699999997,
@@ -1337,7 +1337,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 257,
+        "OBJECTID": 256,
         "IncidentName": "186 - Garfield",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000614",
@@ -1469,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 291,
+        "OBJECTID": 290,
         "IncidentName": "Little Coyote",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000615",
@@ -1509,6 +1509,50 @@
       "geometry": {
         "x": -106.29683299999999,
         "y": 45.56661100000008
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 500,
+        "IncidentName": "LG46 6694",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG46-246694",
+        "DailyAcres": 20,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1730064420000,
+        "DiscoveryAcres": 20,
+        "POOCounty": "Granite",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1730071918000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "3f470a3b-c219-4172-a0d9-d239c948b04c",
+        "GlobalID": "96d9c69d-7e58-486c-9b61-0984f9ec1408",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -113.12336699999997,
+        "y": 46.64411700000005
       }
     },
     {
@@ -1680,7 +1724,7 @@
         "IrwinID": "863ed211-c41f-49e0-b10e-122f524854ff",
         "GlobalID": "fef0b030-0b2c-4c04-b7db-f5e423dee438",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 12
+        "FireDiscoveryAge": 13
       },
       "geometry": {
         "x": -106.84119399999997,
@@ -1733,11 +1777,11 @@
     },
     {
       "attributes": {
-        "OBJECTID": 493,
+        "OBJECTID": 491,
         "IncidentName": "Little Moose Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-000861",
-        "DailyAcres": 2,
+        "DailyAcres": 1.5,
         "CalculatedAcres": null,
         "PercentContained": null,
         "ICS209ReportDateTime": null,
@@ -1763,7 +1807,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1730068616000,
+        "ModifiedOnDateTime": 1730070923000,
         "IncidentTypeKind": "FI",
         "IrwinID": "5f54e1d4-f3c6-4f24-8bb8-ee4d9a7d6d36",
         "GlobalID": "73005b82-7d11-4c9e-8f3e-f925ba7d33af",
@@ -2173,7 +2217,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 319,
+        "OBJECTID": 318,
         "IncidentName": "COWBOY INN",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000135",
@@ -2217,7 +2261,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 320,
+        "OBJECTID": 319,
         "IncidentName": "TUFF COMPLEX",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000136",
@@ -2261,7 +2305,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 321,
+        "OBJECTID": 320,
         "IncidentName": "HENDERSON ROAD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000137",
@@ -2305,7 +2349,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 330,
+        "OBJECTID": 329,
         "IncidentName": "BUFFALO BRIDGE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFHA-000152",
@@ -2349,7 +2393,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 472,
+        "OBJECTID": 470,
         "IncidentName": "HOLLAND",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000138",
