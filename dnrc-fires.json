@@ -1469,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 329,
+        "OBJECTID": 321,
         "IncidentName": "Little Coyote",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000615",
@@ -2252,7 +2252,7 @@
         "IrwinID": "dcec67d5-e8d0-4093-9ec3-0809d6258e09",
         "GlobalID": "8adad150-3511-46eb-b4ad-c89c308c0b43",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 27
+        "FireDiscoveryAge": 28
       },
       "geometry": {
         "x": -105.87333299999995,
@@ -2305,7 +2305,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 358,
+        "OBJECTID": 350,
         "IncidentName": "COWBOY INN",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000135",
@@ -2349,7 +2349,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 359,
+        "OBJECTID": 351,
         "IncidentName": "TUFF COMPLEX",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000136",
@@ -2393,7 +2393,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 360,
+        "OBJECTID": 352,
         "IncidentName": "HENDERSON ROAD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000137",
@@ -2437,7 +2437,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 369,
+        "OBJECTID": 361,
         "IncidentName": "BUFFALO BRIDGE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFHA-000152",
@@ -2477,6 +2477,50 @@
       "geometry": {
         "x": -114.36444443999994,
         "y": 47.62027778000004
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 508,
+        "IncidentName": "HOLLAND",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBFA-000138",
+        "DailyAcres": null,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1729900800000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Glacier",
+        "POOState": "US-MT",
+        "FireCause": null,
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1730055949000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "78200dfd-c03b-4255-b43e-873e25e0e51d",
+        "GlobalID": "a1d64b17-8a15-4d26-8d01-1a95b3c00caf",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -112.46249999999998,
+        "y": 48.64500000000004
       }
     }
   ]
