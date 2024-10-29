@@ -447,7 +447,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "4168d580-a2a8-4752-9a78-b28968574e5d",
         "GlobalID": "3fe750a9-d03a-474c-80f4-106bd8b074bf",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 95
       },
       "geometry": {
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 244,
+        "OBJECTID": 243,
         "IncidentName": "Eagle Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000025",
@@ -1293,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 280,
+        "OBJECTID": 279,
         "IncidentName": "186 - Garfield",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000614",
@@ -1425,7 +1425,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 316,
+        "OBJECTID": 315,
         "IncidentName": "Little Coyote",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000615",
@@ -1469,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 439,
+        "OBJECTID": 437,
         "IncidentName": "LG46 6694",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG46-246694",
@@ -1553,50 +1553,6 @@
       "geometry": {
         "x": -104.73973899999999,
         "y": 47.083417000000054
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 483,
-        "IncidentName": "Hopkins Hill",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG17-000323",
-        "DailyAcres": 11.4,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1729975440000,
-        "DiscoveryAcres": 11.4,
-        "POOCounty": "Roosevelt",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1730127318000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "83f9fb9e-32af-42df-aac6-09609cca19f0",
-        "GlobalID": "25ea285b-78c2-4190-90de-cf4d169a107a",
-        "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 2
-      },
-      "geometry": {
-        "x": -105.09488299999998,
-        "y": 48.09509700000007
       }
     },
     {
@@ -1689,7 +1645,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 497,
+        "OBJECTID": 493,
         "IncidentName": "Depot",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000617",
@@ -1733,7 +1689,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 476,
+        "OBJECTID": 244,
+        "IncidentName": "South Moon Creek - Custer",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG14-000605",
+        "DailyAcres": 0.25,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1729461600000,
+        "DiscoveryAcres": 0.25,
+        "POOCounty": "Custer",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1730216656000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "9e48824b-9560-4aea-99fd-04434ae36e91",
+        "GlobalID": "7b34da1e-1598-49c8-b23d-d0591fea0159",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 8
+      },
+      "geometry": {
+        "x": -106.14564999999999,
+        "y": 46.02606700000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 474,
         "IncidentName": "S Fork",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-241172",
@@ -1777,51 +1777,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 487,
-        "IncidentName": "Horse Palace",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG17-000324",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1730053260000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Roosevelt",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1730128165000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "b1f6b81e-a314-4055-b353-6192a5e00bb0",
-        "GlobalID": "cce93047-fb48-4858-8ed8-013c59265189",
-        "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 1
-      },
-      "geometry": {
-        "x": -105.56466699999999,
-        "y": 48.10138900000004
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 496,
+        "OBJECTID": 492,
         "IncidentName": "Upper West",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000616",
@@ -1856,7 +1812,7 @@
         "IrwinID": "aa26f2bf-fd86-4d0d-a41c-45df345fe793",
         "GlobalID": "70433eda-7408-4dd2-997a-eaf80886febc",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 2
+        "FireDiscoveryAge": 3
       },
       "geometry": {
         "x": -106.67561099999995,
@@ -1865,7 +1821,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 413,
+        "OBJECTID": 411,
         "IncidentName": "HOLLAND",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000138",
@@ -1909,7 +1865,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 485,
+        "OBJECTID": 482,
         "IncidentName": "WOOD CUTTER",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFHA-000153",
@@ -1953,7 +1909,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 548,
+        "OBJECTID": 544,
         "IncidentName": "DIXON",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFHA-000154",
