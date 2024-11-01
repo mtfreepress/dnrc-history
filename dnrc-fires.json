@@ -636,7 +636,7 @@
         "OBJECTID": 235,
         "IncidentName": "Eagle Butte",
         "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTFBA-000025",
+        "UniqueFireIdentifier": "2024-MTFBA-000102",
         "DailyAcres": 600,
         "CalculatedAcres": null,
         "PercentContained": 100,
@@ -663,11 +663,11 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1729890913000,
+        "ModifiedOnDateTime": 1730491355000,
         "IncidentTypeKind": "FI",
         "IrwinID": "e28dae51-c409-4ea9-8b7a-e66f32ce1673",
         "GlobalID": "f6b2616d-1f11-4e2a-aa8a-b811e043d8e4",
-        "ModifiedOnAge": 6,
+        "ModifiedOnAge": 0,
         "FireDiscoveryAge": 11
       },
       "geometry": {
@@ -1371,7 +1371,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "b8a3a628-9227-4165-8af8-afb89f8d9154",
         "GlobalID": "34fab4c7-2d49-414f-9dd2-7986d2e6258e",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 190
       },
       "geometry": {
@@ -1636,7 +1636,7 @@
         "IrwinID": "34576f40-61ad-4ae4-a31a-44fc97446e05",
         "GlobalID": "0c2483b8-afc4-4d36-b86e-5a92a540b5bf",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 12
+        "FireDiscoveryAge": 13
       },
       "geometry": {
         "x": -112.04055559999995,
@@ -1689,7 +1689,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 580,
+        "OBJECTID": 576,
         "IncidentName": "COMBINE II",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000136",
@@ -1729,6 +1729,50 @@
       "geometry": {
         "x": -112.46694439999999,
         "y": 48.64861110000004
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 590,
+        "IncidentName": "Horseback",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTFBA-000103",
+        "DailyAcres": null,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1730491440000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Blaine",
+        "POOState": "US-MT",
+        "FireCause": null,
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1730491903000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "356b9258-b33b-452e-b082-cb2c16589b5d",
+        "GlobalID": "25dcdbf8-070f-40dd-8368-36bb9eca3b21",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -108.62521399999997,
+        "y": 48.04791400000005
       }
     }
   ]
