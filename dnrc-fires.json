@@ -623,7 +623,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "3455ce9e-329c-490f-9d8b-320cfc34ed3b",
         "GlobalID": "953e377c-6518-48bb-a018-6e741b3e087d",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 40
       },
       "geometry": {
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 225,
+        "OBJECTID": 224,
         "IncidentName": "Eagle Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000025",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 200,
+        "OBJECTID": 199,
         "IncidentName": "Nevada Lake",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-240891",
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 202,
+        "OBJECTID": 201,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -1073,94 +1073,6 @@
     },
     {
       "attributes": {
-        "OBJECTID": 236,
-        "IncidentName": "186 - Garfield",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG50-000614",
-        "DailyAcres": 31.8,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1729544400000,
-        "DiscoveryAcres": 15,
-        "POOCounty": "Garfield",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1729875108000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "9bb7c4aa-a982-4697-9f6c-2c52c008d9ca",
-        "GlobalID": "7d5b1fad-1ff4-4b74-af22-935d86cc202e",
-        "ModifiedOnAge": 7,
-        "FireDiscoveryAge": 11
-      },
-      "geometry": {
-        "x": -107.37834499999997,
-        "y": 47.133327000000065
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 197,
-        "IncidentName": "Stateline - Wibaux",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG52-000601",
-        "DailyAcres": 21.3,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1728533400000,
-        "DiscoveryAcres": 1,
-        "POOCounty": "Wibaux",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1729874986000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "5dfa2fa3-16c5-439c-8f06-89895a1aec7e",
-        "GlobalID": "39175dfd-b6b6-485f-9c29-8799b830efc2",
-        "ModifiedOnAge": 7,
-        "FireDiscoveryAge": 23
-      },
-      "geometry": {
-        "x": -104.06147099999998,
-        "y": 46.87148200000007
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 175,
         "IncidentName": "Cottonwood Grove - Dawson",
         "IncidentTypeCategory": "WF",
@@ -1205,7 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 206,
+        "OBJECTID": 205,
         "IncidentName": "Doyle Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTKNF-000355",
@@ -1249,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 548,
+        "OBJECTID": 544,
         "IncidentName": "Little Bell",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-240922",
@@ -1261,7 +1173,7 @@
         "DiscoveryAcres": 1.3,
         "POOCounty": "Missoula",
         "POOState": "US-MT",
-        "FireCause": "Undetermined",
+        "FireCause": "Human",
         "FireCauseGeneral": null,
         "GACC": "NRCC",
         "TotalIncidentPersonnel": null,
@@ -1279,7 +1191,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1730565419000,
+        "ModifiedOnDateTime": 1730565793000,
         "IncidentTypeKind": "FI",
         "IrwinID": "76eb8bd1-8a24-4489-a589-67ce1e50a7d2",
         "GlobalID": "79af94d8-b3f1-44a3-b746-d1504221c348",
@@ -1557,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 260,
+        "OBJECTID": 258,
         "IncidentName": "TUFF COMPLEX",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000137",
@@ -1601,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 261,
+        "OBJECTID": 259,
         "IncidentName": "HENDERSON ROAD",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000138",
@@ -1645,7 +1557,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 273,
+        "OBJECTID": 271,
         "IncidentName": "HOLLAND",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000139",
@@ -1689,7 +1601,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 509,
+        "OBJECTID": 506,
         "IncidentName": "COMBINE II",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000136",
@@ -1723,7 +1635,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "ea891204-a185-41d8-b6c9-2119586e501c",
         "GlobalID": "cf2387c4-937e-48c6-a277-abe562cb8509",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 20
       },
       "geometry": {
@@ -1733,7 +1645,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 523,
+        "OBJECTID": 519,
         "IncidentName": "Horseback",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000103",
