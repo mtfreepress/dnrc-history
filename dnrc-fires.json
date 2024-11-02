@@ -359,7 +359,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "bdb7328d-8b59-45e4-93bf-664a9403534c",
         "GlobalID": "7b70e336-521a-4e2d-b16c-f226e524809b",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 76
       },
       "geometry": {
@@ -404,7 +404,7 @@
         "IrwinID": "e2e54cdb-3f3e-4820-b140-2f0b4dc45dfc",
         "GlobalID": "2a46616e-7f19-4140-b357-c57e3e44c6b9",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 99
+        "FireDiscoveryAge": 100
       },
       "geometry": {
         "x": -113.71416699999997,
@@ -1152,55 +1152,11 @@
         "IrwinID": "5c574308-bc16-4d04-88a4-8f6e13a2a598",
         "GlobalID": "f2838300-42d3-469d-b007-fba1b03a1abb",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 102
+        "FireDiscoveryAge": 103
       },
       "geometry": {
         "x": -104.55822799999999,
         "y": 48.150960000000055
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 509,
-        "IncidentName": "Lost Prairie",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTSWS-240924",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1730584454000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Missoula",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1730588592000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "cfa5d870-8394-4c3f-91d1-b043b55b5472",
-        "GlobalID": "122c0232-787d-4f7e-82b0-b9f00d44b87d",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -113.40585699999997,
-        "y": 47.03442800000005
       }
     },
     {
@@ -1337,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 452,
+        "OBJECTID": 450,
         "IncidentName": "COMBINE II",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000136",
@@ -1372,7 +1328,7 @@
         "IrwinID": "ea891204-a185-41d8-b6c9-2119586e501c",
         "GlobalID": "cf2387c4-937e-48c6-a277-abe562cb8509",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 20
+        "FireDiscoveryAge": 21
       },
       "geometry": {
         "x": -112.46694439999999,
@@ -1381,7 +1337,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 464,
+        "OBJECTID": 462,
         "IncidentName": "Horseback",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000103",
