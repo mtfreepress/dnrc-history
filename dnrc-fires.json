@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 48,
+        "OBJECTID": 47,
         "IncidentName": "Johnson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024261",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 51,
+        "OBJECTID": 50,
         "IncidentName": "Grouse",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246327",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 46,
+        "OBJECTID": 45,
         "IncidentName": "Railroad",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024251",
@@ -580,7 +580,7 @@
         "IrwinID": "c4f6665d-4946-47c6-92e6-076980a610f6",
         "GlobalID": "8d773a90-563a-4a06-9851-251b8c62f985",
         "ModifiedOnAge": 3,
-        "FireDiscoveryAge": 101
+        "FireDiscoveryAge": 102
       },
       "geometry": {
         "x": -113.85899999999998,
@@ -1073,6 +1073,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 440,
+        "IncidentName": "Announcer",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTFPA-000325",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1730500740000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Roosevelt",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1730733358000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "fde51ae6-f4b5-41af-9c99-77c7174151f1",
+        "GlobalID": "891612d1-63ed-45af-8152-3905cdbd5897",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 2
+      },
+      "geometry": {
+        "x": -105.63247199999995,
+        "y": 48.09116700000004
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 206,
         "IncidentName": "TUFF COMPLEX",
         "IncidentTypeCategory": "WF",
@@ -1205,7 +1249,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 306,
+        "OBJECTID": 304,
         "IncidentName": "COMBINE II",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000136",
@@ -1249,7 +1293,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 316,
+        "OBJECTID": 314,
         "IncidentName": "Horseback",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000103",
