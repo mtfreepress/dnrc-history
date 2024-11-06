@@ -331,8 +331,8 @@
         "UniqueFireIdentifier": "2024-MTBRF-024380",
         "DailyAcres": 11387,
         "CalculatedAcres": 11233.4658,
-        "PercentContained": 56,
-        "ICS209ReportDateTime": 1730931508000,
+        "PercentContained": 100,
+        "ICS209ReportDateTime": 1730933329000,
         "FireDiscoveryDateTime": 1724013420000,
         "DiscoveryAcres": 0.25,
         "POOCounty": "Ravalli",
@@ -355,7 +355,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1730931508000,
+        "ModifiedOnDateTime": 1730933329000,
         "IncidentTypeKind": "FI",
         "IrwinID": "bdb7328d-8b59-45e4-93bf-664a9403534c",
         "GlobalID": "7b70e336-521a-4e2d-b16c-f226e524809b",
@@ -536,7 +536,7 @@
         "IrwinID": "9587a573-0197-4f10-9420-42e137052fbc",
         "GlobalID": "6d073c15-b569-4cc8-b8f5-6f1f7dfb3547",
         "ModifiedOnAge": 6,
-        "FireDiscoveryAge": 79
+        "FireDiscoveryAge": 80
       },
       "geometry": {
         "x": -112.19616699999995,
@@ -623,7 +623,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "3455ce9e-329c-490f-9d8b-320cfc34ed3b",
         "GlobalID": "953e377c-6518-48bb-a018-6e741b3e087d",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 45
       },
       "geometry": {
@@ -755,7 +755,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "8a666ed2-7179-4f39-874d-4deaf4c6834c",
         "GlobalID": "24c85463-51bb-4b74-a749-f48705a8066d",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 72
       },
       "geometry": {
@@ -1205,7 +1205,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 458,
+        "OBJECTID": 456,
         "IncidentName": "Marker 46 - Garfield",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000619",
@@ -1513,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 399,
+        "OBJECTID": 397,
         "IncidentName": "Announcer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000325",
@@ -1557,7 +1557,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 439,
+        "OBJECTID": 437,
         "IncidentName": "2848 EAST GORUS LOOP",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024601",
@@ -1601,7 +1601,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 512,
+        "OBJECTID": 510,
         "IncidentName": "Brooklyn Bridge",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-000869",
