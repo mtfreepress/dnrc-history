@@ -403,7 +403,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "e2e54cdb-3f3e-4820-b140-2f0b4dc45dfc",
         "GlobalID": "2a46616e-7f19-4140-b357-c57e3e44c6b9",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 104
       },
       "geometry": {
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 170,
+        "OBJECTID": 171,
         "IncidentName": "Sheep Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246608",
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 214,
+        "OBJECTID": 216,
         "IncidentName": "Eagle Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000025",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 196,
+        "OBJECTID": 198,
         "IncidentName": "Nevada Lake",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-240891",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 175,
+        "OBJECTID": 177,
         "IncidentName": "Flat Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000584",
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 197,
+        "OBJECTID": 199,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -1161,6 +1161,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 653,
+        "IncidentName": "Hwy 287 2",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG43-000892",
+        "DailyAcres": 40,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1728098280000,
+        "DiscoveryAcres": 40,
+        "POOCounty": "Broadwater",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1730996493000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "c5c3bf58-56e1-47f9-a1f6-b24f4cc39eb2",
+        "GlobalID": "800d7784-97cc-4a9f-80b7-b0d81430180c",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 33
+      },
+      "geometry": {
+        "x": -111.64127499999995,
+        "y": 45.84998400000006
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 107,
         "IncidentName": "Catlin Springs",
         "IncidentTypeCategory": "WF",
@@ -1205,7 +1249,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 412,
+        "OBJECTID": 411,
         "IncidentName": "Marker 46 - Garfield",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000619",
@@ -1293,7 +1337,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 202,
+        "OBJECTID": 204,
         "IncidentName": "Flat Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-005161",
@@ -1337,7 +1381,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 644,
+        "OBJECTID": 643,
         "IncidentName": "Ford",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-005168",
@@ -1557,7 +1601,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 393,
+        "OBJECTID": 392,
         "IncidentName": "2848 EAST GORUS LOOP",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024601",
@@ -1601,7 +1645,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 465,
+        "OBJECTID": 464,
         "IncidentName": "Brooklyn Bridge",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-000869",
