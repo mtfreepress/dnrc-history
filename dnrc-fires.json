@@ -1249,7 +1249,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 370,
+        "OBJECTID": 368,
         "IncidentName": "Marker 46 - Garfield",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000619",
@@ -1381,17 +1381,17 @@
     },
     {
       "attributes": {
-        "OBJECTID": 592,
-        "IncidentName": "Ford",
+        "OBJECTID": 631,
+        "IncidentName": "Chandelle",
         "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTHLF-005168",
-        "DailyAcres": 0.25,
+        "UniqueFireIdentifier": "2024-MTLG02-000894",
+        "DailyAcres": 1,
         "CalculatedAcres": null,
         "PercentContained": null,
         "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1730932119000,
-        "DiscoveryAcres": 0.25,
-        "POOCounty": "Lewis and Clark",
+        "FireDiscoveryDateTime": 1729213620000,
+        "DiscoveryAcres": 1,
+        "POOCounty": "Cascade",
         "POOState": "US-MT",
         "FireCause": "Undetermined",
         "FireCauseGeneral": null,
@@ -1411,7 +1411,51 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1730992363000,
+        "ModifiedOnDateTime": 1731010264000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "60725f0a-6223-45aa-98f9-69e5ba9a9ad8",
+        "GlobalID": "a2c23374-1d61-4acc-ba85-0da370f134ac",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 20
+      },
+      "geometry": {
+        "x": -111.26339799999994,
+        "y": 47.589938000000075
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 590,
+        "IncidentName": "Ford",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTHLF-005168",
+        "DailyAcres": 0.25,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1730932119000,
+        "DiscoveryAcres": 0.25,
+        "POOCounty": "Lewis and Clark",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1731009950000,
         "IncidentTypeKind": "FI",
         "IrwinID": "e5a8dde4-1446-469b-9594-86b699fadf4d",
         "GlobalID": "97bec638-dda4-464d-a456-d59c53812833",
@@ -1419,8 +1463,8 @@
         "FireDiscoveryAge": 0
       },
       "geometry": {
-        "x": -112.75047499999994,
-        "y": 47.450450000000046
+        "x": -112.74982899999998,
+        "y": 47.45150300000006
       }
     },
     {
@@ -1601,7 +1645,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 421,
+        "OBJECTID": 419,
         "IncidentName": "Brooklyn Bridge",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-000869",
