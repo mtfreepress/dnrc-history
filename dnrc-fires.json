@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 171,
+        "OBJECTID": 170,
         "IncidentName": "Eagle Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000025",
@@ -941,6 +941,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 562,
+        "IncidentName": "Pumpkin Creek - Custer",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG14-000621",
+        "DailyAcres": 25,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1731096000000,
+        "DiscoveryAcres": 25,
+        "POOCounty": "Custer",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1731098634000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "9bff15e1-ab93-4cf9-ac87-b87a51683ec7",
+        "GlobalID": "36b91e0c-be2f-482f-bb13-7e73a41b3d52",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -105.55703299999999,
+        "y": 46.083867000000055
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 158,
         "IncidentName": "Doyle Gulch",
         "IncidentTypeCategory": "WF",
@@ -981,50 +1025,6 @@
       "geometry": {
         "x": -115.33921699999996,
         "y": 48.702867000000026
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 160,
-        "IncidentName": "Flat Creek",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG05-005161",
-        "DailyAcres": 1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1729114045000,
-        "DiscoveryAcres": 1,
-        "POOCounty": "Lewis and Clark",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1730839643000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "8678e9f7-0748-43f2-8454-9b9d7312ce89",
-        "GlobalID": "e574ea4d-c193-412f-a08e-9ac463caf1a6",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 22
-      },
-      "geometry": {
-        "x": -112.37557199999998,
-        "y": 47.34775200000007
       }
     },
     {
@@ -1073,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 547,
+        "OBJECTID": 541,
         "IncidentName": "Whiteman",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000620",
