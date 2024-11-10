@@ -888,7 +888,7 @@
         "IrwinID": "3df73923-1231-43dd-aa32-bac0060050fb",
         "GlobalID": "89cc57c0-aee8-4b5c-93c7-a9545caaa1ff",
         "ModifiedOnAge": 3,
-        "FireDiscoveryAge": 98
+        "FireDiscoveryAge": 99
       },
       "geometry": {
         "x": -113.15703299999996,
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 427,
+        "OBJECTID": 426,
         "IncidentName": "Pumpkin Creek - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000621",
@@ -981,6 +981,50 @@
       "geometry": {
         "x": -105.55703299999999,
         "y": 46.083867000000055
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 517,
+        "IncidentName": "Middle Fork 2",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDF-246718",
+        "DailyAcres": 15,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1731188275000,
+        "DiscoveryAcres": 15,
+        "POOCounty": "Granite",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1731200304000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "e266a818-9a41-4756-b3e1-cd8e59eef808",
+        "GlobalID": "3c083113-0c82-45ad-b5ee-bd12ad90de26",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -113.51159999999999,
+        "y": 46.094588000000044
       }
     },
     {
@@ -1029,51 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 492,
-        "IncidentName": "Grimes Creek",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTCES-246715",
-        "DailyAcres": 0.25,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1731164220000,
-        "DiscoveryAcres": 0.25,
-        "POOCounty": "Beaverhead",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1731197415000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "227be877-2934-4143-aee6-b95b6774f434",
-        "GlobalID": "8e445c43-b6fa-42a9-8e09-233d36f02677",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -113.35653299999996,
-        "y": 45.03925000000004
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 411,
+        "OBJECTID": 410,
         "IncidentName": "Whiteman",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000620",
@@ -1117,7 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 509,
+        "OBJECTID": 506,
         "IncidentName": "McCartney 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-246717",
@@ -1460,7 +1460,7 @@
         "IrwinID": "2920588a-b00b-471c-93a0-fa2a308d83de",
         "GlobalID": "84d24aaf-39a3-43be-a4ba-d123a237ac21",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 129
+        "FireDiscoveryAge": 130
       },
       "geometry": {
         "x": -113.01833329999994,
