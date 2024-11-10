@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 141,
+        "OBJECTID": 140,
         "IncidentName": "Eagle Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000025",
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 390,
+        "OBJECTID": 389,
         "IncidentName": "Pumpkin Creek - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000621",
@@ -985,7 +985,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 479,
+        "OBJECTID": 477,
         "IncidentName": "Middle Fork 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246718",
@@ -1029,51 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 132,
-        "IncidentName": "Doyle Gulch",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTKNF-000355",
-        "DailyAcres": 4,
-        "CalculatedAcres": 1.7233,
-        "PercentContained": 0,
-        "ICS209ReportDateTime": 1731004585000,
-        "FireDiscoveryDateTime": 1729087980000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Lincoln",
-        "POOState": "US-MT",
-        "FireCause": "Natural",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": 7,
-        "IncidentManagementOrganization": "Type 4 IC",
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": "Timber (Litter and Understory)",
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1731004584000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "9605f5e4-bb95-4c0c-8441-acae1db36e00",
-        "GlobalID": "073213e3-f511-4e1d-8141-efea6c5f6d42",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 25
-      },
-      "geometry": {
-        "x": -115.33921699999996,
-        "y": 48.702867000000026
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 374,
+        "OBJECTID": 373,
         "IncidentName": "Whiteman",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000620",
@@ -1117,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 469,
+        "OBJECTID": 467,
         "IncidentName": "McCartney 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-246717",
@@ -1157,6 +1113,50 @@
       "geometry": {
         "x": -112.51166699999999,
         "y": 45.547000000000025
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 530,
+        "IncidentName": "Bean Ridge",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDF-246719",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1731248074000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Silver Bow",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1731263761000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "dc01a9c2-9f29-4f56-8615-0b2cb19d4605",
+        "GlobalID": "62438265-41cf-4321-a880-cb391b9c0bb3",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.91753299999999,
+        "y": 45.859050000000025
       }
     },
     {
@@ -1371,7 +1371,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "b8677fb9-24a1-4543-ba4d-760e638982a6",
         "GlobalID": "51b39cc0-96ca-4eb7-bcc9-6ad7683bb139",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 130
       },
       "geometry": {
