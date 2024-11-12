@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 88,
+        "OBJECTID": 87,
         "IncidentName": "Sheep Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246608",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 115,
+        "OBJECTID": 114,
         "IncidentName": "Eagle Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000025",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 105,
+        "OBJECTID": 104,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 84,
+        "OBJECTID": 83,
         "IncidentName": "Fales Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024467",
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 254,
+        "OBJECTID": 253,
         "IncidentName": "Pumpkin Creek - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000621",
@@ -897,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 286,
+        "OBJECTID": 283,
         "IncidentName": "Middle Fork 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246718",
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 441,
+        "OBJECTID": 438,
         "IncidentName": "Yonder Hill - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000622",
@@ -985,7 +985,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 439,
+        "OBJECTID": 436,
         "IncidentName": "Three Spot - Fallon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG39-000618",
@@ -1029,7 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 480,
+        "OBJECTID": 477,
         "IncidentName": "Warden Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-240945",
@@ -1073,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 409,
+        "OBJECTID": 406,
         "IncidentName": "Hunter",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-000903",
@@ -1117,7 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 280,
+        "OBJECTID": 277,
         "IncidentName": "McCartney 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-246717",
@@ -1157,6 +1157,50 @@
       "geometry": {
         "x": -112.51166699999999,
         "y": 45.547000000000025
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 482,
+        "IncidentName": "PRAYER",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBFA-000140",
+        "DailyAcres": null,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1731353640000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Glacier",
+        "POOState": "US-MT",
+        "FireCause": null,
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1731436165000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "9c1917ac-b4b0-4ba9-803a-a83931715058",
+        "GlobalID": "6f7df7bd-f845-4401-91dd-9b1576b5e4d3",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.97527779999996,
+        "y": 48.63055560000004
       }
     }
   ]
