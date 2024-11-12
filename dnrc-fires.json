@@ -492,7 +492,7 @@
         "IrwinID": "c4f6665d-4946-47c6-92e6-076980a610f6",
         "GlobalID": "8d773a90-563a-4a06-9851-251b8c62f985",
         "ModifiedOnAge": 5,
-        "FireDiscoveryAge": 109
+        "FireDiscoveryAge": 110
       },
       "geometry": {
         "x": -113.85899999999998,
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 89,
+        "OBJECTID": 88,
         "IncidentName": "Sheep Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246608",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 116,
+        "OBJECTID": 114,
         "IncidentName": "Eagle Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000025",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 105,
+        "OBJECTID": 104,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -897,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 307,
+        "OBJECTID": 304,
         "IncidentName": "Middle Fork 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246718",
@@ -941,7 +941,95 @@
     },
     {
       "attributes": {
-        "OBJECTID": 431,
+        "OBJECTID": 461,
+        "IncidentName": "Yonder Hill - Powder River",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG09-000622",
+        "DailyAcres": 5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1731362400000,
+        "DiscoveryAcres": 5,
+        "POOCounty": "Powder River",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1731424003000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "b2ac35b0-00c6-4e5b-a8c5-7313d9546d1b",
+        "GlobalID": "7527c4c2-770d-4f69-bdea-0c4ba607cca5",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -105.82655999999997,
+        "y": 45.13692000000003
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 459,
+        "IncidentName": "Three Spot - Fallon",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG39-000618",
+        "DailyAcres": 1.7,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1731027600000,
+        "DiscoveryAcres": 1,
+        "POOCounty": "Fallon",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1731423852000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "e3764802-9274-4cfd-ae3a-84db04652496",
+        "GlobalID": "1b2fb6d8-346e-46e3-abaf-64c38dbd5a9c",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 4
+      },
+      "geometry": {
+        "x": -104.26852899999994,
+        "y": 46.39412600000003
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 428,
         "IncidentName": "Hunter",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-000903",
@@ -985,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 300,
+        "OBJECTID": 297,
         "IncidentName": "McCartney 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-246717",
