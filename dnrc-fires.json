@@ -536,7 +536,7 @@
         "IrwinID": "3455ce9e-329c-490f-9d8b-320cfc34ed3b",
         "GlobalID": "953e377c-6518-48bb-a018-6e741b3e087d",
         "ModifiedOnAge": 6,
-        "FireDiscoveryAge": 50
+        "FireDiscoveryAge": 51
       },
       "geometry": {
         "x": -112.41049999999996,
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 250,
+        "OBJECTID": 251,
         "IncidentName": "Pumpkin Creek - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000621",
@@ -897,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 292,
+        "OBJECTID": 287,
         "IncidentName": "Middle Fork 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246718",
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 447,
+        "OBJECTID": 442,
         "IncidentName": "Yonder Hill - Powder River",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG09-000622",
@@ -985,7 +985,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 445,
+        "OBJECTID": 440,
         "IncidentName": "Three Spot - Fallon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG39-000618",
@@ -1029,7 +1029,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 415,
+        "OBJECTID": 483,
+        "IncidentName": "Warden Creek",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTSWS-240945",
+        "DailyAcres": 0.8,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1731427021000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Missoula",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1731433523000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "ac8a0087-a91f-405d-bdf4-35ec5befc0dd",
+        "GlobalID": "e65bd2b4-2510-4e4f-970b-4ae4e3e18cc1",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -114.11131699999999,
+        "y": 46.774083000000076
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 410,
         "IncidentName": "Hunter",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-000903",
@@ -1073,7 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 286,
+        "OBJECTID": 281,
         "IncidentName": "McCartney 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-246717",
