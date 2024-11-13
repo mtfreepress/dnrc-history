@@ -535,7 +535,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "c4f6665d-4946-47c6-92e6-076980a610f6",
         "GlobalID": "8d773a90-563a-4a06-9851-251b8c62f985",
-        "ModifiedOnAge": 6,
+        "ModifiedOnAge": 7,
         "FireDiscoveryAge": 111
       },
       "geometry": {
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 86,
+        "OBJECTID": 85,
         "IncidentName": "Sheep Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246608",
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 112,
+        "OBJECTID": 111,
         "IncidentName": "Eagle Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000025",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 107,
+        "OBJECTID": 106,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -799,8 +799,8 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "cd9e9d02-6df3-4ec1-85a5-519904063877",
         "GlobalID": "ee2e08c2-3de3-40e7-beea-32caed84f678",
-        "ModifiedOnAge": 12,
-        "FireDiscoveryAge": 64
+        "ModifiedOnAge": 13,
+        "FireDiscoveryAge": 65
       },
       "geometry": {
         "x": -114.45149999999995,
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 252,
+        "OBJECTID": 250,
         "IncidentName": "Middle Fork 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246718",
@@ -897,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 456,
+        "OBJECTID": 453,
         "IncidentName": "Hwy 72 MM 5-8",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG10-202412493",
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 392,
+        "OBJECTID": 389,
         "IncidentName": "Cottonwood",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000623",
@@ -985,7 +985,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 388,
+        "OBJECTID": 500,
+        "IncidentName": "Ghost Town",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDF-246728",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1731532659000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Granite",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1731536328000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "b005fefd-dfc1-473c-bbca-2d22ad7dcbdf",
+        "GlobalID": "c311e7e3-48cb-4704-8e5f-c1a4133c07cb",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -113.27613299999996,
+        "y": 46.308200000000056
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 385,
         "IncidentName": "PRAYER",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000140",
