@@ -667,7 +667,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "e82f9739-377d-4338-8ed7-49c89afa6ff8",
         "GlobalID": "b1cb0394-826a-474f-832b-18b2235691aa",
-        "ModifiedOnAge": 7,
+        "ModifiedOnAge": 8,
         "FireDiscoveryAge": 81
       },
       "geometry": {
@@ -756,7 +756,7 @@
         "IrwinID": "67b0ca3d-1a63-4e63-927e-cf9e8cbe0068",
         "GlobalID": "b14bbeaa-e413-4c68-be2e-238464a31500",
         "ModifiedOnAge": 13,
-        "FireDiscoveryAge": 28
+        "FireDiscoveryAge": 29
       },
       "geometry": {
         "x": -113.33916699999997,
@@ -897,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 259,
+        "OBJECTID": 260,
         "IncidentName": "Middle Fork 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246718",
@@ -981,6 +981,50 @@
       "geometry": {
         "x": -109.03725279999998,
         "y": 45.06897260000005
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 497,
+        "IncidentName": "Motorcross",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG03-241192",
+        "DailyAcres": 0.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1730508240000,
+        "DiscoveryAcres": 0.5,
+        "POOCounty": "Yellowstone",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1731519441000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "b95598ec-3642-48eb-8a17-2258ee55ccea",
+        "GlobalID": "a5624d1c-bcf2-4cb0-8d58-e2c800da31c9",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 11
+      },
+      "geometry": {
+        "x": -108.52158899999995,
+        "y": 45.73773300000005
       }
     },
     {
