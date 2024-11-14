@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 113,
+        "OBJECTID": 114,
         "IncidentName": "Eagle Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000025",
@@ -897,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 250,
+        "OBJECTID": 251,
         "IncidentName": "Middle Fork 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246718",
@@ -941,7 +941,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 428,
+        "OBJECTID": 110,
+        "IncidentName": "Doyle Gulch",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTKNF-000355",
+        "DailyAcres": 4,
+        "CalculatedAcres": 1.7233,
+        "PercentContained": 100,
+        "ICS209ReportDateTime": 1731599481000,
+        "FireDiscoveryDateTime": 1729087980000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Lincoln",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": 7,
+        "IncidentManagementOrganization": "Type 4 IC",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Timber (Litter and Understory)",
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1731599481000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "9605f5e4-bb95-4c0c-8441-acae1db36e00",
+        "GlobalID": "073213e3-f511-4e1d-8141-efea6c5f6d42",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 29
+      },
+      "geometry": {
+        "x": -115.33921699999996,
+        "y": 48.702867000000026
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 429,
         "IncidentName": "Hwy 72 MM 5-8",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG10-202412493",
@@ -985,7 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 366,
+        "OBJECTID": 367,
         "IncidentName": "Cottonwood",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000623",
@@ -1029,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 468,
+        "OBJECTID": 469,
         "IncidentName": "Ghost Town",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246728",
@@ -1073,7 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 362,
+        "OBJECTID": 363,
         "IncidentName": "PRAYER",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000140",
