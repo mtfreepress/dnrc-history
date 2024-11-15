@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 63,
+        "OBJECTID": 62,
         "IncidentName": "Daly",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024380",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 106,
+        "OBJECTID": 105,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 91,
+        "OBJECTID": 90,
         "IncidentName": "Sheep Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246608",
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 119,
+        "OBJECTID": 118,
         "IncidentName": "Eagle Butte",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFBA-000025",
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 70,
+        "OBJECTID": 69,
         "IncidentName": "McDermott",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246487",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 66,
+        "OBJECTID": 65,
         "IncidentName": "Bair",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG47-005142",
@@ -711,7 +711,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "e82f9739-377d-4338-8ed7-49c89afa6ff8",
         "GlobalID": "b1cb0394-826a-474f-832b-18b2235691aa",
-        "ModifiedOnAge": 9,
+        "ModifiedOnAge": 10,
         "FireDiscoveryAge": 83
       },
       "geometry": {
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 113,
+        "OBJECTID": 112,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -756,7 +756,7 @@
         "IrwinID": "67b0ca3d-1a63-4e63-927e-cf9e8cbe0068",
         "GlobalID": "b14bbeaa-e413-4c68-be2e-238464a31500",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 30
+        "FireDiscoveryAge": 31
       },
       "geometry": {
         "x": -113.33916699999997,
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 248,
+        "OBJECTID": 244,
         "IncidentName": "Middle Fork 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246718",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 340,
+        "OBJECTID": 331,
         "IncidentName": "Hwy 72 MM 5-8",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG10-202412493",
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 460,
+        "OBJECTID": 451,
         "IncidentName": "Elkview",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-000912",
@@ -897,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 280,
+        "OBJECTID": 271,
         "IncidentName": "Cottonwood",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTMCD-000623",
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 376,
+        "OBJECTID": 367,
         "IncidentName": "Ghost Town",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246728",
@@ -981,6 +981,50 @@
       "geometry": {
         "x": -113.27613299999996,
         "y": 46.308200000000056
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 491,
+        "IncidentName": "Cinnabar",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTCGF-241198",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1731683655000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Park",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1731691823000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "0bb3d0c6-fa2f-495e-aaff-625861ff5b5c",
+        "GlobalID": "98b877c1-b0a3-4d94-a82b-fe284edccca9",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -110.89461699999998,
+        "y": 45.129117000000065
       }
     },
     {
@@ -1029,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 276,
+        "OBJECTID": 267,
         "IncidentName": "PRAYER",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000140",
