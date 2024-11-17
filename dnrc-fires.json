@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 51,
+        "OBJECTID": 50,
         "IncidentName": "Daly",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024380",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 43,
+        "OBJECTID": 42,
         "IncidentName": "Johnson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024261",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 30,
+        "OBJECTID": 29,
         "IncidentName": "Prairie",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000249",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 103,
+        "OBJECTID": 102,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 40,
+        "OBJECTID": 39,
         "IncidentName": "Railroad",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024251",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 90,
+        "OBJECTID": 89,
         "IncidentName": "Sheep Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246608",
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 57,
+        "OBJECTID": 56,
         "IncidentName": "McDermott",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246487",
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 53,
+        "OBJECTID": 52,
         "IncidentName": "Bair",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG47-005142",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 107,
+        "OBJECTID": 106,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 219,
+        "OBJECTID": 218,
         "IncidentName": "Middle Fork 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246718",
@@ -756,7 +756,7 @@
         "IrwinID": "e266a818-9a41-4756-b3e1-cd8e59eef808",
         "GlobalID": "3c083113-0c82-45ad-b5ee-bd12ad90de26",
         "ModifiedOnAge": 6,
-        "FireDiscoveryAge": 7
+        "FireDiscoveryAge": 8
       },
       "geometry": {
         "x": -113.50129999999996,
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 29,
+        "OBJECTID": 28,
         "IncidentName": "Morris",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG31-005076",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 261,
+        "OBJECTID": 260,
         "IncidentName": "Elkview",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-000912",
@@ -849,50 +849,6 @@
       "geometry": {
         "x": -111.92629999999997,
         "y": 46.61025600000005
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 11,
-        "IncidentName": "NOMAD",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBFA-000014",
-        "DailyAcres": null,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1712107800000,
-        "DiscoveryAcres": null,
-        "POOCounty": "Glacier",
-        "POOState": "US-MT",
-        "FireCause": null,
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1731619576000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "27e578ec-c47e-4669-8f56-be306ad89180",
-        "GlobalID": "89e023ef-6748-4b7c-8b28-3e508fdf5505",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 228
-      },
-      "geometry": {
-        "x": -113.01444439999995,
-        "y": 48.532777800000076
       }
     }
   ]
