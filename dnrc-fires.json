@@ -809,7 +809,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 400,
+        "OBJECTID": 412,
+        "IncidentName": "Ski Cabin",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG36-000336",
+        "DailyAcres": 0.4,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1731711600000,
+        "DiscoveryAcres": 0.4,
+        "POOCounty": "Judith Basin",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1731944983000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "532d7ac0-f35d-4059-8db8-a2ecb8cfed73",
+        "GlobalID": "0b78db76-1f01-44be-b45f-41f77804c4c1",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 2
+      },
+      "geometry": {
+        "x": -110.44617099999999,
+        "y": 47.03238900000008
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 399,
         "IncidentName": "Yellowstone Island - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000626",
@@ -853,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 401,
+        "OBJECTID": 400,
         "IncidentName": "Tongue River Tree - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000627",
@@ -897,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 406,
+        "OBJECTID": 405,
         "IncidentName": "Mile Marker 1",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000628",
@@ -937,6 +981,50 @@
       "geometry": {
         "x": -106.67711699999995,
         "y": 45.63791700000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 410,
+        "IncidentName": "Stubble 1054",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTFPA-000335",
+        "DailyAcres": 0.039,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1731555060000,
+        "DiscoveryAcres": 0.03,
+        "POOCounty": "Roosevelt",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1731944725000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "31f3226d-9f63-4b84-8caa-5c3a0263a8fe",
+        "GlobalID": "9dc9b0a6-4460-4369-8749-49e1be5a087f",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 4
+      },
+      "geometry": {
+        "x": -105.22410999999994,
+        "y": 48.10331000000008
       }
     }
   ]
