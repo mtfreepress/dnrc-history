@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 39,
+        "OBJECTID": 38,
         "IncidentName": "Johnson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024261",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 27,
+        "OBJECTID": 26,
         "IncidentName": "Prairie",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000249",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 36,
+        "OBJECTID": 35,
         "IncidentName": "Railroad",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024251",
@@ -668,7 +668,7 @@
         "IrwinID": "8a666ed2-7179-4f39-874d-4deaf4c6834c",
         "GlobalID": "24c85463-51bb-4b74-a749-f48705a8066d",
         "ModifiedOnAge": 5,
-        "FireDiscoveryAge": 84
+        "FireDiscoveryAge": 85
       },
       "geometry": {
         "x": -113.48083299999996,
@@ -805,6 +805,94 @@
       "geometry": {
         "x": -106.47048099999995,
         "y": 46.95669300000003
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 41,
+        "IncidentName": "6383",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDF-246383",
+        "DailyAcres": 3,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1722979857000,
+        "DiscoveryAcres": 0.01,
+        "POOCounty": "Jefferson",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1732033773000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "550dd96e-408c-4b14-b5c4-c3fdaa194a4e",
+        "GlobalID": "b06afc42-cdd4-456e-b84c-00d225d0df24",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 104
+      },
+      "geometry": {
+        "x": -111.85649999999998,
+        "y": 45.96466700000008
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 233,
+        "IncidentName": "Elkview",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG05-000912",
+        "DailyAcres": 0.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1731615244000,
+        "DiscoveryAcres": 0.5,
+        "POOCounty": "Lewis and Clark",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1732033922000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "0a3e78e1-836d-4406-bc18-e0b80c19f42b",
+        "GlobalID": "617e9b62-bb17-43a2-b48c-80a36e199d08",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 4
+      },
+      "geometry": {
+        "x": -111.92629999999997,
+        "y": 46.61025600000005
       }
     },
     {
