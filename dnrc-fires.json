@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 84,
+        "OBJECTID": 85,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 87,
+        "OBJECTID": 88,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 353,
+        "OBJECTID": 352,
         "IncidentName": "MM59 - Garfield",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000630",
@@ -932,7 +932,7 @@
         "IrwinID": "550dd96e-408c-4b14-b5c4-c3fdaa194a4e",
         "GlobalID": "b06afc42-cdd4-456e-b84c-00d225d0df24",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 104
+        "FireDiscoveryAge": 105
       },
       "geometry": {
         "x": -111.85649999999998,
@@ -1029,7 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 340,
+        "OBJECTID": 339,
         "IncidentName": "Ski Cabin",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG36-000336",
@@ -1073,7 +1073,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 328,
+        "OBJECTID": 75,
+        "IncidentName": "River Road",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTNCA-000582",
+        "DailyAcres": 0.25,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1727555400000,
+        "DiscoveryAcres": 0.25,
+        "POOCounty": "Rosebud",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1732052393000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "44729b42-882f-4b0b-a559-431045a4fdc0",
+        "GlobalID": "46685c4f-2a04-4f4e-853b-e242099a7074",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 52
+      },
+      "geometry": {
+        "x": -106.29016699999994,
+        "y": 45.62386100000003
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 327,
         "IncidentName": "Yellowstone Island - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000626",
@@ -1117,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 329,
+        "OBJECTID": 328,
         "IncidentName": "Tongue River Tree - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000627",
@@ -1161,7 +1205,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 333,
+        "OBJECTID": 332,
         "IncidentName": "Mile Marker 1",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000628",
@@ -1205,7 +1249,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 338,
+        "OBJECTID": 337,
         "IncidentName": "Stubble 1054",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFPA-000335",
