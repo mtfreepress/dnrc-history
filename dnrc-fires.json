@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 44,
+        "OBJECTID": 42,
         "IncidentName": "Daly",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024380",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 38,
+        "OBJECTID": 36,
         "IncidentName": "Johnson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024261",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 26,
+        "OBJECTID": 24,
         "IncidentName": "Prairie",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000249",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 45,
+        "OBJECTID": 43,
         "IncidentName": "Sharrott Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024418",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 35,
+        "OBJECTID": 33,
         "IncidentName": "Railroad",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024251",
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 47,
+        "OBJECTID": 45,
         "IncidentName": "McDermott",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246487",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 46,
+        "OBJECTID": 44,
         "IncidentName": "Bair",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG47-005142",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 41,
+        "OBJECTID": 39,
         "IncidentName": "6383",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246383",
@@ -853,7 +853,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 233,
+        "OBJECTID": 58,
+        "IncidentName": "Watchtower",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBRF-024464",
+        "DailyAcres": 2,
+        "CalculatedAcres": null,
+        "PercentContained": 100,
+        "ICS209ReportDateTime": 1729190048000,
+        "FireDiscoveryDateTime": 1725839403000,
+        "DiscoveryAcres": 2,
+        "POOCounty": "Ravalli",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": 1,
+        "IncidentManagementOrganization": "Type 4 IC",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Timber (Litter and Understory)",
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1732034644000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "1d046b18-d4ca-4601-b345-f4f13a873dbf",
+        "GlobalID": "f57f9e35-663d-4791-840e-a4f78ea480c4",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 71
+      },
+      "geometry": {
+        "x": -114.49163299999998,
+        "y": 45.819450000000074
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 234,
         "IncidentName": "Elkview",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-000912",
