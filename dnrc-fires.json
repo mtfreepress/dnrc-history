@@ -491,7 +491,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "f6f94104-501f-4990-8e40-c386def7dbad",
         "GlobalID": "cea28b6d-e9de-4c43-87cd-15cd17cce253",
-        "ModifiedOnAge": 5,
+        "ModifiedOnAge": 6,
         "FireDiscoveryAge": 42
       },
       "geometry": {
@@ -580,7 +580,7 @@
         "IrwinID": "c4f6665d-4946-47c6-92e6-076980a610f6",
         "GlobalID": "8d773a90-563a-4a06-9851-251b8c62f985",
         "ModifiedOnAge": 13,
-        "FireDiscoveryAge": 117
+        "FireDiscoveryAge": 118
       },
       "geometry": {
         "x": -113.85899999999998,
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 346,
+        "OBJECTID": 338,
         "IncidentName": "MM59 - Garfield",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000630",
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 244,
+        "OBJECTID": 241,
         "IncidentName": "Elkview",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-000912",
@@ -981,50 +981,6 @@
       "geometry": {
         "x": -111.92629999999997,
         "y": 46.61025600000005
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 333,
-        "IncidentName": "Ski Cabin",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG36-000336",
-        "DailyAcres": 0.4,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1731711600000,
-        "DiscoveryAcres": 0.4,
-        "POOCounty": "Judith Basin",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1731944983000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "532d7ac0-f35d-4059-8db8-a2ecb8cfed73",
-        "GlobalID": "0b78db76-1f01-44be-b45f-41f77804c4c1",
-        "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 4
-      },
-      "geometry": {
-        "x": -110.44617099999999,
-        "y": 47.03238900000008
       }
     },
     {
@@ -1073,7 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 321,
+        "OBJECTID": 315,
         "IncidentName": "Yellowstone Island - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000626",
@@ -1107,7 +1063,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "c7bdd599-761b-422a-89c2-7c8b0babb4c0",
         "GlobalID": "a533e3c1-b3ed-4f91-befc-6399271b2c7b",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 2
       },
       "geometry": {
@@ -1117,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 322,
+        "OBJECTID": 316,
         "IncidentName": "Tongue River Tree - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000627",
@@ -1151,7 +1107,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "18e21264-e929-4e80-9b39-248471ce8978",
         "GlobalID": "83de388d-9e72-4712-8462-7c598f32d618",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 2
       },
       "geometry": {
@@ -1161,7 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 326,
+        "OBJECTID": 320,
         "IncidentName": "Mile Marker 1",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000628",
@@ -1195,7 +1151,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "dc6c673d-cba6-42af-8999-002c4be0b2ee",
         "GlobalID": "8e3e812b-d3d8-442d-b4e3-41700703bdef",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 2
       },
       "geometry": {
@@ -1205,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 491,
+        "OBJECTID": 483,
         "IncidentName": "LOC Daly Mansion RCSO - ZONE 2 (S)",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024632",
@@ -1245,50 +1201,6 @@
       "geometry": {
         "x": -114.14281999999997,
         "y": 46.267716000000064
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 331,
-        "IncidentName": "Stubble 1054",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTFPA-000335",
-        "DailyAcres": 0.039,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1731555060000,
-        "DiscoveryAcres": 0.03,
-        "POOCounty": "Roosevelt",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1731944725000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "31f3226d-9f63-4b84-8caa-5c3a0263a8fe",
-        "GlobalID": "9dc9b0a6-4460-4369-8749-49e1be5a087f",
-        "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 6
-      },
-      "geometry": {
-        "x": -105.22410999999994,
-        "y": 48.10331000000008
       }
     }
   ]
