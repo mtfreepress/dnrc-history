@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 110,
+        "OBJECTID": 112,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 68,
+        "OBJECTID": 69,
         "IncidentName": "Sharrott Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024418",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 70,
+        "OBJECTID": 72,
         "IncidentName": "McDermott",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246487",
@@ -501,7 +501,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 114,
+        "OBJECTID": 70,
+        "IncidentName": "Bair",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG47-005142",
+        "DailyAcres": 300,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1724456760000,
+        "DiscoveryAcres": 300,
+        "POOCounty": "Meagher",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1732147090000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "e82f9739-377d-4338-8ed7-49c89afa6ff8",
+        "GlobalID": "b1cb0394-826a-474f-832b-18b2235691aa",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 89
+      },
+      "geometry": {
+        "x": -110.54799999999994,
+        "y": 46.62116700000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 116,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -545,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 88,
+        "OBJECTID": 90,
         "IncidentName": "Fales Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024467",
@@ -589,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 71,
+        "OBJECTID": 73,
         "IncidentName": "Razorback",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024440",
@@ -633,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 82,
+        "OBJECTID": 84,
         "IncidentName": "Long Tom",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-246574",
@@ -677,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 66,
+        "OBJECTID": 67,
         "IncidentName": "Blue Joint",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024388",
@@ -756,7 +800,7 @@
         "IrwinID": "c984b5c8-a80d-43d1-bad9-a9661ca25113",
         "GlobalID": "54f3e7b5-8c28-4905-903e-afce47cef3c2",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 5
+        "FireDiscoveryAge": 6
       },
       "geometry": {
         "x": -106.47048099999995,
@@ -765,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 58,
+        "OBJECTID": 59,
         "IncidentName": "6383",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246383",
@@ -809,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 86,
+        "OBJECTID": 88,
         "IncidentName": "Watchtower",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024464",
@@ -844,7 +888,7 @@
         "IrwinID": "1d046b18-d4ca-4601-b345-f4f13a873dbf",
         "GlobalID": "f57f9e35-663d-4791-840e-a4f78ea480c4",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 72
+        "FireDiscoveryAge": 73
       },
       "geometry": {
         "x": -114.49163299999998,
@@ -853,7 +897,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 259,
+        "OBJECTID": 261,
         "IncidentName": "Elkview",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-000912",
@@ -897,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 99,
+        "OBJECTID": 101,
         "IncidentName": "River Road",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000582",
