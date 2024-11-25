@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 88,
+        "OBJECTID": 89,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 56,
+        "OBJECTID": 57,
         "IncidentName": "Sharrott Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024418",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 58,
+        "OBJECTID": 59,
         "IncidentName": "McDermott",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246487",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 57,
+        "OBJECTID": 58,
         "IncidentName": "Bair",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG47-005142",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 91,
+        "OBJECTID": 92,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 74,
+        "OBJECTID": 75,
         "IncidentName": "Fales Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024467",
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 59,
+        "OBJECTID": 60,
         "IncidentName": "Razorback",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024440",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 70,
+        "OBJECTID": 71,
         "IncidentName": "Long Tom",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-246574",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 55,
+        "OBJECTID": 56,
         "IncidentName": "Blue Joint",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024388",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 199,
+        "OBJECTID": 201,
         "IncidentName": "MM59 - Garfield",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000630",
@@ -809,7 +809,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 294,
+        "OBJECTID": 48,
+        "IncidentName": "6383",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDF-246383",
+        "DailyAcres": 3,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1722979857000,
+        "DiscoveryAcres": 0.01,
+        "POOCounty": "Jefferson",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1732570709000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "550dd96e-408c-4b14-b5c4-c3fdaa194a4e",
+        "GlobalID": "b06afc42-cdd4-456e-b84c-00d225d0df24",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 111
+      },
+      "geometry": {
+        "x": -111.85649999999998,
+        "y": 45.96466700000008
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 296,
         "IncidentName": "Gap Road 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-241202",
