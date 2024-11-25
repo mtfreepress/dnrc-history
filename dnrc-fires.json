@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 33,
+        "OBJECTID": 34,
         "IncidentName": "Prairie",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000249",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 89,
+        "OBJECTID": 90,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -404,7 +404,7 @@
         "IrwinID": "f6f94104-501f-4990-8e40-c386def7dbad",
         "GlobalID": "cea28b6d-e9de-4c43-87cd-15cd17cce253",
         "ModifiedOnAge": 11,
-        "FireDiscoveryAge": 47
+        "FireDiscoveryAge": 48
       },
       "geometry": {
         "x": -111.65916699999997,
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 57,
+        "OBJECTID": 58,
         "IncidentName": "Sharrott Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024418",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 59,
+        "OBJECTID": 60,
         "IncidentName": "McDermott",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246487",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 58,
+        "OBJECTID": 59,
         "IncidentName": "Bair",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG47-005142",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 92,
+        "OBJECTID": 93,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 75,
+        "OBJECTID": 76,
         "IncidentName": "Fales Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024467",
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 60,
+        "OBJECTID": 61,
         "IncidentName": "Razorback",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024440",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 71,
+        "OBJECTID": 72,
         "IncidentName": "Long Tom",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-246574",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 56,
+        "OBJECTID": 57,
         "IncidentName": "Blue Joint",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024388",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 201,
+        "OBJECTID": 202,
         "IncidentName": "MM59 - Garfield",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000630",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 48,
+        "OBJECTID": 49,
         "IncidentName": "6383",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246383",
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 294,
+        "OBJECTID": 295,
         "IncidentName": "Gap Road 2",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-241202",
@@ -893,6 +893,50 @@
       "geometry": {
         "x": -108.57132999999999,
         "y": 45.36202000000003
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 16,
+        "IncidentName": "Lombard Bridge",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG43-000156",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1712683833000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Broadwater",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1732575964000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "2039e002-6ed8-451f-a41a-0c873342bd00",
+        "GlobalID": "1a721f1e-8ed9-4a13-b1b7-8f0a3524c7d1",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 230
+      },
+      "geometry": {
+        "x": -111.39588299999997,
+        "y": 46.10766700000005
       }
     }
   ]
