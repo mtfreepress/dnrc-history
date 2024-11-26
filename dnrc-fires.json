@@ -536,7 +536,7 @@
         "IrwinID": "8a666ed2-7179-4f39-874d-4deaf4c6834c",
         "GlobalID": "24c85463-51bb-4b74-a749-f48705a8066d",
         "ModifiedOnAge": 12,
-        "FireDiscoveryAge": 91
+        "FireDiscoveryAge": 92
       },
       "geometry": {
         "x": -113.48083299999996,
@@ -755,7 +755,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "7f71e9da-5be0-4bda-b6ed-26d3c55b154b",
         "GlobalID": "e73a4ad5-b973-4de0-bd6c-7ea1218a777c",
-        "ModifiedOnAge": 5,
+        "ModifiedOnAge": 6,
         "FireDiscoveryAge": 79
       },
       "geometry": {
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 206,
+        "OBJECTID": 207,
         "IncidentName": "MM59 - Garfield",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG50-000630",
@@ -985,7 +985,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 184,
+        "OBJECTID": 99,
+        "IncidentName": "Soldier Gulch",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTNCA-000604",
+        "DailyAcres": 0.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1729198200000,
+        "DiscoveryAcres": 0.5,
+        "POOCounty": "Rosebud",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1732638507000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "ab91506b-f25b-4375-a208-f7ca4a7333b2",
+        "GlobalID": "bb05f558-a6ea-4fd0-ab2d-30c2417ba9f6",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 39
+      },
+      "geometry": {
+        "x": -106.59744399999994,
+        "y": 45.60994400000004
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 185,
         "IncidentName": "Elkview",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-000912",
