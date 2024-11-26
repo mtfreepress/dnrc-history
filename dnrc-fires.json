@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 65,
+        "OBJECTID": 66,
         "IncidentName": "Daly",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024380",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 100,
+        "OBJECTID": 101,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 68,
+        "OBJECTID": 69,
         "IncidentName": "Sharrott Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024418",
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 70,
+        "OBJECTID": 71,
         "IncidentName": "McDermott",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246487",
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 69,
+        "OBJECTID": 70,
         "IncidentName": "Bair",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG47-005142",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 104,
+        "OBJECTID": 105,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 86,
+        "OBJECTID": 87,
         "IncidentName": "Fales Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024467",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 71,
+        "OBJECTID": 72,
         "IncidentName": "Razorback",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024440",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 82,
+        "OBJECTID": 83,
         "IncidentName": "Long Tom",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTSWS-246574",
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 67,
+        "OBJECTID": 68,
         "IncidentName": "Blue Joint",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024388",
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 115,
+        "OBJECTID": 116,
         "IncidentName": "Little Coyote",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000615",
@@ -985,7 +985,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 97,
+        "OBJECTID": 57,
+        "IncidentName": "Longroach",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTNCA-000370",
+        "DailyAcres": 5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1722450120000,
+        "DiscoveryAcres": 1,
+        "POOCounty": "Rosebud",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1732647801000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "77616a0a-535c-47b3-8bca-ac18274f4fa5",
+        "GlobalID": "becdf100-83b0-4a38-98ee-9e0b45bb3fe8",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 118
+      },
+      "geometry": {
+        "x": -106.48349999999999,
+        "y": 45.468000000000075
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 98,
         "IncidentName": "East Juddy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000591",
@@ -1029,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 58,
+        "OBJECTID": 59,
         "IncidentName": "6383",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246383",
@@ -1073,7 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 103,
+        "OBJECTID": 104,
         "IncidentName": "Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000602",
@@ -1117,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 105,
+        "OBJECTID": 106,
         "IncidentName": "Soldier Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000604",
@@ -1161,7 +1205,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 124,
+        "OBJECTID": 125,
         "IncidentName": "Depot",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000617",
@@ -1205,7 +1249,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 197,
+        "OBJECTID": 198,
         "IncidentName": "Elkview",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-000912",
@@ -1381,7 +1425,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 89,
+        "OBJECTID": 90,
         "IncidentName": "Lower East",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000587",
@@ -1425,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 123,
+        "OBJECTID": 124,
         "IncidentName": "Upper West",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000616",
@@ -1469,7 +1513,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 163,
+        "OBJECTID": 164,
         "IncidentName": "Whiteman",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000620",
@@ -1513,7 +1557,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 214,
+        "OBJECTID": 215,
         "IncidentName": "Mile Marker 1",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000628",
