@@ -359,7 +359,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "bdb7328d-8b59-45e4-93bf-664a9403534c",
         "GlobalID": "7b70e336-521a-4e2d-b16c-f226e524809b",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 100
       },
       "geometry": {
@@ -403,7 +403,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "e2e54cdb-3f3e-4820-b140-2f0b4dc45dfc",
         "GlobalID": "2a46616e-7f19-4140-b357-c57e3e44c6b9",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 124
       },
       "geometry": {
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 106,
+        "OBJECTID": 105,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 111,
+        "OBJECTID": 110,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 90,
+        "OBJECTID": 89,
         "IncidentName": "Fales Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024467",
@@ -755,56 +755,12 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "cd9e9d02-6df3-4ec1-85a5-519904063877",
         "GlobalID": "ee2e08c2-3de3-40e7-beea-32caed84f678",
-        "ModifiedOnAge": 7,
+        "ModifiedOnAge": 8,
         "FireDiscoveryAge": 78
       },
       "geometry": {
         "x": -114.45149999999995,
         "y": 45.714500000000044
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 76,
-        "IncidentName": "Razorback",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTBRF-024440",
-        "DailyAcres": 59,
-        "CalculatedAcres": 27.5278,
-        "PercentContained": 100,
-        "ICS209ReportDateTime": 1730407272000,
-        "FireDiscoveryDateTime": 1724959645000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Ravalli",
-        "POOState": "US-MT",
-        "FireCause": "Natural",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": 1,
-        "IncidentManagementOrganization": "Type 4 IC",
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": "Timber (Litter and Understory)",
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1732038092000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "c69f9251-135f-43be-850d-382fc9f38f7b",
-        "GlobalID": "51d3a38f-15a1-410a-b3f2-7fba4bbf0cff",
-        "ModifiedOnAge": 7,
-        "FireDiscoveryAge": 89
-      },
-      "geometry": {
-        "x": -114.47091699999999,
-        "y": 45.61598300000003
       }
     },
     {
@@ -897,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 124,
+        "OBJECTID": 123,
         "IncidentName": "Little Coyote",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000615",
@@ -931,7 +887,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "d0d4efc3-9496-4855-9157-222f310b7ec4",
         "GlobalID": "b87a0dcb-cb3c-4914-8ac5-85f5e60012f0",
-        "ModifiedOnAge": 0,
+        "ModifiedOnAge": 1,
         "FireDiscoveryAge": 33
       },
       "geometry": {
@@ -985,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 103,
+        "OBJECTID": 102,
         "IncidentName": "East Juddy",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000591",
@@ -1073,7 +1029,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 109,
+        "OBJECTID": 108,
         "IncidentName": "Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000602",
@@ -1117,7 +1073,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 113,
+        "OBJECTID": 112,
         "IncidentName": "Soldier Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000604",
@@ -1161,7 +1117,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 133,
+        "OBJECTID": 132,
         "IncidentName": "Depot",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000617",
@@ -1205,7 +1161,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 206,
+        "OBJECTID": 205,
         "IncidentName": "Elkview",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-000912",
@@ -1284,7 +1240,7 @@
         "IrwinID": "2039e002-6ed8-451f-a41a-0c873342bd00",
         "GlobalID": "1a721f1e-8ed9-4a13-b1b7-8f0a3524c7d1",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 231
+        "FireDiscoveryAge": 232
       },
       "geometry": {
         "x": -111.39588299999997,
@@ -1381,7 +1337,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 95,
+        "OBJECTID": 94,
         "IncidentName": "Lower East",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000587",
@@ -1425,7 +1381,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 132,
+        "OBJECTID": 131,
         "IncidentName": "Upper West",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000616",
@@ -1469,7 +1425,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 174,
+        "OBJECTID": 173,
         "IncidentName": "Whiteman",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000620",
@@ -1513,7 +1469,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 223,
+        "OBJECTID": 222,
         "IncidentName": "Mile Marker 1",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000628",
