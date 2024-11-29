@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 44,
+        "OBJECTID": 43,
         "IncidentName": "Daly",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024380",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 36,
+        "OBJECTID": 35,
         "IncidentName": "Johnson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024261",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 47,
+        "OBJECTID": 46,
         "IncidentName": "Sharrott Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024418",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 35,
+        "OBJECTID": 34,
         "IncidentName": "Railroad",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024251",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 48,
+        "OBJECTID": 47,
         "IncidentName": "Bair",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG47-005142",
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 62,
+        "OBJECTID": 61,
         "IncidentName": "Fales Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024467",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 37,
+        "OBJECTID": 36,
         "IncidentName": "Pawnee Ridge",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000366",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 81,
+        "OBJECTID": 80,
         "IncidentName": "Little Coyote",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000615",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 38,
+        "OBJECTID": 37,
         "IncidentName": "Longroach",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000370",
@@ -805,50 +805,6 @@
       "geometry": {
         "x": -106.48349999999999,
         "y": 45.468000000000075
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 86,
-        "IncidentName": "Depot",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTNCA-000617",
-        "DailyAcres": 0.5,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1729980000000,
-        "DiscoveryAcres": 0.5,
-        "POOCounty": "Rosebud",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1732640348000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "7a675316-c8f2-4234-84c5-9fcb7cbb7c32",
-        "GlobalID": "0408bff0-4ae7-4525-8506-f58625808431",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 33
-      },
-      "geometry": {
-        "x": -106.66399999999999,
-        "y": 45.621278000000075
       }
     },
     {
@@ -893,138 +849,6 @@
       "geometry": {
         "x": -112.14379999999994,
         "y": 46.66900000000004
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 26,
-        "IncidentName": "Sheep Camp Road",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTLG51-000400",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1721005557000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Jefferson",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1732640647000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "513575aa-0d08-42e6-bae4-7546d381f22f",
-        "GlobalID": "1358687a-2287-47e0-90ca-5b9696a01e3b",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 137
-      },
-      "geometry": {
-        "x": -112.17941699999994,
-        "y": 45.895733000000064
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 118,
-        "IncidentName": "Whiteman",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTNCA-000620",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1731084900000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Rosebud",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1732641713000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "14d5a46c-a75f-4e79-bfb6-1a3ca354a510",
-        "GlobalID": "bce6a510-96b6-4f09-b0b0-c98f954af0a3",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 21
-      },
-      "geometry": {
-        "x": -106.65602799999999,
-        "y": 45.62244400000003
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 150,
-        "IncidentName": "Mile Marker 1",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTNCA-000628",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1731877620000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Rosebud",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1732642027000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "dc6c673d-cba6-42af-8999-002c4be0b2ee",
-        "GlobalID": "8e3e812b-d3d8-442d-b4e3-41700703bdef",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 11
-      },
-      "geometry": {
-        "x": -106.67711699999995,
-        "y": 45.63791700000007
       }
     }
   ]
