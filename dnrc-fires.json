@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 32,
+        "OBJECTID": 33,
         "IncidentName": "Daly",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024380",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 25,
+        "OBJECTID": 26,
         "IncidentName": "Johnson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024261",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 18,
+        "OBJECTID": 19,
         "IncidentName": "Prairie",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000249",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 50,
+        "OBJECTID": 51,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 24,
+        "OBJECTID": 25,
         "IncidentName": "Railroad",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024251",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 34,
+        "OBJECTID": 35,
         "IncidentName": "Bair",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG47-005142",
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 51,
+        "OBJECTID": 52,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 45,
+        "OBJECTID": 46,
         "IncidentName": "Fales Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024467",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 17,
+        "OBJECTID": 18,
         "IncidentName": "Gordon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG02-005078",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 26,
+        "OBJECTID": 27,
         "IncidentName": "Pawnee Ridge",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000366",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 58,
+        "OBJECTID": 59,
         "IncidentName": "Little Coyote",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000615",
@@ -805,6 +805,50 @@
       "geometry": {
         "x": -106.29683299999999,
         "y": 45.56661100000008
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 17,
+        "IncidentName": "Morris",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG31-005076",
+        "DailyAcres": 5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1720555658000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Teton",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1733157666000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "ff6c32ca-3c6b-43c1-a997-2b83a83b472c",
+        "GlobalID": "10502766-5633-49c3-b8e2-573e622345cd",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 145
+      },
+      "geometry": {
+        "x": -112.34923999999995,
+        "y": 47.607537000000036
       }
     }
   ]
