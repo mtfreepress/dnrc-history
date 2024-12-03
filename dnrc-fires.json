@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 40,
+        "OBJECTID": 43,
         "IncidentName": "Daly",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024380",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 33,
+        "OBJECTID": 36,
         "IncidentName": "Johnson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024261",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 54,
+        "OBJECTID": 57,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 32,
+        "OBJECTID": 35,
         "IncidentName": "Railroad",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024251",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 41,
+        "OBJECTID": 44,
         "IncidentName": "Bair",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG47-005142",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 55,
+        "OBJECTID": 58,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 24,
+        "OBJECTID": 27,
         "IncidentName": "Gordon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG02-005078",
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 34,
+        "OBJECTID": 37,
         "IncidentName": "Pawnee Ridge",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000366",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 59,
+        "OBJECTID": 62,
         "IncidentName": "Little Coyote",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000615",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 23,
+        "OBJECTID": 26,
         "IncidentName": "Morris",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG31-005076",
@@ -761,6 +761,50 @@
       "geometry": {
         "x": -112.34923999999995,
         "y": 47.607537000000036
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 293,
+        "IncidentName": "Blackleaf",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG31-005175",
+        "DailyAcres": 1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1733213992000,
+        "DiscoveryAcres": 1,
+        "POOCounty": "Teton",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1733250088000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "3e478542-ffe6-42c1-906b-e7b28d5d13d8",
+        "GlobalID": "2567b64a-684c-4d54-8ae4-1601d40cab65",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.66035,
+        "y": 47.99715000000003
       }
     }
   ]
