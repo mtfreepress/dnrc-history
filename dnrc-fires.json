@@ -668,7 +668,7 @@
         "IrwinID": "ff6c32ca-3c6b-43c1-a997-2b83a83b472c",
         "GlobalID": "10502766-5633-49c3-b8e2-573e622345cd",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 147
+        "FireDiscoveryAge": 148
       },
       "geometry": {
         "x": -112.34923999999995,
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 267,
+        "OBJECTID": 263,
         "IncidentName": "Blackleaf",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG31-005175",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 89,
+        "OBJECTID": 87,
         "IncidentName": "2848 EAST GORUS LOOP",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024601",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 122,
+        "OBJECTID": 120,
         "IncidentName": "LOC Daly Mansion RCSO - ZONE 2 (S)",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024632",
@@ -805,6 +805,50 @@
       "geometry": {
         "x": -114.14281999999997,
         "y": 46.267716000000064
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 329,
+        "IncidentName": "Little Willow",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTHLF-005181",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1733332853000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Lewis and Clark",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1733342622000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "2471ec69-438e-46a7-8256-17ad2602e2d7",
+        "GlobalID": "45f71855-5ce4-4389-be55-10343c876996",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.73379999999997,
+        "y": 47.49046700000008
       }
     }
   ]
