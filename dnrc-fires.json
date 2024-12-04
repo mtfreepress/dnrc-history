@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 48,
+        "OBJECTID": 43,
         "IncidentName": "Daly",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024380",
@@ -359,7 +359,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "bdb7328d-8b59-45e4-93bf-664a9403534c",
         "GlobalID": "7b70e336-521a-4e2d-b16c-f226e524809b",
-        "ModifiedOnAge": 7,
+        "ModifiedOnAge": 8,
         "FireDiscoveryAge": 107
       },
       "geometry": {
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 41,
+        "OBJECTID": 37,
         "IncidentName": "Johnson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024261",
@@ -403,7 +403,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "e2e54cdb-3f3e-4820-b140-2f0b4dc45dfc",
         "GlobalID": "2a46616e-7f19-4140-b357-c57e3e44c6b9",
-        "ModifiedOnAge": 7,
+        "ModifiedOnAge": 8,
         "FireDiscoveryAge": 131
       },
       "geometry": {
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 64,
+        "OBJECTID": 61,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -447,7 +447,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "f6f94104-501f-4990-8e40-c386def7dbad",
         "GlobalID": "cea28b6d-e9de-4c43-87cd-15cd17cce253",
-        "ModifiedOnAge": 2,
+        "ModifiedOnAge": 3,
         "FireDiscoveryAge": 56
       },
       "geometry": {
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 40,
+        "OBJECTID": 36,
         "IncidentName": "Railroad",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024251",
@@ -491,8 +491,8 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "c4f6665d-4946-47c6-92e6-076980a610f6",
         "GlobalID": "8d773a90-563a-4a06-9851-251b8c62f985",
-        "ModifiedOnAge": 7,
-        "FireDiscoveryAge": 131
+        "ModifiedOnAge": 8,
+        "FireDiscoveryAge": 132
       },
       "geometry": {
         "x": -113.85899999999998,
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 49,
+        "OBJECTID": 44,
         "IncidentName": "Bair",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG47-005142",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 65,
+        "OBJECTID": 66,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -579,8 +579,8 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "67b0ca3d-1a63-4e63-927e-cf9e8cbe0068",
         "GlobalID": "b14bbeaa-e413-4c68-be2e-238464a31500",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 49
+        "ModifiedOnAge": 3,
+        "FireDiscoveryAge": 50
       },
       "geometry": {
         "x": -113.33916699999997,
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 29,
+        "OBJECTID": 28,
         "IncidentName": "Gordon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG02-005078",
@@ -623,7 +623,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "df86150a-180d-4e69-975c-22fba851cf9f",
         "GlobalID": "4f85701c-1cf7-4ead-a587-f0ff23ddffe3",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 147
       },
       "geometry": {
@@ -633,95 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 42,
-        "IncidentName": "Pawnee Ridge",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTNCA-000366",
-        "DailyAcres": 24,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1722434999000,
-        "DiscoveryAcres": 4.5,
-        "POOCounty": "Rosebud",
-        "POOState": "US-MT",
-        "FireCause": "Natural",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1732643725000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "5e239c3a-9628-4784-b608-4882eb989813",
-        "GlobalID": "2efb8d84-393c-4e5a-a888-3920f3f95764",
-        "ModifiedOnAge": 7,
-        "FireDiscoveryAge": 125
-      },
-      "geometry": {
-        "x": -106.48627799999997,
-        "y": 45.49316700000003
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 69,
-        "IncidentName": "Little Coyote",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTNCA-000615",
-        "DailyAcres": 20,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1729806780000,
-        "DiscoveryAcres": 20,
-        "POOCounty": "Rosebud",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1732642546000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "d0d4efc3-9496-4855-9157-222f310b7ec4",
-        "GlobalID": "b87a0dcb-cb3c-4914-8ac5-85f5e60012f0",
-        "ModifiedOnAge": 7,
-        "FireDiscoveryAge": 40
-      },
-      "geometry": {
-        "x": -106.29683299999999,
-        "y": 45.56661100000008
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 28,
+        "OBJECTID": 27,
         "IncidentName": "Morris",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG31-005076",
@@ -755,7 +667,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "ff6c32ca-3c6b-43c1-a997-2b83a83b472c",
         "GlobalID": "10502766-5633-49c3-b8e2-573e622345cd",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 147
       },
       "geometry": {
@@ -765,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 272,
+        "OBJECTID": 268,
         "IncidentName": "Blackleaf",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG31-005175",
@@ -805,6 +717,94 @@
       "geometry": {
         "x": -112.66035,
         "y": 47.99715000000003
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 88,
+        "IncidentName": "2848 EAST GORUS LOOP",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG13-024601",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1730747397000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Ravalli",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1733325737000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "3a1f9cd2-ec07-42e8-8c60-f699638af395",
+        "GlobalID": "580cb912-db5a-422f-8ef7-5c337e6f1da5",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 30
+      },
+      "geometry": {
+        "x": -114.16856399999995,
+        "y": 46.06478200000004
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 122,
+        "IncidentName": "LOC Daly Mansion RCSO - ZONE 2 (S)",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG13-024632",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1732112727000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Ravalli",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1733325844000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "2264ea87-da1b-4774-88d2-9c293b20722f",
+        "GlobalID": "00e047f9-0e67-4543-adb7-0f057ba91493",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 14
+      },
+      "geometry": {
+        "x": -114.14281999999997,
+        "y": 46.267716000000064
       }
     }
   ]
