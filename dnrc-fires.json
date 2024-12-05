@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 43,
+        "OBJECTID": 44,
         "IncidentName": "Daly",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024380",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 37,
+        "OBJECTID": 38,
         "IncidentName": "Johnson",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024261",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 60,
+        "OBJECTID": 61,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 36,
+        "OBJECTID": 37,
         "IncidentName": "Railroad",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024251",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 65,
+        "OBJECTID": 66,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -536,7 +536,7 @@
         "IrwinID": "67b0ca3d-1a63-4e63-927e-cf9e8cbe0068",
         "GlobalID": "b14bbeaa-e413-4c68-be2e-238464a31500",
         "ModifiedOnAge": 3,
-        "FireDiscoveryAge": 50
+        "FireDiscoveryAge": 51
       },
       "geometry": {
         "x": -113.33916699999997,
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 28,
+        "OBJECTID": 29,
         "IncidentName": "Gordon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG02-005078",
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 230,
+        "OBJECTID": 228,
         "IncidentName": "Blackleaf",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG31-005175",
@@ -633,7 +633,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 83,
+        "OBJECTID": 332,
+        "IncidentName": "Yurt",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLNF-240967",
+        "DailyAcres": 0.25,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1733413745000,
+        "DiscoveryAcres": 0.25,
+        "POOCounty": "Missoula",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1733419533000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "5a211338-35e5-41fa-badb-e774dd80da13",
+        "GlobalID": "d2407ae4-2058-475f-a681-5c62374189d8",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -113.35986699999995,
+        "y": 47.171917000000064
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 84,
         "IncidentName": "2848 EAST GORUS LOOP",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024601",
@@ -677,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 109,
+        "OBJECTID": 111,
         "IncidentName": "LOC Daly Mansion RCSO - ZONE 2 (S)",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024632",
@@ -721,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 330,
+        "OBJECTID": 327,
         "IncidentName": "Stump",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000634",
