@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 229,
+        "OBJECTID": 230,
         "IncidentName": "Blackleaf",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG31-005175",
@@ -717,6 +717,50 @@
       "geometry": {
         "x": -114.14281999999997,
         "y": 46.267716000000064
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 330,
+        "IncidentName": "Stump",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTNCA-000634",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1733353500000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Rosebud",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1733416973000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "2dce5b97-9ee3-49f1-9e15-9ca98ec3ad36",
+        "GlobalID": "20317c1d-1f58-4fdc-9a23-68160bc29dcf",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -106.65561099999996,
+        "y": 45.62125000000003
       }
     }
   ]
