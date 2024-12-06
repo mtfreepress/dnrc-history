@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 39,
+        "OBJECTID": 40,
         "IncidentName": "Daly",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024380",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 59,
+        "OBJECTID": 60,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 73,
+        "OBJECTID": 74,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 186,
+        "OBJECTID": 187,
         "IncidentName": "Blackleaf",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG31-005175",
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 86,
+        "OBJECTID": 87,
         "IncidentName": "2848 EAST GORUS LOOP",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024601",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 117,
+        "OBJECTID": 118,
         "IncidentName": "LOC Daly Mansion RCSO - ZONE 2 (S)",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG13-024632",
@@ -761,6 +761,50 @@
       "geometry": {
         "x": -106.65561099999996,
         "y": 45.62125000000003
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 339,
+        "IncidentName": "Deadman Creek",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDF-246737",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1732402929000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Madison",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1733511080000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "67d54246-b053-49c2-91b1-e63e885a355e",
+        "GlobalID": "2d2a663f-f8b9-49cb-b86a-217e30bac113",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 12
+      },
+      "geometry": {
+        "x": -111.50914999999998,
+        "y": 44.86836000000005
       }
     },
     {
