@@ -545,6 +545,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 314,
+        "IncidentName": "Dump 5",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTCRA-241209",
+        "DailyAcres": 62.6,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1733590953000,
+        "DiscoveryAcres": 20,
+        "POOCounty": "Big Horn",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1733599433000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "7ab8e234-a714-47fd-b959-e59f28220b38",
+        "GlobalID": "4815f688-d25e-4f59-b5fd-ee5d47eb2197",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -108.57291699999996,
+        "y": 45.427883000000065
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 19,
         "IncidentName": "Gordon",
         "IncidentTypeCategory": "WF",
@@ -589,51 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 315,
-        "IncidentName": "Dump 5",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTCRA-241209",
-        "DailyAcres": 20,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1733590953000,
-        "DiscoveryAcres": 20,
-        "POOCounty": "Big Horn",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1733593852000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "7ab8e234-a714-47fd-b959-e59f28220b38",
-        "GlobalID": "4815f688-d25e-4f59-b5fd-ee5d47eb2197",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -108.57291699999996,
-        "y": 45.427883000000065
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 224,
+        "OBJECTID": 223,
         "IncidentName": "Stump",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000634",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 278,
+        "OBJECTID": 277,
         "IncidentName": "Deadman Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246737",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 267,
+        "OBJECTID": 266,
         "IncidentName": "Galbreath",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBFA-000141",
