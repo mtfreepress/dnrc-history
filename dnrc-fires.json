@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 54,
+        "OBJECTID": 53,
         "IncidentName": "Meridian",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246666",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 217,
+        "OBJECTID": 216,
         "IncidentName": "Radue",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000635",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 58,
+        "OBJECTID": 57,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 188,
+        "OBJECTID": 187,
         "IncidentName": "Dump 5",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCRA-241209",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 239,
+        "OBJECTID": 238,
         "IncidentName": "Tongue",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000641",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 212,
+        "OBJECTID": 211,
         "IncidentName": "Willow Ridge",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-005184",
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 237,
+        "OBJECTID": 236,
         "IncidentName": "Saddle",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000639",
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 238,
+        "OBJECTID": 237,
         "IncidentName": "WM",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000640",
@@ -668,7 +668,7 @@
         "IrwinID": "4650b51f-5dfb-4022-9ba0-72a8e0181157",
         "GlobalID": "1737a77e-8273-480b-8517-68ddac35770d",
         "ModifiedOnAge": 1,
-        "FireDiscoveryAge": 2
+        "FireDiscoveryAge": 3
       },
       "geometry": {
         "x": -106.65588899999995,
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 254,
+        "OBJECTID": 253,
         "IncidentName": "Rising Moon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-000934",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 92,
+        "OBJECTID": 91,
         "IncidentName": "Yellowstone Island - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000626",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 93,
+        "OBJECTID": 92,
         "IncidentName": "Tongue River Tree - Custer",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000627",
@@ -809,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 233,
+        "OBJECTID": 232,
         "IncidentName": "West Tower",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000637",
@@ -853,7 +853,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 235,
+        "OBJECTID": 234,
         "IncidentName": "East Tower",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000638",
@@ -893,6 +893,50 @@
       "geometry": {
         "x": -106.66130599999997,
         "y": 45.623500000000035
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 310,
+        "IncidentName": "Greenhorn",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTCES-000937",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1733850793000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Lewis and Clark",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1733856051000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "ecf5123c-fa99-43cc-8905-ecced74f96b8",
+        "GlobalID": "4cd59528-b7e8-47a3-810f-74bb01121b62",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.19913299999996,
+        "y": 46.64413300000007
       }
     }
   ]
