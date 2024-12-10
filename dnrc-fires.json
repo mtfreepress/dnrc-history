@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 218,
+        "OBJECTID": 217,
         "IncidentName": "Radue",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000635",
@@ -457,51 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 190,
-        "IncidentName": "Dump 5",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTCRA-241209",
-        "DailyAcres": 62.6,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1733590953000,
-        "DiscoveryAcres": 20,
-        "POOCounty": "Big Horn",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1733599433000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "7ab8e234-a714-47fd-b959-e59f28220b38",
-        "GlobalID": "4815f688-d25e-4f59-b5fd-ee5d47eb2197",
-        "ModifiedOnAge": 3,
-        "FireDiscoveryAge": 3
-      },
-      "geometry": {
-        "x": -108.57291699999996,
-        "y": 45.427883000000065
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 240,
+        "OBJECTID": 239,
         "IncidentName": "Tongue",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000641",
@@ -545,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 213,
+        "OBJECTID": 212,
         "IncidentName": "Willow Ridge",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTHLF-005184",
@@ -589,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 238,
+        "OBJECTID": 237,
         "IncidentName": "Saddle",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000639",
@@ -633,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 239,
+        "OBJECTID": 238,
         "IncidentName": "WM",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000640",
@@ -677,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 255,
+        "OBJECTID": 254,
         "IncidentName": "Rising Moon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-000934",
@@ -809,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 234,
+        "OBJECTID": 233,
         "IncidentName": "West Tower",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000637",
@@ -853,7 +809,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 236,
+        "OBJECTID": 235,
         "IncidentName": "East Tower",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000638",
@@ -893,6 +849,50 @@
       "geometry": {
         "x": -106.66130599999997,
         "y": 45.623500000000035
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 321,
+        "IncidentName": "Indian Saddle",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDF-246754",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1733519767000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Silver Bow",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1733862252000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "318a6d9b-f570-4d81-8d9f-2b6f309afab5",
+        "GlobalID": "51f57bd5-d4c4-4c24-b850-ac3965572b40",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 3
+      },
+      "geometry": {
+        "x": -112.82999999999998,
+        "y": 45.87000000000006
       }
     }
   ]
