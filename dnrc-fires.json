@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 129,
+        "OBJECTID": 124,
         "IncidentName": "Radue",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000635",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 276,
+        "OBJECTID": 269,
         "IncidentName": "Bascom Lane - Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000643",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 192,
+        "OBJECTID": 186,
         "IncidentName": "Smith Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-005191",
@@ -501,7 +501,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 139,
+        "OBJECTID": 270,
+        "IncidentName": "Thebes Lake - Rosebud",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG29-000644",
+        "DailyAcres": 5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1734385500000,
+        "DiscoveryAcres": 5,
+        "POOCounty": "Rosebud",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1734451076000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "8d6eb2aa-08bc-4193-8ae4-9e606168f235",
+        "GlobalID": "b440406d-d4ef-4d78-b637-30a307484edd",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -107.24999999999994,
+        "y": 46.53207800000007
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 133,
         "IncidentName": "Rising Moon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-000934",
@@ -545,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 159,
+        "OBJECTID": 153,
         "IncidentName": "Berne Park",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTFNF-000675",
