@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 134,
+        "OBJECTID": 131,
         "IncidentName": "Radue",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000635",
@@ -359,7 +359,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "86fa4b7c-48ab-4c22-8d2f-04e14bea9d43",
         "GlobalID": "63fca78e-67e9-443b-ba6f-032c7b396ce4",
-        "ModifiedOnAge": 5,
+        "ModifiedOnAge": 6,
         "FireDiscoveryAge": 10
       },
       "geometry": {
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 81,
+        "OBJECTID": 78,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 237,
+        "OBJECTID": 233,
         "IncidentName": "Bascom Lane - Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000643",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 184,
+        "OBJECTID": 180,
         "IncidentName": "Smith Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG05-005191",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 238,
+        "OBJECTID": 234,
         "IncidentName": "Thebes Lake - Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG29-000644",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 141,
+        "OBJECTID": 138,
         "IncidentName": "Rising Moon",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTCES-000934",
@@ -580,55 +580,11 @@
         "IrwinID": "804eb016-89ba-4aac-81d9-0b860cc0548c",
         "GlobalID": "69874a42-b089-4ca6-947d-7d99292597ec",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 9
+        "FireDiscoveryAge": 10
       },
       "geometry": {
         "x": -111.73499999999996,
         "y": 46.643000000000029
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 153,
-        "IncidentName": "Berne Park",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTFNF-000675",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1733806020000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Flathead",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1734371902000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "a608cb57-81ad-445b-a00c-fa838d3dc550",
-        "GlobalID": "5e7a16b4-8c5c-4bfb-8685-6454152c1c00",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 9
-      },
-      "geometry": {
-        "x": -114.10209999999995,
-        "y": 48.385000000000048
       }
     }
   ]
