@@ -1,9 +1,459 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid URL",
-    "details": [
-      "Invalid URL"
-    ]
-  }
+  "objectIdFieldName": "OBJECTID",
+  "uniqueIdField": {
+    "name": "OBJECTID",
+    "isSystemMaintained": true
+  },
+  "globalIdFieldName": "",
+  "geometryType": "esriGeometryPoint",
+  "spatialReference": {
+    "wkid": 4326,
+    "latestWkid": 4326
+  },
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "IncidentName",
+      "type": "esriFieldTypeString",
+      "alias": "Incident Name",
+      "sqlType": "sqlTypeOther",
+      "length": 50,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "IncidentTypeCategory",
+      "type": "esriFieldTypeString",
+      "alias": "Incident Type Category",
+      "sqlType": "sqlTypeOther",
+      "length": 50,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "UniqueFireIdentifier",
+      "type": "esriFieldTypeString",
+      "alias": "Unique Fire Identifier",
+      "sqlType": "sqlTypeOther",
+      "length": 22,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "DailyAcres",
+      "type": "esriFieldTypeDouble",
+      "alias": "Daily Acres",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "CalculatedAcres",
+      "type": "esriFieldTypeDouble",
+      "alias": "Calculated Acres",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "PercentContained",
+      "type": "esriFieldTypeDouble",
+      "alias": "Percent Contained",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "ICS209ReportDateTime",
+      "type": "esriFieldTypeDate",
+      "alias": "ICS209 Report Date Time",
+      "sqlType": "sqlTypeOther",
+      "length": 8,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "FireDiscoveryDateTime",
+      "type": "esriFieldTypeDate",
+      "alias": "Fire Discovery Date Time",
+      "sqlType": "sqlTypeOther",
+      "length": 8,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "DiscoveryAcres",
+      "type": "esriFieldTypeDouble",
+      "alias": "Discovery Acres",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "POOCounty",
+      "type": "esriFieldTypeString",
+      "alias": "Point of Orgin County",
+      "sqlType": "sqlTypeOther",
+      "length": 100,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "POOState",
+      "type": "esriFieldTypeString",
+      "alias": "Point of Orgin State",
+      "sqlType": "sqlTypeOther",
+      "length": 6,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "FireCause",
+      "type": "esriFieldTypeString",
+      "alias": "Cause",
+      "sqlType": "sqlTypeOther",
+      "length": 15,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "FireCauseGeneral",
+      "type": "esriFieldTypeString",
+      "alias": "Cause General",
+      "sqlType": "sqlTypeOther",
+      "length": 100,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "GACC",
+      "type": "esriFieldTypeString",
+      "alias": "Geographic Area Coordination Center",
+      "sqlType": "sqlTypeOther",
+      "length": 50,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "TotalIncidentPersonnel",
+      "type": "esriFieldTypeSmallInteger",
+      "alias": "Total Incident Personnel",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "IncidentManagementOrganization",
+      "type": "esriFieldTypeString",
+      "alias": "Incident Mgmt Organization",
+      "sqlType": "sqlTypeOther",
+      "length": 255,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "FireMgmtComplexity",
+      "type": "esriFieldTypeString",
+      "alias": "Mgmt Complexity",
+      "sqlType": "sqlTypeOther",
+      "length": 25,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "ResidencesDestroyed",
+      "type": "esriFieldTypeInteger",
+      "alias": "Residences Destroyed",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "OtherStructuresDestroyed",
+      "type": "esriFieldTypeInteger",
+      "alias": "Other Structures Destroyed",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "Injuries",
+      "type": "esriFieldTypeSmallInteger",
+      "alias": "Injuries",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "Fatalities",
+      "type": "esriFieldTypeSmallInteger",
+      "alias": "Fatalities",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "PredominantFuelGroup",
+      "type": "esriFieldTypeString",
+      "alias": "Predominant Fuel Group",
+      "sqlType": "sqlTypeOther",
+      "length": 100,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "PredominantFuelModel",
+      "type": "esriFieldTypeString",
+      "alias": "Predominant Fuel Model",
+      "sqlType": "sqlTypeOther",
+      "length": 50,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "PrimaryFuelModel",
+      "type": "esriFieldTypeString",
+      "alias": "Primary Fuel Model",
+      "sqlType": "sqlTypeOther",
+      "length": 30,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "ContainmentDateTime",
+      "type": "esriFieldTypeDate",
+      "alias": "Containment Date Time",
+      "sqlType": "sqlTypeOther",
+      "length": 8,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "ControlDateTime",
+      "type": "esriFieldTypeDate",
+      "alias": "Control Date Time",
+      "sqlType": "sqlTypeOther",
+      "length": 8,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "FinalAcres",
+      "type": "esriFieldTypeDouble",
+      "alias": "Final Acres",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "IsValid",
+      "type": "esriFieldTypeInteger",
+      "alias": "Is Valid",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "FireOutDateTime",
+      "type": "esriFieldTypeDate",
+      "alias": "Fire Out Date Time",
+      "sqlType": "sqlTypeOther",
+      "length": 8,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "ModifiedOnDateTime",
+      "type": "esriFieldTypeDate",
+      "alias": "Modified On Date Time",
+      "sqlType": "sqlTypeOther",
+      "length": 8,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "IncidentTypeKind",
+      "type": "esriFieldTypeString",
+      "alias": "Incident Type Kind",
+      "sqlType": "sqlTypeOther",
+      "length": 2,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "IrwinID",
+      "type": "esriFieldTypeString",
+      "alias": "IRWIN ID",
+      "sqlType": "sqlTypeOther",
+      "length": 40,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "GlobalID",
+      "type": "esriFieldTypeString",
+      "alias": "Global ID",
+      "sqlType": "sqlTypeOther",
+      "length": 40,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "ModifiedOnAge",
+      "type": "esriFieldTypeSmallInteger",
+      "alias": "Days Since Modified On Date",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "FireDiscoveryAge",
+      "type": "esriFieldTypeSmallInteger",
+      "alias": "Days Since Fire Discovery Date",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    }
+  ],
+  "features": [
+    {
+      "attributes": {
+        "OBJECTID": 67,
+        "IncidentName": "Radue",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTLG14-000635",
+        "DailyAcres": 851.9,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1733693559000,
+        "DiscoveryAcres": 300,
+        "POOCounty": "Custer",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1734114149000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "86fa4b7c-48ab-4c22-8d2f-04e14bea9d43",
+        "GlobalID": "63fca78e-67e9-443b-ba6f-032c7b396ce4",
+        "ModifiedOnAge": 11,
+        "FireDiscoveryAge": 16
+      },
+      "geometry": {
+        "x": -105.87448299999994,
+        "y": 46.099750000000029
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 43,
+        "IncidentName": "Rainbow",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBDF-246679",
+        "DailyAcres": 172,
+        "CalculatedAcres": null,
+        "PercentContained": 100,
+        "ICS209ReportDateTime": 1733075797000,
+        "FireDiscoveryDateTime": 1729012565000,
+        "DiscoveryAcres": 5,
+        "POOCounty": "Granite",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": 0,
+        "IncidentManagementOrganization": "Type 4 IC",
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": 0,
+        "OtherStructuresDestroyed": 0,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": "Timber (Litter and Understory)",
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1734378298000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "67b0ca3d-1a63-4e63-927e-cf9e8cbe0068",
+        "GlobalID": "b14bbeaa-e413-4c68-be2e-238464a31500",
+        "ModifiedOnAge": 8,
+        "FireDiscoveryAge": 71
+      },
+      "geometry": {
+        "x": -113.33916699999997,
+        "y": 46.039167000000077
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 152,
+        "IncidentName": "Antelope Loop",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTNCA-000645",
+        "DailyAcres": 0.2,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1734988845000,
+        "DiscoveryAcres": 0.2,
+        "POOCounty": "Rosebud",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1734989101000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "125590b7-e40f-4f82-9bd5-822ef67b4812",
+        "GlobalID": "2bf5d108-236c-44d7-a884-b95d0fca1a6c",
+        "ModifiedOnAge": 1,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -106.66513899999995,
+        "y": 45.608083000000079
+      }
+    }
+  ]
 }
