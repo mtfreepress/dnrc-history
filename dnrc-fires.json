@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 41,
+        "OBJECTID": 39,
         "IncidentName": "Radue",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000635",
@@ -360,7 +360,7 @@
         "IrwinID": "86fa4b7c-48ab-4c22-8d2f-04e14bea9d43",
         "GlobalID": "63fca78e-67e9-443b-ba6f-032c7b396ce4",
         "ModifiedOnAge": 13,
-        "FireDiscoveryAge": 17
+        "FireDiscoveryAge": 18
       },
       "geometry": {
         "x": -105.87448299999994,
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 24,
+        "OBJECTID": 22,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -409,50 +409,6 @@
       "geometry": {
         "x": -113.33916699999997,
         "y": 46.039167000000077
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 93,
-        "IncidentName": "Antelope Loop",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2024-MTNCA-000645",
-        "DailyAcres": 0.2,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1734988845000,
-        "DiscoveryAcres": 0.2,
-        "POOCounty": "Rosebud",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1734989101000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "125590b7-e40f-4f82-9bd5-822ef67b4812",
-        "GlobalID": "2bf5d108-236c-44d7-a884-b95d0fca1a6c",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 2
-      },
-      "geometry": {
-        "x": -106.66513899999995,
-        "y": 45.608083000000079
       }
     }
   ]
