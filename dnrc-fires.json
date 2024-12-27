@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 38,
+        "OBJECTID": 37,
         "IncidentName": "Radue",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTLG14-000635",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 23,
+        "OBJECTID": 22,
         "IncidentName": "Rainbow",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBDF-246679",
@@ -413,7 +413,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 41,
+        "OBJECTID": 42,
+        "IncidentName": "Tongue",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTNCA-000641",
+        "DailyAcres": 15,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1733611380000,
+        "DiscoveryAcres": 15,
+        "POOCounty": "Rosebud",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1735321829000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "bec9f896-2d61-4b7e-bd2c-a42395ffcad9",
+        "GlobalID": "d37737a0-6c9f-4b73-955e-abf2fb042bf1",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 19
+      },
+      "geometry": {
+        "x": -106.29758299999997,
+        "y": 45.59730600000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 40,
         "IncidentName": "Saddle",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000639",
@@ -457,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 42,
+        "OBJECTID": 41,
         "IncidentName": "WM",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000640",
@@ -501,7 +545,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 37,
+        "OBJECTID": 86,
+        "IncidentName": "Antelope Loop",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTNCA-000645",
+        "DailyAcres": 0.2,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1734988845000,
+        "DiscoveryAcres": 0.2,
+        "POOCounty": "Rosebud",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1735321443000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "125590b7-e40f-4f82-9bd5-822ef67b4812",
+        "GlobalID": "2bf5d108-236c-44d7-a884-b95d0fca1a6c",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 3
+      },
+      "geometry": {
+        "x": -106.66513899999995,
+        "y": 45.608083000000079
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 36,
         "IncidentName": "Stump",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000634",
@@ -545,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 39,
+        "OBJECTID": 38,
         "IncidentName": "West Tower",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000637",
@@ -589,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 40,
+        "OBJECTID": 39,
         "IncidentName": "East Tower",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000638",
