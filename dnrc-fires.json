@@ -369,6 +369,50 @@
     },
     {
       "attributes": {
+        "OBJECTID": 118,
+        "IncidentName": "Elk Basin",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTBID-241223",
+        "DailyAcres": 20,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1735507983000,
+        "DiscoveryAcres": 20,
+        "POOCounty": "Carbon",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1735508455000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "2320ff47-1eaa-48bb-9359-ad4429038ce4",
+        "GlobalID": "9f241ba6-e64b-42a5-af78-d901b347f442",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -108.90208799999999,
+        "y": 45.034895000000063
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 52,
         "IncidentName": "Tongue",
         "IncidentTypeCategory": "WF",
@@ -536,7 +580,7 @@
         "IrwinID": "125590b7-e40f-4f82-9bd5-822ef67b4812",
         "GlobalID": "2bf5d108-236c-44d7-a884-b95d0fca1a6c",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 5
+        "FireDiscoveryAge": 6
       },
       "geometry": {
         "x": -106.66513899999995,
