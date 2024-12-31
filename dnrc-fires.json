@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 62,
+        "OBJECTID": 63,
         "IncidentName": "Tongue",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTNCA-000641",
@@ -409,6 +409,50 @@
       "geometry": {
         "x": -106.29758299999997,
         "y": 45.59730600000006
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 24,
+        "IncidentName": "Longroach",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2024-MTNCA-000370",
+        "DailyAcres": 5.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1722450120000,
+        "DiscoveryAcres": 1,
+        "POOCounty": "Rosebud",
+        "POOState": "US-MT",
+        "FireCause": "Natural",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1735664350000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "77616a0a-535c-47b3-8bca-ac18274f4fa5",
+        "GlobalID": "becdf100-83b0-4a38-98ee-9e0b45bb3fe8",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 152
+      },
+      "geometry": {
+        "x": -106.48349999999999,
+        "y": 45.468000000000075
       }
     }
   ]
