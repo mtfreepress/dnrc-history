@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 174,
+        "OBJECTID": 173,
         "IncidentName": "Christmas Ridge",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2024-MTBRF-024486",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 238,
+        "OBJECTID": 237,
         "IncidentName": "LITTLE FIRE",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTBFA-000001",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 285,
+        "OBJECTID": 284,
         "IncidentName": "CARLSON",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTBFA-000002",
@@ -453,6 +453,50 @@
       "geometry": {
         "x": -112.89249999999998,
         "y": 48.416388900000072
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 311,
+        "IncidentName": "CONNELLY",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2025-MTBFA-000003",
+        "DailyAcres": null,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1737174600000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Glacier",
+        "POOState": "US-MT",
+        "FireCause": null,
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1737227654000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "cec62358-c862-437b-b1ec-4928cb272f3e",
+        "GlobalID": "b0d593bb-6fb2-47b3-9504-26b7459c75e4",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -112.56499999999994,
+        "y": 48.66250000000008
       }
     }
   ]
