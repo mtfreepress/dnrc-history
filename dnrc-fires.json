@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 315,
+        "OBJECTID": 314,
         "IncidentName": "Wagon Wheel",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG36-000006",
@@ -365,50 +365,6 @@
       "geometry": {
         "x": -110.04563699999994,
         "y": 46.869993000000079
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 197,
-        "IncidentName": "12 Mile - Custer",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2025-MTLG14-000015",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1738116000000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Custer",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1738176626000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "78347164-3a2e-446c-9591-75e3efe2e260",
-        "GlobalID": "30307121-1c97-4fe4-bb3a-96fc57cf6e02",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 3
-      },
-      "geometry": {
-        "x": -105.75156999999996,
-        "y": 46.248340000000042
       }
     }
   ]
