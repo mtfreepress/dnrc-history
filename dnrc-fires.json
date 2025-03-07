@@ -325,7 +325,51 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 551,
+        "OBJECTID": 576,
+        "IncidentName": "Hill Road",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2025-MTLG51-000068",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1740942600000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Jefferson",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1741379022000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "acbcfaa1-2073-425d-afac-1decbc5ff625",
+        "GlobalID": "b51be5b4-d6f1-4499-9787-781bc3d9b4b4",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 5
+      },
+      "geometry": {
+        "x": -112.06870099999998,
+        "y": 46.327858000000049
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 545,
         "IncidentName": "POKA",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTBFA-000004",
