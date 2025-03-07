@@ -325,7 +325,51 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 577,
+        "OBJECTID": 585,
+        "IncidentName": "Cartersville - Rosebud",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2025-MTLG29-000025",
+        "DailyAcres": 2.2,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1741381200000,
+        "DiscoveryAcres": 2.2,
+        "POOCounty": "Rosebud",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1741384856000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "5f7e652b-176a-4be0-a852-88cc6716bbcc",
+        "GlobalID": "8097222e-5823-414e-b93f-49de419ed64f",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -106.43736699999994,
+        "y": 46.299250000000029
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 573,
         "IncidentName": "Hill Road",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG51-000068",
@@ -369,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 546,
+        "OBJECTID": 542,
         "IncidentName": "POKA",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTBFA-000004",
