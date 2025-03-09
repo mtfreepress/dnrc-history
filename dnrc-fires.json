@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 465,
+        "OBJECTID": 457,
         "IncidentName": "Cartersville - Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG29-000025",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 456,
+        "OBJECTID": 448,
         "IncidentName": "Hill Road",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG51-000068",
@@ -409,50 +409,6 @@
       "geometry": {
         "x": -112.06870099999998,
         "y": 46.327858000000049
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 425,
-        "IncidentName": "POKA",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2025-MTBFA-000004",
-        "DailyAcres": null,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1741210200000,
-        "DiscoveryAcres": null,
-        "POOCounty": "Glacier",
-        "POOState": "US-MT",
-        "FireCause": null,
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1741301150000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "23e3ff54-4760-4011-b366-8dfeaad9d528",
-        "GlobalID": "109a5ae8-5d50-4f5f-a49a-0057eb0539d1",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 4
-      },
-      "geometry": {
-        "x": -113.06749999999994,
-        "y": 48.539444400000036
       }
     }
   ]
