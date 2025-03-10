@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 613,
+        "OBJECTID": 610,
         "IncidentName": "Meadowlark",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG05-000073",
@@ -355,7 +355,7 @@
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1741628409000,
+        "ModifiedOnDateTime": 1741628549000,
         "IncidentTypeKind": "FI",
         "IrwinID": "883c8316-a460-41e4-a2ec-313ded71aaaa",
         "GlobalID": "69bcfc1c-0e4d-484b-bbb1-07d732902cff",
@@ -541,6 +541,50 @@
       "geometry": {
         "x": -108.55833299999995,
         "y": 45.371000000000038
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 617,
+        "IncidentName": "Ohio Gulch",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2025-MTCES-000072",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1741541296000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Jefferson",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1741629363000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "2c33ddd5-d9ca-455b-bd7e-3dbf8aac4147",
+        "GlobalID": "5b384466-0f9b-4a52-8ff8-f35239a8e1e4",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -112.00960599999996,
+        "y": 46.483029000000045
       }
     }
   ]
