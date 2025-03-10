@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 590,
+        "OBJECTID": 585,
         "IncidentName": "Meadowlark",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG05-000073",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 609,
+        "OBJECTID": 604,
         "IncidentName": "Morony",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG02-000070",
@@ -404,7 +404,7 @@
         "IrwinID": "005db37a-c4b3-45f7-9617-761a46281feb",
         "GlobalID": "21d22a3d-3baf-4927-8db8-ccda6ed0e3ba",
         "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 1
+        "FireDiscoveryAge": 2
       },
       "geometry": {
         "x": -111.15173899999996,
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 608,
+        "OBJECTID": 603,
         "IncidentName": "21",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG05-000071",
@@ -457,51 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 419,
-        "IncidentName": "Cartersville - Rosebud",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2025-MTLG29-000025",
-        "DailyAcres": 2.2,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1741381200000,
-        "DiscoveryAcres": 2.2,
-        "POOCounty": "Rosebud",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1741384856000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "5f7e652b-176a-4be0-a852-88cc6716bbcc",
-        "GlobalID": "8097222e-5823-414e-b93f-49de419ed64f",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 3
-      },
-      "geometry": {
-        "x": -106.43736699999994,
-        "y": 46.299250000000029
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 561,
+        "OBJECTID": 556,
         "IncidentName": "Becker - McCone",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG41-000026",
@@ -545,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 413,
+        "OBJECTID": 411,
         "IncidentName": "Hill Road",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG51-000068",
@@ -589,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 596,
+        "OBJECTID": 591,
         "IncidentName": "Ohio Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTCES-000072",
@@ -629,6 +585,94 @@
       "geometry": {
         "x": -112.00960599999996,
         "y": 46.483029000000045
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 652,
+        "IncidentName": "EVANS",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2025-MTBFA-000005",
+        "DailyAcres": null,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1741383000000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Glacier",
+        "POOState": "US-MT",
+        "FireCause": null,
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1741644620000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "4988ac00-cb98-4cb8-8cf8-dce0982358f2",
+        "GlobalID": "a396f9f9-d7ce-417a-9e02-b5bbbc057665",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 3
+      },
+      "geometry": {
+        "x": -113.09388889999997,
+        "y": 48.58305560000008
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 654,
+        "IncidentName": "RIVER BOTTOM",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2025-MTBFA-000006",
+        "DailyAcres": null,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1741557600000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Glacier",
+        "POOState": "US-MT",
+        "FireCause": null,
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1741644864000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "1b6dce19-251c-47f5-90de-0007cf4d0697",
+        "GlobalID": "04fd835b-ea80-4f01-9e71-290da0b3ba64",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -112.85222219999997,
+        "y": 48.439166700000044
       }
     }
   ]
