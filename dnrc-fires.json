@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 454,
+        "OBJECTID": 452,
         "IncidentName": "Cartersville - Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG29-000025",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 445,
+        "OBJECTID": 443,
         "IncidentName": "Hill Road",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG51-000068",
@@ -409,6 +409,50 @@
       "geometry": {
         "x": -112.06870099999998,
         "y": 46.327858000000049
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 551,
+        "IncidentName": "Pryor Creek",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2025-MTCRA-250052",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1741552860000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Big Horn",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1741567419000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "dd16000a-e3ee-4148-b0bc-ae950edac8ed",
+        "GlobalID": "8c3557d9-2686-4664-a9d8-ca8d0359e712",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -108.55833299999995,
+        "y": 45.371000000000038
       }
     }
   ]
