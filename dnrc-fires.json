@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 441,
+        "OBJECTID": 440,
         "IncidentName": "Cartersville - Rosebud",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG29-000025",
@@ -369,7 +369,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 542,
+        "OBJECTID": 592,
+        "IncidentName": "Becker - McCone",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2025-MTLG41-000026",
+        "DailyAcres": 1.6,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1741467600000,
+        "DiscoveryAcres": 1.6,
+        "POOCounty": "McCone",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1741616133000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "5b2f3293-bff4-44ab-8b8c-232f3b10bdd3",
+        "GlobalID": "daa0386c-2498-4815-ad9c-58b210351cff",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 1
+      },
+      "geometry": {
+        "x": -105.71175999999997,
+        "y": 47.418220000000076
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 539,
         "IncidentName": "Powerline",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTNWS-250055",
@@ -413,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 432,
+        "OBJECTID": 431,
         "IncidentName": "Hill Road",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG51-000068",
@@ -457,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 536,
+        "OBJECTID": 533,
         "IncidentName": "Pryor Creek",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTCRA-250052",
