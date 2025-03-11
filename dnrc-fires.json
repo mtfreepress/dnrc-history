@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 554,
+        "OBJECTID": 550,
         "IncidentName": "Meadowlark",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG05-000073",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 572,
+        "OBJECTID": 568,
         "IncidentName": "Morony",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG02-000070",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 571,
+        "OBJECTID": 567,
         "IncidentName": "21",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG05-000071",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 526,
+        "OBJECTID": 522,
         "IncidentName": "Becker - McCone",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG41-000026",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 393,
+        "OBJECTID": 389,
         "IncidentName": "Hill Road",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG51-000068",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 560,
+        "OBJECTID": 556,
         "IncidentName": "Ohio Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTCES-000072",
@@ -589,7 +589,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 617,
+        "OBJECTID": 671,
+        "IncidentName": "Pump House Road - Prairie",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2025-MTLG45-000034",
+        "DailyAcres": 0.1,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1741636800000,
+        "DiscoveryAcres": 0.1,
+        "POOCounty": "Prairie",
+        "POOState": "US-MT",
+        "FireCause": "Human",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1741705600000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "42064815-4ae3-42a2-b667-3317925c9fd9",
+        "GlobalID": "d3b70a0f-256f-4226-8f13-92b3e1db1725",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -105.35520999999994,
+        "y": 46.801290000000051
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 613,
         "IncidentName": "EVANS",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTBFA-000005",
@@ -633,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 619,
+        "OBJECTID": 615,
         "IncidentName": "RIVER BOTTOM",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTBFA-000006",
