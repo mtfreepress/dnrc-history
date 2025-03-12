@@ -325,23 +325,23 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 771,
+        "OBJECTID": 772,
         "IncidentName": "Stacey",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG09-000038",
         "DailyAcres": 423.9,
         "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
+        "PercentContained": 100,
+        "ICS209ReportDateTime": 1741794581000,
         "FireDiscoveryDateTime": 1741730400000,
         "DiscoveryAcres": 200,
         "POOCounty": "Powder River",
         "POOState": "US-MT",
-        "FireCause": "Undetermined",
+        "FireCause": "Human",
         "FireCauseGeneral": null,
         "GACC": "NRCC",
         "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
+        "IncidentManagementOrganization": "Type 4 IC",
         "FireMgmtComplexity": null,
         "ResidencesDestroyed": null,
         "OtherStructuresDestroyed": null,
@@ -349,13 +349,13 @@
         "Fatalities": null,
         "PredominantFuelGroup": null,
         "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
+        "PrimaryFuelModel": "Timber (Grass and Understory)",
+        "ContainmentDateTime": 1741748400000,
         "ControlDateTime": null,
         "FinalAcres": null,
         "IsValid": 1,
         "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1741793948000,
+        "ModifiedOnDateTime": 1741794581000,
         "IncidentTypeKind": "FI",
         "IrwinID": "2259a4ba-677c-40f9-bfb8-b2008ed32c29",
         "GlobalID": "d1fa61f5-5089-4393-a7b7-e5282631cb52",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 505,
+        "OBJECTID": 506,
         "IncidentName": "Meadowlark",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG05-000073",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 522,
+        "OBJECTID": 523,
         "IncidentName": "Morony",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG02-000070",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 521,
+        "OBJECTID": 522,
         "IncidentName": "21",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG05-000071",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 478,
+        "OBJECTID": 479,
         "IncidentName": "Becker - McCone",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG41-000026",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 726,
+        "OBJECTID": 727,
         "IncidentName": "Cottonwood",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTCRA-250055",
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 367,
+        "OBJECTID": 368,
         "IncidentName": "Hill Road",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG51-000068",
@@ -633,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 511,
+        "OBJECTID": 512,
         "IncidentName": "Ohio Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTCES-000072",
@@ -677,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 610,
+        "OBJECTID": 611,
         "IncidentName": "Pump House Road - Prairie",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG45-000034",
@@ -721,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 561,
+        "OBJECTID": 562,
         "IncidentName": "EVANS",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTBFA-000005",
@@ -765,7 +765,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 563,
+        "OBJECTID": 564,
         "IncidentName": "RIVER BOTTOM",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTBFA-000006",
