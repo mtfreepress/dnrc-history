@@ -325,6 +325,50 @@
   "features": [
     {
       "attributes": {
+        "OBJECTID": 771,
+        "IncidentName": "Stacey",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2025-MTLG09-000038",
+        "DailyAcres": 423.9,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1741730400000,
+        "DiscoveryAcres": 200,
+        "POOCounty": "Powder River",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1741793948000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "2259a4ba-677c-40f9-bfb8-b2008ed32c29",
+        "GlobalID": "d1fa61f5-5089-4393-a7b7-e5282631cb52",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -105.92203299999994,
+        "y": 45.712533000000064
+      }
+    },
+    {
+      "attributes": {
         "OBJECTID": 505,
         "IncidentName": "Meadowlark",
         "IncidentTypeCategory": "WF",
@@ -365,50 +409,6 @@
       "geometry": {
         "x": -112.45507899999996,
         "y": 47.593067000000076
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 772,
-        "IncidentName": "Stacey",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2025-MTLG09-000038",
-        "DailyAcres": 200,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1741730400000,
-        "DiscoveryAcres": 200,
-        "POOCounty": "Powder River",
-        "POOState": "US-MT",
-        "FireCause": "Undetermined",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1741790029000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "2259a4ba-677c-40f9-bfb8-b2008ed32c29",
-        "GlobalID": "d1fa61f5-5089-4393-a7b7-e5282631cb52",
-        "ModifiedOnAge": 0,
-        "FireDiscoveryAge": 0
-      },
-      "geometry": {
-        "x": -105.92203299999994,
-        "y": 45.712533000000064
       }
     },
     {
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 727,
+        "OBJECTID": 726,
         "IncidentName": "Cottonwood",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTCRA-250055",
