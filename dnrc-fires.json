@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 638,
+        "OBJECTID": 632,
         "IncidentName": "Stacey",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG09-000038",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 430,
+        "OBJECTID": 427,
         "IncidentName": "Morony",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG02-000070",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 837,
+        "OBJECTID": 831,
         "IncidentName": "Wise Ln",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG03-250069",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 429,
+        "OBJECTID": 426,
         "IncidentName": "21",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG05-000071",
@@ -501,7 +501,51 @@
     },
     {
       "attributes": {
-        "OBJECTID": 321,
+        "OBJECTID": 846,
+        "IncidentName": "River Road 1",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2025-MTCRA-250070",
+        "DailyAcres": 1.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1741899827000,
+        "DiscoveryAcres": 1.5,
+        "POOCounty": "Big Horn",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1741901938000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "1297ce66-b5ec-450a-9b64-da7ea2eb422a",
+        "GlobalID": "63c78ac8-1785-48d0-a559-1e09c1230670",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -107.45546699999994,
+        "y": 45.636633000000074
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 318,
         "IncidentName": "Hill Road",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG51-000068",
@@ -545,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 420,
+        "OBJECTID": 417,
         "IncidentName": "Ohio Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTCES-000072",
@@ -589,7 +633,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 508,
+        "OBJECTID": 502,
         "IncidentName": "Pump House Road - Prairie",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG45-000034",
@@ -633,7 +677,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 460,
+        "OBJECTID": 454,
         "IncidentName": "EVANS",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTBFA-000005",
@@ -668,7 +712,7 @@
         "IrwinID": "4988ac00-cb98-4cb8-8cf8-dce0982358f2",
         "GlobalID": "a396f9f9-d7ce-417a-9e02-b5bbbc057665",
         "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 5
+        "FireDiscoveryAge": 6
       },
       "geometry": {
         "x": -113.09388889999997,
@@ -677,7 +721,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 462,
+        "OBJECTID": 456,
         "IncidentName": "RIVER BOTTOM",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTBFA-000006",
