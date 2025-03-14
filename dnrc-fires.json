@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 596,
+        "OBJECTID": 593,
         "IncidentName": "Stacey",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG09-000038",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 418,
+        "OBJECTID": 416,
         "IncidentName": "Morony",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG02-000070",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 792,
+        "OBJECTID": 789,
         "IncidentName": "Wise Ln",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG03-250069",
@@ -457,7 +457,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 417,
+        "OBJECTID": 415,
         "IncidentName": "21",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG05-000071",
@@ -501,7 +501,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 802,
+        "OBJECTID": 799,
         "IncidentName": "River Road 1",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTCRA-250070",
@@ -545,7 +545,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 308,
+        "OBJECTID": 306,
         "IncidentName": "Hill Road",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG51-000068",
@@ -579,7 +579,7 @@
         "IncidentTypeKind": "FI",
         "IrwinID": "acbcfaa1-2073-425d-afac-1decbc5ff625",
         "GlobalID": "b51be5b4-d6f1-4499-9787-781bc3d9b4b4",
-        "ModifiedOnAge": 1,
+        "ModifiedOnAge": 2,
         "FireDiscoveryAge": 11
       },
       "geometry": {
@@ -589,7 +589,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 408,
+        "OBJECTID": 406,
         "IncidentName": "Ohio Gulch",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTCES-000072",
@@ -629,50 +629,6 @@
       "geometry": {
         "x": -112.00960599999996,
         "y": 46.483029000000045
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 468,
-        "IncidentName": "Pump House Road - Prairie",
-        "IncidentTypeCategory": "WF",
-        "UniqueFireIdentifier": "2025-MTLG45-000034",
-        "DailyAcres": 0.1,
-        "CalculatedAcres": null,
-        "PercentContained": null,
-        "ICS209ReportDateTime": null,
-        "FireDiscoveryDateTime": 1741636800000,
-        "DiscoveryAcres": 0.1,
-        "POOCounty": "Prairie",
-        "POOState": "US-MT",
-        "FireCause": "Human",
-        "FireCauseGeneral": null,
-        "GACC": "NRCC",
-        "TotalIncidentPersonnel": null,
-        "IncidentManagementOrganization": null,
-        "FireMgmtComplexity": null,
-        "ResidencesDestroyed": null,
-        "OtherStructuresDestroyed": null,
-        "Injuries": null,
-        "Fatalities": null,
-        "PredominantFuelGroup": null,
-        "PredominantFuelModel": null,
-        "PrimaryFuelModel": null,
-        "ContainmentDateTime": null,
-        "ControlDateTime": null,
-        "FinalAcres": null,
-        "IsValid": 1,
-        "FireOutDateTime": null,
-        "ModifiedOnDateTime": 1741705600000,
-        "IncidentTypeKind": "FI",
-        "IrwinID": "42064815-4ae3-42a2-b667-3317925c9fd9",
-        "GlobalID": "d3b70a0f-256f-4226-8f13-92b3e1db1725",
-        "ModifiedOnAge": 2,
-        "FireDiscoveryAge": 3
-      },
-      "geometry": {
-        "x": -105.35520999999994,
-        "y": 46.801290000000051
       }
     }
   ]
