@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 439,
+        "OBJECTID": 435,
         "IncidentName": "Stacey",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG09-000038",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 326,
+        "OBJECTID": 322,
         "IncidentName": "Morony",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG02-000070",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 582,
+        "OBJECTID": 577,
         "IncidentName": "Wise Ln",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG03-250069",
@@ -453,6 +453,50 @@
       "geometry": {
         "x": -108.61262499999998,
         "y": 45.715064000000041
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 811,
+        "IncidentName": "Lodge Grass Dump 72",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2025-MTLG22-250072",
+        "DailyAcres": 4.5,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1742081895000,
+        "DiscoveryAcres": 4.5,
+        "POOCounty": "Big Horn",
+        "POOState": "US-MT",
+        "FireCause": "Undetermined",
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1742090020000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "da20440e-27ba-460d-87bc-b55167f7a50a",
+        "GlobalID": "eec4215a-235b-49c6-8d83-ad1c2466d24e",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -107.35756699999996,
+        "y": 45.314550000000054
       }
     }
   ]
