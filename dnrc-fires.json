@@ -325,7 +325,7 @@
   "features": [
     {
       "attributes": {
-        "OBJECTID": 395,
+        "OBJECTID": 394,
         "IncidentName": "Stacey",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG09-000038",
@@ -369,7 +369,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 289,
+        "OBJECTID": 288,
         "IncidentName": "Morony",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG02-000070",
@@ -413,7 +413,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 629,
+        "OBJECTID": 627,
         "IncidentName": "Lodge Grass Dump 72",
         "IncidentTypeCategory": "WF",
         "UniqueFireIdentifier": "2025-MTLG22-250072",
@@ -453,6 +453,50 @@
       "geometry": {
         "x": -107.35756699999996,
         "y": 45.314550000000054
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 767,
+        "IncidentName": "RAVALLI",
+        "IncidentTypeCategory": "WF",
+        "UniqueFireIdentifier": "2025-MTFHA-000027",
+        "DailyAcres": null,
+        "CalculatedAcres": null,
+        "PercentContained": null,
+        "ICS209ReportDateTime": null,
+        "FireDiscoveryDateTime": 1742239740000,
+        "DiscoveryAcres": null,
+        "POOCounty": "Lake",
+        "POOState": "US-MT",
+        "FireCause": null,
+        "FireCauseGeneral": null,
+        "GACC": "NRCC",
+        "TotalIncidentPersonnel": null,
+        "IncidentManagementOrganization": null,
+        "FireMgmtComplexity": null,
+        "ResidencesDestroyed": null,
+        "OtherStructuresDestroyed": null,
+        "Injuries": null,
+        "Fatalities": null,
+        "PredominantFuelGroup": null,
+        "PredominantFuelModel": null,
+        "PrimaryFuelModel": null,
+        "ContainmentDateTime": null,
+        "ControlDateTime": null,
+        "FinalAcres": null,
+        "IsValid": 1,
+        "FireOutDateTime": null,
+        "ModifiedOnDateTime": 1742247981000,
+        "IncidentTypeKind": "FI",
+        "IrwinID": "4ca6960b-6bfe-49b9-98c9-362b7bf168f4",
+        "GlobalID": "fa73f976-c910-4fff-a367-7b0d938b1ce3",
+        "ModifiedOnAge": 0,
+        "FireDiscoveryAge": 0
+      },
+      "geometry": {
+        "x": -114.17861110999996,
+        "y": 47.276111110000045
       }
     }
   ]
